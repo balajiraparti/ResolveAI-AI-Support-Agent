@@ -1,0 +1,113 @@
+# ==============================
+# Environment & Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# IDE / Editors
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# OS Files
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Logs
+# ==============================
+*.log
+logs/
+
+# ==============================
+# Data
+# ==============================
+data/raw/
+data/processed/
+data/interim/
+
+# Large datasets
+*.csv
+*.parquet
+*.jsonl
+*.feather
+*.pkl
+*.pickle
+
+# Keep small metadata/config files if needed
+!data/**/.gitkeep
+
+# ==============================
+# Vector Databases
+# ==============================
+chroma/
+./chroma/
+data/chroma/
+.chromadb/
+
+# ==============================
+# ML / Embedding Artifacts
+# ==============================
+models/
+checkpoints/
+artifacts/
+
+# ==============================
+# Evaluation Outputs
+# ==============================
+evaluation/results/
+evaluation/reports/
+reports/generated/
+
+# ==============================
+# Temporary Files
+# ==============================
+tmp/
+temp/
+.cache/
+*.tmp
+
+# ==============================
+# Build / Distribution
+# ==============================
+build/
+dist/
+*.egg-info/
+
+# ==============================
+# Testing
+# ==============================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==============================
+# Ruff / MyPy
+# ==============================
+.mypy_cache/
+.ruff_cache/
