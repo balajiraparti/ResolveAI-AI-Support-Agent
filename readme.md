@@ -388,52 +388,85 @@ The `experiments/` directory contains Jupyter notebooks for data cleaning and pr
 
 ### Data Cleaning Process
 
-**Raw Data Sources**:
-- Twitter API exports (Spotify Cares conversations)
-- Customer tweets and brand responses
-- Multi-turn conversation threads
+**Raw Data Source**:
+- Twitter Customer Service (TWCS) Dataset with ~100K records
+- Original structure: `tweet_id`, `author_id`, `inbound`, `created_at`, `text`, `response_tweet_id`, `in_response_to_tweet_id`
 
-**Cleaning Steps** (in `experiment.ipynb`):
+### Data Quality Issues Identified & Fixed
 
-1. **Deduplication**: Remove duplicate conversations and responses
-2. **Temporal Ordering**: Sort exchanges by timestamp, validate order
-3. **Text Normalization**:
-   - Lowercase conversion
-   - Whitespace cleanup (extra spaces, newlines)
-   - Remove special characters/emojis where appropriate
-   - HTML entity decoding
-4. **Quality Filtering**:
-   - Remove very short messages (<3 words)
-   - Remove incomplete exchanges (customer Q without brand response)
-   - Validate multi-turn integrity
-   - Remove malformed timestamps
-5. **Turn Validation**: Ensure customer→brand→customer→brand sequence
+| Issue | Detection | Solution |
+|-------|-----------|----------|
+| **Extra whitespace** | `author_id.str.strip()` | Strip leading/trailing spaces |
+| **Date parsing** | Manual timezone parsing | `pd.to_datetime(..., format="%a %b %d %H:%M:%S %z %Y", errors="coerce")` |
+| **Invalid dates** | Check `isna()` after parsing | Remove records with unparseable timestamps |
+| **Multiple response IDs** | Detect commas in `response_tweet_id` | Parse comma-separated values → list |
+| **Missing parent tweets** | Check if `in_response_to_tweet_id` in `tweet_id` set | Track missing refs (~3.86%) |
+| **Missing response references** | Response IDs point to non-existent tweets | Reconstruct via `response_map` dictionary |
+| **Orphaned tweets** | Spotify responses without customer parent | Use `response_ids` to find parent customers |
 
-**Cleaned Outputs**:
-- `spotify_customer.csv` - Cleaned customer messages with intent labels
-- `spotify_brand.csv` - Cleaned brand response messages
-- `spotify_tweet_cluster.csv` - Clustered conversations by intent
-- `tweets_with_intent.csv` - Customer tweets with auto-assigned intents
+### Three Cleaned Datasets
 
-**Output Statistics**:
-```
-Original Records: ~100K
-After Deduplication: ~95K
-After Quality Filtering: ~85K
-Valid Multi-turn Pairs: ~78K
+**Dataset 1: spotify_brand.csv** - Spotify brand responses only
+```python
+spotify_tweets = df[df["author_id"] == "SpotifyCares"].copy()
+# Reconstruct missing response_ids using response_map
+# Output: ~5K-10K brand response records with reconstructed links
 ```
 
-### Intent Extraction & Tagging
+**Dataset 2: spotify_customer.csv** - Customer questions only
+```python
+# Find customer tweets that were responded to by Spotify
+parent_ids = spotify_tweets['in_response_to_tweet_id'].dropna().astype('int64')
+customer_questions = df[(df['tweet_id'].isin(parent_ids)) & (df['inbound'] == True)]
+# Output: ~5K-10K customer question records
+```
 
-During cleaning, intents are discovered and assigned:
+**Dataset 3: spotify_brand_customer_conversations.csv** - Q&A pairs
+```python
+# Merge customer questions with Spotify responses
+qa_pairs = customer_questions.merge(
+    spotify_tweets,
+    left_on='tweet_id',
+    right_on='in_response_to_tweet_id',
+    suffixes=('_question', '_answer'),
+    how='inner'
+)
+# Output: ~3K-8K complete Q&A pairs for parent-child ingestion
+```
 
-1. **Message Embeddings**: All customer messages embedded using BAAI/bge-small-en-v1.5
-2. **HDBSCAN Clustering**: Density-based clustering identifies natural groups
-3. **Intent Naming**: LLM generates 2-4 word intent labels for each cluster
-4. **Tag Assignment**: Customer messages labeled with discovered intent
-5. **Validation**: Manual review of top clusters and intent names
+### Preprocessing Pipeline
 
-**Result**: `spotify_intent_info.csv` with 50+ discovered intents from data
+1. **Load & Type Conversion**: Parse timestamps (timezone-aware), convert tweet_ids to int64, strip whitespace
+2. **Reference Reconstruction**: Build response_map (parent → [children]), fill missing response_ids
+3. **Quality Validation**: Check for nulls, verify parent-child links exist, sort by timestamp
+4. **Dataset Split**: Extract Spotify tweets, customer questions, merge into Q&A pairs
+5. **Intent Clustering**: Cluster customer messages (HDBSCAN), generate intent labels (LLM), tag tweets
+
+### Preprocessing Statistics
+
+```
+Raw TWCS Dataset:                   ~100,000 records
+├─ SpotifyCares brand:             ~10,000 records
+├─ Referenced customers:            ~8,000 records
+└─ Q&A pairs formed:                ~6,500 records
+
+Data Loss:
+├─ Missing parent refs:            ~3.86% (3,862 records)
+├─ Unparseable dates:              ~0.5% (500 records)
+└─ Other quality issues:           ~2%
+
+Final Output:
+├─ spotify_brand.csv:              ~10,000 records
+├─ spotify_customer.csv:           ~8,000 records
+└─ spotify_brand_customer_conversations.csv: ~6,500 Q&A pairs
+```
+
+### Key Utilities (experiment.ipynb)
+
+- `parse_response_ids()` - Parse comma-separated response_ids string → list
+- `find_parent_from_response_ids()` - Find parent tweet using response_ids
+- `find_referencing_tweets()` - Reverse lookup: which tweets reference a given ID
+- Response mapping merge - Link Spotify responses to customer questions
 
 ## �🧪 Testing & Evaluation
 
