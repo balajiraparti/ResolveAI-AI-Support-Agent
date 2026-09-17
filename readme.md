@@ -157,7 +157,7 @@ Raw data undergoes cleaning in Jupyter notebooks:
 **Cleaned outputs**:
 - `spotify_customer.csv` - Customer messages
 - `spotify_brand.csv` - Brand responses  
-- `spotify_tweet_cluster.csv` - Clustered conversations
+- `spotify_brand_customer_conversations.csv` - combination of both customer and brand
 
 #### Ingestion Execution
 
