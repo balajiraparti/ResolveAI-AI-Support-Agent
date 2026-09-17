@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "581518_581517", "turn_ids": ["581518_581517"], "root_turns": ["581518_581517"]}, "page_content": "Customer: text: @125633 check DM\nAgent: text: @192834 Hey! You can reach the team directly by heading to https://t.co/41wf7ozbVm /I", "type": "Document"}}

@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "1709577_1709576", "turn_ids": ["1709577_1709576"], "root_turns": ["1709577_1709576"]}, "page_content": "Customer: text: @115888 it\u2019s the united states\nAgent: text: @517998 2: Spotify content here: https://t.co/0i8GpimuDa /LO", "type": "Document"}}

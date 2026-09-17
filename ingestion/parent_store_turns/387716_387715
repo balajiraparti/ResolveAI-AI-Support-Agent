@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "387716_387715", "turn_ids": ["387716_387715"], "root_turns": ["387716_387715"]}, "page_content": "Customer: text: @115888 i dmed u\nAgent: text: @207771 @115888 Hey! We've just replied to your DM. Let's continue chatting there /NY", "type": "Document"}}

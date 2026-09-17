@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "2605019_2605018", "turn_ids": ["2605019_2605018"], "root_turns": ["2605019_2605018"]}, "page_content": "Customer: text: @115888 STEP IT UP\nAgent: text: @737067 Hey! What country is your account set to? We'll check things out /AY", "type": "Document"}}

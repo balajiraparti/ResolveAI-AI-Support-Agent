@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "2246111_2246112", "turn_ids": ["2246111_2246112"], "root_turns": ["2246111_2246112"]}, "page_content": "Customer: text: @115888 Genius sucks\nAgent: text: @654625 2: Settings &gt; Playback &gt; toggle off Behind the Lyrics /LO", "type": "Document"}}

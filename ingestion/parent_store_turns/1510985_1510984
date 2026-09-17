@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "1510985_1510984", "turn_ids": ["1510985_1510984"], "root_turns": ["1510985_1510984"]}, "page_content": "Customer: text: Omg so amazing. https://t.co/jatTV8W998\nAgent: text: @185042 Glad you like it. Happy listening! /K", "type": "Document"}}

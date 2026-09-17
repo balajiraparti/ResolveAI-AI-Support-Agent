@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "189861_397100", "turn_ids": ["189861_397100"], "root_turns": ["189861_397100"]}, "page_content": "Customer: text: @115888 @18936\nAgent: text: @210047 Glad to have you with us - rock on! https://t.co/P6NP4HUJly \ud83c\udfb6 /DH", "type": "Document"}}

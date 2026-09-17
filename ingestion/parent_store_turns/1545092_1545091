@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "1545092_1545091", "turn_ids": ["1545092_1545091"], "root_turns": ["1545092_1545091"]}, "page_content": "Customer: text: @SpotifyCares Order*\nAgent: text: @478545 2: on how info you can sort and filter your music /RA", "type": "Document"}}

@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "1740708_1740707", "turn_ids": ["1740708_1740707"], "root_turns": ["1740708_1740707"]}, "page_content": "Customer: text: thank you hunny xx https://t.co/KoHJ0vG0l0\nAgent: text: @525193 Anytime! https://t.co/M9DGmitf5G /PC", "type": "Document"}}

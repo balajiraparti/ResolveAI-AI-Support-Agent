@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "141193_141191", "turn_ids": ["141193_141191"], "root_turns": ["141193_141191"]}, "page_content": "Customer: text: spotify keeps crashing for me om g\nAgent: text: @147842 Hey Lauren! What's happening exactly? We'd love to help /JN", "type": "Document"}}

@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "1599862_1599861", "turn_ids": ["1599862_1599861"], "root_turns": ["1599862_1599861"]}, "page_content": "Customer: text: Thank you people of @SpotifyCares\nAgent: text: @491257 You're welcome! Have a... https://t.co/Ji2NEx0NOk /JL", "type": "Document"}}

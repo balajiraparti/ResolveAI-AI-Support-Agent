@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "2292736_2292735", "turn_ids": ["2292736_2292735"], "root_turns": ["2292736_2292735"]}, "page_content": "Customer: text: why is reputation still not on spotify\nAgent: text: @665814 2: the singles: https://t.co/3h0TnPWP0c /JS", "type": "Document"}}

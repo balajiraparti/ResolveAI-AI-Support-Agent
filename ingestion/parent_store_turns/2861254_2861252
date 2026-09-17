@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "2861254_2861252", "turn_ids": ["2861254_2861252"], "root_turns": ["2861254_2861252"]}, "page_content": "Customer: text: @115888 Thank you SPOTIFY!!!! I love you!\nAgent: text: @794886 https://t.co/thsrojJPJE! \ud83d\ude09 /WW", "type": "Document"}}

@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "2813978_2813977", "turn_ids": ["2813978_2813977"], "root_turns": ["2813978_2813977"]}, "page_content": "Customer: text: @SpotifyCares need some help please\nAgent: text: @784568 Hey! We've replied to your DM. Check it out /YM", "type": "Document"}}

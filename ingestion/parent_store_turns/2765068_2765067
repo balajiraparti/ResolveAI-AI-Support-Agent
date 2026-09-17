@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"thread_id": "2765068_2765067", "turn_ids": ["2765068_2765067"], "root_turns": ["2765068_2765067"]}, "page_content": "Customer: text: @SpotifyCares my song is under the wrong artist\nAgent: text: @270295 We've just replied to your DM! /I", "type": "Document"}}
