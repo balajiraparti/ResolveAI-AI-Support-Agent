@@ -595,88 +595,84 @@ def call_workflow(user_query:str):
         checkpointer=checkpointer
 
     )
-    output_path = Path("resolveai_graph.png")
+   
+    config = {"configurable": {"thread_id": "spotify_session_15"}}
+    state={"query":user_query,"messages":[{"role":"user","content":user_query}],"intent_name":"\n".join(i["intent_label"]for i in intent_result),"intent_description":"\n".join(i["description"]for i in intent_result)}
+    result=app.invoke(state,config=config)
 
-    png_data = app.get_graph().draw_mermaid_png()
+    print(result.get("draft",None))
+    while "__interrupt__" in result:
 
-    output_path.write_bytes(png_data)
-    # config = {"configurable": {"thread_id": "spotify_session_15"}}
-    # state={"query":user_query,"messages":[{"role":"user","content":user_query}],"intent_name":"\n".join(i["intent_label"]for i in intent_result),"intent_description":"\n".join(i["description"]for i in intent_result)}
-    # result=app.invoke(state,config=config)
+            interrupt_data = (
+                result["__interrupt__"][0].value
+            )
 
-    # print(result.get("draft",None))
-    # while "__interrupt__" in result:
+            print("\n")
+            print("=" * 70)
+            print("HUMAN REVIEW REQUIRED")
+            print("=" * 70)
 
-    #         interrupt_data = (
-    #             result["__interrupt__"][0].value
-    #         )
+            print(
+                f"\nCustomer:\n"
+                f"{interrupt_data['customer_message']}"
+            )
+            print(
+                f"\nEvidence:\n"
+                f"{interrupt_data['historical_evidence']}"
+            )
+            print(
+                f"\nDraft:\n"
+                f"{interrupt_data['draft']}"
+            )
 
-    #         print("\n")
-    #         print("=" * 70)
-    #         print("HUMAN REVIEW REQUIRED")
-    #         print("=" * 70)
+            print(
+                "\nActions:"
+            )
 
-    #         print(
-    #             f"\nCustomer:\n"
-    #             f"{interrupt_data['customer_message']}"
-    #         )
-    #         print(
-    #             f"\nEvidence:\n"
-    #             f"{interrupt_data['historical_evidence']}"
-    #         )
-    #         print(
-    #             f"\nDraft:\n"
-    #             f"{interrupt_data['draft']}"
-    #         )
+            print(
+                "  approve  -> approve response"
+            )
 
-    #         print(
-    #             "\nActions:"
-    #         )
+            print(
+                "  feedback -> provide feedback and regenerate"
+            )
 
-    #         print(
-    #             "  approve  -> approve response"
-    #         )
+            print(
+                "  takeover -> human handles customer"
+            )
 
-    #         print(
-    #             "  feedback -> provide feedback and regenerate"
-    #         )
+            human_input = input(
+                "\nYour decision:\n> "
+            ).strip()
 
-    #         print(
-    #             "  takeover -> human handles customer"
-    #         )
+            result = app.invoke(
+                Command(
+                    resume=human_input
+                ),
+                config=config,
+            )
 
-    #         human_input = input(
-    #             "\nYour decision:\n> "
-    #         ).strip()
+    print("\n")
+    print("=" * 70)
+    print("FINAL RESULT")
+    print("=" * 70)
 
-    #         result = app.invoke(
-    #             Command(
-    #                 resume=human_input
-    #             ),
-    #             config=config,
-    #         )
+    print(
+        f"\nCustomer:\n{result['query']}"
+    )
 
-    # print("\n")
-    # print("=" * 70)
-    # print("FINAL RESULT")
-    # print("=" * 70)
-
-    # print(
-    #     f"\nCustomer:\n{result['query']}"
-    # )
-
-    # print(
-    #     f"\nResponse:\n{result.get("draft","No Draft Available")}"
-    # )
-    # print(f"\n review")
-    # print(f"\n Review Feedback:{result.get("review_feedback","No Review Available")}")
-    # print(f"\n Human-in-the-loop reason:{result.get("hitl_reason","")}")
-    # print(
-    #     f"Approved: {result.get("is_approved",None)}"
-    # )
-    # print(f"\n evidence: {result.get("historical_evidence","No Evidence")}")
-    # print(f"\n intent:{result.get("intent_name","No intent")} \n intent_description:{result.get("intent_description","No description")}")
-    # return result
+    print(
+        f"\nResponse:\n{result.get("draft","No Draft Available")}"
+    )
+    print(f"\n review")
+    print(f"\n Review Feedback:{result.get("review_feedback","No Review Available")}")
+    print(f"\n Human-in-the-loop reason:{result.get("hitl_reason","")}")
+    print(
+        f"Approved: {result.get("is_approved",None)}"
+    )
+    print(f"\n evidence: {result.get("historical_evidence","No Evidence")}")
+    print(f"\n intent:{result.get("intent_name","No intent")} \n intent_description:{result.get("intent_description","No description")}")
+    return result
 
 if __name__=="__main__":
     call_workflow("hi")
