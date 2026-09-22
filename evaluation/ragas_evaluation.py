@@ -5,7 +5,7 @@ Source/reference:
 https://atalupadhyay.wordpress.com/2026/01/30/rag-evaluation-from-bleu-scores-to-production-ready-metrics/
 """
 from langchain_openai import ChatOpenAI
-from openai import OpenAI
+from openai import OpenAI,AsyncOpenAI
 from langchain_huggingface import HuggingFaceEmbeddings
 import sys
 import json
@@ -20,6 +20,7 @@ from langchain_ollama import ChatOllama
 from langchain_openai import OpenAIEmbeddings
 from ragas.embeddings import embedding_factory
 from ragas import evaluate
+
 from ragas.metrics import (
     Faithfulness,
     AnswerRelevancy,
@@ -31,7 +32,7 @@ from ragas.metrics import (
 )
 from dotenv import load_dotenv
 load_dotenv()
-client=OpenAI()
+client=AsyncOpenAI()
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 if str(PROJECT_ROOT) not in sys.path:
@@ -204,9 +205,9 @@ def ragas_eval():
     # Evaluation models
     # ---------------------------------------------------------
 
-    # llm=llm_factory('gpt-4o-mini', client=client)
-    llm=ChatOpenAI(model="gpt-4o",temperature=.2)
-    llm=LangchainLLMWrapper(llm)
+    llm=llm_factory('gpt-4o-mini', client=client)
+    # llm=ChatOpenAI(model="gpt-4o",temperature=.2)
+    # llm=LangchainLLMWrapper(llm)
     # embeddings = embedding_factory("openai",model="text-embedding-ada-002",client=client,interface='modern')
     embeddings=OpenAIEmbeddings(model="text-embedding-ada-002",client=client)
    

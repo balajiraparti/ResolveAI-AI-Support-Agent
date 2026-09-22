@@ -90,7 +90,7 @@ class CustomRAGEvaluator:
                 supported += 1
         return supported / len(claims)
 # Initialize evaluator
-def custom_evaluator(query,response,context,ground_truth):
+def custom_evaluator(query,response,context):
     evaluator = CustomRAGEvaluator(embeddings)
     test_query = query
     test_answer = response
