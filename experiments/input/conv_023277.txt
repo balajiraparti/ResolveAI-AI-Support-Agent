@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It says error connecting to PlayStation network and everything is fine besides Spotify. I have an Ethernet cable connected
+SpotifyCares: @506714 Got it! Can you let us know the device's model, operating system, and Spotify version? /PL

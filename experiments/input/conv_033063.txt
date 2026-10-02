@@ -1,0 +1,2 @@
+Customer: @SpotifyCares having issues trying to change my form of payment for premium, getting a 'csfr token invalid' message, apparently you have had this issue for some time, I've tried to clearing of cache and cookies, even tried a different browser, how do we fix this??
+SpotifyCares: @764286 Hi Leroy! Can you DM us your account's email address, along with a screenshot of the error message you're getting? We'll take a look backstage /DR https://t.co/ldFdZRiNAt

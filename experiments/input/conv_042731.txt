@@ -1,0 +1,2 @@
+Customer: @SpotifyCares macOS High Sierra 10.13.2 Public Beta (Build 17C79a). Spotify 1.0.68.407.g6864aaaf.
+SpotifyCares: @252746 Got it! Just to check, have you been experiencing this issue even before switching to the beta macOS version? /KB

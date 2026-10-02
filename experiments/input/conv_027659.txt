@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hello, can I change any setting so that when listening on shuffle there's no slight stutter between tracks?
+SpotifyCares: @662942 Hey David! To keep it seamless in between playing tracks, try using the Crossfade feature: https://t.co/mKMS0iCZE3. We hope that helps /NJ

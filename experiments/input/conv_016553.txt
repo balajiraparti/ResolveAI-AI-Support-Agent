@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 2: as requests towards  104.199.65.135:4070 are not standard HTTP web traffic, access must be allowed explicitly. What needs to be opened?
+SpotifyCares: @160030 Can you fire over your account's email address or username via DM? We'll take a look backstage /RC

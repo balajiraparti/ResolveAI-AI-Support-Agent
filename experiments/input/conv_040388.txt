@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Incognito does work. I have not made any changes to my browser
+SpotifyCares: @810223 Hmm. If you have any extensions installed on Chrome, can you try disabling them, then refreshing the page to see if the web player loads? Keep us posted /NQ

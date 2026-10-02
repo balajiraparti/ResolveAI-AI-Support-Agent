@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I keep getting "The Spotify application is not responding " daily after fixing it. I cannot seem to run Spotify on my desktop.
+SpotifyCares: @525488 Hey! What device, operating system, and Spotify version are you using? We'll see what we can suggest /CB

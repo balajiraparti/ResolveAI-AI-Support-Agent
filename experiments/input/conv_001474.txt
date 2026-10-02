@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Tried that, didn't seem to help. The problem seems to happen when resuming the App after being away from it and another App has used sound.
+SpotifyCares: @177704 Hmm, can you try using a different Windows 10 phone and see if the issue persists? Keep us posted /LM

@@ -1,0 +1,2 @@
+Customer: @116130 Windows 10 modern app version doesn't seem to detect my Chromecast. If this is missing feature, that's dumb. If broke please fix.
+SpotifyCares: @303378 Hi there! What device and Spotify version do you have? We'll see what we can suggest /SC

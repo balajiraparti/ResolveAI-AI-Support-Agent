@@ -1,0 +1,2 @@
+Customer: Does anyone have the problem in @115888 where you click shuffle and it only shuffles 50 songs instead of every song? #HELP @SpotifyCares
+SpotifyCares: @554225 Hey! We’ve recently made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnStrZD /KL

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Nothing. It just suddenly stops.
+SpotifyCares: @294538 Does it happen over WiFi, 3G/4G, or both? Could you try restarting your phone to see if that helps? /ST

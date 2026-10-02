@@ -1,0 +1,2 @@
+Customer: @SpotifyCares SONOS:Play1, Spotify Mac 1.0.67.582.g19436fa3, macOS 10.13.1 (17B48). No errors. Controlling/connection is intermittent.
+SpotifyCares: @722716 Thanks. Are you on a shared/public or home/private WiFi network? Have you also tried logging out &gt; restarting your devices &gt; logging back in? /AY

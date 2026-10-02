@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I had to re-download all my offline playlists upon switching iphones and noticed the downloads seems to work when you’re in the app and not in the background when the app is minimised.
+SpotifyCares: @446339 That's odd. Could you let us know which iPhone you're using, your iOS version, and the Spotify version you're running? We'll see what we can suggest /KT

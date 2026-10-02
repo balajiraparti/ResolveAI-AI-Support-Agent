@@ -1,0 +1,2 @@
+Customer: @SpotifyCares App on iPhone X, when interrupted by call or other sound loses ability to resume playing until app is shut down and restarted. Super annoying! Any reports of this, or plans to fix?
+SpotifyCares: @754291 Hi Ben, help's here! Can you let us know your phone's iOS and Spotify versions? We'll see what we can suggest /DV

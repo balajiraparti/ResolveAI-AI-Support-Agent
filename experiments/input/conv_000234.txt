@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Will I lose my playlists and downloaded songs?
+SpotifyCares: @174113 We're afraid you'll need to resync your offline music after reinstalling, but you won't lose your playlist. We'll wait your next update /NY

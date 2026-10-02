@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Logged out, cleared cache, restarted Chrome, logged back in. Song took 2 minutes to start playing, stalled after 10 seconds
+SpotifyCares: @293478 Hmm. Are you connected to your home or a public WiFi network? If you're at home, could you try restarting your router? /NS

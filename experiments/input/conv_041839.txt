@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hello. I need your help with fixing some setting in my account.
+SpotifyCares: @236873 Hey there, we're here to help! What's going on exactly? Could you let us know what device/OS you're using? /TB

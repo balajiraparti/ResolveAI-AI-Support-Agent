@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, i’m using an IMac (mid 2011 version) with macOS High Sierra and Spotify version 1.0.68.407.g6864aaaf
+SpotifyCares: @810482 Thanks. Could you try logging out of the app, restarting your computer, and logging back in to see if it makes a difference? /JO

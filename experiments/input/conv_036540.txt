@@ -1,0 +1,2 @@
+Customer: @115888 Hi Spotify, how do I avoid repetition? I choose my favorite band to listen to and I'll hear the same song 3 times in an hour. Is there a work around?
+SpotifyCares: @157533 Hey there! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /LO

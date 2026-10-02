@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have been experiencing a lot of connectivity issues with Chromecast lately. Did a recent update botch something?
+SpotifyCares: @408283 Hey Don! We haven't received any other reports about this recently. Does restarting your devices and router help? /CX

@@ -1,0 +1,2 @@
+Customer: @115888 Why does your desktop application take FOREVER to load? It’s ridiculous.
+SpotifyCares: @253501 Hey! Sorry to hear you feel that way. Can you fire over the device's make/model, operating system, and the Spotify version you're using? We'll see what we can suggest /JS

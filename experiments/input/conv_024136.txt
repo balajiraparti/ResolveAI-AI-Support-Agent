@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I’m running version 8.4.25.906, and iOS 11.1, thanks!
+SpotifyCares: @328471 Got it. Just to check, does this happen when controlling your device from your lock screen while using Connect? /RC

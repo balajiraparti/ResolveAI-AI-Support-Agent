@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The app crashes everytime I try to share a song, then it restarts playing the previous song.
+SpotifyCares: @181185 That doesn't sound right. Does logging out then back in again make any difference? /KM

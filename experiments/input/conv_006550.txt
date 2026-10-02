@@ -1,0 +1,2 @@
+Customer: @SpotifyCares All other music I try from other artists works fine.  Deleted cache, shut off local files, restarted, etc
+SpotifyCares: @316630 Hmm, that's odd. Just to clarify, what country is your Spotify account currently set to? /MT

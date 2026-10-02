@@ -1,0 +1,2 @@
+Customer: @SpotifyCares works fine on MacOS on the same network https://t.co/vcc3MlkxUL
+SpotifyCares: @528047 Thanks for sending that over! We're currently looking into this at the moment. Hopefully we'll have a fix soon /CG

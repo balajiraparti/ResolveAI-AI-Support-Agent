@@ -1,0 +1,2 @@
+Customer: @SpotifyCares after following those steps autoplay remains off. i don't log out of spotify on my main computers, although i restart them often
+SpotifyCares: @317846 Great! AutoPlay setting is not shared across devices so you may have it disabled on mobile but not on desktop. Hope this clear things up /BP

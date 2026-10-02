@@ -1,0 +1,2 @@
+Customer: @SpotifyCares for some reason this happened when i left spotify open for 2 hours playing music and then closed it, It was using 20GB of ram and 40% cpu. spotify version is 1.0.67.582.g19436fa3 .   I'm testing it again with just spotify open, i'll update on what i find https://t.co/NffF7vnWI1
+SpotifyCares: @495873 Hey, that doesn't sound right. Has this happened before? If not, can you try the steps here for us: https://t.co/EqisDMwZAT? /RH

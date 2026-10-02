@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Desktop app on Mac isn't working. Freezes up, won't let me search, after a few minutes of music. Constantly having to close and re-open it.
+SpotifyCares: @622516 Hi there. Can you let us know what device, OS X, and Spotify versions you're running? We'll see what we can suggest /LM

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares having issues w/ playback on iPhone X. Seems that every time I get a call in the middle of music the app crashes. Dsnt resume
+SpotifyCares: @486158 Hmm. That's odd. Could you try uninstalling and reinstalling the app? Let us know how it goes /DF

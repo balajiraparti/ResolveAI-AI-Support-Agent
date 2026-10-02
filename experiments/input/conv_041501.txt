@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The spotify web player isn't working for me, I can't play any music (I've tried on firefox and chrome, running on a windows 10 computer). Any idea what might be wrong?
+SpotifyCares: @230132 Hey Rike, that doesn't sound right. What's happening exactly? Are you unable to log in to your account on the web player? Let us know - we'll lend a hand /SY

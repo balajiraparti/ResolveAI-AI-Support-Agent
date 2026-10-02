@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It was as if the wifi was blocking Spotify but it's a network I use daily so it was weird
+SpotifyCares: @242333 Hmm. Do you have any firewalls/antiviruses that could be affecting this? If so, could you try disabling them and see if it helps? /GU

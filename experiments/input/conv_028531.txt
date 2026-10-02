@@ -1,0 +1,2 @@
+Customer: @115888 how do I turn off the autolaunch? Every time I get in my car your app takes over! I don't pay to get frustrated!!! I will cancel my family subscription if this isn't resolved.
+SpotifyCares: @671846 Hi! Driving Mode will auto launch once the app detects your car's Bluetooth connection. Can you try disabling this to see if it helps? /DR

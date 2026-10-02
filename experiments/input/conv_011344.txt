@@ -1,0 +1,2 @@
+Customer: @SpotifyCares But I just wanna know, is it 192 during bluetooth streaming or will it be 320 if i set to extreme?
+SpotifyCares: @368446 When you connect to a speaker using Bluetooth or Connect, the default audio quality will be 320 kbit/s. Hope this clears things up /PL

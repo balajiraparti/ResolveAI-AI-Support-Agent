@@ -1,0 +1,2 @@
+Customer: @115888 When I use spotify on other devices besides my laptop the volume bar barely changes the volume. Almost the same from 100% to 1%, is this normal?
+SpotifyCares: @646208 Can you let us know the devices, their operating systems, and the Spotify versions you're running on them? We'll see what we can suggest /LO

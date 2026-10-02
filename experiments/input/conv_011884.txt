@@ -1,0 +1,2 @@
+Customer: @SpotifyCares can’t skip song whilst connected to Bluetooth in my car, many others having the same problem. Any suggestions?
+SpotifyCares: @558437 Hey Luke! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /RH

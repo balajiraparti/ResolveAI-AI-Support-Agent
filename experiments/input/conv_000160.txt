@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It works but doesn’t seem to be integrated. No lock screen controls, volume doesn’t affect the app unless used within the app etc
+SpotifyCares: @172966 That's odd. Can you try logging out &gt; restarting your device &gt; logging back in to see if it helps? Keep us posted /MU

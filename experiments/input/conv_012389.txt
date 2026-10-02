@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Just to add that I've now also tried deleting the recommended cache folders in /Library/ApplicationSupport
+SpotifyCares: @326869 Hey Ross, help's here. What iOS, OS X, and Spotify versions is this happening on? We'll see what we can suggest /AY

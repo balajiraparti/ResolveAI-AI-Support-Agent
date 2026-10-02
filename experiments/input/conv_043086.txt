@@ -1,0 +1,2 @@
+Customer: @SpotifyCares when i try to launch it says cannot find 'api-ms-win-core-processthreads-l1-1-2.ddl' please re-install this application. I re-installed and it still displays the error when i launch
+SpotifyCares: @263159 Hi, help's here! Can you let us know your desktop's operating system version? We'll see what we can suggest /DV

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It’s a MacBook Pro - I click the song but it plays a different one
+SpotifyCares: @332138 Got it! Can you send us the Spotify URI? Just right-click the track &gt; Share &gt; URI /DF

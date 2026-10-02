@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Android version 8.4.22.857 crashes every time I select "Share"
+SpotifyCares: @170415 Hey! What Android OS and device are you using? Also, did this start happening after an update? We'll see what we can suggest /CB

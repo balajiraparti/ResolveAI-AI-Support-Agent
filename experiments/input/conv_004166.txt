@@ -1,0 +1,2 @@
+Customer: @115888 sucks at shuffling. It will only shuffle the last 3 albums of a bands total albums. This is the case for Emmure anyway.
+SpotifyCares: @216505 Hey! We’ve recently made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /NQ

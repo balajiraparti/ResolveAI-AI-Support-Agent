@@ -1,0 +1,2 @@
+Customer: @SpotifyCares On my wifi hotspot on the laptop it doesn't work but on a different wifi network it works. What could be the problem with the hotspot?
+SpotifyCares: @385469 Got it. Best thing to try here is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT /NY

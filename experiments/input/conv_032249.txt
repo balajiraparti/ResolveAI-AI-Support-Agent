@@ -1,0 +1,2 @@
+Customer: @SpotifyCares recently can't connect to Samsung Multi Room speakers with spotify connect. The app sees the speakers, spins the dial for a little bit but doesn't connect?
+SpotifyCares: @746464 Hey there! That doesn't sound good. Can you let us know the make and model of your device, along with the OS and Spotify versions you're rocking? /QI

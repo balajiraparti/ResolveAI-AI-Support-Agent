@@ -1,0 +1,2 @@
+Customer: @115888 Spotify web player seems broken. Won't play anything in my browser (newest chrome on a chromebook). Was fine a couple of days ago.
+SpotifyCares: @563199 Hey, help's here. Does clearing your cache/cookies help? You might also want to try using an incognito window. Let us know how it goes /KL

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi, please fix the glitch on the app where swiping right to add a song to the queue doesn’t work, and I have to go and manually add it instead. Sometimes it works, sometimes it doesn’t. It’s such a useful feature I’d love to just be able to swipe all the time.
+SpotifyCares: @279455 Hey Veronica, help's here! Can you tell us what device, operating system, and Spotify version you're using? We'll see what we can suggest /CH

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Getting a "504 Gateway Time-out" for 10 mins now. And @117153 doesn't show any issues?
+SpotifyCares: @807648 Hey, thanks for the report! We had a little hiccup earlier, but everything should be running just fine now /JS

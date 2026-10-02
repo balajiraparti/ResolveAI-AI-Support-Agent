@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Unable to Signup to Spotify both fb and mail are throwing up the same error.
+
+`{"status":400,"message":"Bad Request","errors":[{"code":15,"field":"locale","message":"Value is missing","translatedMessage":"Your username contains characters that we do not allow"}]}`
+SpotifyCares: @711577 Hey, help's here! Could you send us a DM with your email address? We'll take a look backstage /CO https://t.co/ldFdZRiNAt

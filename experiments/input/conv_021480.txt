@@ -1,0 +1,2 @@
+Customer: @SpotifyCares just a minor issue. I appear to be losing bands I've followed, is there a limit on the number of artists you can follow?
+SpotifyCares: @470370 1: Hi! There's currently a 10k limit in Your Music (Songs + Albums + Artists). You'll be prompted with a message when you've reached it.

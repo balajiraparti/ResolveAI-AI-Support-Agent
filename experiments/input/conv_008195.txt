@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm running the newest iOS &amp; your app but now, I cannot control my music from the lock screen. Any ideas why?
+SpotifyCares: @397017 Hey there, we're here to help! Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /TB

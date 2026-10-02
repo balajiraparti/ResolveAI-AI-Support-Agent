@@ -1,0 +1,2 @@
+Customer: @SpotifyCares the 'Discovered on' playlist feature has vanished off the Artist about page, is this a bug or has it moved and I can't find it
+SpotifyCares: @372038 We're simplifying the artist profile in advance of some bigger changes to give artists more control over their profile on Spotify 🙂 /ME

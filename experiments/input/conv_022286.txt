@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Tried that. Now it's completely broken. Spotify is set as default music service in Assistant. https://t.co/5VHiOkPAfj
+SpotifyCares: @480347 Can you try following the steps here in linking and setting the app as your phone's default player: https://t.co/9izv4G7CKn? /DR

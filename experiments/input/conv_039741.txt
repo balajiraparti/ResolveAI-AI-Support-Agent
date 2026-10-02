@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Also, I have a persistent issue with the offline songs for my singular devicr for Android. Cache acting up again, need to re-sync all he whole 900+ songs that I have which is a total pain. Everybody has had this issue and you know it.
+SpotifyCares: @809771 Hi! We’ve made some changes to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/AdMgwOmTIH. As for your offline tracks, we'd suggest checking out the steps under “Downloads unexpectedly removed” at https://t.co/EidIERWgLX. They should help with this /CE

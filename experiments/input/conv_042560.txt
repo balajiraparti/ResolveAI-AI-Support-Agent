@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi. As of a few days ago, my Android Spotify app will no longer send music to my Sonos system. It shows the devices, selecting them does nothing. The Sonos app can send to Sonos.  I uninstalled and reinstalled both apps.
+SpotifyCares: @250120 Hi Ron! Our best tech folks are on the case as we speak. Hopefully, we'll have a fix soon 🔧 /RR

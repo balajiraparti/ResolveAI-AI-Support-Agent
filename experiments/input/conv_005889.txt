@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Ay lads, does your web player still use Flash? If so, any plans to get rid of this?
+SpotifyCares: @539334 Hey Adam! Our web player now uses HTML5 on some browsers. More info here: https://t.co/I04hHFhrIX. Let us know if you have any questions /CX

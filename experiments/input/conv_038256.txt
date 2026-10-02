@@ -1,0 +1,2 @@
+Customer: SpotifyWebHelper process is using 100% CPU even on idle when not listening. WTF @115888
+SpotifyCares: @795554 Hey Gaël! Can you reinstall the app by following the steps here and restart your device: https://t.co/EqisDMwZAT? Does that help? /KC

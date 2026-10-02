@@ -1,0 +1,5 @@
+Customer: @SpotifyCares Someone has hacked my spotify account.
+ My id: __email__
+
+I have been charged today via Paypal but I cannot Access my account for it says that there is no such email in the database. I also have received and email saying that my email Access has been changed
+SpotifyCares: @678424 Hey Saul, we’re sorry to hear that. Check out https://t.co/QHn3ok8y2n for what to do next. Let us know if you have any questions /TR

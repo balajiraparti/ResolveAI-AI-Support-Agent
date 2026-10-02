@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Galaxy S7 Android 7.0 Spotify version 8.4.24.871. 
+
+Seems to be whenever I update the app all my downloads are deleted.
+SpotifyCares: @330189 We'd suggest checking out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /NG

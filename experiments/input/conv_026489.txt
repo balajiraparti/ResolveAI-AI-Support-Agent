@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi! I’m using the spotify desktop app (ver. 10.66.478) on my macbook pro (OS high sierra). I tried the DNS fix (from the spotify community forum) and it worked for a while but now the error message is back.
+SpotifyCares: @148903 Thanks for the info. Can you try logging out of Spotify, restarting your device, and logging back in to see if that helps? /NY

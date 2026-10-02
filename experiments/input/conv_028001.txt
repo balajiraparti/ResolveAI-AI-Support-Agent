@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Play button doesnt work. Macbook pro 13, OSX Yosemite, Firefox 56 (64-bit).
+SpotifyCares: @665319 Thanks! Does logging out &gt; restarting your device &gt; logging back in help? Can you try using an incognito window or a different browser? /PL

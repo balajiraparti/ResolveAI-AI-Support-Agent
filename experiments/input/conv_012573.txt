@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Force closing Spotify temporarily fixes the issue, but then it will do it again quickly within the next session.
+SpotifyCares: @321972 When did you start noticing this? Was it after a specific update? /NG

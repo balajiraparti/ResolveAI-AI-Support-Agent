@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Not really. I can see the files but your interface doesn’t let me view/play a specific local album. Right?
+SpotifyCares: @206716 1: Just to check, are you able to play the individual tracks? If so, we'd suggest adding the local files from that album to their own... /DV

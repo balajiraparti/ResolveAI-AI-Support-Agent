@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify premium! It's on my smartphone using the App (iphone 6s)
+SpotifyCares: @207949 Can you check what iOS and Spotify versions you're currently running? Does restarting your phone help? /SC

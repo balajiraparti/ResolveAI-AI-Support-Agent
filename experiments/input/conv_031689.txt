@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error message, a little gray bar pops up at the bottom of the screen when I tap a song but it doesn’t play at all :(
+SpotifyCares: @659498 Thanks for the info. Can you try logging out &gt; restarting your phone &gt; logging back in? Let us know if that makes a difference /RH

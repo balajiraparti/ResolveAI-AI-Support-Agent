@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Tonight I’m unable to browse Spotify through Sonos. Any server malfunction tonight?
+SpotifyCares: @665889 Hey! The cavalry's here. Can you fire over the device's make/model, operating system, and the Spotify version you're using? /JS

@@ -1,0 +1,2 @@
+Customer: @115888 @SpotifyCares Why does Spotify on macOS keep opening itself on start up? I have set the advanced setting to No but it keeps resetting itself. Making me mad and I'll switch to Apple Music if this app keeps opening without my permission.
+SpotifyCares: @252746 Hey Nick! The cavalry's here. Can you let us know the macOS and Spotify version you're using? We'll see what we can suggest /KB

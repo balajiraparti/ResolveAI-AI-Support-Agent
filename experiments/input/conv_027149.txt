@@ -1,0 +1,2 @@
+Customer: @SpotifyCares On iOS 11.2 Beta 2 with #spotify 8.4.26.793, when I remove the headphones from my iPhone, the music keeps playing. This didn’t happen on other versions and also doesn’t happen on iOS Music app. Can you confirm this #bug?
+SpotifyCares: @657989 Hey there! Don't worry, help's here. Just to check, could you let us know the iPhone model you're using? We'll see what we can suggest /MT

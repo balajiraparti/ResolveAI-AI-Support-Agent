@@ -1,0 +1,2 @@
+Customer: @SpotifyCares There are no error messages.  After the update, the Spotify App doesn't show up for the BMW Connected Drive.
+SpotifyCares: @304409 Can you let us know what device and iOS version you're running? Is this happening on any other devices? /LM

@@ -1,0 +1,2 @@
+Customer: @115888 still getting a 400 Bad Request on Chrome 😐
+SpotifyCares: @599167 Hey Andrew! Everything looks good on our end. Can you try accessing the site using a private or incognito window? Keep us posted /JE

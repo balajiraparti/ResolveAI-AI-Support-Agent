@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It’s mostly running in the background for hours on end even though I have Background App Refresh turned off on my iPhone 6s. I guess it might be a software issue with the app itself? https://t.co/6lrHf4hYR9
+SpotifyCares: @798920 Thanks for letting us know. Best thing to try here is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT. Let us know how it goes /AQ

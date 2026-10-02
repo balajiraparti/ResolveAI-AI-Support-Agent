@@ -1,0 +1,2 @@
+Customer: @SpotifyCares all of a sudden it seems like my app isn’t “connecting” with Spotify. It doesn’t show on my lock screen and I can’t change anything with my headphones. It was working earlier &amp; my phone is completely updated
+SpotifyCares: @293134 Hey Alex! Are you getting any specific error messages? What device, operating system, and Spotify version are you using? /KC

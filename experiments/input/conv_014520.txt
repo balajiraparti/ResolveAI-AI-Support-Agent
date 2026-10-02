@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Can't stream on Mac OS 10.12.6. I hit play, nothing happens. Problem started .5 hour ago; have restarted browser/wifi/laptop.
+SpotifyCares: @566170 Hey Rachel! Just to check, is this happening on the web player or on the Spotify app on your Mac? Let us know - we'll lend a hand /SY

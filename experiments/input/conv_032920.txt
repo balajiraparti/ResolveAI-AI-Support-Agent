@@ -1,0 +1,2 @@
+Customer: hey @115888 if i click to clear the search box i don't want to be taken to recent searches, I just want the text in the box to be gone
+SpotifyCares: @761411 Hey there! Don't worry, we're here to help. Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /MT

@@ -1,0 +1,5 @@
+Customer: The scroll dot on the lockscreen on iOS 11.0.2 doesn’t move anymore when I listen to Spotify 
+Who’s fault?
+@AppleSupport or @SpotifyCares 
+?
+SpotifyCares: @153614 Hi there. Can you let us know what device and Spotify version you're running? We'll see what we can suggest /LM

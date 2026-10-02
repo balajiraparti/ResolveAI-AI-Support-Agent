@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have been logged out of my account when I tried to reset my password, it said “CSRF token is invalid”. Help. https://t.co/etKjM55L5C
+SpotifyCares: @770624 Hey there! Can you DM us your account's email address? We'll take a look /RB https://t.co/ldFdZRiNAt

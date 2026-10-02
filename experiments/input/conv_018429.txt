@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Thx. Is video banner ads under playlist / above controls (not overlay ads). Acer E1572P, Win10 all latest patches, v 1.0.65.320.gac7a8e02
+SpotifyCares: @472175 Thanks! Can you try logging out, restarting your laptop, then logging back in? Let us know if that helps /QI

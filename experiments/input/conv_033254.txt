@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Is the audio bug in Spotify on iOS 11 getting fixed soon? If anything interrupts audio while Spotify is playing, all audio output on Spotify is dead until you restart the app. Doesn't seem to affect other apps
+SpotifyCares: @524559 Hey Ed! Best thing to try here is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT. Let us know how it goes /MX

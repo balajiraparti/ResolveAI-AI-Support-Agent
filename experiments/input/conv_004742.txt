@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Telling Echo to stop playing Spotify on Sonos appears to still count as a playing device
+SpotifyCares: @286241 Thanks for clarifying! We'll make sure to pass this on to our devs so they can look into it /JP

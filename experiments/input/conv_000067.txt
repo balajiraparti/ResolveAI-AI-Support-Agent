@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Using it on the web.Playlists only show list of songs without checkmarks for saved songs. Also a radio tab no longer shows previous sessions
+SpotifyCares: @187918 We appreciate your comments on the web player. We're still testing and improving it, so we'll pass this onto the right team /AW

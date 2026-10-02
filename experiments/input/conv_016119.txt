@@ -1,0 +1,2 @@
+Customer: Hello @SpotifyCares ! Is there a way to know for how long i've listened to music during last month ?
+SpotifyCares: @570296 Hi there! We're afraid it currently isn't possible to do this. Don't worry. We'll let our devs know it's something you'd like to see /DV

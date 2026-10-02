@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I've been trying to select "no" for this option multiple times but every time after closing the settings, it goes right back to "minimized." I do not want this to boot up at startup. What gives? https://t.co/vX8vY4l0st
+SpotifyCares: @116379 Hey Dylan! Can you let us know which versions of Spotify and Windows you're running? We'll see what we can suggest /RA

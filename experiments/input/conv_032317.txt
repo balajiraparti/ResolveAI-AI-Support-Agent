@@ -1,0 +1,2 @@
+Customer: @SpotifyCares my Spotify app on phone + comp won't play my playlists or collections continuously. If I play a song, the following song is always from an old playlist that I no longer want to listen 2. Pls advise.. getting sick of 80s music.
+SpotifyCares: @744993 Hi Jackie! This sounds like our Autoplay feature. You can disable this by following the steps here: https://t.co/R2NEIUoQFA. We hope this helps /DN

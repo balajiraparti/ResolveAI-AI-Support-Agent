@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Using OSX El Capitan 10.11. Chrome 52.0. It's a multi-user computer, so sadly I don't have administrator rights. That will probably limit me
+SpotifyCares: @453360 No worries. Can you let us know what's happening exactly? If you're getting an error message, can you send us a picture of it? /DV

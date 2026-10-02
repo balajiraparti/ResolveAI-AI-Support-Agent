@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Chrome reset to defaults gets an endless spinner.  So does an Incognito window.
+SpotifyCares: @169721 Alright. What country are you in? Have you also tried using a different device? That might do the trick /RH

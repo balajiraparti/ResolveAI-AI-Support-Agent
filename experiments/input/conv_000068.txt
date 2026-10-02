@@ -1,0 +1,2 @@
+Customer: Hey @115888/@13281 why has offline scrobbling not been implemented yet? /cc @SpotifyCares
+SpotifyCares: @423090 Hey! Last.fm scrobbling doesn't work in offline mode, but you can show your support here: https://t.co/QaN6oU77TO 🙂 /RC

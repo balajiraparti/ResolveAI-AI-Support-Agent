@@ -1,0 +1,2 @@
+Customer: Every time I get a notification, my playback stops.  Is this a @115888 issue or yet another manifestation of @115858’s iOS 11?
+SpotifyCares: @178216 Hey Lee, help's here. Can you tell us more about what's happening? What iOS device and Spotify version are you using? /AY

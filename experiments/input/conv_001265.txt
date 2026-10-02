@@ -1,0 +1,2 @@
+Customer: @SpotifyCares On Android, after I'm done listening, or pause music, spotify shut down shortly after. Can I extend this time out period?
+SpotifyCares: @279800 Hi there! Can you give us more info about the "time out" period? Also, what Android and Spotify versions are you running? /NG

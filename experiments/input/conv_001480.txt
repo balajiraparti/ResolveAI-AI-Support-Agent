@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Updated to iOS 11.0.2. Deleted Spotify and reinstalled. Same problem exists. ARGH!!! I see other people tweeting about it - when’s the fix?!
+SpotifyCares: @170260 Thanks for the update. Can you try logging out &gt; rebooting your phone &gt; logging back in? See if that helps /RH

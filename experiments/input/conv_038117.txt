@@ -1,0 +1,3 @@
+Customer: @SpotifyCares I can't select my #Sonos speaker (Office) in the "Devices Available" menu and can't play #Spotify to it anymore since Sonos removed Spotify from their music services menu. What do I do?
+[MacOS 10.11.6, Spotify 1.0.68.407.g6864aaaf Sonos 8.2.1] https://t.co/ed73b93LfE
+SpotifyCares: @794904 Hey, the cavalry's here! Could you head over to your account's Approved applications at https://t.co/PORH7knOMj and check if Sonos is on the list? If so, try tapping “Revoke Access”. Then, approve access for Sonos again. Let us know if that makes any difference /JZ

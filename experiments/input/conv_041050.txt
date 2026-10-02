@@ -1,0 +1,4 @@
+Customer: @SpotifyCares I can't login or change my credentials. 
+The CSRF token is invalid. Please try to resubmit the form.
+Thats the error I see. HELP PLEASE!
+SpotifyCares: @221680 Hey Cord, help's here! Can you DM us your account's username and email address? We'll see what we can suggest /TR https://t.co/ldFdZRiNAt

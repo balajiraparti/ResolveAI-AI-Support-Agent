@@ -1,0 +1,2 @@
+Customer: @137949 @SpotifyCares Has a recent update broken playing Spotify on a Sonos Play1 using Spotify Connect from the Spotify app? #whoistoblame
+SpotifyCares: @255582 Hey there! Can you let us know your device, operating system, and Spotify version? We'll see what we can suggest /RC

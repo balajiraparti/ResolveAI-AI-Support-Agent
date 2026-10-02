@@ -1,0 +1,2 @@
+Customer: @SpotifyCares How do I make web links open in my app instead of the web player? Cannot find any settings options within the web player.
+SpotifyCares: @416431 Hey there! On the desktop app, just head to Settings &gt; Allow Spotify to be opened from the web, and toggle the switch. Hope this helps /JO

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'd like to create a custom shortened Spotify URL to share a playlist, such as spoti.fi - what's the best way to do this?
+SpotifyCares: @417281 Hi Ben! It currently isn't possible to do this. Don't worry, we'll pass your feedback onto the right team /DV

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Nexus 5X running Android 8.0.0 spotify version 8.4.21.508, I'm beginning to wonder if it's the OS that's killing it off due to lack of ram?
+SpotifyCares: @274279 Hmm. The lack of RAM could affect its performance. How much available space do you have on your device? Does logging out &amp; back in help? /AY

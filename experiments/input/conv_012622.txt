@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS 11.02, Spotify version 8.4.22.515 on an iPhone 6
+SpotifyCares: @321651 2: As for the playback stopping after a track or an ad plays, does it happen on 3G/4G, WiFi, or both? /SY

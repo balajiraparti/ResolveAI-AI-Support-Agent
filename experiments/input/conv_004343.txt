@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Restarting doesn't do anything. I don't have another device other than my computers. It just seems like the time out is low
+SpotifyCares: @279800 Hmm. Could you reinstall the app by following the steps here: https://t.co/EqisDMwZAT? Let us know if the same thing happens /JU

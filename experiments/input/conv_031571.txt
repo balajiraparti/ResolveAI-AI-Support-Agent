@@ -1,0 +1,3 @@
+Customer: @SpotifyCares I am aware. I meant individual songs. 
+I'd like to be able to see a list of all songs created by an artist. I suppose discography is a misnomer in this case.
+SpotifyCares: @700524 Thanks for clarifying. That's not possible right now, but we'll let our devs know it's something you'd like to see /RH

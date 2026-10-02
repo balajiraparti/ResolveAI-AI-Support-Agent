@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Why is there an option to turn it off when it doesn't turn off?
+SpotifyCares: @423123 This option disables the feature from appearing automatically on top of the album art. We hope this clarifies things /JP

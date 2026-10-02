@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, i’m on xbox one and my app tells me my song is playing, i can see the bar moving but there’s no sound?
+SpotifyCares: @741855 Hey there! Can you try a hard restart of the console (hold the power button for 10 seconds)? Does that make a difference? /AR

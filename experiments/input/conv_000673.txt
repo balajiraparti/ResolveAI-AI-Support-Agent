@@ -1,0 +1,2 @@
+Customer: @SpotifyCares having issues connecting to the internet on a desktop. Says I'm offline when I have full internet connection
+SpotifyCares: @166082 Hey there! Could you let us know your device's make/model, operating system, and Spotify version? We'll see what we can suggest /GU

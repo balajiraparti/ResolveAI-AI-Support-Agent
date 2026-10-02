@@ -1,0 +1,2 @@
+Customer: Hi @spotifycares the Windows 10 app freezes and crashes consistently on my PC. Resetting, uninstall/reinstall has not helped. Known issue?
+SpotifyCares: @267252 Hey Tommy, that's not cool! Which Spotify app version are you running? Also, is this happening at any specific points (like during login, or while listening to music)? We'll see what we can suggest /WP

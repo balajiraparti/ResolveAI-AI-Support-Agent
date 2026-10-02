@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No it makes no difference. According to firewall logs, Spotify tries to connect directly even if a proxy is configured.
+SpotifyCares: @160030 Hmm. Does restarting your device and router help at all? /RC

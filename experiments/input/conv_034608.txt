@@ -1,0 +1,2 @@
+Customer: @115888 my android app keeps crashing since i updated last night, is this a known issue ??
+SpotifyCares: @266506 Hi there. Can you let us know what device, Android, and Spotify version you're running? Also, are you getting any specific error messages? /LM

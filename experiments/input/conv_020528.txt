@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 8.0.0 / latest.  It's only for some albums.  Same album I tested plays with correct volume in Groove.
+SpotifyCares: @129638 Got it. Just to check, do they sound quiet using a different headphones or other devices too? Keep us in the loop /PB

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Either my mobile (android) or desktop (windows 10). It doesnt respond when i click them, if i try shuffle i get "this song is not available"
+SpotifyCares: @340652 Got it, thanks for the info. Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /TB

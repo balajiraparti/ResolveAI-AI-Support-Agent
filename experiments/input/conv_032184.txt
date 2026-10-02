@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It seems random when it resets, but it happens a lot. Not every time I restart, but perhaps every time Spotify is upgraded?
+SpotifyCares: @739293 Hmm. Can you let us know your device, operating system and Spotify versions? We'll take a look under the hood /LS

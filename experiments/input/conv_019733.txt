@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error messages. I'm on an android and I believe my spotify is at the newest version.
+SpotifyCares: @583591 Thanks for the info. Can you let us know what phone model and Android version you're running? Is this happening on any other devices? /LM

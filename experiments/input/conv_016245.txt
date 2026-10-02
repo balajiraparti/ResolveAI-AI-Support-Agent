@@ -1,0 +1,2 @@
+Customer: @415831 @115888 Android.
+SpotifyCares: @415830 1. Hey Matthew! We're currently looking into an issue with push notifications not being sent.

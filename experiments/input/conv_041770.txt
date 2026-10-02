@@ -1,0 +1,2 @@
+Customer: Wondering if anyone has issues with @115888 (on browser) after updating to #HighSierra ? It was working day before yesterday. Then I updated yesterday, and now, bubkus. Tried different browsers. nada. But works fine on mobile and at home (not running HS there). hmmm.
+SpotifyCares: @236081 Hi Rafael, help's here! Does clearing your cache and cookies help? You might also want to try using an incognito window. Let us know how it goes /JI

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares My computer doesn't recognize the Spotify ICON and l keep getting a rejection message - 'cannot find 'api-ms-win-core-processthreads...'. This is day two with no service. Please help.
+SpotifyCares: @259959 Hi Fred, help's here! Can you let us know your desktop's operating system and Spotify versions? We'll see what we can suggest /DV

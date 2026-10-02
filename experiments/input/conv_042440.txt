@@ -1,0 +1,2 @@
+Customer: @SpotifyCares  https://t.co/2WLaMZt0MG
+SpotifyCares: @246537 Thanks for the photo. Let's try a clean reinstall by heading to C:\Users\USERNAME\AppData\Roaming &gt; delete the Spotify folder &gt; go to C:\Users\USERNAME\AppData\Local &gt; delete the Spotify folder there as well &gt; relaunch the app. Keep us posted /MG

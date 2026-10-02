@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have an idea: I think this only happens when I listen via an Amazon Echo. Can it be you don't allow repeat one there?
+SpotifyCares: @462954 Thanks for the heads-up. Just to clarify, are you trying to do the "Repeat One" command when using Amazon Echo? /MT

@@ -1,0 +1,2 @@
+Customer: @115888 your apps work 20% of the time with Sonos, they also don't communicate to each other. Please rebuild. I'll redesign if you like.
+SpotifyCares: @296463 Hi Tyler, that doesn't seem right! Can you let us know your devices' make/model, operating systems, and Spotify versions? /GT

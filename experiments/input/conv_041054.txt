@@ -1,0 +1,2 @@
+Customer: @SpotifyCares "The CSRF token is invalid. Please try to resubmit the form." - I can't recover my password. Fix the password recovery pls
+SpotifyCares: @221678 Hi, help's arrived! Could you DM us your username, email address, and a screenshot of the error message that you're seeing? We'll be waiting for your reply /JQ https://t.co/ldFdZRiNAt

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Since I upgraded to High Sierra, I've noticed that sometimes Spotify stops responding to the play/pause and skip buttons on my keyboard. Restarting the app fully seems to fix it. Is there a fix in the works?
+SpotifyCares: @275291 No worries! To confirm, does it happen after your computer becomes inactive/goes to sleep mode? Keep us posted /SB

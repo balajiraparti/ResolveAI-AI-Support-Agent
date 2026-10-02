@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It happens on other browsers as well such as Edge. The next song plays instead putting the current song on loop.
+SpotifyCares: @632673 1: When listening within a playlist, the Repeat button plays the entire playlist again. It's not possible to put songs on loop while... /KT

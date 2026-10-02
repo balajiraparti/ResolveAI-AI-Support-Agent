@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Simply listening to music and moments later hear the fan fire up. CPU at 110%. Cleared all Spotify files/app, reinstalled, still happening.
+SpotifyCares: @556378 Got it. Can you check if "High quality streaming" is turned on? Also, can you try disabling all local files sources on your Settings? /SJ

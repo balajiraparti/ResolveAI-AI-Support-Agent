@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Just tried and it looks like it only happens over WIFI. I’m having the same problem when I’m using my Mac and iPad. It skips, pauses or restarts the song randomly.
+SpotifyCares: @279620 Would you mind checking if restarting your router makes any difference? Let us know how it pans out /AR

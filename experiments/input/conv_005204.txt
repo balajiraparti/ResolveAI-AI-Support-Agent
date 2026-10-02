@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Thanks! Version 8.4.22.857 armv7 on anker bluetooth speaker on Samsung Galaxy Tab A (2016) Model SM-T280 Does distance from speaker matter?
+SpotifyCares: @299856 Thanks. The distance could possibly affect playback. Does logging out &gt; restarting your device &gt; logging back in make a difference? /AY

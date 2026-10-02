@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Did this and still not working :/ I've had local files work in past but can't get this
+SpotifyCares: @413411 If both devices are connected to the same home WiFi network, can you restart the router before trying again? /JU

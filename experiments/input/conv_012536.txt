@@ -1,0 +1,2 @@
+Customer: @SpotifyCares when I try to skip track while ChromeCasting, the audio switches to my phone, without altering the song on the TV. Any fix?
+SpotifyCares: @321972 Hey Todd! What operating system and Spotify version are you running on your phone? We'll see what we can suggest /NG

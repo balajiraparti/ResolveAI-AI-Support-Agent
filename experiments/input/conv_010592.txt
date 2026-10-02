@@ -1,0 +1,5 @@
+Customer: @SpotifyCares Great! Here's the info:
+Device: LG G6
+Android: 7.0
+Spotify version: 8.4.23.784 armV7
+SpotifyCares: @552568 Thanks! Are you getting any error messages? Can you try logging out &gt; restarting your device &gt; logging back in? /PL

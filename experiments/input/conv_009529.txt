@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It tells me I can’t play the current track and I can import it if it is a local file. Latest version of Spotify on the latest version of win
+SpotifyCares: @413229 Does logging out, restarting your computer, and logging back in help at all? /YM

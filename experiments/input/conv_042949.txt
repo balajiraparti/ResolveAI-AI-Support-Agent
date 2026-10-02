@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Same version, different Android phone (Moto G5), same problem.
+SpotifyCares: @148645 Thanks! Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /TB

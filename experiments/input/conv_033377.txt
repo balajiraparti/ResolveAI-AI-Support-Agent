@@ -1,0 +1,2 @@
+Customer: @SpotifyCares logged out of both devices, restarted the apps, logged back in, still out of sync (see pics) https://t.co/QtCxpjg8BR
+SpotifyCares: @769071 Hmm. Okay, the best thing to try here will be a reinstall of the app on both devices. Just follow the steps here at: https://t.co/EqisDMwZAT. Let us know how it goes /JI

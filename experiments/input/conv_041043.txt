@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS 11.1.2 and Spotify app version 8.4.28.1104
+SpotifyCares: @137385 Got it. Can you try logging out &gt; restarting the app &gt; logging back in? Let us know if that helps /KA

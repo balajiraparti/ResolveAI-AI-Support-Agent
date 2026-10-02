@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error messages it stops at the end of a song and doesn't play the next. It's on my IPhone 5s. Version 8.4.22
+SpotifyCares: @420150 Can you try restarting your device, then log out and back in? Does that help? /AU

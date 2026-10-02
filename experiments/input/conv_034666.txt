@@ -1,0 +1,2 @@
+Customer: @115888 Your Linux client does not respect display DPI setting so everything is tiny on my display.
+SpotifyCares: @267070 Hi there! Just a heads up, we don't officially support Linux, but we'll try our best to help. What's happening exactly? We'll see what we can suggest /PB

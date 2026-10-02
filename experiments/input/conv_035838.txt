@@ -1,0 +1,2 @@
+Customer: @115888 Ok, Restart of the Chromecast solved it. I'm curious for the technical reason why this reset was necessary. Any clue?
+SpotifyCares: @142348 Hi there! It's possible that restarting Chromecast forced a resync of your account, but we can't say for sure. We're glad to hear it worked out though. Give us a shout if you need anything else 🙂 /WW

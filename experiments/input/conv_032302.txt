@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Android. If the app has been closed, it doesn't have a now playing so no way to connect to a device until something is playing
+SpotifyCares: @744671 Got it. Just to check, are you using the most up-to-date versions of Android and Spotify? If not, we'd suggest updating them to the latest ones. This is to make sure everything works smoothly /JE

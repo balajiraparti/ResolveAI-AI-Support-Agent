@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Frequently freezes mid-song. Sometimes for a few seconds, Sometimes for as long as a minute. Pause and play commands take up to 40 secs
+SpotifyCares: @470221 Got it! Could you try uninstalling and reinstalling the app? Let us know how it goes /DF

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares On the iOS app it simply doesn’t play. On my desktop app, it says the album is not available, but I can import it.
+SpotifyCares: @504572 Hmm, that's odd. Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /MQ

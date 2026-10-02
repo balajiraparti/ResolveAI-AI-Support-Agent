@@ -1,0 +1,2 @@
+Customer: @115888 Issue fix for not being able to sync phone &amp; computer is to uninstall the app, re-install &amp; re-download music. Could it be easier?
+SpotifyCares: @533189 We're afraid reinstalling the app is the only way to fix it right now. Don't worry, we'll make sure to pass your comments on to the team /AU

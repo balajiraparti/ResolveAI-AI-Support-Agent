@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Since 10/19/17, my Spotify desktop (macOS) stopped working with our proxy server.
+SpotifyCares: @754340 Hi Steven! That's not good. Can you let us know the Spotify version you're using? We'll see what we can suggest /XF

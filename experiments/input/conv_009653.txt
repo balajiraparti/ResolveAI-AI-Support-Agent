@@ -1,0 +1,2 @@
+Customer: @115888 sharing no longer works on android.  press share and brings me back to Spotify home page.
+SpotifyCares: @501320 Hi there, help's here. Can you let us know the operating system and Spotify version you're using? Does logging out and back in help? /AC

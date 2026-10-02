@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi how do i stop spotify starting up on my computer automatically?
+SpotifyCares: @250955 Hey Amanda! You can change this by opening up the Settings Menu in the top-right corner and click on Advanced Settings. Under 'Startup and Window Behavior', you can choose to have Spotify open, minimized or neither upon startup. Hope this helps /JX

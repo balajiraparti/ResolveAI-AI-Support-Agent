@@ -1,0 +1,2 @@
+Customer: @SpotifyCares i've been having issues with playback. songs have been stopping midway through and won't restart unless i close and reopen app
+SpotifyCares: @194619 Hi Harry! Help's here. Can you check if logging out &gt; restarting your device &gt; logging back in makes a difference? Keep us posted /MU

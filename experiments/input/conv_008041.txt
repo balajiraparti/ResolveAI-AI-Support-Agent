@@ -1,0 +1,2 @@
+Customer: @SpotifyCares MacBook Pro (Retina, 13-inch, Mid 2014), macOS Sierra Vers 10.12.6, Spotify 1.0.65.320.gac7a8e02
+SpotifyCares: @375829 Got it. Is this happening on other devices as well? Does rebooting your router and MacBook make any difference? /KB

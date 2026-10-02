@@ -1,0 +1,2 @@
+Customer: @SpotifyCares macOS 10.11.6 same happens with macOS 10.12.6
+SpotifyCares: @160030 Got it. Best thing to try here is a reinstall. Just follow the steps at https://t.co/grEcQYYFVS. Let us know how you get on /RC

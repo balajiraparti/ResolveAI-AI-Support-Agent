@@ -1,0 +1,3 @@
+Customer: @SpotifyCares From the Chrome console. 
+Though I’ve had similar issues in Firefox too. https://t.co/WkaGOR8PWL
+SpotifyCares: @129423 Thanks! Just to check, have you tried clearing your browsers' cache and cookies? Are there any updates on your browsers' version? /JE

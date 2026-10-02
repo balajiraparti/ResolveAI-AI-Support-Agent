@@ -1,0 +1,2 @@
+Customer: @SpotifyCares when people I invite to premium for family accept their invite there is no prefilled token, just a standard login screen, what is wrong?
+SpotifyCares: @368087 Hey Richard! Could you ask them to log in first? This is for the system to know which account to add to the Family plan. Keep us posted /JE

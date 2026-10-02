@@ -1,0 +1,2 @@
+Customer: @SpotifyCares any idea where my search keeps going? If I close and reopen it comes back. iOS 11.1 Spotify v8.4.25.906 https://t.co/wMXRSH7jZ8
+SpotifyCares: @124701 Hey Nathan, that's odd. Can you try logging out, restarting your device, then logging back in? Does that help? /JE

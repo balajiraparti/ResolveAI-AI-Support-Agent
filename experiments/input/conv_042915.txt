@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hello! i am trying to make Alexa (echo dot) play music through spotify (i have premium family account). I get a response "Your spotify account doesn't support streaming on this device". any help? Thank you.
+SpotifyCares: @263428 Hey there! Can you DM us your account's email address or username? We'll take a look backstage /MT https://t.co/ldFdZRiNAt

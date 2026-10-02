@@ -1,0 +1,2 @@
+Customer: @115888 @118117 @137949 Spotify keeps disconnecting from sonos speakers.  What is going on?
+SpotifyCares: @653064 Hey there. That doesn't sound good. Can you let us know the device, OS, and Spotify version you're rocking? /QI

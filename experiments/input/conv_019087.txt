@@ -1,0 +1,2 @@
+Customer: @115888 hey,registration not working properly.when you register new account with Login XXXX, your login will look like 24 char hash
+SpotifyCares: @737461 Hey there! Could you DM us a screenshot of what you're seeing? We'll see what we can suggest /GU https://t.co/ldFdZRiNAt

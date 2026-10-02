@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When i hit the play button nothing happens at all. It stopped in the middle of a song.
+SpotifyCares: @220867 Thanks! Could you send us your device's make/model, operating system, and Spotify version? We'll try to find the solution for your issue /JP

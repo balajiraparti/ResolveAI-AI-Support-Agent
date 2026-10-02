@@ -1,0 +1,2 @@
+Customer: @SpotifyCares yo could you all improve your shuffle feature, like add an accumulator so that each time a song doesn't play it increases its chance of playing next? I have 1300+ songs in my library but feel like I have a similar cluster of songs come up everytime listen :(
+SpotifyCares: @794169 Hey! We’ve recently made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /DF

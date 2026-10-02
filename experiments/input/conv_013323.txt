@@ -1,0 +1,2 @@
+Customer: @SpotifyCares can’t control from headphones or Bluetooth. Problem comes and goes since iOS upgrade. What’s the deal guys?
+SpotifyCares: @561324 Hey there! Can you let us know the exact OS and Spotify versions you’re using? Does logging out and restarting your device help? /CO

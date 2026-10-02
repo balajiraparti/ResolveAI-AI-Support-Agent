@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Not sure if this is what this is used for, but what would cause a single song from an album to be removed from the app?
+SpotifyCares: @383963 Hey there! Can you send us the URI for the track? Also, which country is your account set to? We'll take a look /NQ

@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Whenever I play audio from another source while Spotify is playing I have to restart Spotify to have it play sound again. 
+
+When it gets interrupted it doesn’t recognize that as a trigger to pause anymore. It’s fine if I pause first, then use another source and hit play again.
+SpotifyCares: @696713 Got it. Could you confirm the exact iOS and Spotify version you're using? We'll take a closer look /KB

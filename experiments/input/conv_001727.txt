@@ -1,0 +1,3 @@
+Customer: @SpotifyCares - Nexus 6P Android 8.0.0 October security patch
+- Spotify version 8.4.21.508
+SpotifyCares: @181916 Got it. What happens exactly when you try to share a track? Are you seeing any error messages? A screenshot would be handy /LO

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares OSX High Sierra -&gt; Spotify 1.0.68.407.g6864aaaf -&gt; Onkyo NR-656. Once I set Spotify to send to "This computer", scrobbling seems to work as Last.fm reports "Scrobbling now" then. Does not happen when Onkyo is receiving the sound.
+SpotifyCares: @156298 Sorry to hear that. It's not possible at the moment, but you can help make it happen by showing your support here: https://t.co/BPEq9CIxJ8 /MG

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify doesn’t appear in my control center since updating to ios11. Help!
+SpotifyCares: @350863 Hey David! That's not cool. Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /MX

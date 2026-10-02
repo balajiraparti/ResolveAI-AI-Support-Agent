@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error messages. Just stops playing and the play button freezes. Tried refreshing page or playing something different, nothing works.
+SpotifyCares: @289427 Alright. Does restarting your device helps? Let us know how it goes /GT

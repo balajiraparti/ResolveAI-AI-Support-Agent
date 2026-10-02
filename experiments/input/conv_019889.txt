@@ -1,0 +1,2 @@
+Customer: @115888 your web player wont work, it tries to play an ad but it stalls out. Maybe I need an ad blocker?
+SpotifyCares: @565640 Hi, help's here! What browser are you using, and on what device? Any particular ads doing this, or does it happen on all of them? /T

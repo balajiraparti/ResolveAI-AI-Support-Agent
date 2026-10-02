@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Before messing with the settings I was getting error code: 2
+
+I am able to use the web player, but miss my friend feed
+SpotifyCares: @126757 Best thing to try here is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT. Let us know how it goes /CP

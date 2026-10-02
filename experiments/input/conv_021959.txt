@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I can't change my password because there is a "CSRF TOKEN IS INVALID" :( this makes me sad
+SpotifyCares: @473576 Hi there! Can you DM us your account's email address or username? We'll take a look backstage /GT https://t.co/ldFdZRiNAt

@@ -1,0 +1,2 @@
+Customer: @115888 I can't find a way to deactivate the lyrics, so I guess I'm not looking at the right place as it wouldn't make sense to not have that option. Those are quite annoying for me, where can I deactivate them please? :)
+SpotifyCares: @172138 Hey! To stop it displaying automatically, head to Settings &gt; Playback &gt; toggle off Behind the Lyrics /RC

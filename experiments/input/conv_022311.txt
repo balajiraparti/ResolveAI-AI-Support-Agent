@@ -1,0 +1,2 @@
+Customer: Hey @SpotifyCares my offline syncing of playlists is hideously slow even with gigabit internet. Is there anything you can recommend/ do?
+SpotifyCares: @307007 Hi Joseph! We'd suggest turning off any security programs that might affect downloading speed. Hope this helps /MU

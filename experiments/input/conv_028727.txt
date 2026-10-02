@@ -1,0 +1,2 @@
+Customer: @SpotifyCares using iOS 11.2 beta on iPhone 7 Plus. Spotify audio does not pause when headphones adapter is unplugged. Works correctly for other apps. Known? Annoying issue! Spotify version is 8.4.26.793
+SpotifyCares: @678418 Hey Demetrios, sorry to hear that. We'd always suggest using the latest official iOS version to make sure everything works smoothly /JE

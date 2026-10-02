@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm getting an extended delay (~30 secs) when auth'ing my third-party app. Known issue?
+SpotifyCares: @394727 Hi Jay, help's here! Can you let us know more about your concern? Also, send us the name of the third-party app you're trying to use /SF

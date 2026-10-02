@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I am using IOS 10.2.1 and using Spotify 8.4.22.515
+SpotifyCares: @672373 Thanks. Try logging out &gt; restarting your phone &gt; logging back in. Let us know if that makes a difference /RH

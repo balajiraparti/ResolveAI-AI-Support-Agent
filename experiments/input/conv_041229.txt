@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Send a HTTP GET request (eg: https://t.co/Mm27ynlOyQ) using any device. Tested on Windows and Linux with CURL, ajax and Firebug.
+SpotifyCares: @224049 Got it. We have more info about this here: https://t.co/H4PAZ77NUr. We hope that helps! /MT

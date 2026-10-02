@@ -1,0 +1,7 @@
+Customer: @SpotifyCares I have a Samsung Galaxy S8+,
+Spotify version 8.4.26.770,
+Android version 7.0,
+Samsung experience version 8.1
+
+This also happened periodically with my Samsung Galaxy S6 S6 Edge+ as well before
+SpotifyCares: @633721 Thanks. Does the issue happen when you're connected via 3/4G, WiFi, or both? Does restarting your phone help at all? /JT

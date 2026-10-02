@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It seems unrelated to network (wifi or mobile data).
+SpotifyCares: @393117 Thanks for letting us know. Can you try restarting your device, then log out and back in? Does that help? /AU

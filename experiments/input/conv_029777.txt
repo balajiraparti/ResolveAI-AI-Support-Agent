@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 7plus iOS 11.1.1 and not sure on app version
+SpotifyCares: @584367 Can you try logging out, restarting your device by holding the Sleep/Wake + Volume Down buttons for 10 seconds. then logging back in? /PB

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, spotify version 8.4.22.515, iPhone 6S iOS 11.0.3. Thanks
+SpotifyCares: @496124 No worries! Just to check, is this happening via WiFi, 3G/4G, or both? Does restarting your connection help? /NY

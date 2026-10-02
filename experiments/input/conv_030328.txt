@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Can we work on getting a select feature? So it's possible to select more than one song to add/remove from playlists at a time. It takes multiple steps for one song and takes entirely too long if you're trying to make a party playlist with 100+ songs.
+SpotifyCares: @711575 Hi Torie! You can remove multiple songs in the desktop app by clicking on the songs while holding down the Shift or Ctrl buttons for Windows, and cmd if you're using Mac. You can also support this function for mobile by voting for it here: https://t.co/CYcujMXCnw /HR

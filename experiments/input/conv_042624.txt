@@ -1,0 +1,2 @@
+Customer: . @SpotifyCares @116380 please revert your recent changes: If I create a playlist from an album I don't want to have to provide a playlist name. The playlist should just be the name of the album. This is crucial, core-functionality (for me at least) stuff.
+SpotifyCares: @254913 Hey there. Thanks for the feedback – we appreciate it! We’ll get this passed onto the right team 💚 /MT

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Not @ PC tight now, but I'm getting the error msg every other W7 user is getting "Cannot find 'api-ms-win-core-processthreads-l1-1-2.dll'" since this file only exist in more recent windows versions. Your QA ppl should have detected this, it's a very obvious issue.
+SpotifyCares: @252754 We understand. Once you're at your PC, can you let us know the exact Spotify version you're running? Also, could you try if any of the solutions here would work: https://t.co/4WzyEzQizY? Keep us posted /GS

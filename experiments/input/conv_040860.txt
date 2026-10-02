@@ -1,0 +1,2 @@
+Customer: spotify @SpotifyCares I cannot log-into my account. never seen the errors before when I submit my user name "The CSRF token is invalid"?
+SpotifyCares: @138953 Hey Matt! Can you DM us your account's username or email address, along with a screenshot of the error message you're getting? We'll look into this for you /NH https://t.co/ldFdZRiNAt

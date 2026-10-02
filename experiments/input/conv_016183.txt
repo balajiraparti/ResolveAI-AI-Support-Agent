@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No, but it does shuffle only within the first 50-100 songs. No songs past that will play in shuffle mode
+SpotifyCares: @410996 Thanks for the report. The right team are aware of this issue between Shuffle and Connect and they're investigating /PB

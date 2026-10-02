@@ -1,0 +1,2 @@
+Customer: My Spotify playlist is not shuffling the way it’s supposed to
+SpotifyCares: @278431 Hey! We’ve made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /CX

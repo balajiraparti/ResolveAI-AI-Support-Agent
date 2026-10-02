@@ -1,0 +1,2 @@
+Customer: @SpotifyCares win 7 ultimate 64 bits. spotify 1.0.68.407.g6864aaaf. and not, logging or rebooting doesn't work, because every time it updates, it reinstates the boot with windows option. i've even killed the windows startup process, but it's there every time it updates again and again
+SpotifyCares: @786592 Got it. Spotify will revert to opening automatically after each update, but we appreciate the feedback. We'll pass it on /AQ

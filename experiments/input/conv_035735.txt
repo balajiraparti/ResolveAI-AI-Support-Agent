@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have no other internet connection accessible right now, and it worked just fine over the same connection last night. I also took a look at my firewall and I don't have anything there that would be blocking it.  :\
+SpotifyCares: @139993 Gotcha. Can you try using a different device? Let us know if the issue persists /LM

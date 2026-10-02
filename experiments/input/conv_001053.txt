@@ -1,0 +1,2 @@
+Customer: @SpotifyCares USA.  The iPhone app says "an unknown error has occurred."  I also tried switching phone and laptop from wifi to a phone network.  No change
+SpotifyCares: @169721 Could you send us a screenshot of the error message you're getting? We'll take a look /RH

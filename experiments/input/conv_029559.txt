@@ -1,0 +1,2 @@
+Customer: @SpotifyCares On iPhone X, the Spotify app will not resume music after taking a phone call without fully closing and restarting the app. This issue was not present when using iOS 11 on other iOS devices, so i assume it's lack of iPhone X support.
+SpotifyCares: @694032 Hi George. Thanks for the heads up - we’re working on it as we speak. Stay tuned! Give us a shout if you need anything else /DN

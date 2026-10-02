@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I am running Windows 10 Home Edition with the Spotify version "1.0.65.320.gac7a8e02"
+SpotifyCares: @337498 Thanks. Does restarting your router make any difference? We'd also suggest logging out, restarting your PC, and logging back in /NY

@@ -1,0 +1,4 @@
+Customer: @115888 Why does the setting-&gt;advanced settings-&gt;Startup and Window behaviour not save my selection
+
+I have selected NO to open at logon, but EVERY time Spotify starts and  I DO NOT WANT THAT!!
+SpotifyCares: @672950 Hey there! Can you let us know the device, operating system, and app version you're using? We'll see what we can suggest /PB

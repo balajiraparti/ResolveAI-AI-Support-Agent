@@ -1,0 +1,2 @@
+Customer: @115888 Is there anyway to make your shuffle algorithm actually work better?  When I play my entire library, it only plays newer additions.
+SpotifyCares: @276650 Hey! We’ve recently made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /PL

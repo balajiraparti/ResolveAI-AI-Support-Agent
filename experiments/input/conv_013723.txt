@@ -1,0 +1,2 @@
+Customer: . @118117 and @115888 don’t play together properly following the ios update. Volume on side of iphone no longer works. Guys?!
+SpotifyCares: @560265 Hi Ed! Which version of Spotify are you using? Can you give this a try: log out from Spotify &gt; restart your device &gt; log back in? /DR

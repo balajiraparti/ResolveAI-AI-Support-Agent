@@ -1,0 +1,2 @@
+Customer: @SpotifyCares problem has come back again today. is there some kind of bug?
+SpotifyCares: @194619 Thanks for giving us a nudge about this. What device, operating system, and Spotify version is this happening on? /AY

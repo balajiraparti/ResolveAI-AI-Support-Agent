@@ -1,0 +1,2 @@
+Customer: @115888 my Spotify Android app has decided to ignore my don't download over cellular data setting and had started downloading music in the background. What gives?
+SpotifyCares: @772769 Hey David! Which Android and Spotify version are you running? We'll see what we can suggest /MA

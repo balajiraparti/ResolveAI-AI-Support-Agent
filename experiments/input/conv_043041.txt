@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I tried to change my password. I keep getting CSRF token is invalid. Can you please help.
+SpotifyCares: @259949 Hi Randy, help's here! Can you DM us your account's email address? We'll take a look backstage /DV https://t.co/ldFdZRiNAt

@@ -1,0 +1,2 @@
+Customer: @117153 The Spotify web player is not working in Google Chrome. Sends me to a "Bad Request" page.
+SpotifyCares: @514321 Hi Charlie! We're here to lend a hand. Does clearing your browser's cache/cookies help? /CP

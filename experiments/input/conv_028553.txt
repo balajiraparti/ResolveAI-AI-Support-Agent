@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS 11.2 b2, playback won’t resume after being paused by call or video in other app. Have to force close Spotify and reopen
+SpotifyCares: @671960 Hi Jeremy! What iOS device &amp; Spotify version are you on? Do you mean the play button doesn't work after a call or video on other apps? /AY

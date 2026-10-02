@@ -1,0 +1,2 @@
+Customer: @115888 how do I get a podcast list to refresh on the Mac app? I subscribe to podcasts, but when I click into a podcast that I subscribe to (filtered by "All Episodes") it seems to use a cached list. I have to quit the app and restart, and new episodes appear
+SpotifyCares: @159460 2: Spotify versions you're using? We'll see what we can suggest /JE

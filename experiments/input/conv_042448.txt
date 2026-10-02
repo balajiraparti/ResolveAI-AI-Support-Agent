@@ -1,0 +1,2 @@
+Customer: Hey @115888, new feature request:  allow users to set a target song tempo on radio or select to play songs of similar tempo to one they’re listening to!
+SpotifyCares: @250945 Hey Cory! We appreciate your feedback, and we'll be sure to let our devs know this is something you'd like to see. Let us know if we can help with anything else /LM

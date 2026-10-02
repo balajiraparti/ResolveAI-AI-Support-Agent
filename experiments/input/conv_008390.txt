@@ -1,0 +1,2 @@
+Customer: Is anyone else getting a 504 Gateway Time-Out error on Spotify? @SpotifyCares
+SpotifyCares: @196278 Hey, help's here! Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /RV

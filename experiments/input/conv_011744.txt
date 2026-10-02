@@ -1,0 +1,4 @@
+Customer: @SpotifyCares My phone is a Huawei P8 with 5.0.1 Android version.
+Spotify 8.4.23.784
+Thanks.
+SpotifyCares: @549835 Can you try logging out, restarting your device, then logging back in? Let us know if that helps /QI

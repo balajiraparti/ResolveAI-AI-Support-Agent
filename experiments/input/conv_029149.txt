@@ -1,0 +1,2 @@
+Customer: @SpotifyCares This started when I updated to an iPhone 8 Plus. iOS 11.2 &amp; Spotify 8.4.26.793. If a song is playing &amp; I jump to a video or anything else w/ sound in a different app, I go back to Spotify to push play &amp; it says playing but no music resumes. Have to restart to get song going again
+SpotifyCares: @156645 Thanks. Best thing to try here is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT. See if that helps /RH

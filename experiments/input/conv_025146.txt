@@ -1,0 +1,2 @@
+Customer: @SpotifyCares T-Mobile LG G5 (LG-H830) on Android 7.0. The issue just started yesterday. I don't currently have a different SD card with me.
+SpotifyCares: @622518 Gotcha. In the meantime, could you try heading to Settings &gt; Apps &gt; Spotify &gt; Permissions &gt; and give Spotify "Storage" permission? /LM

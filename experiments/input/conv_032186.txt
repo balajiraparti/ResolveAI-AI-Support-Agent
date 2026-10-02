@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Why Spotify keep starting automatically on Mac OS High Sierra even if I selected NO in Preferences? (version 1.0.67.582.g19436fa3) 
+
+Please, solve it ASAP.
+SpotifyCares: @743507 Hi Nico! The cavalry's here. Does logging out, restarting your device, and logging back in help? /CP

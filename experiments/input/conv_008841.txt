@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Also, if I press the button of the EarPods to play/pause, Apple Music native app starts playing. It looks like iOS doesn’t recognize Spotify
+SpotifyCares: @433385 Thanks for confirming! Does reinstalling the app help with this? The exact steps can be found at https://t.co/EqisDMwZAT. Let us know 🙂 /M

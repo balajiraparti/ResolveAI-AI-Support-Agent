@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Should also point out that https://t.co/0VsQUdEztq connects fine and all other sites are coming up fine, just https://t.co/MBkDfYl2Xy isn't.
+SpotifyCares: @170133 Hmm. Can you check if clearing your browser's cache/cookies does the trick? Also, does restarting your desktop help? Keep us posted /RS

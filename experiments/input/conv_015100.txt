@@ -1,0 +1,2 @@
+Customer: @SpotifyCares My command center fails to recognize Spotify so I can’t control it outside of the app. I’m on iOS 11.0.3 and Spotify 8.4.24 on an iPhone 7.
+SpotifyCares: @392822 Just to check, is this happening via Spotify Connect? In the meantime, try logging out and back in. Keep us in the loop /LP

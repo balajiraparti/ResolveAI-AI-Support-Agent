@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hey there, as of today my iPhone app keeps crashing a few moments into songs (offline/online mode, diff playlists). Any advice
+SpotifyCares: @385187 Hey Rosie, we're here to help! Which iOS and Spotify version are you running? Are you getting any error messages at all? /LR

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, I'm on a Toshiba using Windows 7. I uninstalled Spotify but now it won't reinstall, telling me "Spotify Could not be opened Error C 17"
+SpotifyCares: @465068 Can you try deleting all folders related to Spotify in your device then reinstall the app? Let us know how it goes /AP

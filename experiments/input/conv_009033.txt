@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It will take all of one artist and not start it until toward the end of the shuffle every time. Is there a way to make it simply random?
+SpotifyCares: @461628 Hey there! We’ve recently made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /GU

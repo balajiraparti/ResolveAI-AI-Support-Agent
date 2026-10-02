@@ -1,0 +1,2 @@
+Customer: @SpotifyCares  any known issues with spotify and google home? had all sorts of problems this morning with music not playing.
+SpotifyCares: @186717 Hi Mark! We'll look into this. What’s happening exactly? Can you let us know the device/OS you’re using to control Google Home? /HR

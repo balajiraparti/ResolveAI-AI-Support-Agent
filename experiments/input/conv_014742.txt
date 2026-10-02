@@ -1,0 +1,2 @@
+Customer: @115888 @SpotifyCares I have a playlist with almost 700 songs but only plays about 50 even when shuffle all.  Why?
+SpotifyCares: @399331 Hey! We’ve recently made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /JS

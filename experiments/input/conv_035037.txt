@@ -1,0 +1,8 @@
+Customer: @SpotifyCares Symptom: sharing to Facebook opens web viewer, after selecting to share song via Facebook app, successfully shares but spotify UI becomes unresponsive
+
+Device info: 
+iPhone 7 Plus 11.1.2
+Spotify (latest)
+
+Resolution: closing spotify from task switcher and reopening
+SpotifyCares: @120794 Hey Kevin, help has arrived! Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /AV

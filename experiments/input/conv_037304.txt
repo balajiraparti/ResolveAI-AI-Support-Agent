@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Language and Country setting should be separated.
+SpotifyCares: @743342 Hey Stanley! The app's language depends on your phone's language. It also depends on your account's country settings. Can you send us a screenshot of what you're seeing? Also, can you DM us your account's email address? We'll take a look /SJ https://t.co/ldFdZRiNAt

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I can reach the speakers through the Sonos app. It appears to be Spotify Connect that's now broken. How do I downgrade?
+SpotifyCares: @289678 Hey David! What operating system are you using? Is your Sonos not showing up at all from the Connect picker? We'll help out /CM

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares My PC is having issues launching spotify, and keeps showing me this error. I tried reinstalling, but even when i try to uninstall the program through the task manager it shows this error. I manually deleted the files, then reinstalled, and its still broken. https://t.co/r3rI4BxMVH
+SpotifyCares: @259954 Hey there! That doesn't look good. Can you let us know the operating system and app version you're running? We'll see what we can suggest /PB

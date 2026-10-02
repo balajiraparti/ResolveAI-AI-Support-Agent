@@ -1,0 +1,2 @@
+Customer: @SpotifyCares None of the above helped. I’m on an iPhone 8 Plus, iOS 11.1.2 and the latest Spotify version 8.4.28.1104. A’s I said I do use zoomed view in display options and a slightly larger reading font but this should only affect apps that support it.
+SpotifyCares: @794517 That's odd. While Spotify supports Larger Dynamic Type, the text shouldn't overlap like that. We'd suggest doing a soft reset: press and quickly release Volume Up button &gt; do the same on Volume Down button &gt; hold the Power button until you see the Apple logo. Keep us posted /MU

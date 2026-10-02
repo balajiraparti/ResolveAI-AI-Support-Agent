@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Issue happens whether downloaded or download removed and playing via data. Nothing.
+SpotifyCares: @550911 Got it, thanks for the info! Do you receive any sort of error message when trying to play the album? Let us know /RV

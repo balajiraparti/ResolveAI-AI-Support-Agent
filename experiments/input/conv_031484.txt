@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Rebooting didn't help. Same exact problem. Interestingly, the iOS app also wants me to log in and when I try to it says "Login failed" and asks me to check my login information, which Ive checked and is 100% correct.
+SpotifyCares: @732077 Hmm, can you DM us your account's email address and a screenshot of the error you're seeing? We'll take a look /RB https://t.co/ldFdZRiNAt

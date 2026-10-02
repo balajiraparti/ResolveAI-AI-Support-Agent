@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify works with the Bose client but since half an hour not with your own client (iPhone, latest iOS).
+SpotifyCares: @807638 Hey, thanks for the report! We had a little hiccup earlier, but everything should be running just fine now /JS

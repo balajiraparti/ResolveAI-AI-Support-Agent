@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Trying to update my CC info so you get paid. Cancelled the old one. When i filled out the update page and hit "change payment details", I got this: "The CSRF token is invalid. Please try to resubmit the form." Tried 5 times. How would you like me to pay you?
+SpotifyCares: @714915 Hi there! Can you DM us your account's username or email address? We'll take a look under the hood /JM https://t.co/ldFdZRiNAt

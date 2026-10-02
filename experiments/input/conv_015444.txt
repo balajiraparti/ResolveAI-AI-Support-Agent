@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The ad plays but then the music doesn't. Eventually it plays it just takes a while I don't really mind but I'm curious as to why. https://t.co/7wb8vfjgaa
+SpotifyCares: @342991 2: Settings &gt; Battery &gt; three-dot icon at the top &gt; Battery optimisation &gt; tap the drop-down arrow &gt; All apps &gt; Spotify &gt; Don't optimize /MG

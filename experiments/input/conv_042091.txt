@@ -1,0 +1,2 @@
+Customer: Spotify บน Windows เปิดไม่ได้บอกหาไฟล์ dll ไม่เจอ ให้ลงใหม่ ลงใหม่ก็เจอปัญหาเดิม uninstall ก็ไม่ได้ เลยเสิชไฟล์ Spotify ทั้งเครื่องแล้วลบเองแล้วลงใหม่ถึงจะได้
+SpotifyCares: @240746 Hey there! We have Thai support via email at https://t.co/zu6tKj0zLO, but we can help out in English here. Just let us know what's happening exactly. We'd love to lend a hand 🙂 /KC

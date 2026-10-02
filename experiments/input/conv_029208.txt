@@ -1,0 +1,2 @@
+Customer: @SpotifyCares An iPod Touch 6th gen, running iOS 11.1.1
+SpotifyCares: @316439 2: section &gt; ctrl+A (CMD+A if you're using a Mac) &gt; click and hold on a song then drag your cursor down slightly.

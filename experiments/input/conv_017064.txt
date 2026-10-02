@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I am on Mac OS High Sierra 10.13 and I have Spotify 1.0.66.478.g1296534d ....no matter how many times I chose on the drop down menu for it NOT to start up, it ALWAYS ALWAYS reverts to YES no matter what ....ugh https://t.co/VceKF3ujc8
+SpotifyCares: @116385 Thanks. Best thing to try here is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT. See if that helps /RH

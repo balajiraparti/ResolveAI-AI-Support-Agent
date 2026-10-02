@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Okay yep sorry but I explained myself poorly. After listening to a playlist it will create a radio for that playlist. That radio plays other artists and tracks. So I’m wondering if I can delete those radios. I hope that’s better
+SpotifyCares: @811141 Hmm. Can you try heading to Settings &gt; Playback &gt; toggle off AutoPlay? Does that help? /RE

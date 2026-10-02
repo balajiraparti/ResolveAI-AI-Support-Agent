@@ -1,0 +1,2 @@
+Customer: @3072  @115888  Android version on Pixel 2 XL. Update cuts off bottom bar titles. https://t.co/mEURnx0wiI
+SpotifyCares: @228087 Hi Richard! That's odd. Can you try logging out &gt; restarting your phone &gt; logging back in to see if it helps? Keep us posted /MU

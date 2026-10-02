@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Just tried on MacBook macOS Sierra 10.12.6 using Chrome 61.0.3163.100 from Belarus. Activity indicators shows up, but the page is still scrollable and editable. Nothing changes on the page over time, only Recaptcha timeout happens.
+SpotifyCares: @187455 Hi Alexander! We're afraid that Spotify is not yet available in your country, which is why you're unable to sign up for an account. We're launching in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM. Hope this clears things up /MU

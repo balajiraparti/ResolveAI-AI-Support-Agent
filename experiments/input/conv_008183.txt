@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Most songs playing fine on app, but some just aren't playing at all... Reinstalled the app, phone off and on, still no luck!
+SpotifyCares: @546953 Hey Sam, help's here! Can you send us the Spotify URI for the tracks that aren't playing? Just right-click the track &gt; Share &gt; URI /TB /TB

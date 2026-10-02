@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi, having sound issues on Pixel 2.  Audio to headphones still very quiet near max volume. Normalize and equalizer off.
+SpotifyCares: @129638 Hey there! Can you let us know the Android and app versions you're using? We'll see what we can suggest /PB

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS11.0 / iPhone7 / Spotify8.4.22.515 issue persists even on devices that have the latest iOS build. Check the thread plz. Thank you!
+SpotifyCares: @403432 We don't have any specific info to share about this, but our tech folks are on it as we speak. Hopefully we'll have it fixed soon /PL

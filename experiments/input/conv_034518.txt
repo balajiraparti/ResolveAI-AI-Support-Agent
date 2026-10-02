@@ -1,0 +1,2 @@
+Customer: Browse section does not automatically refresh according to day/time on my new macbook spotify app. Searched for answers online to no avail. please help! @SpotifyCares
+SpotifyCares: @783643 Hey Denise, help's here. Can you let us know the OS X and Spotify versions you're on? Does logging out and back in help at all? /AY

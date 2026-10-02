@@ -1,0 +1,2 @@
+Customer: @SpotifyCares One reason: "Your Spotify app needs updating." App updates require deleting all offline files? So I should just never update your app?
+SpotifyCares: @231397 If you do need to update Spotify, we recommend connecting to WiFi /I

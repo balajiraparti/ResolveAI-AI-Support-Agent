@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I often get this error on my machine when trying to launch Spotify. It is always NOT running (verified in Task Manager) https://t.co/Onu1vHqI5C
+SpotifyCares: @600277 Hi Jonno! Could you restart your PC into Safe Mode and try to install Spotify again? Just follow the steps here: https://t.co/lot9ABJbH1 /NY

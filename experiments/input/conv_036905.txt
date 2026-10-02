@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm on Android (a Pixel specifically) and when I'm casting my phone's volume keys/media controls menus don't adjust the Chromecast volume like they used to (in or out of the actual Spotify app).
+SpotifyCares: @368085 Hi Carter! That's not cool. Can you let us know the Android and Spotify versions you're rocking? /QI

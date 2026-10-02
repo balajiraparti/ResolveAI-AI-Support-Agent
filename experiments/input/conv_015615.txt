@@ -1,0 +1,2 @@
+Customer: @115888 feature that doesn’t play a song for a month, if you skip it within 10 sec after it starts playing.
+SpotifyCares: @403805 Hi Antonakis! Just to check, are you having that issue or you're requesting that feature? We'll see what we can suggest /MU

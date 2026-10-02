@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yes
+SpotifyCares: @635588 Losing Internet connection shouldn't cause the ad-free time to reset. We'll get this passed on to our devs so they can look into it /CX

@@ -1,0 +1,2 @@
+Customer: @115888 How do we hide this “Find Friends” window on the Mac app? I don’t use it and it’s a waste of space.
+SpotifyCares: @128724 Hey Michael! You can hide that section by clicking View &gt; unchecking Right Sidebar. If there's anything else, just give us a shout /RH

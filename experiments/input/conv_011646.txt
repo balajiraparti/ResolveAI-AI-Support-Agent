@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 6s Plus. app version : 8.4.22
+SpotifyCares: @646926 Got it. Could you try logging out, restarting your device by holding Home + Lock for 10 seconds, then logging back in? /PB

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares That didn't fix it. The play/next/previous keys still don't work. Tried the keys on both my external keyboard and the built-in one.
+SpotifyCares: @530821 Just to check, when did this issue start happening? Also, are there any other programs on your Mac that have a similar issue? /LM

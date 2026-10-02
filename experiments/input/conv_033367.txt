@@ -1,0 +1,2 @@
+Customer: @SpotifyCares after recent iOS update the view when iPhone is locked is incorrect re: the song referenced isn’t what’s actually playing https://t.co/A9ZUsxdjOp
+SpotifyCares: @531972 Hey there, the cavalry's here! Does logging out, restarting your device, and logging back into Spotify help? Keep us posted /JI

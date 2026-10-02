@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm unable to reset my password. This is the error I get "The CSRF token is invalid. Please try to resubmit the form." Why can't anything from Spotify ever be easy?
+SpotifyCares: @248886 Hey there! Can you try heading to https://t.co/6eDm6VZ89R using a different device, browser, or an incognito window? Let us know how it plays out /LM

@@ -1,0 +1,2 @@
+Customer: @spotifycares Your Windows Phone app stopped working for me today. Gives error: "The audio could not be started." Reinstalling doesn't help.
+SpotifyCares: @401644 Hey Lloyd, help's here! Can you let us know what exact device and Spotify version you're using? We'll see what we can suggest /CH

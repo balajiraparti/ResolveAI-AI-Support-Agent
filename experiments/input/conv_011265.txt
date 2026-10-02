@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Why can’t I connect to my Chromecast from the MacOS app at launch? I have to connect with my phone first. Totally annoying.
+SpotifyCares: @554849 2: discover and launch Spotify on Chromecast. Once running Spotify Connect can be used to control playback from your desktop desktop /NS

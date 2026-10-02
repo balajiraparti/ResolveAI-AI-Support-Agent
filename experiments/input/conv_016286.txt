@@ -1,0 +1,2 @@
+Customer: @SpotifyCares is there a reason songs skipping pausing like a skipping record while I try to listen to the Spotify app on my Chromebook?
+SpotifyCares: @415418 Hey there! The cavalry's here. Just to check, is this also happening when you're logged in to the web player via an incognito browser? /KB

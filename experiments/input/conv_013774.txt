@@ -1,0 +1,2 @@
+Customer: @115888 I'm saving downloaded music to SD card on Android. Bug: If I remove it shortly, even without running Spotify, I lose all downloads.
+SpotifyCares: @358840 Hey. Thanks for letting us know. We suggest turning off your device before removing the SD card to keep it healthy. Hope this helps /QI

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares it says the song is playing but i can’t hear anything. I have to force close it and reopen it for it to work.
+SpotifyCares: @653046 Hmm. Do you have a different device that you could log in to? If so, could you give it a go and check if the same thing is happening? /DR

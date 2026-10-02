@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Hey thanks for the reply! iOS 11.1.2, Spotify 8.4.28.1104
+
+Looks like this is the breaking point for the UI (everything below that size seems fine but I didn’t do a thorough QA): https://t.co/asCDrMIHKd
+SpotifyCares: @156307 We'd suggest logging out, closing the app, and restarting his phone before adjusting the font to the largest configuration. Let us know how it goes /MG

@@ -1,0 +1,2 @@
+Customer: .@115888 major mobile UI issue I run into is accidentally deleting saved song when I mean to queue. Often lose song forever. Can leftward push be changed within saved songs to avoid this?
+SpotifyCares: @697063 1: Hi Sean, we're sorry to hear that! No worries, we'll make sure to pass your feedback on to the relevant folks. In case those songs... /GT

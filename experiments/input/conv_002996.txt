@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Just switched to Mac. Hovering over the Spotify icon in the tray doesn't bring up track info/play/pause like on Windows. Watdo
+SpotifyCares: @142811 Hey Ben! Can you let us know what Mac OS and Spotify versions you're using? We'll take a look backstage /RK

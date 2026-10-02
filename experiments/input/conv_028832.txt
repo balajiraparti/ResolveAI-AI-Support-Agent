@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi, 1 of my 2 Play 5 Gen2 speakers stopped playing. I try to reconnect them via an ethernet cable. But it doesn't want to connect to my WiFi. If I do the same with the other one, its ok. Power is OK, no new Riuter or PW. Help!
+SpotifyCares: @680148 Hey Stephaan! Could you try restarting your router? Also, try using Spotify Connect from a third device if possible. Does that help? /LD

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Why does Spotify attempt to auto-link unreleased local files with existing tracks? The audio plays correctly from the local MP3 file, but the song title and artist name are totally wrong despite the MP3 having embedded metadata of its own.
+SpotifyCares: @396174 Hey Sam! We don't have any info on this right now, but we'll make sure your feedback's passed on to the right team /MT

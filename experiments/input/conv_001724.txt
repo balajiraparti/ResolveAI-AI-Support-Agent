@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey gang, running Spotify 8.4.21.508 on Pixel running Oreo. Sharing a track crashes the app and dumps me at the home screen. Help!
+SpotifyCares: @289717 Hey James! We're looking into this at the moment. Thanks for reporting /MA

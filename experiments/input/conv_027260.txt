@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm having an issue with playing music with the desktop app. Is this a known issue? I'm not having any problems on the mobile app.
+SpotifyCares: @659240 Hey Mary! Don't worry, help's here. Can you let us know the OS and Spotify version you have installed? We'll see what we can suggest /MT

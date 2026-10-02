@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It seems to be an app specific issue. As in, only one app's notifications pause playback on Spotify
+SpotifyCares: @166680 Hmm. Can you let us know which app this is? Also, could you let us know your device, OS and Spotify version? /HC

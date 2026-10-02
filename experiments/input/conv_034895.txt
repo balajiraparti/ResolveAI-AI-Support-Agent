@@ -1,0 +1,2 @@
+Customer: hey @SpotifyCares, why do I have to restart my Mac just to use my keyboard's skip/play/pause buttons? I'm running the newest version of spotify and my macbook is running High Sierra 10.13.1.
+SpotifyCares: @271197 Hey there! Can you let us know what model your Macbook is? Also, we suggest reinstalling the app. Just follow the steps here: https://t.co/EqisDMwZAT  to do so. Let us know if that makes a difference /KA

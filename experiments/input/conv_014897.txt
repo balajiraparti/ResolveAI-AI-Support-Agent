@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Android smartphone running version 8.4.24.871 of Spotify app. Don't get an error message, but often fails to load anything &amp; phone freezes.
+SpotifyCares: @386101 Thanks! Can you try logging out, restarting your device, and logging back in? Sounds simple, but it often helps. Let us know how it goes /LR

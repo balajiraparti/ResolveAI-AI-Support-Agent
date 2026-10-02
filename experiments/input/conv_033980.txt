@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify app on my google pixel with android 8 oreo does not consistently display track info for current playing track in my car. All other music apps I use work correctly with no issues.  When Spotify does show the info it only displays for about 5-10 seconds.
+SpotifyCares: @776652 Hi, help's here! Can you let us know your phone's Spotify version? We'll see what we can suggest /DV

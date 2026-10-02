@@ -1,0 +1,2 @@
+Customer: Windows 7 home, and I believe the version is...  1.0.58.573 ? https://t.co/qaqztbMFKU
+SpotifyCares: @463480 Thanks. Can you double-check the app's Settings to see if "Open Spotify automatically after you log into the computer" is set to No? /MU

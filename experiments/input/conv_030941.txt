@@ -1,0 +1,2 @@
+Customer: How do I tell @115888 to not play album radio after an album is finished?
+SpotifyCares: @723622 Hey! It sounds like the Autoplay feature is switched on. Having the feature enabled means that once you finish the album/playlist a radio station based on the album/playlist will start. Here's our guide on how to switch it off: https://t.co/R2NEIUoQFA /RC

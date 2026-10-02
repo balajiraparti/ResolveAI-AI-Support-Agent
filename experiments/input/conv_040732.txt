@@ -1,0 +1,6 @@
+Customer: #feature request for @115888 
+
+As a user
+I want to see MY playlists that contain a song
+when I search for it in the search bar
+SpotifyCares: @134394 Nice idea! It's definitely something for the team to consider and we'll make sure it reaches them. Keep rocking /MX

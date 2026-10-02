@@ -1,0 +1,2 @@
+Customer: @SpotifyCares press play - nothing happes. no error msg. mobile works well. desktop app always problems.
+SpotifyCares: @406725 Alright. Does logging out &gt; restarting your desktop &gt; logging back in to your account make a difference? /DV

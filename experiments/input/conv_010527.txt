@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Both do not solve issue. This was introduced just recently though, i think maybe 2 weeks ago? No problems on other devices with same version
+SpotifyCares: @508555 Best thing to try here is a reinstall. Just follow the steps at https://t.co/grEcQYYFVS. Let us know how you get on /RC

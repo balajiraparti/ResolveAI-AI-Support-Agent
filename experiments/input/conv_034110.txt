@@ -1,0 +1,2 @@
+Customer: @SpotifyCares are there problems accessing https://t.co/xqwmLTFGoT ? keep getting a 504 gateway timeout error no matter what device / web browser I use. The app itself is working ok but just upgraded to family plan today and want to add my wife on it
+SpotifyCares: @780112 Hey David, thanks for letting us know. Everything’s looking good on our end now - are you still having this issue? If so, could you give it another shot using an incognito window or a different browser? Let us know how it plays out /PK

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares My system operation is IOS and spotify version is 8.4.25
+SpotifyCares: @323084 We'd suggest logging out, closing the app, and restarting your device to see if that makes a difference. Let us know how it goes /MG

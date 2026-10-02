@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Currently using iOS 11.0.3 and the Spotify version is 8.4.25.906
+SpotifyCares: @249035 Got it. Does logging out &gt; restarting your device &gt; logging back in help at all? Give us a shout on how you get on /MT

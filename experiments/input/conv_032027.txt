@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It's always done it, even after multiple updates!
+SpotifyCares: @739608 Hmm. Can you go to Spotify &gt; Preferences &gt; Show Advanced Settings &gt; Startup and Window Behavior &gt; Open Spotify automatically after you log into the computer &gt; and see if it says No? Let us know how it plays out /GU

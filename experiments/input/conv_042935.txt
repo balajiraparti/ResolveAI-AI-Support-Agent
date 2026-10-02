@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Still the same issue, sorry! It's not just that album either – it's literally every single album in the entire Spotify catalogue, they all show one year earlier. I even went as far as deleting all cache/preference files when reinstalling and still nothing.
+SpotifyCares: @256475 Hmm. Does using a different device make a difference? Let us know how this plays out /MS

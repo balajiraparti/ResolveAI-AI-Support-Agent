@@ -1,0 +1,2 @@
+Customer: @SpotifyCares i’ve noticed it does it when my service switches from 3G to LTE or vice versa. Or if I do anything involving the internet.
+SpotifyCares: @183147 Can you check if the same thing happens when using a WiFi connection? Does this happen when using other devices? /RC

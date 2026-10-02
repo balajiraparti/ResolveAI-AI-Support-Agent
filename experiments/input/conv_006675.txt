@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Logged out/logged back in and restarted the computer, still get the same error message. Restarting my phone didn't do anything either.
+SpotifyCares: @318048 Does this happen over 3G/4G, WiFi, or both? If possible, could we get you to try using a different network connection? /DD

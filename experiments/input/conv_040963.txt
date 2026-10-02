@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Chrome web player on Windows 10. Playlist loads but won’t play music (says it is), won’t let me change playlists, won’t let me select other songs. Basically unresponsive to everything.
+SpotifyCares: @139572 Thanks for that info! We're on the case. Can you give it a try again in a couple hours? Let us know how it goes /DT

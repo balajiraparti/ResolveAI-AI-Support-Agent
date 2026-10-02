@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 8.4.22.515
+SpotifyCares: @321064 Thanks! Can you give this a try: log out from Spotify &gt; restart your device &gt; log back in? Did that make a difference? /DR

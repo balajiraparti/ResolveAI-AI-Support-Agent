@@ -1,0 +1,2 @@
+Customer: hey @115888 why does spotify keep launching when I log on to my computer. the option to start spotify on boot up keeps checking. I change it and then it doesn't save.
+SpotifyCares: @630168 Hey there! Help's here. Can you let us know the operating system and app version you're using? We'll see what we can suggest /PB

@@ -1,0 +1,3 @@
+Customer: @SpotifyCares No error messages, just says the songs aren't downloaded(sometimes on the artist list it'll list songs I have but I click in and it says I need to download). iPhone SE iOS 11.1.1, Spotify app 8.4.27.895
+Thanks!
+SpotifyCares: @296118 Thanks. We'd recommend checking out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /NY

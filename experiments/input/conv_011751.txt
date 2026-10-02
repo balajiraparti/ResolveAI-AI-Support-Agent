@@ -1,0 +1,2 @@
+Customer: @115888 Your chromecast integration is broken and doesn't respect playlist ordering. Skips back to # 1 after a song finishes. :(
+SpotifyCares: @553427 Hi Ian, that's no fun. Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /JE

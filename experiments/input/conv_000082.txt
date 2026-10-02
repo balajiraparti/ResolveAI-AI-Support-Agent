@@ -1,0 +1,2 @@
+Customer: @SpotifyCares True but from the point of view of user interface, should automatically or at least add the button for refresh
+SpotifyCares: @503704 Thanks! It's great to hear your thoughts about having a refresh button. We'll be sure to forward your feedback to the right team /TQ

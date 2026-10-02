@@ -1,0 +1,2 @@
+Customer: @SpotifyCares My ps4 just isn't showing up as a device on my phone when it's had no problem with this before.
+SpotifyCares: @275714 Thanks for the info. Did this start happening after a specific update? If possible, can you try restarting your network router? Let us know if that helps /CE

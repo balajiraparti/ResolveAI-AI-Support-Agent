@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have tried in Chrome and IE. I'm behind a corporate proxy that disallows pretty much everything except http/https. It also SSL-offloads.
+SpotifyCares: @216046 We're afraid we don't have any other info to share right now, but we'll pass your feedback on to the team. Anything else, let us know /NY

@@ -1,0 +1,2 @@
+Customer: @115888 @SpotifyCares This always happens to my playlist at some point, but I'm trying to stream the same song on a playlist and it stays stuck on the first track. What is with this?
+SpotifyCares: @255196 Hi there! Can you give this a try: log out from Spotify &gt; restart your device &gt; log back in? Did that make a difference? /DR

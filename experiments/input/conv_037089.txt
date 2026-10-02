@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Win10 Desktop &amp; store app. Android7 app. The green wheel spins for atleast 5 min or more before the entries load. Done everything, clear data+cache, reinstall, tested on a newly reset device, re-log-in.
+SpotifyCares: @622027 Does restarting your router help at all? We'd also recommend trying different WiFi networks /RC

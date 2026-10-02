@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Thanks for response! The app says that music is playing, but no sound comes out. I have to restart to make it work again.
+SpotifyCares: @135367 Gotcha. Can you try reinstalling the app using the steps here: https://t.co/PDA2aKzC6Q? Let us know how it plays out /LM

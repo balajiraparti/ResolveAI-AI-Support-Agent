@@ -1,0 +1,2 @@
+Customer: @115888 is there a known issue with the Android app and connected devices? Have to restart the app to see mine?
+SpotifyCares: @228602 Hey! What's happening exactly? Can you let us know the exact Android and Spotify versions you're running? We'll see what we can suggest /PL

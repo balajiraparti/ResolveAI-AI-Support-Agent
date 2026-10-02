@@ -1,0 +1,2 @@
+Customer: @SpotifyCares spotify doesn't work with Android Auto after last Huawei update to build B391 on my P9 Lite
+SpotifyCares: @454711 Hey! Can you send us the versions of your phone's Android OS and the Spotify app? We'll see what we can suggest /CX

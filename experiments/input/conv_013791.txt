@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, Spotify client on Windows 7 still report that there is no connection (error 4) but my connection is working for other apps
+SpotifyCares: @356813 Hey Laurent! Best thing to try here is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT. Let us know how it goes /TB

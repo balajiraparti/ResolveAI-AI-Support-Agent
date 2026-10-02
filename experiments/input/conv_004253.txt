@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm using macOS Sierra ver 10.12 and my current Spotify version is 1.0.64.399.g4637b02a
+SpotifyCares: @213827 Thanks. Could you try logging out &gt; restarting the app &gt; logging back in? See if that makes a difference /RH

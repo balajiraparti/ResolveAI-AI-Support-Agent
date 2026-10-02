@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 8.4.20, my app updates itself, no it’s happening in my own playlist and in the pre made ones too 😩
+SpotifyCares: @207122 Thanks for clearing that up. Can you try logging out &gt; restarting your device &gt; logging back in? Does it make any difference? /RK

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm not receiving any on-screen errors. Only audio cut-outs. It also occurs when casting to a Google Home.
+SpotifyCares: @716182 Thanks for letting us know. We’d recommend checking the steps under 'FAQs: General Troubleshooting’ at https://t.co/AderDHf8Nu. Keep us posted /CE

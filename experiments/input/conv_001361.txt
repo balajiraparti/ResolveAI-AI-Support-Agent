@@ -1,0 +1,2 @@
+Customer: @SpotifyCares dell precision laptop, Win10, in Chrome browser
+SpotifyCares: @176258 Can you try using a different device, browser, or incognito window? Let us know if that makes a difference /LM

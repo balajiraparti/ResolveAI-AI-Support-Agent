@@ -1,0 +1,2 @@
+Customer: @SpotifyCares For some reason only over wifi
+SpotifyCares: @436842 1: Got it. Are you using a public or private network? If it's the latter, can you try restarting your router as well as your device?

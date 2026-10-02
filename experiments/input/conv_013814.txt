@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It's iPhone 10.3.3 (?) and it's 8.4.22.515. Thank you
+SpotifyCares: @561110 Is the issue happening when you're connected to WiFi or mobile data? Can you try logging out and logging back in to refresh the app? /NJ

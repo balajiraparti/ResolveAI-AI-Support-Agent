@@ -1,0 +1,2 @@
+Customer: When I'm on a playlist and I try to shuffle it only shuffles by artist and not by song. It's like some weird algorithm that @115888 has. Are there solutions to that or what's the deal
+SpotifyCares: @661815 Hey! We’ve made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /CX

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares my account has recently been hacked by someone who changed the email address associated with the account to __email__. Can you help me get it back?
+SpotifyCares: @250954 Hi there. We suggest deleting your tweet as it contains your private info. Can you DM us your email address instead? /LM https://t.co/ldFdZRiNAt

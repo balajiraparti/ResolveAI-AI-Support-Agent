@@ -1,0 +1,2 @@
+Customer: Anyone know why local files on @115888 won't download offline?
+SpotifyCares: @552227 Hey! Could you let us know the devices, operating systems, and Spotify versions you're using? We'll see what we can suggest /RC

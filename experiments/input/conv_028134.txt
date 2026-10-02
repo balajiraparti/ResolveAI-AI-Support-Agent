@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, can you please ask the developers to offer a way to disable device linking? I never want to play music on one computer from another and when it tries to it's really annoying.
+SpotifyCares: @668449 Hey Richard! It's not possible to turn off Spotify Connect at the moment, but we'll pass on the suggestion to the relevant team /TM

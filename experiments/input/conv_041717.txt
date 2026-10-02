@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Windows 7. I'm not sure which spotify version since it won't let me open the app
+SpotifyCares: @232842 Got it. Can you try reinstalling Spotify by going into Safe mode with networking? Does this make any difference /JP

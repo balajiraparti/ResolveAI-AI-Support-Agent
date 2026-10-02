@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have "Download using cellular" turned off. Why did Spotify just download 4gb of songs using my cell data?
+SpotifyCares: @283024 Hey! What device, operating system, and Spotify version are you using? We'll see what we can suggest /CB

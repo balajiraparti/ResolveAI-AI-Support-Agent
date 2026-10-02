@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Got something - was able to pull a stack trace via adb. Hope this helps! https://t.co/iNiamncVkn
+SpotifyCares: @194236 We appreciate that, but this is something our developers are looking into at the moment. We'll post updates once this is fixed /NY

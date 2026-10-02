@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When I close the app and enter it again it works but after a week it happens again
+SpotifyCares: @158590 Just to check, is this happening on 3G/4G, WiFi, or both? We'll keep an eye out for your message /RC

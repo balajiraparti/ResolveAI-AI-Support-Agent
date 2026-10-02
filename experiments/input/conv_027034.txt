@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Windows 7 Professional OS, Chrome, Explorer, and Firefox all had the same result.  No error message, the browser just goes to the update page and sits there waiting for the form to load.  I attached a screenshot... https://t.co/iGlgxMubg1
+SpotifyCares: @654628 Thanks for the info. Can you try clearing your browser's cache/cookies? Could you also try using an incognito window? Keep us posted /LM

@@ -1,0 +1,2 @@
+Customer: Hey @115888, the Stranger Things overlay is cool and all, but it's killing my CPU and, thus, my battery. According to https://t.co/CAjBbiPH8x, this is an ad. As a paying subscriber, why am I not able to disable these ads?
+SpotifyCares: @281865 Hey Ian. The feature is available to Free and Premium users. We're afraid, though, that the option to disable it is not available on the desktop app or Web Player. What operating system and Spotify version are you using? We'll see what we can suggest /AY

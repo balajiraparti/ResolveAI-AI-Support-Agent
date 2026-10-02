@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm a spotify user and for some reason, my spotify won't let me play my playlist. Please help.
+SpotifyCares: @566593 Hey, help's here! Can you fire over the device's make/model, OS, and the Spotify version you're using? We'll see what we can suggest /JS

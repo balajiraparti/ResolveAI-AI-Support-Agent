@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Version 8.4.24.871 spotify
+SpotifyCares: @508515 Can you log out, restart the device, then log back in before checking if the same thing happens again? /JU

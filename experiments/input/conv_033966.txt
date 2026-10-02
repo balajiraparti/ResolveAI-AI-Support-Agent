@@ -1,0 +1,3 @@
+Customer: @SpotifyCares iOS v11.1.2 Spotify v8.4.27.895
+macOS v10.13.1 Spotify v1.0.67.582
+SpotifyCares: @442195 Thank you for that! Can you try logging out &gt; rebooting your device &gt; logging back in? This should get you back to seamlessly streaming between devices. Let us know how it goes /DT

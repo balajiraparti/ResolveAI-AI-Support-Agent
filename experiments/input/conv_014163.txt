@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Each time the screen just freezes, and I restart my computer. Sometimes it works after I restart, but sometimes it freezes again.
+SpotifyCares: @364795 Got it. Are you getting any error messages whenever it happens? If so, a screenshot of what you're seeing will be handy /MA

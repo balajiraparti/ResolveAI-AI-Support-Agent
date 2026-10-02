@@ -1,0 +1,2 @@
+Customer: @SpotifyCares how do I download a song to my hard drive?? I'm on a Mac
+SpotifyCares: @288846 1: Hey Brett! The app does not download the song directly to your hard drive. It just stores a temporary copy of the song in the cache.

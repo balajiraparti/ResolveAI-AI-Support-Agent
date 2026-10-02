@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hello! Why do you remove the track metadata (artist, track, album) when it is shared through the iOS app? You used to add it.
+SpotifyCares: @505039 Hi Thomas. Thanks for bringing this up. We’re always testing things in order to improve &amp; we'll pass on your thoughts to our devs /JU

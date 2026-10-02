@@ -1,0 +1,2 @@
+Customer: @117168 @115888 my app stops playing music when I switch in between apps. What’s up with that?
+SpotifyCares: @561820 Hi! Just to clarify, does your app stop whenever you change tracks? What device, operating system, and Spotify version are you using? /AU

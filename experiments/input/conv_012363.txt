@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Thanks I am on iOS 11.0.2 and Spotify 8.4.22.515. Everything else works fine. Just an Ed free zone .
+SpotifyCares: @321976 Thanks! Can you give this a try: log out from Spotify &gt; restart your device &gt; log back in? Did that make a difference? /DR

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Clearing the Spotify connection from the Echo app allows desktop and phone app to work, but breaks the Echo/Sonos/Spotify connection
+SpotifyCares: @286241 What happens exactly when you try playing on your phone/desktop while linked to Sonos? Is it crashing? Do you see any error messages? /JP

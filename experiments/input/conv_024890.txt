@@ -1,0 +1,3 @@
+Customer: @115888 why don't y'all use caching in your app? I Iove pressing the buttons, just back and forth. The UX design is delicious! Until the data refreshes everytime I go from view to view...there can't be that much dynamic data??? Maybe introduce reactive programing?
+#280characters
+SpotifyCares: @618975 Hey there. What's happening exactly? Can you also let us know the device, operating system, and Spotify version you're on? /AY

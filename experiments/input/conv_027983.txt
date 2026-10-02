@@ -1,0 +1,2 @@
+Customer: @SpotifyCares MacBook Pro, OS X Yosemite 10.10.5, idk if this is the Spotify version but 1.0.67.582.g19436fa3
+SpotifyCares: @665268 Thanks for the info. Can you try restarting your WiFi connection to see if that helps? Keep us posted /NY

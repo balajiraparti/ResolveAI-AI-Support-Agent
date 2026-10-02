@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hey, any explanation why the "Create similar playlist" function doesn't work anymore for me? MacBook, v1.0.64.399.g4637b02a.
+SpotifyCares: @160485 Hi there, the cavalry's here! Does logging out, restarting your device, and logging back into Spotify help? Keep us in the loop /JI

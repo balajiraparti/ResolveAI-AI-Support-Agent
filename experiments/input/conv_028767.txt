@@ -1,0 +1,8 @@
+Customer: @SpotifyCares
+Log in to your account page.
+Click Change password in the menu on the left.  &lt;--- NOT THERE!
+Type your current password.
+Type your new password.
+Retype your new password in Repeat new password.  
+Click SET NEW PASSWORD.
+SpotifyCares: @441419 Hey there! Are you having any issues resetting your password? If so, can you DM us your account's email address or username? /PB https://t.co/ldFdZRiNAt

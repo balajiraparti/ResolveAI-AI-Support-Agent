@@ -1,0 +1,2 @@
+Customer: @SpotifyCares currently on 8.4.26.770, only happens on Android it seems
+SpotifyCares: @488028 Thanks. Just to check, is the Google Home Speaker the only one that's duplicated on your list of available devices? Does logging out/back in to the app make a difference? As for the playlists on your second screenshot, is the username shown in that format for all of them? /JT

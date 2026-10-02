@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify version 8.4.26.793 . I’ve restarted my phone; No difference. Left speaker still not producing sound. No matter if it is controlled via iPhone or Android.
+SpotifyCares: @680148 Hmm. Can you let us know when this started happening? Was it after a specific update? /RC

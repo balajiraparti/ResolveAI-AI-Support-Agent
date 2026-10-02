@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error messages, responsiveness gets progressively more sluggish until music stops playing when the system freezes.
+SpotifyCares: @6463 Thanks for letting us know. When did this start happening? Does restarting your device help? /NS

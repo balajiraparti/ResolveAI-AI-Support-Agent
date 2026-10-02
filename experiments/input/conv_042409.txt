@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Need help logging on. Gives error when trying to reset password...CSRF toknn is invalid.
+SpotifyCares: @252246 Hey Monica! We've just replied to your DM. Let's continue chatting there /JL

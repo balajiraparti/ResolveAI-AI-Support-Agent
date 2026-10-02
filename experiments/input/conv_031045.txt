@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS 11.1.1 and its an iPhone 6SE. Was working yesterday morning, now since the update, it is no more
+SpotifyCares: @725058 Thanks! Can you try logging out, restarting your device, then logging back in? Let us know if that helps /QI

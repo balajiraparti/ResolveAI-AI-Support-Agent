@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi guys, my downloaded songs keep getting unrecognized when I go offline. I have to keep selecting "download" and it is frustrating when I want to listen to music on a plane not having offline content. Why is this happening on my LGV10 Android?
+SpotifyCares: @237303 Hey Raj! Sorry to hear that! Check out the steps under “Downloads unexpectedly removed” at https://t.co/EidIERWgLX. They should help with this /CP

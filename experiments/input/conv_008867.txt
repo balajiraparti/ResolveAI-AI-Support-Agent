@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yes I am getting it. Only 12 hours later than I’d like to. Maybe caching issue in app, because songs say “added 17 h ago” in playlist now
+SpotifyCares: @435985 It's possible. In this case, we'd suggest logging out then back in next week. This should force the app to sync to our servers /PB

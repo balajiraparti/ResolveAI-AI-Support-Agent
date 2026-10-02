@@ -1,0 +1,4 @@
+Customer: @SpotifyCares I've reset my password 3 different times today due to it being "incorrect", and yet, Spotify won't let me log in. 
+
+ I can't reset my password due to CSRF token being invalid now. What gives?
+SpotifyCares: @220869 Hey, help's here! Can you DM us your account's email address along with a screenshot of that error message you're getting everytime you reset your password? We'll look into this further /RR https://t.co/ldFdZRiNAt

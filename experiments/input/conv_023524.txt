@@ -1,0 +1,2 @@
+Customer: Hey @SpotifyCares. Site won't load at all in Firefox. In Chrome prompts me to log in, but when I do, takes me back to the "please log in." https://t.co/KLfVmtH1RC
+SpotifyCares: @514335 Hey! Don't worry, we're on it. Our developers are looking into this, and we'll keep everyone updated /DF

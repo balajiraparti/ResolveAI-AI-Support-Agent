@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, yes it freezes my computer so i have to reboot it. I cant run the app on my laptop at all. Do i need to reinstall it again?
+SpotifyCares: @202846 Hmm. Let's narrow down the possible cause first. Are you getting any error messages? If so, can you send us a screenshot? /PB

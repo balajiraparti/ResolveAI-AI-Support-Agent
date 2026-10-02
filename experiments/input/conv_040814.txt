@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Samsung Galaxy S7 (SM-G930T), Android version 7.0, Spotify version: 8.49.289 armV7
+SpotifyCares: @135360 Got it. Can you check if logging out &gt; restarting your phone &gt; logging back in to your account makes a difference? /DV

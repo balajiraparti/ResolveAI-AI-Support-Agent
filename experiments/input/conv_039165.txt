@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Question. Why can Spotify Desktop not see my Chromecast, but the iOS app can. If I want to cast to my TV from my laptop I have to start playing through my phone, THEN desktop sees it as the device I'm currently playing from, and lets me control it. It's weird.
+SpotifyCares: @806201 Hey Ben! It’s currently not possible to discover a Chromecast device from the desktop app. You need to use a mobile device or a tablet to discover and launch Spotify on Chromecast. Once running, Spotify Connect can be used to control playback from your desktop /NS

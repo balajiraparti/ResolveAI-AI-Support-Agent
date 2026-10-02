@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yep - asking for a playlist (even vaguely!) or a specific song works absolutely fine. I've tried a range of artists all on Spotify but Alexa isn't playing nice. As I said, super weird because it was fine last week!
+SpotifyCares: @777908 Thanks for the info. Can you try unlinking, and then relinking your Spotify account on your Amazon Echo? Afterwards, try using the command again, and see if the issue persists /LM

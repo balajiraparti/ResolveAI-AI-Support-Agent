@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey, I can't upgrade to premium. "503 Service Unavailable. No server is available to handle this request." Android app and web app.
+SpotifyCares: @777231 Hey Sverre! Thanks for letting us know. Everything’s looking good on our end now - are you still having this issue? /NH

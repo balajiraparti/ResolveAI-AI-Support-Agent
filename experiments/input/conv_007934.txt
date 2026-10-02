@@ -1,0 +1,2 @@
+Customer: @SpotifyCares ios 11.0.1 and version 8.4.22
+SpotifyCares: @371860 Thanks. Can you log out, restart the iPhone, then log back in before checking if it does it again? /JU

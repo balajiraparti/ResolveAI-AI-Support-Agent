@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I cannot see anything! The screen turns black and the fans go off..ultimately the system shuts down!
+SpotifyCares: @236862 Hmm, that's odd. In this case, we'd suggest that you do a clean reinstall. You can follow the steps here: https://t.co/vNY2SFlp5h. Let us know how it goes /LO

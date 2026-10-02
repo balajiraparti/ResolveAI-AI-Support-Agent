@@ -1,0 +1,2 @@
+Customer: The web player is broken in Chromium 61, @SpotifyCares. Flash is enabled, DRM is enabled. Says "enable player" but nothing useful. What now?
+SpotifyCares: @562901 Hey! The new web player is currently available in Google Chrome, Firefox, and Edge only. We'd suggest using any of the 3 browsers /GU

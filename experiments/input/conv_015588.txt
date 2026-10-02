@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Mac OS High Sierra. Spotify 1.0.66.478
+SpotifyCares: @400135 Can you try logging out and back in again? You can also try restarting your device to see if it helps /MA

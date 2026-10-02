@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Following error message I get since upgrading to Spotify  1.0.66.478.g1296534d https://t.co/lkA0SrdfKC
+SpotifyCares: @160030 The app should automatically detect if you're using a proxy. You can also configure it by going to Advanced Settings. Hope this helps /CX

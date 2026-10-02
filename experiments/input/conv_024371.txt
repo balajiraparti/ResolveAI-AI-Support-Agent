@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, what's the criteria behind the sorting of a playlist when opened via link? Can I modify that? Thanks in advance!
+SpotifyCares: @601170 Hey Felipe! Just to confirm, are you opening the link in your mobile app, desktop app, or web player? We'll see what we can suggest /JP

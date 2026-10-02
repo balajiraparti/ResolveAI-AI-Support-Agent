@@ -1,0 +1,2 @@
+Customer: @SpotifyCares getting a "Secure Connection Failed" error on my end. Firefox, Web Player
+SpotifyCares: @520133 Hi, help's here. Can you let us know the make/model of your device and its operating system? We'll see what we can suggest /AK

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares windows Error 17 on trying to install on PC tried all troubleshoot options , not happy , £9.99 a month and it doesn’t work ! Help please
+SpotifyCares: @157540 Got it! Let's try to cover all bases first. Can you right-click on the Spotify installer and select "Run as administrator"? Let us know how it goes /KB

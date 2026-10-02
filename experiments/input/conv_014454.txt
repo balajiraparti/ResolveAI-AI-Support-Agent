@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm using an LG G3 w/ Android OS 6.0, spotify version 8.4.24.871armV7
+SpotifyCares: @562984 Thanks! Does logging out and logging back in help? Restarting your device is also worth a try. Let us know how it plays out /GU

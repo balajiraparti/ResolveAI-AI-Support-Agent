@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When connecting my iPhone and opening Spotify, it either won’t react and stays on black screen or plays without audio. Always have to disconnect the cable or first open Apple Music and THEN Spotify. Only then it works. Very very very annoying
+SpotifyCares: @381349 Can you let us know the iOS and Spotify versions you're running? We'll check it out /RC

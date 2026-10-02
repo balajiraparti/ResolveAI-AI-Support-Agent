@@ -1,0 +1,2 @@
+Customer: @SpotifyCares After revoking the access for Sonos the speakers still show up in Connect + are actually usable (Sonos access gets reinstated)
+SpotifyCares: @345428 Hey Benjamin! Can you try logging out from your Sonos device? Let us know how it goes /PL

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS 11.1.2 and Spotify 8.4.28.1104
+SpotifyCares: @157052 Thanks. Does logging out, restarting your device, and logging back in make a difference? /LO

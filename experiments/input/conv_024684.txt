@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I just got a new samsung s7 and spotify keeps on randomly turning on and off for no reason. I have reinstalled, any other fixes?
+SpotifyCares: @534226 Hey, help's here! Can you let us know the Android version you're using? Just go to Settings &gt; About Device/Phone &gt; Software info /JS

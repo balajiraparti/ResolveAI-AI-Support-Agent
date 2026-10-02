@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I can’t seem to get on your website using iOS. Keep getting 504 gateway timeout. I’ve tried rebooting, clearing cookies thanks
+SpotifyCares: @778603 Hi Kathryn! Can you let us know the make and model of your device, along with the iOS and Spotify versions you're using? We'll see what we can suggest /MC

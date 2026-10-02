@@ -1,0 +1,2 @@
+Customer: @SpotifyCares If you gave me the email address connected to the account I could try to access it
+SpotifyCares: @503210 Hey there! The email linked to your account is __email__ (starred for security). Does this look familiar? /JX

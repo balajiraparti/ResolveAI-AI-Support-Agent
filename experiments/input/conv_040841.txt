@@ -1,0 +1,3 @@
+Customer: @SpotifyCares Spotify version 8.4.29.29 armv7
+Android version 6.0.1
+SpotifyCares: @134868 Thanks! Are you getting this issue on 3G/4G, WiFi, or both? /SY

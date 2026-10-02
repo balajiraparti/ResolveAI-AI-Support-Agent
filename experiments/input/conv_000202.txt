@@ -1,0 +1,2 @@
+Customer: @SpotifyCares macbook 2016, os x el capitan, app version 1.0.60.492
+SpotifyCares: @166000 Thanks. Could you log out, restart your Mac, then log back in before checking again? /JU

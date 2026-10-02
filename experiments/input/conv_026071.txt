@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Bluetooth play/pause not working on Android 8.4.26.770. Neither wear-watch or several BT-headsets working. Been like this for months. Skip fwd/back is working.
+SpotifyCares: @641288 Hi there. Can you let us know what device and Android version you're running? We'll see what we can suggest /LM

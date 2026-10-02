@@ -1,0 +1,2 @@
+Customer: @SpotifyCares this bug that makes me close and reopen whenever any sound in another app interrupts a song playing in Spotify is killing me!! Is there a patch coming soon?? I’ve restarted Spotify a hundred times today just to resume a song playing 2 seconds ago.
+SpotifyCares: @156645 Hey Anne! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /RH

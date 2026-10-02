@@ -1,0 +1,2 @@
+Customer: @SpotifyCares "We're having trouble authorizing your account with Spotify. Please contact Spotify support to help resolve this issue."
+SpotifyCares: @596964 Hi there, that doesn't sound good. Can you DM us your account's email address? We'll take a look backstage /AK https://t.co/ldFdZRiNAt

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It did for a short period. Then it just reverted back to locking on 1 song. I can change song from widget. It just doesn’t show right song
+SpotifyCares: @437810 Got it! Our best tech folks are on the case as we speak. Hopefully we'll have a fix soon /RA

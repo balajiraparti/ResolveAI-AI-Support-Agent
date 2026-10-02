@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi, every few days my app automatically deletes all my downloaded songs. please assist!
+SpotifyCares: @572366 Hey, sorry to hear that! The steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF should help with this /CX

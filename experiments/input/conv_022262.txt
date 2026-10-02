@@ -1,0 +1,2 @@
+Customer: Hey @137949 my Sonos One keeps randomly skipping to the next track on Spotify. Incredibly annoying! I have factory reset to try a fix
+SpotifyCares: @417273 That's odd. Can you let us know if you're controlling playback from the Sonos App or via Spotify Connect? /MU

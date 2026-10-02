@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Do you know if there's any plans to fix proper chromecast support for the desktop apps? Since they're chrome based now.
+SpotifyCares: @602031 We're afraid we don't have any more info about this. We’re still working on it and we'll keep everyone posted once we have updates /JU

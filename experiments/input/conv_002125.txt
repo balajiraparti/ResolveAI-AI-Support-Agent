@@ -1,0 +1,5 @@
+Customer: @SpotifyCares
+Hello when i create a direct link from my playlist like this one:
+https://t.co/ssu59CSN2k
+It doesnt seem to work.
+SpotifyCares: @189114 1: Hi! We tried streaming your Ultra Permissions Development playlist from the Tweet, and everything seems to be fine. Can you tell...

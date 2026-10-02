@@ -1,0 +1,2 @@
+Customer: @117153 hey I can't signup, no with fb and not with email
+SpotifyCares: @250508 Hi there. Can you let us know what's happening exactly? Are you getting any specific error messages when trying to create an account? We'll see what we can suggest /LM

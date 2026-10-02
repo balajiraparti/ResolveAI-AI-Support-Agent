@@ -1,0 +1,2 @@
+Customer: Dear @SpotifyCares sometimes when I'm scrolling twitter my music pauses itself and then when I click play it plays super sped up . Is this a bug or am I accidentally clicking something ? The app is running in the background so I'm not sure it's a user error
+SpotifyCares: @150029 Hey Daniel, help's here! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /GK

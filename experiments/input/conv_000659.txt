@@ -1,0 +1,2 @@
+Customer: @SpotifyCares having issues with the shuffle when connected through bluetooth on my car. i have iOS11.0.1 and a Mazda vehicle.
+SpotifyCares: @160410 Hey Daniel! What device and Spotify version are you using? Could you also tell us more about the issue? We'll see what we can suggest /JE

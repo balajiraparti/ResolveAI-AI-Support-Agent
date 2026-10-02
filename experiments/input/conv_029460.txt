@@ -1,0 +1,3 @@
+Customer: Is there a way to have spotify playback the videos from the app on top of other windows?  (OS X/macOS)
+cc @115888 @SpotifyCares @117168
+SpotifyCares: @691807 2: Our devs regularly check the page for new ideas to implement /KT

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey guys, the Android app is being a bit slow lately. Starting a track takes quite a while often.
+SpotifyCares: @410469 Hey Timo, help's here! Could you let us know your device's model and Spotify version? We'll see what we can suggest /GU

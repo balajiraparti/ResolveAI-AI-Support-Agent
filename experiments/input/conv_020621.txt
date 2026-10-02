@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 7+, ios 10.3.2, spotify version 8.4.24
+SpotifyCares: @447170 Got it. To switch off the feature, just head over to Your Library &gt; Settings (cog icon) &gt; Playback &gt; toggle off Behind the Lyrics /KB

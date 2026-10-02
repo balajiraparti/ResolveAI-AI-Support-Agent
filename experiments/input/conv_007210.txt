@@ -1,0 +1,2 @@
+Customer: @SpotifyCares If I drag a playlist into a folder (2-levels), Spotify fails to move the playlist and crashes drag and drop.
+SpotifyCares: @540138 Hey Will! Could you let us know your device's make/model, operating system, and Spotify version? We'll see what we can suggest /GU

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Is device broadcast status available in the iOS app because I cant find it?
+SpotifyCares: @585966 Hey there! This isn't currently possible on iOS devices. Don't worry, we'll let the right team know it's something you'd like to see /GU

@@ -1,0 +1,2 @@
+Customer: @117153 I'm seeing a lot of 503 errors from the API
+SpotifyCares: @224971 Hey Kurt! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /LO

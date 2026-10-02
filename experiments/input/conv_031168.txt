@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm not sure when it happened but OSX 10.13.1 and Spotify Version 1.0.67.582.g19436fa3 when I hit the play button on my Macbook Pro's Keyboard, it doesn't play the music from spotify anymore.
+SpotifyCares: @726030 Hi Aaron! Can you try to log out of your account, restart your device, and log back in? Let us know how it plays out /HR

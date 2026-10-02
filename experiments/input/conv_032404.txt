@@ -1,0 +1,2 @@
+Customer: @SpotifyCares fyi, when Spotify goes to an ad, the whole app (android) needs the ol' turn it off and on again to work. Bug in the last update?
+SpotifyCares: @751822 Hi PJ, help's here. Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /NY

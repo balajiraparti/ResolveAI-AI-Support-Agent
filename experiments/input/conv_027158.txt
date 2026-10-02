@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 8.4.25.906 is the Spotify version. Yeah: happening on both. Something ‘changed’ earlier today, so it now shows my playlists, bands etc but still no search option and now no playlists
+SpotifyCares: @641337 No worries! Let's try restarting your device by holding Home + Lock for 10 seconds. Does that help? /BH

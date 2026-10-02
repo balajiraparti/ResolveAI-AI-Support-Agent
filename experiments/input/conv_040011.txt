@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Nope did not, tried to re init by reloading spotify and preload the playlist before casting, didnt help
+SpotifyCares: @813233 Hmm. Does it happen only on a specific playlist? If so, can you send us a link? /PB

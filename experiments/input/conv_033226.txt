@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I am on MacOS 10.13. Spotify is 1.0.67.582.g19436fa3
+SpotifyCares: @630168 Thanks for the info. Can you also send us a screenshot of your Startup and Window Behavior settings? We'll take a closer look /PB

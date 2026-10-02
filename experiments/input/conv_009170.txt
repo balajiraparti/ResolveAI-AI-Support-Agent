@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I reinstalled and nothing has changed D:
+SpotifyCares: @400362 We appreciate the heads-up. Do you have any active firewall/antivirus programs? If so, could you try temporarily disabling them? /MT

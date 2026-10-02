@@ -1,0 +1,2 @@
+Customer: Yo @SpotifyCares why does clicking "Log In With Facebook" keep redirecting me back to the main login page?
+SpotifyCares: @221679 Hey there, that doesn't sound right! Can you let us know your device, operating system, and Spotify version? We'll see what we can suggest /JP

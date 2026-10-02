@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi! Is "1.0.67.582.g19436fa3" a version number? If not, where do I find that?
+SpotifyCares: @669686 You got it right, thanks! Just to check, are there other programs open on your laptop when this happens? Also, can you let us know when this started? /CP

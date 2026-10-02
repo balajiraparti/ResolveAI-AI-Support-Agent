@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The songs are playing but a noise gets on the way after every second. I'm using a Windows Nextbook.
+SpotifyCares: @164927 Hmm. Could you confirm the exact Windows and Spotify version you're using? We'll see what we can suggest /KB

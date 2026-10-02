@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I open the app, click on a song and it doesn't  play :(. The lower bar doesn't even appear.
+SpotifyCares: @533896 Hmm. Does logging out, restarting your device, and logging back in help? Also, when did the issue start happening? /RI

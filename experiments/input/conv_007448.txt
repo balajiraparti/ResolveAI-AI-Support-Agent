@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Someone is using my grandmothers card for a subscription and we are trying to figure out how to stop it from charging her account.
+SpotifyCares: @540444 2:  image you're sending doesn't contain her full 16-digit payment card number. We'll take a look backstage /RA https://t.co/ldFdZRiNAt

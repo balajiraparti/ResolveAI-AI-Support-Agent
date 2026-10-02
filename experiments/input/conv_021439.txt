@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error messages. It happens after returning to a session when connecting to Bluetooth on mobile, &amp; at random when returning to play on Mac
+SpotifyCares: @460330 Got it. Does this happen when you're playing online or offline songs? Also, what version of Spotify are you running? /NS

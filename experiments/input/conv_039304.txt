@@ -1,0 +1,2 @@
+Customer: @117153 Fix the android app, always get errors saying I need a connection to the internet.
+SpotifyCares: @204896 Hey, thanks for the report! We had a little hiccup earlier, but everything should be running just fine now /JS

@@ -1,0 +1,4 @@
+Customer: @SpotifyCares iOS 11.1.2
+
+Thanks
+SpotifyCares: @711378 We'll take note of it. To check your version of Spotify head to Settings &gt; About. Does logging out, restarting your device, and logging back in help at all? /YM

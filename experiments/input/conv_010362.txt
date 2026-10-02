@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Nope still doesn't work ... Even deleted the com.spotify.music folder
+SpotifyCares: @537494 Our best tech folks are on the case as we speak. Hopefully we'll have a fix soon! /RH

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm using Gaxy S6 Active and my kid has same issues with her Samsung S8. Version 8.4.23.784
+SpotifyCares: @557728 Thanks. Can you both give this a try: log out from Spotify &gt; restart your device &gt; log back in? Did that make a difference? /DR

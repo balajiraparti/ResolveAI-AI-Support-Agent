@@ -1,0 +1,2 @@
+Customer: Does @115888 even send push notifications?
+SpotifyCares: @572943 1: Hey! We're currently looking into an issue with push notifications not being sent.

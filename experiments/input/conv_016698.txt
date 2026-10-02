@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey. Windows 10 and 1.0.66.478.g1296534d
+SpotifyCares: @418953 Thanks. When did this start happening? Is it crashing at any specific points, e.g. at startup, during streaming? /MV

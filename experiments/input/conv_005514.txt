@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When I navigate to Spotify, the screen doesn’t load. I tried allowing pop ups and flash on the site settings.
+SpotifyCares: @301402 Got it. Does using a different browser help? You might also want to try using an incognito window. Let us know how it goes /MQ

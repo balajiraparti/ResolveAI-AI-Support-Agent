@@ -1,0 +1,6 @@
+Customer: Spotify's play queue is weird.
+1. Play album
+2. Add 2nd album to queue
+3. Play 3rd album
+1st song from album 3 plays, then next song from 2
+SpotifyCares: @164062 Hi there! Can you DM us your account's email address or username? We'll take a look /GT https://t.co/ldFdZRiNAt

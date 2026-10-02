@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Samsung Galaxy A5, Android 7.0, Version 8.4.22.857 armV7
+SpotifyCares: @204009 Got it! Have you tried logging out then back in? Does restarting your device make any difference? /PB

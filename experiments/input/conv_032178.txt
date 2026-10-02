@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I use Spotify on Linux (Ubuntu 17.10), but there is only one language, English. How do I install, let's say a Swedish language pack?
+SpotifyCares: @744334 Hey there! We don't offer official support for Linux, but you can find help here: https://t.co/vXQLSeiPfq. For anything else, we're just a tweet away /LS

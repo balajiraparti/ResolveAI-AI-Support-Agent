@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Why can't links from a browser just open the app? Why dod they have to open in the browser?
+SpotifyCares: @310691 2: Spotify version you're using? We'll take a look under the hood /JE

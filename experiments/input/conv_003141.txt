@@ -1,0 +1,2 @@
+Customer: @SpotifyCares offline mode slider won't show on macbook desktop, how to fix? I have premium with 1 other device connected. have reinstalled
+SpotifyCares: @200082 2: Also, what OS X and Spotify versions are you using? How long has this issue been happening for? We'll do our best to help /CB

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Android 7.0, Spotify version 8.4.28.875
+SpotifyCares: @224968 Thanks for sending that over. Is this happening while you're on WiFi, mobile data, or both? Does restarting your device help with this? /CE

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I can't log into spotify application on my computer.   All I get is the message 'service is temporarily unavailable, please try again later. (Error code: 404).  Been like this for a week.  Phone and desktop working fine.
+SpotifyCares: @284060 Hey Emma! Could you send us a screenshot of the error code, so we can check it out? /BI

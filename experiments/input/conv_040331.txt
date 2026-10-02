@@ -1,0 +1,2 @@
+Customer: @115888 your latest update 1.0.69.323 is crashing during install, and will no longer let me launch the program. Please help! Music is what I need to keep my sanity ;) I’m using windows 7
+SpotifyCares: @135370 Hey there! The cavalry's here. Best thing to try here is a clean reinstall. Just follow the steps at https://t.co/PDA2aKzC6Q. Let us know how it goes /KB

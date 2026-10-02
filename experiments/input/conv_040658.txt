@@ -1,0 +1,4 @@
+Customer: @SpotifyCares hello - iphone7, ios 11.0.3, spotify 8.4.28.1104, 
+
+it is exactly the same issue raised on your help desk by someone else here - https://t.co/fpjMnrEIMN
+SpotifyCares: @131856 We understand. Are you getting any error messages when it happens? Does logging out &gt; restarting the device &gt; logging back in help? /PL

@@ -1,0 +1,2 @@
+Customer: Stop @115888 auto-play after playlist finished
+SpotifyCares: @418947 Hey Timothy! To turn off the Autoplay feature, just follow the steps found here: https://t.co/CDv5UaSgpl /JX

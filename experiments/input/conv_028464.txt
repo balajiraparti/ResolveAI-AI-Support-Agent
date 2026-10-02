@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When I open up snap (prob their issue), like a tweet, open safari, things like that, Spotify will quit playing sound but continue the song and will only work again once manually restarting the app. Thanks for the fast reply!
+SpotifyCares: @341404 Got it. Is this happening on 3G/4G, WiFi, or both? Can you also confirm the exact iOS and Spotify version you're currently on? /KB

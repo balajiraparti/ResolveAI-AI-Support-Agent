@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I’m using Spotify version 8.4.28 and ios 11.1.1  thank you!
+SpotifyCares: @769324 Got it! Is this happening on 3G/4G, WiFi, or both? Does restarting your device by holding the Sleep/Wake + Volume Down buttons for 10 seconds make any difference? /KB

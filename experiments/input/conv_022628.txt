@@ -1,0 +1,2 @@
+Customer: @SpotifyCares i open the web player and try to play a sound but a pink error occurs while the songs rapidly change until an add plays
+SpotifyCares: @488639 Hmm. Would you be able to send us a screenshot of what you're seeing on your end? We'll check it out /JS

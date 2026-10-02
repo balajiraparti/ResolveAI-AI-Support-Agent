@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey! I've been having issues when trying to connect with wifi, yet it's working without problems with 4g
+SpotifyCares: @545062 Hi there! Don't worry, help's here. Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /MT

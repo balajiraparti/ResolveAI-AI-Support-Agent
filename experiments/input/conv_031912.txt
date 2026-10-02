@@ -1,0 +1,2 @@
+Customer: @SpotifyCares macOS (Sierra, 10.12.6), iPhone X, Spotify iOS (8.4.28.1104) / Spotify macOS 1.0.67.582.g19436fa3
+SpotifyCares: @739080 Does following the exact steps at https://t.co/SceoaHTXgT help? If not, try logging out  &gt; restarting your devices &gt; logging back in. Let us know how it goes /AY

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS 11.2 (beta) spotify 8.4.26.793
+SpotifyCares: @451665 Thanks. Just to check, when did this start happening? Was it after a specific update? /RH

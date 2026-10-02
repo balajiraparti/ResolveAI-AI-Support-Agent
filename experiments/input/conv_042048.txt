@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm using OS El Capitan 10.11.6 and my Spotify version is 1.0.68.407.g6864aaaf
+SpotifyCares: @236862 Thanks. Are you seeing any error messages when the app crashes? If so, could you send us a screenshot? /LO

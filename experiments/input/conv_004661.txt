@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Sierra and 1.0.65 -- I don't think it's a bug. I just think it's part of your algorithm.
+SpotifyCares: @218686 Thanks! Just to cover all bases, is it playing the same songs whether your playlist is sorted differently? /JP

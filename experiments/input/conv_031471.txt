@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Opened the Android app as usual but the log in screen appears. Tried logging in, and for a fraction of a second it looks like I'm logged in but then back to the log in screen. Help?
+SpotifyCares: @732077 Hey there! What device are you using? Also, what Android and Spotify version are you running? We'll see what we can suggest /RB

@@ -1,12 +1,15 @@
 import ast
+import json
+import os
 import numpy as np
 import pandas as pd
 
 from pathlib import Path
 from sklearn.metrics.pairwise import cosine_similarity
 from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_nvidia_ai_endpoints import ChatNVIDIA
 
-
+import pandas as pd
 # ============================================================
 # PATHS
 # ============================================================
@@ -214,6 +217,126 @@ def initialize_embeddings():
 # CLASSIFY / RETRIEVE INTENT
 # ============================================================
 
+def validate_intent_with_llm(user_query, results):
+    """Validate whether the extracted table intent matches the query.
+
+    If not, ask the LLM to create a better intent label and description.
+    Returns the same list shape with an updated top result and llm metadata.
+    """
+    if not results:
+        return results
+
+    try:
+        llm = ChatNVIDIA(
+            model="openai/gpt-oss-20b",
+            temperature=0.1,
+        )
+    except Exception:
+        for result in results:
+            result["llm_validation"] = {
+                "status": "skipped",
+                "reason": "ChatNVIDIA unavailable",
+                "is_correct": True,
+            }
+        return results
+
+    candidate_summary = json.dumps(
+        [
+            {
+                "intent_label": item.get("intent_label"),
+                "display_name": item.get("display_name"),
+                "description": item.get("description"),
+            }
+            for item in results[:5]
+        ],
+        ensure_ascii=False,
+    )
+
+    prompt = f"""
+You are validating a retrieved intent label against a user's query.
+
+User Query:
+{user_query}
+
+Candidate intent rows from the table:
+{candidate_summary}
+
+Task:
+1. Decide if the top intent label is actually correct for the user's query.
+2. If it is correct, keep it.
+3. If it is not correct, create a better intent label, display name, and description.
+4. Return JSON only with this exact structure:
+5. If the user input is vague or any gibberish word/sentence then make the label as UNKNOWN
+{{
+  "is_correct": true,
+  "corrected_label": "",
+  "display_name": "",
+  "description": "",
+  "reason": "short explanation"
+}}
+
+Rules:
+- Use clear, business-friendly intent names.
+- Keep the label concise and machine-readable, e.g. "account_login_issue".
+- The description should explain the customer concern in one sentence.
+- If the table match is already right, set `is_correct` to true and leave corrected_label/display_name/description empty strings.
+"""
+
+    try:
+        response = llm.invoke(prompt)
+        raw_text = getattr(response, "content", str(response)).strip()
+
+        if raw_text.startswith("```"):
+            raw_text = raw_text.strip("`")
+            if raw_text.lower().startswith("json"):
+                raw_text = raw_text[4:].strip()
+
+        start = raw_text.find("{")
+        end = raw_text.rfind("}")
+        if start != -1 and end != -1 and end > start:
+            raw_text = raw_text[start:end + 1]
+
+        parsed = json.loads(raw_text)
+    except Exception:
+        parsed = {
+            "is_correct": True,
+            "corrected_label": "",
+            "display_name": "",
+            "description": "",
+            "reason": "LLM validation parse fallback",
+        }
+
+    validated_result = results[0].copy()
+    validated_result["llm_validation"] = {
+        "status": "validated",
+        "is_correct": bool(parsed.get("is_correct", True)),
+        "reason": str(parsed.get("reason", "Matched to query.")),
+        "response": parsed,
+    }
+
+    if bool(parsed.get("is_correct", True)):
+        validated_result["llm_validation"]["status"] = "matched"
+        updated_results = results.copy()
+        updated_results[0] = validated_result
+        return updated_results
+
+    corrected_label = str(parsed.get("corrected_label") or validated_result["intent_label"]).strip()
+    corrected_display = str(parsed.get("display_name") or corrected_label.replace("_", " ").title()).strip()
+    corrected_description = str(parsed.get("description") or f"Intent generated from query: {user_query}").strip()
+
+    validated_result["intent_label"] = corrected_label
+    validated_result["display_name"] = corrected_display
+    validated_result["description"] = corrected_description
+    validated_result["num_tweets"] = 0
+    validated_result["similarity_score"] = round(float(validated_result.get("similarity_score", 0.0)), 4)
+    validated_result["llm_validation"]["status"] = "replaced"
+    validated_result["llm_validation"]["response"] = parsed
+
+    updated_results = [validated_result]
+    updated_results.extend(results[1:])
+    return updated_results
+
+
 def classify_intent(
     user_query,
     top_k=5
@@ -242,7 +365,7 @@ def classify_intent(
         dtype=np.float32
     ).reshape(1, -1)
 
-
+    
     # --------------------------------------------------------
     # Normalize query
     # --------------------------------------------------------
@@ -324,7 +447,7 @@ def classify_intent(
             )
         })
 
-
+    results = validate_intent_with_llm(user_query, results)
     return results
 
 
@@ -431,25 +554,61 @@ if __name__ == "__main__":
     # --------------------------------------------------------
 
     initialize_embeddings()
-
-
+    df = pd.read_csv("spotify_customer_queries_20.csv")
+    predictions = []
     # --------------------------------------------------------
     # Test query
     # --------------------------------------------------------
+    for _, row in df.iterrows():
+        query = row["text"]
+        expected_intent = row["intent_label"]
 
-    query = (
-        "hey i my wifi and i have seperate account can we both merge to family plan"
+        print("\n" + "=" * 80)
+        print(f"Query: {query}")
+        print(f"Expected Intent: {expected_intent}")
+        print("-" * 80)
+
+        # Run intent classification
+        results = classify_intent(
+            query,
+            top_k=5
+        )
+        predictions.append({
+        "query": query,
+        "expected_intent": expected_intent,
+        "predicted_intent": predicted_intent,
+        "correct": predicted_intent == expected_intent
+    })
+        predicted_intent = results[0]["intent_label"]
+        # Print classifier results
+        print_results(
+            query,
+            results
+        )
+    results_df = pd.DataFrame(predictions)
+
+    accuracy = results_df["correct"].mean()
+
+    print("\n" + "=" * 80)
+    print("INTENT CLASSIFICATION RESULTS")
+    print("=" * 80)
+
+    print(results_df.to_string(index=False))
+
+    print(f"\nAccuracy: {accuracy:.2%}")
+    # query = (
+    #     "who are you"
       
-    )
+    # )
 
 
-    results = classify_intent(
-        query,
-        top_k=5
-    )
+    # results = classify_intent(
+    #     query,
+    #     top_k=5
+    # )
 
 
-    print_results(
-        query,
-        results
-    )
+    # print_results(
+    #     query,
+    #     results
+    # )

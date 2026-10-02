@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 8.4.28.1104
+SpotifyCares: @134860 Got it. Just to check, does the issue only happen to your downloaded albums? If you have downloaded playlists, do they become unsynced too? /AG

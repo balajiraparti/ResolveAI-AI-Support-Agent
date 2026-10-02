@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Thanks for this information. I'm now trying to play music on the tv via Spotify Connect on my phone but the tv isn't popping up as a device? My phone also says download Spotify app to the tv but that link you provided says I don't have to?
+SpotifyCares: @748244 Hmm. Can you check if your Samsung TV supports Spotify? Just head to Samsung’s app store &gt; browse and select Spotify, under Lifestyle &gt; click "Check your device" in the top-right. Keep us posted /JS

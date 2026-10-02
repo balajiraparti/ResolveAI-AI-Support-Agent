@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Thanks for the response! I am not currently getting any error messages. I am using version 8.4.28.875 armV7, and my device is a Samsung Galaxy S6 which uses Android 😁
+SpotifyCares: @797427 We'll take note of that. From the home screen, tap on Apps &gt; Settings &gt; General &gt; About device. The Android version will be displayed on screen. Is this happening on 3G/4G, Wi-Fi, or both? /YM

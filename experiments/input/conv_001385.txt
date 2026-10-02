@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I can't seem to vote for that idea, the + vote button is disabled although I'm logged in.
+SpotifyCares: @171498 Got it. Have you tried voting using a different browser or using an incognito window? Let us know how you get on /TF

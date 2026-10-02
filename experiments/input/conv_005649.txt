@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS 11.0.2 and Spotify version 8.4.20 . Every time I try to shuffle my playlist it’ll shuffle for 2 songs and then play my playlist in order.
+SpotifyCares: @304405 Thanks. Can you try logging out &gt; restarting your device &gt; logging back in? Let us know if that makes a difference /RH

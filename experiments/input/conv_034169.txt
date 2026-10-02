@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi, I've been trying to reset my password but I keep getting 503 service unavailable. Please help!
+SpotifyCares: @779262 Hey David. Our best tech folks are on the case as we speak. Hopefully we'll have a fix soon! /PB

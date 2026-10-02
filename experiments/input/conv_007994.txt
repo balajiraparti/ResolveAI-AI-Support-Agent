@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Motorola G5+ and Spotify V8.4.22.857 - also Google Home streaming status disappears every so often and I have to reconnect.
+SpotifyCares: @374001 Thanks for the info. Have you tried logging out &gt; restarting your device &gt; logging back in? Keep us posted /RK

@@ -1,0 +1,2 @@
+Customer: @spotifycares -- when selecting multiple songs to purge from "library" accidentally selected all; any fix to recover?
+SpotifyCares: @582234 Hi, sorry to hear that! Check the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /JQ

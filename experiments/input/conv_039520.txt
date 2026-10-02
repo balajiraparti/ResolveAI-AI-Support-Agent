@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Are you guys looking to implement a setting where you can choose the order of playlists, rather than editing the current tracks and having it reset?
+SpotifyCares: @806952 Hey, help's here! Just to check, is this what you're looking for: https://t.co/5hjtm5AdqM? We'll keep an eye out for your update /JS

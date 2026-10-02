@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 5s. Spotify version 8.4.22.515.
+SpotifyCares: @554935 Thanks. Could you try logging out and back in again? If you still get the same issue, try restarting your device. Any luck? /GK

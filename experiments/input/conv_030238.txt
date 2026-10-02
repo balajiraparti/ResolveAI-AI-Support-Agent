@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Your app keeps hanging on Window 10 Mobile.  What's the deal?
+SpotifyCares: @362304 Hey Matt! Help's here. Can you let us know your device's make, model, and Spotify version? We'll see what we can suggest /CP

@@ -1,0 +1,2 @@
+Customer: Spotify should add an option to have a song automatically skip the first/last x seconds if there are annoying intros/outros @SpotifyCares
+SpotifyCares: @553980 Hi! That's not possible right now, but we'll pass on your feedback. For now, check out the Crossfade feature at https://t.co/mKMS0iCZE3 /MC

@@ -1,0 +1,2 @@
+Customer: After less than a day of testing @115888 I've run into so many limitations. Lack of a combined (local+streamed) library is a deal-breaker.
+SpotifyCares: @171285 Hey Indrek! You can sync your local music files to your Spotify account. More info here: https://t.co/SgMwFS1ONz. Hope this helps /CX

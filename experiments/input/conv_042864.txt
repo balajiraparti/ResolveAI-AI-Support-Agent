@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Yes. It takes up tons of space with all the new versions, but it opens fine on my laptop. It's on my work computer that it's not working. I have to use the web browser version which isn't that great. When I left, my work computer was back to this error:
+
+https://t.co/oOFnno89J7
+SpotifyCares: @254710 Thanks for letting us know. Can you try reinstalling the app using the steps at this link: https://t.co/uaNsDPIwm2? This will ensure that Spotify is completely removed before reinstalling. Let us know how it goes /QI

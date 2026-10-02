@@ -1,0 +1,2 @@
+Customer: @115888 your app constantly crashes or doesn't respond. Any known issues for this on android?
+SpotifyCares: @252492 Hey there! Can you let us know your device's Android and Spotify versions? Also, is this happening over WiFi or 3G/4G? /NQ

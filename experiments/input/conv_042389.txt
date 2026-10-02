@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iphone 7, i don’t know operating system, and it’s the last version of spotify
+SpotifyCares: @144687 You can check your iPhone's iOS version by heading to Settings &gt; General &gt; About. On another note, did this start happening after a specific update? Also, does it only happen with your downloaded songs? /LM

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares So I tried deleting random files from the user directories in %APPDATA%\Spotify and %LOCALAPPDATA%\Spotify, and that did the trick. 🤷 https://t.co/nwwqNjwKi9
+SpotifyCares: @372300 Just to check, is everything all set now? /JP

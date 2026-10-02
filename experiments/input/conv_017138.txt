@@ -1,0 +1,2 @@
+Customer: @spotifycares bluetooth controls apart from volume have stopped working with the latest iOS update. Is that intentional?
+SpotifyCares: @426798 Hey there! Can you let us know what Spotify version you're running? We'll see what we can suggest /NS

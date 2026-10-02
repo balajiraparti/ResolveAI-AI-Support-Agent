@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Come on guys, fix your Windows 7 client! You are supposed to be Agile and Lean, companies even show videos of Spotify's development process as an example. This is really bad UX.  API-MS-WIN-CORE-PROCESSTHREADS-L1-1-2.DLL
+SpotifyCares: @262533 Hey there! Help's here. Can you let us know the app version you're running? We'll see what we can suggest /PB

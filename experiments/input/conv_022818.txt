@@ -1,0 +1,2 @@
+Customer: @SpotifyCares On all connections, as out in car it's pausing.but songs are saved in library.it plays for 10-15 secs when casting and pauses still.
+SpotifyCares: @436957 Got it. Can you try logging out of Spotify, restarting your device, and logging back in? Any better? /NY

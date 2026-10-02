@@ -1,0 +1,2 @@
+Customer: Hey @115888, very curious as to why the Spotify connect feature hasn't been resolved. I should not have to go offline to turn it off.
+SpotifyCares: @196755 Hey! The cavalry's here. Can you fire over the device's make/model and the Spotify version you're using? We'll see what we can suggest /JS

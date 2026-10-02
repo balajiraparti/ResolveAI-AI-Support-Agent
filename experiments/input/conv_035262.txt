@@ -1,0 +1,2 @@
+Customer: @115888 I'm locked out of my app. Everytime I try to login I get an Error Message - 'You are current set to offline, please go online to login' if I can't get in I can't change the settings
+SpotifyCares: @279219 Thanks! Are you unable to login to the app when you're on 3G/4G, WiFi, or both? Can you also tell us the make/model of the device you're using, along with its operating system and Spotify version? /KB

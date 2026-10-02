@@ -1,0 +1,2 @@
+Customer: @SpotifyCares nevermind, didnt check the top bar. 1.0.66.478.g1296534d
+SpotifyCares: @529679 Got it. Could you also send us the exact OS X version on your MacBook? While we're at it, is this happening across all your devices? /LP

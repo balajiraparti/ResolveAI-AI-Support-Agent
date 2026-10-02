@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey, it’s MacOS High Sierra 10.13 and Spotify 1.0.66.478.g1296534d
+SpotifyCares: @197771 Thanks! Are you getting any error messages? If you can send us a screenshot of what you're seeing, that'd be great /PL

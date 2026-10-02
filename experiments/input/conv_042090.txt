@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Seemed to be okay for a longer duration but still skips ahead.
+SpotifyCares: @232843 Just to check, does this happen only to podcasts, and music plays fine? Also, is the playback fine when not connected to your Bluetooth unit? /MU

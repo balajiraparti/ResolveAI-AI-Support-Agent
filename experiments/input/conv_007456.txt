@@ -1,0 +1,2 @@
+Customer: @SpotifyCares so I got rid of a certain artist from a playlist but their songs keep playing in my queue, is there a way to refresh it?
+SpotifyCares: @189768 Hi there! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /MT

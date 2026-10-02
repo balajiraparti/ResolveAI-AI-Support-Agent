@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey , yes the problem is when for example I listen to music and somebody call me , after finishing finishing my call, the Spotify doesn’t work anymore. The music is playing but 0 sound I have to completely close it and re open it! Im on IOS 11.2.
+SpotifyCares: @661838 Thanks for clarifying. Does restarting your device by holding Home + Lock for 10 seconds help? /LW

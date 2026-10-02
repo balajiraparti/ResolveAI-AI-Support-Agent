@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I am Premium.  Multiple albums.  It also happens when I hit the next song button.
+SpotifyCares: @570122 That's odd. Could you try logging out, restarting your device by holding the Sleep/Wake + Volume Down buttons for 10 seconds, then logging back in? /PB

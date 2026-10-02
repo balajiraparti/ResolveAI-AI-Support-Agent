@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Arcade Fire's EP appears in spotify's browser version but not its desktop app. How can I listen to the EP on the desktop app?
+SpotifyCares: @602588 Hey! Can you try copying the Album Link from the web player and looking it up on the app? Just click on the 3 dots &gt; Copy Album Link /RH

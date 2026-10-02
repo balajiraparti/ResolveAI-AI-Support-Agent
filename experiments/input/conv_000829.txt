@@ -1,0 +1,2 @@
+Customer: @SpotifyCares song sharing on Android crashes the app every time. Known issue yet?
+SpotifyCares: @160564 Hi Nnamdi! What device (make and model), Android and Spotify version are you using? We'll see what we can suggest /AU

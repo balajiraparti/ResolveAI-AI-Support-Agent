@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It's 1.0.66.478.g1296534d on macOS High Sierra. But I've noticed similar things with the iOS version too.
+SpotifyCares: @531511 Hmm. Which iOS &amp; Spotify version are you running on your iOS device? Does logging out, restarting your devices, &amp; logging back in help? /YM

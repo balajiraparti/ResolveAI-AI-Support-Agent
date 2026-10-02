@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 8, iOS 11.1.2, version Spotify 8.4.28.1104
+SpotifyCares: @211923 Thanks! We've noticed a slight hiccup with your offline cache. Don't worry, we can refresh this on our end. This will mean resyncing your offline tunes. Sound good? If so, we'll just need the last 4 digits of your payment card and your date of birth for a quick security check /KL

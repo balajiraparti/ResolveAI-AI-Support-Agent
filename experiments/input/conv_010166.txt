@@ -1,0 +1,2 @@
+Customer: @SpotifyCares uninstalled spotify and reinstalled it, no luck, works on my Mac, not on my iPhone :/
+SpotifyCares: @528047 Hmm, that's odd. Could you let us know if this is happening while connected to WiFi, 3G/4G or both? We’ll be waiting /CG

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 7, iOS 11, version 8.4.22.515
+SpotifyCares: @422912 Got it. Can you try to see if logging out &gt; restarting your phone &gt; logging back in to your account makes a difference? /DV

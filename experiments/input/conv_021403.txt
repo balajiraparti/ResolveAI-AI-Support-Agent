@@ -1,0 +1,2 @@
+Customer: @SpotifyCares So I've noticed that Spotify has attributed an Album to the wrong band. (Bands have the same name). How can I report this?
+SpotifyCares: @589455 Hey there! Thanks for reporting. Can you send over the URIs of the artist pages and the album that should be on a separate page? /AR

@@ -1,0 +1,4 @@
+Customer: @SpotifyCares - MacBook Pro Retina Mid 2012
+- macOS 10.12.6
+- Spotify 1.0.67.582.g19436fa3
+SpotifyCares: @739293 Thanks! At this point, we'd suggest that you reinstall the app by following the steps here: https://t.co/EqisDMwZAT. Let us know how it goes /DR

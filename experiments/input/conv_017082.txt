@@ -1,0 +1,2 @@
+Customer: @SpotifyCares So when I play it it loads but doesnt start playing the songs
+SpotifyCares: @425743 Can you let us know the device, operating system, and Spotify version you're using? Also, are you getting an error message? /RH

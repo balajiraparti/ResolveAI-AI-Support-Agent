@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi! I can't select the US out of those countries..
+SpotifyCares: @174039 Can you tell us what country you're currently located? /RR

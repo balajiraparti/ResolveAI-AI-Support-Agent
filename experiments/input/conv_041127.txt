@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey my accounts not working it’s saying that my passwords wrong I’ve tried to reset but the email ends up linking me to where I started and then tells me my CSRF token is invalid
+SpotifyCares: @222594 Hey, help's here! Can you send us a screenshot of the error message you're getting when logging in to the account? Also, could you DM us your account's email address? We'll look into it /GS https://t.co/ldFdZRiNAt

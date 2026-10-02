@@ -1,0 +1,2 @@
+Customer: @SpotifyCares MacBook Pro, OS X 10.11.6, Spotify 1.0.64.399.g4637b02a. No error messages.
+SpotifyCares: @177563 Thanks for the info. Can you try reinstalling the app using the steps here: https://t.co/EqisDMwZAT? Keep us posted /LM

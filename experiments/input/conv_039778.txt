@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have troubles saving data to SD card on android. Reinstalling, changing settings, remounting, clearing cache ... nothing works. There is quite a lot of people with the same issue. Do you have any solutions to this?
+SpotifyCares: @319584 Hey there, help's arrived! Just to check, have you tried the steps here: https://t.co/XCTHa5LFPS? Can you also know if you're getting any error messages? /LS

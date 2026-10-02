@@ -1,0 +1,2 @@
+Customer: @SpotifyCares @115888 It’s on an apple phone
+SpotifyCares: @758475 Hi there. Can you let us know what iPhone model, iOS, and Spotify versions you're running? Also, are you using Bluetooth or wires speakers/headsets? /LM

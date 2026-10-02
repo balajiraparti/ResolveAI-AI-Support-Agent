@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey, my problem: spotify-App doesn't open any more. I use WP 8, actualized, even tried to download it new - what can I do?
+SpotifyCares: @530825 Hi there! Can you tell us when the issue started happening? Also, are you getting any error messages when trying to open the app? /JM

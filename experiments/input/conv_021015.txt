@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Well technically it works. It only errors when you hit the search button
+SpotifyCares: @126762 Hmm. Just to check, are you on a shared WiFi network? If not, restarting your router is worth a try. Keep us in the loop /GU

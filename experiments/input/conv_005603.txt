@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Pixel XL, Android 8.0.0, Spotify 8.4.22.857
+SpotifyCares: @303787 Thanks for the heads-up! Our tech folks are investigating this as we speak. Hopefully we'll have a fix soon /KB

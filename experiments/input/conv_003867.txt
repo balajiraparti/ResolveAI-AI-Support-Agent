@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Nope, no errors. I got the app to work, but the web player refuses to start.
+SpotifyCares: @208045 Hmm. Is this happening over a public or private network connection? Does using an incognito window help? /JE

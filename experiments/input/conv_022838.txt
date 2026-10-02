@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error message. The app would freeze and when shut off and reopened I’d be logged out. Upon logging in every downloaded song is gone
+SpotifyCares: @496122 Got it. Can you let us know when did this start happening? Also, does this only happen when connected to your car stereo via Bluetooth? /KM

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares any way to get play/pause button working again with OSX 10.13?
+SpotifyCares: @789130 Hey there! Which Spotify version are you running? Does restarting your device help? /MA

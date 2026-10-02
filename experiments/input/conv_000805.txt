@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 8.4.21.508 armV7
+SpotifyCares: @270406 Thanks for that. Is this crash happening while connected to WiFi, 3G/4G or both? Keep us posted /JI

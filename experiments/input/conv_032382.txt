@@ -1,0 +1,3 @@
+Customer: @SpotifyCares iOS 11, iPhone X. With music playing, encountering other media or a phone call that pauses music, I’m unable to continue playing music without quitting the app &amp; restarting. 
+Also after disconnecting from Bluetooth music resumes playing through speakers unprompted.
+SpotifyCares: @746642 Hi Daniel. Don't worry, help's here! What Spotify version are you using? We'll take a look backstage /XF

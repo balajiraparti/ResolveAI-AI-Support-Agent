@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I try to open the system of a down album but it stays loading forever and never opens. https://t.co/mbZbFPmxtM
+SpotifyCares: @206191 Is this happening over 3G/4G, WiFi, or both? If you can, try connecting to a different internet network. Let's try to restart your router as well. Keep us posted /TM

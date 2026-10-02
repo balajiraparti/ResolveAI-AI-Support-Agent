@@ -1,0 +1,2 @@
+Customer: Hi @SpotifyCares, why do I have to select a song to blast out of my awful phone speakers before I get the option to connect to Chromecast (which then misses the first few seconds)
+SpotifyCares: @744671 Hey, that doesn't sound right. Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /JE

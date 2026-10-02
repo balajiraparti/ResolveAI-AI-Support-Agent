@@ -1,0 +1,2 @@
+Customer: @SpotifyCares "It looks like you are using your Facebook credentials to log in to Spotify. To change your Facebook password go to your settings page at https://t.co/ShFuLmC95N." is the msg I get but then it won't let my FB log in either.
+SpotifyCares: @681293 Got it. Could you DM us your username and email address? We'll take a closer look /JQ https://t.co/ldFdZRiNAt

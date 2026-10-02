@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Clicks don't register if you move the cursor right after
+SpotifyCares: @316529 Thanks for the info. Just to clarify, does the issue happen on any buttons you click? Have you tried a different connection as well? /RK

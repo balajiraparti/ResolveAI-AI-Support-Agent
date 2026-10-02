@@ -1,0 +1,2 @@
+Customer: @SpotifyCares devices are iPhone 7 running iOS 10.2.1 and MacBook Air 2014 running macOs Sierra 10.12.6
+SpotifyCares: @336916 Thanks, and that's the version. It's not ideal, but the exact steps here should help out: https://t.co/EqisDMwZAT /PB

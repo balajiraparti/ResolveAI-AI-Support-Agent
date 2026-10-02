@@ -1,0 +1,3 @@
+Customer: @SpotifyCares Spotify: 1.0.65.320.gac7a8e02
+MacOS: 10.13
+SpotifyCares: @177339 Thanks! Could you try logging out, restarting your device, and logging back in? Keep us in the loop /JM

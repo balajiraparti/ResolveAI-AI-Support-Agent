@@ -1,0 +1,2 @@
+Customer: @188 @115888 I'm getting errors when logging in using Facebook authentication services. Error code 1002
+SpotifyCares: @748194 Hey Sammy! The cavalry's here. Could you DM us your account's email address? We'll take a look under the hood /KB https://t.co/ldFdZRiNAt

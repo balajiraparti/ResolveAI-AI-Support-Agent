@@ -1,0 +1,2 @@
+Customer: @115888, your web UI will now reliably crash the Chrome/Firefox tab it's running in
+SpotifyCares: @455683 Hi Jeremy! Can you let us know your device and OS? Also, is this happening on the web player or website UI? We'll take a look backstage /XF

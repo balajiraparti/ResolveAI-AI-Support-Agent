@@ -1,0 +1,2 @@
+Customer: @115888 Hey if I'm hearing pops, micro pause glitches and other encoding artifacts in specific tracks how can I formally report it for remediation? These don't present like streaming interruptions &amp; as I said few specific tracks
+SpotifyCares: @155119 Hey there! Can you send us the URIs of the tracks so we can check on our end? Just go to the track &gt; tap or click the three dots &gt; Share &gt; Copy link. If you need more characters to work with, shoot us a DM /LS https://t.co/ldFdZRiNAt

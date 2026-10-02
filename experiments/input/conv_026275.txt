@@ -1,0 +1,2 @@
+Customer: @115888 your shuffle function is useless, out of a 300 song playlist it's always the same 30 songs that play in shuffle, get this fixed NOW!
+SpotifyCares: @642972 Hey! We’ve recently made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /RA

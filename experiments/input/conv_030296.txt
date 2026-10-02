@@ -1,0 +1,3 @@
+Customer: Hey @SpotifyCares, the button create similar playlist doesn’t work in MacOS
+(1.0.67.582.g19436fa3). Login out and restarting doesn’t work.
+SpotifyCares: @710106 Hey Daniel, that doesn't sound right. Can you check if your OS X version is up-to-date? If it is, let us know. We'll see what we can suggest /JE

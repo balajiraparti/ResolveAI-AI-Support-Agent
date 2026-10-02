@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS 11.0.3 and Spotify 8.4.22.515
+SpotifyCares: @145472 Got it. Just to clarify, does the issue still persists after restarting your device? /RC

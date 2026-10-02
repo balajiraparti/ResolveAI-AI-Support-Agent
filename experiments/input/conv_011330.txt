@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Using version 8.4.23.784 armV7 on a Samsung Galaxy S6
+SpotifyCares: @627417 Thanks. Can you give this a try: log out from Spotify &gt; restart your device &gt; log back in? Did that make a difference? /DR

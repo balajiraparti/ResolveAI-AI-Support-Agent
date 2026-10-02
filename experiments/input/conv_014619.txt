@@ -1,0 +1,2 @@
+Customer: @115888 any plans to make your app work in Landscape mode?
+SpotifyCares: @286558 Hey! Can you let us know what device, operating system, and Spotify version you're using? We'll see what we can suggest /RB

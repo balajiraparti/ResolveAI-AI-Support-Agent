@@ -1,0 +1,2 @@
+Customer: @SpotifyCares web player is not working in any of the 4 browsers I've tried. I need my music to work!
+SpotifyCares: @503552 Hi there! Don't worry, we'll get to the bottom of this. Does clearing your cache/cookies help? You might also want to try using an incognito window. Let us know how it goes /DR

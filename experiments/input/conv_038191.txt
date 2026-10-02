@@ -1,0 +1,2 @@
+Customer: @125633 @SpotifyCares Screen shot from artists.spotify backend https://t.co/HyqgbpNhiu
+SpotifyCares: @799228 Hey Dan! Could you try using the URI instead of searching? The URI is: spotify:user:danmasterson:playlist:0B80s00J0fp5nDuh1BZITP /I

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Trying to recover password, but getting "CSRF token is invalid" - help? Previously signed up through FB but want to avoid using moving forward
+SpotifyCares: @135880 Hey Jonathan! Can you DM us your account's username and email address, along with a screenshot of the error message that you're getting? We'll take a look backstage /SY https://t.co/ldFdZRiNAt

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Running on Ubuntu_17.10 App doesn't appear to switch tracks from the Discover panel after hitting play button. Current track continues to play. https://t.co/BK5usB9uDr
+SpotifyCares: @273118 Hmm. Can you try using it without Gramofon, and see if the issue persists? /LM

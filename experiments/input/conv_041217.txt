@@ -1,0 +1,2 @@
+Customer: @115888 you should be able to skip suggested songs without it counting to our limited skips amount. Or when someone turns off "Auto Play", it should actually work. You could also take out playing suggested songs in general.
+SpotifyCares: @224964 Hey! We hear you 🎧 Rest assured, your feedback will be passed on to the right folks /RB

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hey! Is it possible for a user to create a scannable qr-code for spotify?
+SpotifyCares: @405057 Hey. We're afraid it's currently not possible, but it's definitely something for the team to consider. We'll make sure it reaches them /QI

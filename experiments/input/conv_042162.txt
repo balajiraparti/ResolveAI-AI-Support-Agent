@@ -1,0 +1,2 @@
+Customer: @SpotifyCares dear admin, how can I display the lyrics on spotify via android phone ? Thanks
+SpotifyCares: @232355 Hi there. The Spotify app does not have a built-in lyrics feature yet, but you can install Musixmatch if you'd like to have lyrics with the tracks you play in Spotify. There's more info here: https://t.co/XQrxFTRpil. Let us know if you have any other questions /LM

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares friend has a playlist with emojis in the playlist name, and I can’t see the now playing bar, or skip songs in the app or lock screen. iOS 11, iPhone 7
+SpotifyCares: @701630 Hey! Which Spotify version are you running? Can you give us more info on what's happening when you add an emoji to the playlist title? /NS

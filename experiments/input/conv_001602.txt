@@ -1,0 +1,2 @@
+Customer: @SpotifyCares ...in incognito window.
+SpotifyCares: @180192 You can press Ctrl+Shift+N to open an incognito window. It helps avoid cached data/cookies from interfering the process. Keep us posted! /AP

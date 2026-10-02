@@ -1,0 +1,2 @@
+Customer: .@SpotifyCares @115888 How can I completely stop distracting Waze banners in iOS client? I pay to not get ads. This is obnoxious.
+SpotifyCares: @209591 Hey there! Head to Settings &gt; Social &gt;Wazenavigation &gt;Toggle it Off. Hope that helps /DF

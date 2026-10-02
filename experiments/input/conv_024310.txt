@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Whenever I search a song and it isn’t the top search, it will randomly select one of the songs rather than the one I click
+SpotifyCares: @526682 Hey! What device, operating system, and Spotify version are you using? We'll see what we can suggest /CB

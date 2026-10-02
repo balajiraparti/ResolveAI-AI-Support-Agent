@@ -1,0 +1,2 @@
+Customer: @SpotifyCares PC, Windows 10, updated today. https://t.co/nVltMgt7Nh
+SpotifyCares: @372300 Thanks! Can you try removing the local files sources at Preferences &gt; Local Files to see if that helps? Any better? /JP

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares found a bug: 'More from' displays currently playing album also. Version is 8.4.23.784 armV7 on Android 7.1.1. https://t.co/oIce3tYWt5
+SpotifyCares: @159942 Hi Bert, that's odd! Does logging out, restarting your phone, and logging back in help? Keep us posted /GT

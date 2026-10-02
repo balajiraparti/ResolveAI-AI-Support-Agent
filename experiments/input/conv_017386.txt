@@ -1,0 +1,2 @@
+Customer: @SpotifyCares incognito mode didn't work.  other browsers didn't work either.
+SpotifyCares: @362158 Hmm. Could you let us know the browser that you're using? We'll see what we can suggest /GU

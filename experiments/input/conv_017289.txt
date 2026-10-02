@@ -1,0 +1,2 @@
+Customer: Hey, @spotifycares, any news on the status of the web-player? It's doing the "Ooooooops, something went wrong!" Message for 2 days :(
+SpotifyCares: @432154 Hi there! Can you try opening it on a different browser or an incognito window? Does that make a difference? /JM

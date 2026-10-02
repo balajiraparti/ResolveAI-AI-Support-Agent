@@ -1,0 +1,2 @@
+Customer: @SpotifyCares macOS High Sierra
+SpotifyCares: @278413 Got it. We're afraid it won't be possible to turn off this feature. Don't worry, can you check if restarting your desktop helps? /DV

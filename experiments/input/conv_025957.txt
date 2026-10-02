@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Spotify app v. 8.4.26.770
+Android 7.1.1
+Google Chromecast Ultra, latest version.
+SpotifyCares: @637745 Got it. Can you try to see if logging out &gt; restarting your devices &gt; logging back in to your account makes a difference? /DV

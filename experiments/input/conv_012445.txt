@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When I plug it in via usb or connect via Bluetooth it says files not supported. I never used to have any problems only started this week thx
+SpotifyCares: @328074 We don't officially support Bluetooth, but can you give this a try: log out from Spotify &gt; restart your device &gt; log back in? /DR

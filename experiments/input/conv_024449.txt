@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Router restarted. Only able to login if not connected to WiFi. IT dept says “it’s a known Spotify issue” 🙄🤷🏼‍♀️ Works fine on other WiFi’s.
+SpotifyCares: @524904 Just to confirm, are you using a private or public WiFi network? Also, do you have access to a different network you could try with? /BH

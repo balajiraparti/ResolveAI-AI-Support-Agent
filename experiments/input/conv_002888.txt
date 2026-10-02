@@ -1,0 +1,2 @@
+Customer: @115888 - App is crashing on a Pixel XL when attempting 2 share. Running Android 8.0.0. I've cleared cache, app storage, and reinstalled.
+SpotifyCares: @307615 Hey! We're looking into this at the moment. Thanks for reporting /JS

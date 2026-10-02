@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have Spotify premium, version 8.4.24.506. I make sure to select shuffle, but it just deselects and goes to the next alphabetical artist.
+SpotifyCares: @213383 Hmm, that's odd. Does logging out &gt; restarting your iPhone &gt; logging back in help at all? Keep us posted /MT

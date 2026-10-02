@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Strage issue on iOS 11.0.3 (iPhone 7 plus) playlist almost always decides to start over when I exit the app https://t.co/Y9zpHDBMVe
+SpotifyCares: @581730 Hi there! Don't worry, we'll look into this. Can you also let us know the version of Spotify you're using? /DN

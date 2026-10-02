@@ -1,0 +1,2 @@
+Customer: @SpotifyCares strange bug I've found on macOS: Release date year on album detail page is always -1 off! E.g. an album released this year is displayed as 2016. See image https://t.co/40UI5KGXAn
+SpotifyCares: @717071 Hey Mark! Can you DM us your account's email address or username? We'll take a look backstage /AR https://t.co/ldFdZRiNAt

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I did but now the loading of an album after selecting it takes forever (same for selecting a playlist etc...) I keep seeing the loading circle already 5mins now
+SpotifyCares: @810482 Hmm, do you experience the same thing while using the app on other devices? /JO

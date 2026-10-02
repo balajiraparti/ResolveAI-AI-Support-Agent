@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Does not help. Perhaps you should be troubleshooting your file encoding + ingestion on your end.
+SpotifyCares: @319993 Got it. Can you try the steps here for us: https://t.co/EqisDMwZAT? They should help with this. Let us know how it plays out /NY

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares WiFi with LTE assistance
+SpotifyCares: @797217 Is this happening over a private or work/public WiFi connection? If you're at home, could you try restarting your router? /CH

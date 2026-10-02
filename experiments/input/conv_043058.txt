@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Just check your support forum for "api-ms-win-core-processthreads". Your last automatic update (that still cannot be disabled from settings) killed all installs on Win7 and you cannot even rollout a fix automatically because those installs don't run anymore.
+SpotifyCares: @122810 We understand. Just to check, were you able to get things running? Keep us in the loop /PB

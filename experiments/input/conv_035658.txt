@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Is there a way to get @115888 to work behind a corp proxy with blocks WebSockets? The http=1 URL param no longer works after the web player change.
+SpotifyCares: @252237 Hey, help's here! Can you let us know more about what's happening? We'll be waiting for your reply /MG

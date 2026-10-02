@@ -1,0 +1,2 @@
+Customer: @SpotifyCares im on a macbook pro A1278 using the 1.0.66.478.g1296534d version of spotify
+SpotifyCares: @401559 Thanks. Can you try logging out &gt; restarting the app &gt; logging back in? Let us know if that makes a difference /RH

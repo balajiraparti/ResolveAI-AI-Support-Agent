@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I don't want Spotify to load when I start up my computer. I changed the setting in settings but it still loads (Windows 10). I want to use Spotify but want to control when. Am a Groove user and will pay for premium if I can stop it.
+SpotifyCares: @189095 Hi Stephen! Can you let us know the exact Spotify version you're using? Did this happen after an update? We'll see what we can suggest /AU

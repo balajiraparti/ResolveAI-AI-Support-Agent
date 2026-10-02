@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hey where’d my bottom bar go? running 8.4.24.506, iOS 11.0.1 on a 6S https://t.co/TbSEGsHe4z
+SpotifyCares: @720828 Hi! Can you try to restart your device? If that doesn't help, let's also reinstall: https://t.co/grEcQYYFVS. Keep us posted /SC

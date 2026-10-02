@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yes, airplane mode automatically turns WiFi off in the settings. So in airplane mode on phone, with WiFi off, and in offline mode through the app. I still get this prompt every time I go back into the app.
+SpotifyCares: @325114 Thanks for the update. Can you try the steps here for us: https://t.co/EqisDMwZAT? Let us know if that helps at all /AG

@@ -1,0 +1,2 @@
+Customer: @115888 I can't play music on Windows 10 via native app, Store app nor Chrome: "song not available". It works on iOS/Android. Any clue?
+SpotifyCares: @206478 Hi Damian! Can you let us know the Spotify version you're running? We'll see what we can suggest /PL

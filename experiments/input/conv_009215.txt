@@ -1,0 +1,2 @@
+Customer: @SpotifyCares how come the OSX client no longer connects to Sonos? (but the Sonos app does)
+SpotifyCares: @469910 Hey, help's here! Can you let us what OS X and Spotify versions you're using? We'll check backstage /RK

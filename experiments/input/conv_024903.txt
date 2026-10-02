@@ -1,0 +1,2 @@
+Customer: @SpotifyCares @115888 Well, no major crash or anything, just the app not capable of handling a few tasks at once. Stuff doesn't load, some does, when I return, it doesn't anymore, ... You get the point. I close the app, restart the phone, bang, all downloads reset.
+SpotifyCares: @546846 @115888 Got it. Just to check, have you already followed all the steps mentioned at https://t.co/38J7tFlIBF? /LO

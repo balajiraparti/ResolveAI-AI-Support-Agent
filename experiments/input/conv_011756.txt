@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The same issue occurs in any device I tried to use.
+SpotifyCares: @160725 Hmm, that's odd. Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /MQ

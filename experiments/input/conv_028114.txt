@@ -1,0 +1,2 @@
+Customer: @SpotifyCares @1457 I got it working — with limited functionality. The ready-made applet from spotify give random results with just a few of the tracks I add. I made my own applet with the spotify ifttt service that seem to return all tracks, but in a random order.
+SpotifyCares: @466609 Hi Frederik! Can you let us know what's happening exactly? We'll see what we can suggest /NY

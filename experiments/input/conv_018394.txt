@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Sure, it’s the 6S with iOS 11.0.3. It just started happening with the most recent app update.
+SpotifyCares: @698868 Got it. Can you try to see if logging out &gt; restarting your phone &gt; logging back in to your account does the trick? /DV

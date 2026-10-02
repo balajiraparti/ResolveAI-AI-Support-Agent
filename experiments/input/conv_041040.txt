@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It doesn’t let me click the filter bar when editing my playlist and there is no option in the (...) next to the song that says delete
+SpotifyCares: @134385 Hmm. Just to check, does the filter not allow you to enter any text at all? Can we also have you send over a screenshot of the options available to you once the (...) button has been selected? We'll see what we can suggest /JI

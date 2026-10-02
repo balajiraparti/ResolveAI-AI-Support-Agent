@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Thanks! Trying to change payment method, but I have an ongoing support errand. I just tried changing the card validity year to 2046 (because the real year isn't accepted), and I got this extremely vague error message.
+SpotifyCares: @737066 Thanks for clearing that up. Can you try doing the steps at https://t.co/3lVe0lJyKz using a computer in an incognito window? Let us know how it goes /KM

@@ -1,0 +1,2 @@
+Customer: Dear @115888: in the new iOS beta if i remove my headphones while playing music, that music continues to play rather than pausing. Just fyi.
+SpotifyCares: @684469 Hey Patrick! We don't officially support iOS beta, but we appreciate the feedback. We'll be sure to pass it on to the right team /AR

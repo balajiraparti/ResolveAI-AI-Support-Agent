@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Tried logging-in and out a few times. Does it regardless of amount of cached tracks. iPhone 6 and SE. iOS 9 to 11.
+SpotifyCares: @146710 Thanks. Could you try doing a soft reset on your device? Does that make a difference? /GK

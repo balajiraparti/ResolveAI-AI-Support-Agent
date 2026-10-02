@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey I am using an iphone 6 with iOs 11.0.1 and the version of spotify is 8.4.20.535. The issue is when connected to bluetooth in my car
+SpotifyCares: @160410 Got it. Can you try updating to iOS 11.0.2 to see if that makes a difference? Let us know how everything goes /JE

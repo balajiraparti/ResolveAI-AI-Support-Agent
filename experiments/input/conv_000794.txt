@@ -1,0 +1,2 @@
+Customer: @SpotifyCares any big fixes yet for iOS 11? Not been able to use shuffle/repeat when connecting to my car (Mazda 6) since the latest update
+SpotifyCares: @170254 Hi Shirley. Don't worry, we'll look into this. Can you tell us the exact app version you have installed on your iPhone? /JU

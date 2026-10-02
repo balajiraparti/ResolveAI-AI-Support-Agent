@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Well it’s happening AGAIN today. Clear cache/cookies and it continues to crash in chrome.
+SpotifyCares: @444595 Can you try using an incognito window? Could you also ask your work IT if they've put up some restrictions that might block Spotify? /JP

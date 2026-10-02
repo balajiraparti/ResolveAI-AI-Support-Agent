@@ -1,0 +1,2 @@
+Customer: @SpotifyCares your service has been very unstable yesterday and today. Nothing on my end has changed. Is there a known problem?
+SpotifyCares: @217299 2: network? If possible, can you try restarting your router? Let's see if this will make a difference /ME

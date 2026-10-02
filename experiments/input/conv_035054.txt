@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Only update to the latest Spotify version. Not the latest iOS. I'll click on the app, it will load the opening screen with the logo and immediately shut down. Unable to screenshot
+SpotifyCares: @274167 Hmm, that's odd. Just to check, are there any other devices you could use to replicate the issue? If so, keep us in the loop /JM

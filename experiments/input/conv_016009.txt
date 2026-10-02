@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When searching a song, &amp; trying to select it. It chooses a 🎶 2 ⬇️ instead of the one I hit. I then have to tap above the 🎶 for it to play.
+SpotifyCares: @408285 Can you also let us know the device/OS and Spotify version you’re using? Try logging out, restarting your device, then logging back in /CO

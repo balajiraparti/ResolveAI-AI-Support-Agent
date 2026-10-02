@@ -1,0 +1,3 @@
+Customer: @SpotifyCares When connecting to WiFi it says I’m offline and to try again. 
+It’s fine on 3/4g however, I don’t want it to eat my data constantly
+SpotifyCares: @489528 Do you notice the same thing happening to your other apps? Try restarting your device by holding Home + Lock for 10 seconds. Any better? /JT

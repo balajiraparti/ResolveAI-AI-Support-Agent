@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey, OS is MacOS Sierra 10.12.6. There's no error, I simply click Create Similar Playlist but it's like I'm not even clicking it - it's not like it clicks and doesn't do anything, it might as well be greyed out as nothing happens whatsoever. TY
+SpotifyCares: @323987 Thanks. Does logging out &gt; restarting your device &gt; logging back in again make any difference? /KM

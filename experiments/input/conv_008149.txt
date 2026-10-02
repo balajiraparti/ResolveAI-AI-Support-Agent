@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm using IOS 10.3.3 and spotify version 8.4.18. Please let me know what I can do to rectify this problem.
+SpotifyCares: @385469 Thanks! Can you try logging out of Spotify, restarting your device, and logging back in to see if that helps? /NY

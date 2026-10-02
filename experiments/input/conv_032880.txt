@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Every time I launch Spotify on Windows 10, the whole computer freezes, what can I do ?
+SpotifyCares: @760803 Hey, that's not right! Can you let us know the make and model of your device and the exact version of Spotify you're running? We'll see what we can suggest /RA

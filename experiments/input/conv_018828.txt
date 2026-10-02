@@ -1,0 +1,2 @@
+Customer: @SpotifyCares help, I'm unable to follow any artist's account. I'm on ios 10.2.1 and spotify 8.4.24
+SpotifyCares: @720244 Hey! Can we give this a try: log out from Spotify &gt; restart your device &gt; log back in? Did that make a difference? /DR

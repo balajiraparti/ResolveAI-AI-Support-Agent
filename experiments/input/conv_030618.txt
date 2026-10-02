@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It’s a 2017 Sony Bravia Xbr-65x930e . software version pkg6.2676.0070NAA
+SpotifyCares: @717063 Thanks. If possible, can you try disabling Google Assistant on your TV? Also, is Spotify the only app this is happening on? /RH

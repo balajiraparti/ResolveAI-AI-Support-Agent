@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi! My Spotify app on my Galaxy S7 Edge always freezes when I reach a certain song, to the point that even restarting my phone does nothing. Can you help?
+SpotifyCares: @249297 Hey there! Can you try reinstalling the app using the steps here: https://t.co/PDA2aKzC6Q? Let us know how it plays out /LM

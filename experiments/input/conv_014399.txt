@@ -1,0 +1,2 @@
+Customer: @SpotifyCares, Do offline listens add up to an artist's plays whenever I go back online? 🤔
+SpotifyCares: @486667 Offline listens are counted and sent to Spotify's server the next time you connect to the Internet. We hope this answers your question 🙂 /KL

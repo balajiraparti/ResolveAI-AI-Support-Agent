@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Ive got a big playlist and it doesn't shuffle more than 30 songs at once: the same songs are in the queue when i click shuffle
+SpotifyCares: @519528 Hey there! Just to check, does this issue happen when you're using Connect and you have Shuffle enabled? /AR

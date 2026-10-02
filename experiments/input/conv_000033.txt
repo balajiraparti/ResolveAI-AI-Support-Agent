@@ -1,0 +1,2 @@
+Customer: @115888 in the new web app style I cannot find the option for ordering albums by "most recent added" (=added into my library)
+SpotifyCares: @388775 Hi! We appreciate your feedback. We're still testing and improving the new web player, so we'll pass this onto the team /TC

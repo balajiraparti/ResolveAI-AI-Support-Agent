@@ -1,0 +1,2 @@
+Customer: @SpotifyCares How do I remove a playlist that just says "Loading.."? A right click and "Unfollow" does nothing.
+SpotifyCares: @618947 Hi there! Can you let us know the device, OS, and Spotify version you're running? We'll see what we can suggest /RE

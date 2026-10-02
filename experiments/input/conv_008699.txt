@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Part 4: I’m on an iPhone 6S, iOS 11, Version 8.4.22 and I’m not getting an error message.
+SpotifyCares: @417279 Are you getting similar issues when listening to other artists? If you try logging out and back in, does it make a difference? /AY

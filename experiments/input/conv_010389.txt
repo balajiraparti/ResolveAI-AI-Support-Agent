@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error, just when I press the shuffle play button to the Imagine Dragons album it does not want to play. The device is my iPhone 5SE
+SpotifyCares: @545043 Can you let us know which iOS and Spotify versions you're currently using? Also, does restarting help? /NQ

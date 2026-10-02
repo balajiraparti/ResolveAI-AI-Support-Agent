@@ -1,0 +1,3 @@
+Customer: @SpotifyCares Version 1.0.63.617.g5aca9a2a
+Dell Inspiron 5520 running Windows 7 home premium. Won't allow me to uninstall
+SpotifyCares: @277653 Thanks. Does restarting your device help at all? /MC

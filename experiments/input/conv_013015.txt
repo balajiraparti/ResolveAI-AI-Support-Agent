@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Can't log into the app because I'm "set to offline." Clicked connect and then nothing happens.
+SpotifyCares: @334050 Hey Mike! Help's here. What device, operating system, and Spotify version are you rocking? We'll see what we can suggest /RA

@@ -1,0 +1,2 @@
+Customer: @117153 @115888 having some issues with the Spotify auth API, getting status code 500s when making login requests, we're a team of three, an hour away from demoing our location-based music app, please help! We might actually have a chance to win prizes! ❤️😭#pleasehelp
+SpotifyCares: @248878 Hi Jonathan! We're sorry for the delay. Can you DM us your account's email address, along with screenshots of the error messages you're getting? We'll take a look backstage /LM

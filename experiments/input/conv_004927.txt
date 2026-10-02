@@ -1,0 +1,2 @@
+Customer: Hey @SpotifyCares, I was listening to the web player and now it doesn't play. Logged off, reset, cleared cache... nothing worked. What now?
+SpotifyCares: @292013 Hey there! Can you let us know the internet browser you're using? Are you on a WiFi or 3G/4G connection? /LO

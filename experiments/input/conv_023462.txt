@@ -1,0 +1,2 @@
+Customer: @SpotifyCares happens on 4g
+SpotifyCares: @278311 If possible, can you try connecting to a different network just long enough to test out the issue? /AG

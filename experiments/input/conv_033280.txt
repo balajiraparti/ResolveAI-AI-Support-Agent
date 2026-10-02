@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm using a Huawei G Play mini with an Android 5.1.1 and the app version is 8.4.26.770 armV7
+SpotifyCares: @767207 Thanks for that info. Just to check, is this happening while connected to WiFi, 3G/4G or both? Keep us posted /JI

@@ -1,0 +1,2 @@
+Customer: @115888 daily playlists do not work at all properly on Chromecast audio. Constantly getting out of sync. How about a fix?
+SpotifyCares: @571324 Hey Mike! The cavalry's here. Could you tell us the operating system, Spotify version, and the make/model of your device? /KB

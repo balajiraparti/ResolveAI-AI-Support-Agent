@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I accidentally Revoked Access between my account and my PSN account. Now I get the error message: Error connecting to PlayStationNetwork Please try again later. I've tried reinstalling it and the same message pops up.
+SpotifyCares: @654588 Hi! Restart the app by holding down the PS button &amp; selecting Close Application. Then, restart your router &amp; reopen the app. Any better? /KC

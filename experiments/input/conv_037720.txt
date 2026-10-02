@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, I'm having an issue with local files. I imported several mp3 files to a playlist on the Spotify library on my MacBook, and they showed up fine on my phone so I was happy. Then I signed into my OTHER computer and they weren't there. How do I fix this?
+SpotifyCares: @789150 Hi Kendrick, help's here! Can you try to see if following the steps at https://t.co/SgMwFS1ONz makes a difference? /DV

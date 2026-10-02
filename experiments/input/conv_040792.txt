@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, after the latest android update I can't control my Sonos through the Spotify app, but works fine from the Sonos app. The speaker is shown in the list, but nothing happens. I have already tried restarting everything, reconnecting to WiFi, and reinstalled the app, but no joy.
+SpotifyCares: @135361 Hey Sean! Can you let us know the specific Spotify and Android versions you're using? We'll see what we can suggest /NG

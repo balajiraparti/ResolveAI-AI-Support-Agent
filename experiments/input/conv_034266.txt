@@ -1,0 +1,2 @@
+Customer: @SpotifyCares the app is at 9GB on internal storage and i hot rid of a whole bunch of songs and it didn't go down. I cleared cache but nothing. If i hit clear data, will i lose all my songs or will they still be there ready to download again?
+SpotifyCares: @131102 Hey there! If you clear your cache or data, any downloaded songs you have will be removed. Hope that helps /PB

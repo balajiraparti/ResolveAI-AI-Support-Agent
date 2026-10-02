@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Nope, just stops my song, connects to webplayer and plays some random stuff. Despacito was the latest one ahaha
+SpotifyCares: @328296 Got it. Can you head to your desktop app's Settings &gt; Startup and Window Behaviour and check if it's ticked or unticked? /NG

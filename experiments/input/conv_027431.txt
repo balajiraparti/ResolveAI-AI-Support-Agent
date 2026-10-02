@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Closing it in app switching mode in iOS and re-opening brought it back. I just wanted to report it as a possible bug 🤓
+SpotifyCares: @351514 We understand. We’re working on it as we speak. Stay tuned any updates from us anytime soon. Let us know if you need anything else /NY

@@ -1,0 +1,2 @@
+Customer: @115888: In the iOS desktop app under recently played, you can not remove songs that are saved. I can only remove songs that are not saved.
+SpotifyCares: @362492 Hi CJ, the cavalry's here! Can you let us know what version of Spotify you're using? We'll see what we can suggest /JI

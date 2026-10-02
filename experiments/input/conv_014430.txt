@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 8.4.24.871 armv7 ProjectFi Nexus5x Oreo https://t.co/5u3tV9llgL
+SpotifyCares: @372879 Thanks for the info. Could you try logging out, restarting your device, then logging back in before syncing through your WiFi? /PB

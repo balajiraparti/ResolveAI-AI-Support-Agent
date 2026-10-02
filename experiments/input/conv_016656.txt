@@ -1,0 +1,2 @@
+Customer: @SpotifyCares when using the app through android auto I don't get any sound even though song is playing. Any ideas?
+SpotifyCares: @419145 Hey Michael! Does logging out of your account, restarting your device, and logging back in help at all? Let us know how it goes /TF

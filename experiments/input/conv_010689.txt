@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error message, the little bar across the bottom that displays the song just disappears. Issue only on iPhone, tried reinstalling, no help
+SpotifyCares: @325329 That's odd. Is this happening while connected to WiFi, 3G/4G or both? /KL

@@ -1,0 +1,2 @@
+Customer: [Request] Two factor authentication for the web dashboard, and ability to set "allowed devices". My account keeps getting hijacked @115888
+SpotifyCares: @192670 2: On another note, we've just replied to your DM. We'll carry on helping out there /MU

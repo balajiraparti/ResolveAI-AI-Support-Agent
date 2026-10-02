@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The interface when I lock my screen doesn’t show up half of the time, and the volume buttons don’t work when I lock my phone.
+SpotifyCares: @378681 Thanks for letting us know. Can you try logging out &gt; restarting your device &gt; logging back in to see if it helps? Keep us posted /AR

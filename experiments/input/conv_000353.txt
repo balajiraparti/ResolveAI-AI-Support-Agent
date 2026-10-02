@@ -1,0 +1,2 @@
+Customer: @SpotifyCares ...and I'm not aware of a certain update causing this. Switching to High quality downloads was the change that seemed to cause it.
+SpotifyCares: @159744 Can you try logging out &gt; restarting your device &gt; logging back in? Let us know if that makes a difference /RH

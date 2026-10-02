@@ -1,0 +1,2 @@
+Customer: @115888 @SpotifyCares
+SpotifyCares: @185774 Hey there! How many tracks would you say you have in Songs (roughly)? e.g. 100, 1000, 5000, or more? /SY

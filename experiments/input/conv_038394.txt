@@ -1,0 +1,2 @@
+Customer: @SpotifyCares recently gifs on @TwitterSupport have been pausing music while I watch them despite lack of sound. iOS 11.1.2, iPhone 7 Plus, Spotify 8.4.28.1104, Twitter 7.12. I don’t remember this happening before maybe last week
+SpotifyCares: @796697 Hey Matt! Did the issue happen after a specific update? Does logging out, fully closing the app, and restarting your device help? /KC

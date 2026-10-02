@@ -1,0 +1,2 @@
+Customer: Hmm, having problems with @115833 and @115888. Alexa is unable to play any artist, "Cannot find songs by x". Playlists work fine. Any suggestions?
+SpotifyCares: @777908 Hey there! Just to check, do other commands work such as asking your Echo to play a specific song or album? /LM

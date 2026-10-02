@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Since the last iOS update, I can’t stream to my car via Bluetooth (R-link). Reset, paired again, no joy. Works w/o bluetooth!
+SpotifyCares: @599839 Hi, that doesn't sound right. Can you let us know the car model, device, and Spotify version you're using? We'll see what we can suggest /JE

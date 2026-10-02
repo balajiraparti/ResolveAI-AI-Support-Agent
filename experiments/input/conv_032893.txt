@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error messages. It’s simply not changing songs once the previous one finishes
+SpotifyCares: @411653 Got it. Have you tried logging out and back in to your account? Also, does restarting your device help at all? /NS

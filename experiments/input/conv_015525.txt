@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm using a Lumia 950 running Windows 10 Mobile (latest version) and the latest Spotify app for Windows Phone / 10 Mobile.
+SpotifyCares: @401644 Thanks! Can you try logging out and back in to the app? Does restarting your device help? /CH

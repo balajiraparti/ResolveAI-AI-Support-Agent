@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No. Completely new android device and also had the same behaviour on my previous one. If I listen to di.fm on my phone in one room and use Google Home (or another android device) to start a song, Spotify pops up on the first device and pauses whatever other audio is playing.
+SpotifyCares: @154719 Got it! Just to clarify, are you logged into Spotify on both of these devices? If so, we recommend logging out of one of these, before trying again. Keep us posted /JJ

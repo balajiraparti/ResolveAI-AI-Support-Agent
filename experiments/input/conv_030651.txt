@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Mic search working on vevo and youtube but the mic function is more integrated in those two apps. No way to disable google assistant, according to Sony tech support this is an update forced on all new models. I can type in searches still just much easier to just speak.
+SpotifyCares: @717063 Just to check, does this only happen when you tr to search for playlists using Google Assistant? /RH

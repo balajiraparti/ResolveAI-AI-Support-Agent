@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 8.4.25.771 / Android 6 / Moto g 2
+SpotifyCares: @642950 Thanks. Could you tell us when the app started using this much memory? Can you also let us know how much it was using before? /GS

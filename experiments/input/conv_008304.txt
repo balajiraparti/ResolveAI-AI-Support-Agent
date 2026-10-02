@@ -1,0 +1,2 @@
+Customer: @115888 Had to downgrade V1.0.3 to work around problems importing mp3's and available songs not playing
+SpotifyCares: @403879 Hi Ann. Don't worry, help's here. Can you tell us exactly what's going on? We'll see what we can suggest /JU

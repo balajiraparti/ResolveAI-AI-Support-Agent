@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It is a bq Aquaris X Pro. Spotify version 8.4.24.871.
+SpotifyCares: @363760 Thanks! Could you try logging out, restarting your device, then logging back in? /PB

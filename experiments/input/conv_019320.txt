@@ -1,0 +1,2 @@
+Customer: @115888 im trying to update my payment info for my premium subscription but it keeps saying my CSRF token is invalid. Can you help at all?
+SpotifyCares: @582103 Hey, help's here! Can you DM us your account's email address along with the screenshot of the error message? We'll take a look backstage /MG https://t.co/ldFdZRiNAt

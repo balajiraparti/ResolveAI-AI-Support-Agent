@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It's been running smoothly today, so far.  It's a desktop, Windows 7, and Chrome browser.
+SpotifyCares: @128829 Got it. In case the same issue happens, we'd recommend clearing your browser's cache and cookies. Keep us in the loop /DB

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares  ey is this a known bug or what? the text from whatever playlist I was on overlays over the entire GUI for the rest of the app. I can interact with the app normally except for the top portion which gets blocked by the shuffle button https://t.co/PyGAd5G7LP
+SpotifyCares: @499052 Hey there! Can you let us know which Android and Spotify versions you're using? We'll see what we can suggest /NQ

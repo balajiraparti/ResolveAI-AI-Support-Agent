@@ -1,0 +1,2 @@
+Customer: @115888 @SpotifyCares Ugh, latest Store update on #Windows10 is slow 2 detect connection. Shows "offline" before connecting. #squashthatbug
+SpotifyCares: @298731 Hi Chris, help's here! Can you let us know when this started to happen? Also, do you get any error messages when it does? /DV

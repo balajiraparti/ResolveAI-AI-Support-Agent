@@ -1,0 +1,2 @@
+Customer: @115888 You app continues to re-enable startup at login. Why are you forcing this? I mean this is still my mac right?
+SpotifyCares: @139552 Hey! Help's here. What OS X and Spotify versions are you rocking? We'll see what we can suggest /TM

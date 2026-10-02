@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, I can’t connect my Facebook-account to my Spotify. (My Spoitify-username is ‘kzenmatthias’)
+SpotifyCares: @252765 Hey! The cavalry's here. Can you DM us your account's email address? We'll take a look under the hood /JS https://t.co/ldFdZRiNAt

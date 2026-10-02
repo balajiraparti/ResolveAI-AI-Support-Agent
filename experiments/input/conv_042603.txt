@@ -1,0 +1,2 @@
+Customer: @115888 Your app is controlling playback by itself. Will be downgrading this afternoon and deleting if it peresists. Thanks.
+SpotifyCares: @247557 Hey there! Can you let us know your device, operating system, and Spotify version? We'll see what we can suggest /AP

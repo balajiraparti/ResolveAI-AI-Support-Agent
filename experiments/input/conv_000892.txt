@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yes, I tried that as well. Still not working.
+SpotifyCares: @160564 Don't worry, we'll get to the bottom of this. Just to clarify, is it crashing at any specific points, e.g. at startup, during streaming? /RI

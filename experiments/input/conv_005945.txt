@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When asking to play a song on spotify (premium) through Google Home, it does not play more songs after it (continuous mode)
+SpotifyCares: @360518 Hey! Are you controlling the Spotify app with your phone using Google Assistant? If so, which Android and Spotify version are you using? /MA

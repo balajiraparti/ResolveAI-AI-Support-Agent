@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Windows: 1.0.65.320.gac7a8e02
+
+App: 8.4.22.857armV7
+SpotifyCares: @212720 Got it. Can you reinstall the app before checking again? Steps can be found here: https://t.co/EqisDMwZAT /JU

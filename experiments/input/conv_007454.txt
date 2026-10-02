@@ -1,0 +1,2 @@
+Customer: Hey @SpotifyCares my android version of the app randomly pauses on its own. Just thought I'd report the bug.
+SpotifyCares: @542651 Hi! Don't worry, help's here. Can you let us know the device you're using along with the Android &amp; Spotify versions you have installed? /MT

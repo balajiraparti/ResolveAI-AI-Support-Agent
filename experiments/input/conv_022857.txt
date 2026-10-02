@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No, that doesn’t work. Your app blocks swiping-up and swiping-left from the edges of the screen.
+SpotifyCares: @307006 Got it. Could you DM us a screenshot of what you're seeing on your end? We'll see what we can suggest /TY https://t.co/ldFdZRiNAt

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify is saying every song I try to play is "not available", possibly after an update. Any ideas?
+SpotifyCares: @328295 Hey there! That's not cool. Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /PX

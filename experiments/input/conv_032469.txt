@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Device: Samsung Galaxy E7
+Android Version: 5.1.1
+Spotify Version: 8.4.26.770
+SpotifyCares: @748241 Thanks, we'll take note of them! Does logging out, restarting your device, and logging back in help at all? /YM

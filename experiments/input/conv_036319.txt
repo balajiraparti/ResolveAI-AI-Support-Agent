@@ -1,0 +1,2 @@
+Customer: @115888 any plans to improve queue functionality? (queuing on web player, clearing queue on Android)
+SpotifyCares: @153874 Hey there! We don't have any info on this right now, but we'll let the right team know it's something you'd like to see /MX

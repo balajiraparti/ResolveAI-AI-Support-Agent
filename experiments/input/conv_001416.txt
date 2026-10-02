@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When I press the button "Create similar playlist" on desktop it doesn't do anything.
+SpotifyCares: @165995 Hey there! What operating system and version of Spotify is this happening on? We'll lend a hand /SY

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares also sometimes only plays one song and then stops and pauses in between the song. Ive tried updated it twice and still wont work.
+SpotifyCares: @334234 Hey, that doesn't sound good! Did the app crash at any point during the 30 minutes? That can cause the ad-free time to reset /RB

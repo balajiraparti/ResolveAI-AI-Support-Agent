@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It’s a feature that others have. You’re running an A/B experiment, and I’d like to be in the population that has the feature. Make sense?
+SpotifyCares: @118058 We're afraid we don't have much info to share about that right now, but we'll let the right team know it's something you'd like to see /NS

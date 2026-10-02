@@ -1,0 +1,2 @@
+Customer: @SpotifyCares So part of your free service is that when you get to the end of a song, the app intentionally sits there and does nothing until you hit the skip button to play the next song, and after you've done this a number of times, you just can no longer listen to anything?
+SpotifyCares: @460211 That's odd. Can you let us know what device, operating system, and Spotify version you're using? We'll see what we can suggest /CH

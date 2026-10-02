@@ -1,0 +1,2 @@
+Customer: @SpotifyCares @SpotifyCares i don’t want the Spotify app to be launched automatically when I log into my Mac. I change the settings but the app doesn’t save them and keeps opening it every time I log on  HELP
+SpotifyCares: @116385 Hey Isaí, that doesn't sound right. What OS X and Spotify versions are you using? We'll see what we can suggest /JE

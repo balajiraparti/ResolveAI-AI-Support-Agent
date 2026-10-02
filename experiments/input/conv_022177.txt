@@ -1,0 +1,2 @@
+Customer: @115888 The song progress bar is stuck at 0:02, on the lock screen, while playing. 😰 iOS 11.1 bug? https://t.co/kJoqEn2diE
+SpotifyCares: @485955 Hey, that's not cool! Could you let us know what device you're using and the exact versions of iOS and Spotify installed on your device? /RA

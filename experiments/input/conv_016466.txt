@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Windows 7 enterprise. I can load library and artists but nothing will play. Have checked Chrome settings, deleted cache etc.
+SpotifyCares: @415610 Thanks. Are you getting any error messages? Does logging out &gt; restarting your device &gt; logging back in make a difference? /AY

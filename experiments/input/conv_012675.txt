@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I guys i need answers, why did my UI changes when I'm without connection. It's a problematic UI, It has never happened before
+SpotifyCares: @557456 Hi Alex! Can you let us know what device, OS, and Spotify version you're running? Also, can you let us know what's happening exactly? /LM

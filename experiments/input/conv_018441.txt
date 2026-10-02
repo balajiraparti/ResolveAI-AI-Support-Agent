@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Device - Alcatel One Touch Pixi 4
+Android - 6.0.1
+App version - 8.4.24.871
+SpotifyCares: @215730 Got it. Just to check, have you tried logging out, restarting your device, then logging back in? /PB

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Your banner ads have started playing at the same time as songs -looping
+SpotifyCares: @583192 That's a bit strange. What device, operating system, and Spotify version are you using? Also, can you remember what the ad was for? /MC

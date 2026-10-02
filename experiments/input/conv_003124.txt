@@ -1,0 +1,4 @@
+Customer: @SpotifyCares im not seeing any errors or anything like that.
+
+its just me listening to a song, and then it just randomly skips it
+SpotifyCares: @199277 Can you try clearing your cache and cookies? If you can try reinstalling Chrome to see if it helps, that'd be great /PL

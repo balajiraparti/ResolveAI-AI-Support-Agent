@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I am not, when I click on his music the play bar on the bottom just goes away. if I try to queue it, it says "Cannot queue this content."
+SpotifyCares: @438700 We see. Does logging out &gt; restarting the device &gt; logging back in help? Let us know how this goes 🙂 /CG

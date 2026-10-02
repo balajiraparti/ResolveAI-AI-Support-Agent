@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm a premium user and after updating Spotify based on the program notification I get "Cannot find 'API-MS-WIN-CORE-PROCESSTHREADS-L1-1-2.DLL'. I'm using Windows 7 64bit.
+SpotifyCares: @248476 2: Once done, just download a new installer at https://t.co/cgbgyQ4C7a and reinstall the app. Let us know how it plays out /LM

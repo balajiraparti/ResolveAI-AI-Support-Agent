@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm using this on the LG G6 running Android 7.0 and like I said, I haven't gotten Spotify yet because I wanted to know if it works on the Google Home
+SpotifyCares: @579323 Got it. Spotify supports .mp3, .mp4, and .m4p files. It doesn’t support .mp4 files that contain video, or the iTunes lossless format (M4A). You can also check out https://t.co/leBtTrQniD for more info about this. Give us a shout if you have other questions /AY

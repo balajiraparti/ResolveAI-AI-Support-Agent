@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I had to clear app data and cache to fix it. But just wanted to let you know about the bug.
+SpotifyCares: @777048 Thanks for the feedback. We'll make sure to pass it on to the right team /JS

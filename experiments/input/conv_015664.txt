@@ -1,0 +1,2 @@
+Customer: @SpotifyCares TIL email addresses with capitals aren't allowed, good thing I know how to inspect element because the error was useless
+SpotifyCares: @256598 Hey there! Can you let us know what's happening exactly? We'll see what we can suggest /PL

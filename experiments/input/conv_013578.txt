@@ -1,0 +1,2 @@
+Customer: My goodness, @115888 has "accidentally" unpaused itself several times this evening. I hope this bug gets fixed promptly, @spotifycares!
+SpotifyCares: @347714 Hey Leo! Did this happen after a specific app or firmware update? Can you let us know which device/OS and Spotify version you're using? /YM

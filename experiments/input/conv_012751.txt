@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm on macOs 10.12.5 and Chrome 61.0.3163.100
+SpotifyCares: @326012 Thanks! Let's try clearing your browser's cache and cookies or using an incognito window, and give it one more shot. Keep us posted /BH

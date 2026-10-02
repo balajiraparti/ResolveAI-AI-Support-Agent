@@ -1,0 +1,2 @@
+Customer: @117153 @SpotifyCares Client keeps shutting down and relaunching in mac (10.13.1), at about 2 times per second (!!!) Seem to write a copy of itself each time (!!!) Tried solution in official support site; it doesn't work... :/
+SpotifyCares: @763838 Hi there, help's here! Can you let us know the Spotify version you're running? We'll see what we can suggest /NY

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Can't screenshot. When I find a song to share, when I choose "share," it closes. No error message.
+SpotifyCares: @303787 Hmm. Could you confirm the make/model, operating system, and Spotify version of your device? We'll see what we can suggest /KB

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares wonder if you can help. The same song on the same playlist crashes my app everytime. How can this be fixed
+SpotifyCares: @175424 Hey Tim! What device, operating system, and Spotify version are you using? We'll see what we can suggest /NG

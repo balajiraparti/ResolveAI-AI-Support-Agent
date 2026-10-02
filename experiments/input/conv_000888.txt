@@ -1,0 +1,2 @@
+Customer: @SpotifyCares whenever I try and share a playlist or so on my Android phone the app crashes. Android 8.0, Spotify version 8.4.21.508
+SpotifyCares: @160561 Hey Robert! What's the make and model of your Android device? We'll see what we can suggest /MC

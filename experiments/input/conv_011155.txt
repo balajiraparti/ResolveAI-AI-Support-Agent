@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I will try that. But, perf issue is not limited to this session. I guess perf is inherent to the design. Is saved music list cached locally?
+SpotifyCares: @554471 App performance depends on the specs, connection, and available memory. You're right, offline music are stored on your device cache /JU

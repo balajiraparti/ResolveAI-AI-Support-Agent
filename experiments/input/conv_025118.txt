@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Tried to listen to music, #spotify keeps saying to check my connection. I'm on house Wi-Fi. Groove opens fine &amp; plays.
+SpotifyCares: @293222 Can you let us know your device, operating system, and Spotify version? We'll see what we can suggest /RC

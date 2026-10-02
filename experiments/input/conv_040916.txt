@@ -1,0 +1,2 @@
+Customer: @117153 Not able to log in to my account on all browsers, using Spotify Connect with Sonos or stream music through the Sonos app. Streaming through regular PC and smartphone app works fine. What gives? I live in Copenhagen, Denmark.
+SpotifyCares: @138424 Hey Tobias, we're here to help! Can you send us a screenshot of any error messages your getting? make sure to mask your email address, or any other private info, if it's seen in the screenshot /JP

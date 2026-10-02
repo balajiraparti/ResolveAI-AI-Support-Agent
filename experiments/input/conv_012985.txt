@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Ios 11.0.2 and spotify version 8.4.22.515
+SpotifyCares: @330829 Thanks! Can you send us a screenshot of the exact error message you're getting? /RA

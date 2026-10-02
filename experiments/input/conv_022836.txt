@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Crashed when I opened the app to start playing music over Bluetooth in the car. And my entire library of music was deleted
+SpotifyCares: @496122 Hmm, that's odd. Did you get any error messages? When you mean entire library, does this include all your playlists? /KM

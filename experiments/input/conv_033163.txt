@@ -1,0 +1,2 @@
+Customer: @SpotifyCares That's what I'm have been doing: trying to reinstall. It doesn't help! I suspect one of the latest windows updates could be the issue.
+SpotifyCares: @693591 We see. Can you try heading to C:\Users\USERNAME\AppData\Roaming and C:\Users\USERNAME\AppData\Local? Afterwards, just delete the Spotify folders found in both locations. Let us know how it goes /XF

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yeah, continually saying I'm offline, or just saying error whenever I try to load a page
+SpotifyCares: @806768 Got it! Is this happening on 3G/4G, WiFi, or both? Could you fire over the make/model of your device, as well as the operating system and Spotify version you're using? We'll see what we can suggest /KB

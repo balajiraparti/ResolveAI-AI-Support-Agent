@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Your Mac client instantly crashes for me when I try to open it. I'm on 10.13 and reinstalled it a few times. Any idea why?
+SpotifyCares: @417295 Hey! Did this happen after a specific OS X update? We'll see what we can suggest /YM

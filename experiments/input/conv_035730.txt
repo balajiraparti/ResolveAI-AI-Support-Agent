@@ -1,0 +1,2 @@
+Customer: Hey @125633, just looking through my analytics. What falls under "All Other Sources"?
+SpotifyCares: @139986 Hey there! All Other Sources includes streams from devices the listener connected to through Spotify Connect, and from non-app widgets such as the Spotify Play Button, which artists and fans can embed in their websites /P

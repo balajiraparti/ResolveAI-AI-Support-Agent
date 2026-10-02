@@ -1,0 +1,2 @@
+Customer: @SpotifyCares are you aware of the iPhone X / iOS11 bug wherein if a video plays in another app it stops all audio coming from your app? Have to restart each time.
+SpotifyCares: @135367 Hi there. Just to clarify, do you need to restart the app to continue your music, or do you just resume the playback? /LM

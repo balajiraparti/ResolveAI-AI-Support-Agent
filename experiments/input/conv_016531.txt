@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Obviously there are some requirements otherwise it would work? It works from a different network connection (i.e. without proxy)
+SpotifyCares: @160030 2: reaching out to your local IT to look into this. Let us know if there's anything else /RC

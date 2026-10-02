@@ -1,0 +1,2 @@
+Customer: @SpotifyCares banner adverts keep playing with sound while songs are playing here tonight, looks like something is broken in windows client
+SpotifyCares: @411972 Hey! The cavalry's here. Can you fire over the device's make/model, operating system, and the Spotify version you're using? /JS

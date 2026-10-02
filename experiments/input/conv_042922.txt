@@ -1,0 +1,2 @@
+Customer: @SpotifyCares So I can play Spotify from within the Sonos app, but can't play from the Spotify app (Android) to Sonos. Can see Sonos in _devices available_ but just won't connect. Any solution to this yet?
+SpotifyCares: @263422 Hi Jeffrey. Don't worry, help's here. Can you tell us what Android and Spotify app versions you have on your phone? We'll see what we can suggest /JU

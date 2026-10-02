@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Android app asks to log on but when I try it says I'm set to offline. Then gets stuck in a loop. 7gb of downloads I need to access!
+SpotifyCares: @722997 Hey Richard! Help's here. Can you let us know the Android and Spotify versions you're running? We'll see what we can suggest /KM

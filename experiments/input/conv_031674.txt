@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No the ad doesn’t come up at all, it’s just black except for the Learn More button.  Also the pause button is visible, but if you hit it it just shows the play button but still black screen behind.  It was this eve, guessing around 6:30 pm pst
+SpotifyCares: @474954 Got it. We'd suggest logging out, restarting your device, and logging back in. This should help refresh the app. If the issue happens again, get back to us so we can check further /LO

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey im using it on my Macbook, Sierra OS and version 1.0.67.582.g19436fa3
+SpotifyCares: @687094 Thanks. Can you try logging out &gt; restarting your device &gt; logging back in? Let us know if that makes a difference /RH

@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Spot8fy version 8.4.26.770 armv7
+
+Android version 6.0.1
+SpotifyCares: @525732 Thanks! Can you try logging out &gt; restarting your device &gt; logging back in? Let us know if that helps /PL

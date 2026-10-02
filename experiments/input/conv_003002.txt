@@ -1,0 +1,2 @@
+Customer: @SpotifyCares
+SpotifyCares: @611005 Hey there! Don't worry, help's here. What device, operating system, and Spotify version are you using? We'll see what we can suggest /MT

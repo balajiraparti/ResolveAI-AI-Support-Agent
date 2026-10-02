@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, I'm trying to listen to Avicii on Spotify, but only three of his songs will play, the others are not working
+SpotifyCares: @396899 Hey there! What's happening exactly? Can you let us know the device, operating system, and app version you're using? /PB

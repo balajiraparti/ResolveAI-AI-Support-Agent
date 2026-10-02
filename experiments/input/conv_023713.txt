@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm having an issue where I can add individual songs to my queue but the option to add an album is now grayed out. Help!
+SpotifyCares: @516168 Hey Joe! Can you let us know your device/OS and Spotify version? We'll see what we can suggest /JP

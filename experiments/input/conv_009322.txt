@@ -1,0 +1,2 @@
+Customer: @SpotifyCares v8.4.23.784 on 2 androids. tried using data &amp; wifi. same symptoms. ios is doing fine tho
+SpotifyCares: @179251 Thanks! Let's try reinstalling Spotify on your android devices following these steps: https://t.co/3FU57oyTNJ. Let us know how it goes /BH

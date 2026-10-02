@@ -1,0 +1,6 @@
+Customer: @SpotifyCares Hey. Just managed to try this and it resulted in the same behaviour. 
+Spotify audio muted. 
+When gif stops, Spotify didn’t kick back in. 
+Spotify shows as still playing, but no audio. 
+Have to kill and restart Spotify.
+SpotifyCares: @140436 Thanks for trying that out. We've just sent more info via DM. We'll carry on helping out there /MU

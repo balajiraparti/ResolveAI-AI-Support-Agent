@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey, running into a bug where on an Artist's page, the 'albums' section is retaining the albums from a previous artist page.
+SpotifyCares: @194241 Hey there! What device and Spotify version is this happening on? Also, does logging out and back in help at all? /BH

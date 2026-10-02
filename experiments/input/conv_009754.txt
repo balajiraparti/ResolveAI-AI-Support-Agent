@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I do not get any error messages on my phone (Samsung Galaxy S8+), but i do get a "Song not available" message on my computer (Windows 10).
+SpotifyCares: @505338 Thanks. Do you get the error message when playing other tracks/albums? Can you try logging out, restarting it, then logging back in? /SJ

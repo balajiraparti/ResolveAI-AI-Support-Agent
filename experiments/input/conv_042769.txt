@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Latest version and PC, I went to older versions and they work fine
+SpotifyCares: @253488 Thanks for letting us know. Can you try reinstalling the app using the steps at this link: https://t.co/uaNsDPIwm2? This will ensure that Spotify is completely removed before reinstalling. Let us know how it goes /QI

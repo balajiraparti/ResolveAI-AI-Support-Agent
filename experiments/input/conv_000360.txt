@@ -1,0 +1,2 @@
+Customer: @115888 why does your desktop app not support 1.5 UI scaling on Linux?
+SpotifyCares: @603888 Hey Janos! We don't offer official support for the version of the app for Linux, but you can find help here: https://t.co/vXQLSeiPfq /RS

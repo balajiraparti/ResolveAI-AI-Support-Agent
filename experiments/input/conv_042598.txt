@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It’s iOS, iPhone 6s. v8.4.28.1104. I’m sure it’s working as intended but just a comment about how the queue works :)
+SpotifyCares: @250111 Got it. Can you log out, restart your iPhone, then log back in before checking one more time? Let us know how it goes /JU

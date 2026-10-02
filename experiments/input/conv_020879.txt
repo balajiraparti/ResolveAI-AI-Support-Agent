@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error message, just constant crashing and freezing, music keeps playing and stopping randomly, shuffle doesn't work and superslow loading
+SpotifyCares: @454587 Hmm. Is this happening over 3G/4G, WiFi, or both? Can you check if this is also happening on a different device? /PL

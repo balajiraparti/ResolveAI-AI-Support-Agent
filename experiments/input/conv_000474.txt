@@ -1,0 +1,2 @@
+Customer: @SpotifyCares desktop app works fine, and does seem to have the random unresponsiveness thats normal with web player either
+SpotifyCares: @160032 We've had a slight hiccup earlier. Can you try restarting your device again and opening the web player? Let us know if it's fixed /PL

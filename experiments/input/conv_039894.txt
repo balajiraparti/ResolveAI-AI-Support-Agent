@@ -1,0 +1,2 @@
+Customer: @SpotifyCares my music is repeatedly being undownloaded or refusing to show up in android. I have cleared caches, reinstalled, managed offline devices and it happens repeatedly - please advise.
+SpotifyCares: @811929 Hi Benedict, sorry to hear that! Check out the steps under “Downloads unexpectedly removed” at https://t.co/EidIERWgLX. They should help with this /JN

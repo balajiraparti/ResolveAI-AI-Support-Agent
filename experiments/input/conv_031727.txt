@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yes, I just updated to High Sierra and still not working. It also doesn't work on my Windows 10 machine. Maybe it has something to do with language and location? I'm in Spain but my OS's are in English.
+SpotifyCares: @710106 Thanks for the info. Just to check, are you getting any error messages? If so, a screenshot of it will be handy /NY

@@ -1,0 +1,2 @@
+Customer: @115888 Your app doesnt work. I try playing my playlist, but it doesn't play. It only plays suggestion song.
+SpotifyCares: @531358 Hey Julio! Could you let us know your device's make/model, operating system, and Spotify version? We'll see what we can suggest /GU

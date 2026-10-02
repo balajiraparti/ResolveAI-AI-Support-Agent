@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It just comes back once the mouse stops moving.
+SpotifyCares: @398136 Alright. Have you tried logging out &gt; restarting the app &gt; logging back in? That might help /RH

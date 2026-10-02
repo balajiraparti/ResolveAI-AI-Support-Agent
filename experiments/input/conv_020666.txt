@@ -1,0 +1,2 @@
+Customer: @SpotifyCares --keeps on playing &amp; spotify doesnt seem to detect that im online when i have perfect connection. sony f3216 android 7.0 spotify v8.4.24.871
+SpotifyCares: @124925 Got it. Does logging out then back in help? If it doesn't, could you try restarting the device? Let us know how it goes /JS

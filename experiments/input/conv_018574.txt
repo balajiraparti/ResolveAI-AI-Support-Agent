@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Also: App sometimes suddenly just stops playing music altogether, related to that issues w/ Bluetooth devices (music also stops)
+SpotifyCares: @124704 Got it! Could you try uninstalling and reinstalling the app? Let us know how it goes /DF

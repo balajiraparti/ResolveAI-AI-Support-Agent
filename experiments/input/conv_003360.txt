@@ -1,0 +1,2 @@
+Customer: @SpotifyCares How do I turn off the crossfade between songs? I already turned off crossfade in settings.
+SpotifyCares: @247557 Hey, help's here! Can you try logging out &gt; restarting your device &gt; logging back in? Then, check if Crossfade is already disabled /RK

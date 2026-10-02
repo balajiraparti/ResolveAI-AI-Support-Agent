@@ -1,0 +1,2 @@
+Customer: Hey @SpotifyCares Your service launching whenever I start my computer - despite me turning off that feature -- is getting pretty old, so is not having anyone to reach out for help. This is a known issue that is unresolved in the forums.
+SpotifyCares: @809576 Hey Andrea! What operating system and Spotify version are you running? We'll check this out /CE

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The version says 8.4.11.1283
+SpotifyCares: @291378 Thanks. Can you try logging out and back in again? If the issue still persists, you can try restarting your device. Any difference? /GK

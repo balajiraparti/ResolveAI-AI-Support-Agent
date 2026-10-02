@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify 8.4.25.906 and iOS 11
+SpotifyCares: @116887 Got it. Is this happening on 3G/4G, WiFi, or both? Do you get the same issue when you use Spotify on other devices? /KB

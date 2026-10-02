@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Iphone 6s plus
+Ios
+Version 8.4.24
+SpotifyCares: @337495 We'd suggest logging out, closing the app, and restarting your device to see if that makes a difference. Let us know how it goes /MG

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It's happened every time I've checked in the past few months. Have restarted my router a handful of times during this period. Should I try uninstalling, then reinstalling?
+SpotifyCares: @762220 If you'd like to reinstall the app, there's more info at https://t.co/46sWVq06dg on how to do it. Note that since your operating system is no longer supported, we're unable to guarantee if it'll work properly. Keep us posted /RA

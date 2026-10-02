@@ -1,0 +1,3 @@
+Customer: @SpotifyCares After the most recent update I get an error on Windows 7 about missing DLL:  API-MS-WIN-CORE-PROCESSTHREADS-L1-1-2.DLL for the desktop app.
+Any status on when this will be fixed?  This is a huge bug.
+SpotifyCares: @232367 That doesn't sound good. Can you DM us with your account's username/email and a screenshot of the error message? We'll see what we can suggest /WW https://t.co/ldFdZRiNAt

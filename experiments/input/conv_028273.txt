@@ -1,0 +1,2 @@
+Customer: @SpotifyCares when I try to log in the application it will not even bring up the username and password page the login button does not work! What should I do?
+SpotifyCares: @668991 Hey Sam, help's arrived! Can you tell us what device, operating system, and Spotify version you're using? We'll see what we can suggest /CH

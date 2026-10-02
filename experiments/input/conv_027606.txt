@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Dell and Lenovo PCs, Win7 and 10, chrome
+SpotifyCares: @663211 Thanks for the info. Just to check, does your work's connection have any VPN or proxies that may be blocking the Spotify web player? /LM

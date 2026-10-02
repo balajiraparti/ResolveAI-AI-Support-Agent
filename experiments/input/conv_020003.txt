@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Doesn’t show in lock screen. Can’t adjust volume of phone isn’t unlocked also.
+SpotifyCares: @116891 Thanks for the info. Could you try logging out &gt; restarting your device &gt; logging back in to see if it helps? Keep us posted /AR

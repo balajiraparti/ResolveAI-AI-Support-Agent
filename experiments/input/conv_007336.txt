@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Windows 10 desktop. No error messages other than the blue notification that "this song is not available"
+SpotifyCares: @127172 Got it, thanks for the info. Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /TB

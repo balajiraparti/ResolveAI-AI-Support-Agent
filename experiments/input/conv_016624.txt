@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Why does my music keep playing when I pause/quit the app (on Android)? Skip track, etc too. Then it suddenly does all at once.
+SpotifyCares: @415514 Hey there! That doesn't sound good. Can you let us know the device, operating system, and app version you're using? /PB

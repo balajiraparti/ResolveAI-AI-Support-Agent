@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Running on Ubuntu_17.10 App doesn't appear to switch tracks from the Discover panel after hitting play button. Current track continues to play. https://t.co/BK5usB9uDr
+SpotifyCares: @273118 Hey! Does this happen even after logging out, restarting the app, then logging back in? If it doesn't work, can you also try reinstalling the app? Let us know how it goes /SJ

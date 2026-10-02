@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When playing a playlist on Wi-Fi or mobile data, it refuses to play the radio based off the playlist, I have made sure it's switched on.
+SpotifyCares: @417897 That's strange. Can you let us know the device, operating system, and Spotify version you're using? /RH

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares spotify version is 1.0.67.582.g19436fa3
+SpotifyCares: @708219 Got it. Does logging out and restarting your device help? Let us know how it goes /RC

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No, its just on pc that doesn't work. Reinstalled the app and cleared appdata folder, still not working
+SpotifyCares: @342831 Got it. Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /KL

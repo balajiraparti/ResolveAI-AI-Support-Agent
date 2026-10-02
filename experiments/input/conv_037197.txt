@@ -1,0 +1,2 @@
+Customer: @SpotifyCares BlackBerry KeyONE running Nougat.   Spotify version 8.4.28.875 arm v7
+SpotifyCares: @515015 Thanks. Can you send us a screenshot of the Storage Location option on your app? Just tap on Your Library &gt; the gear icon on the top right &gt; Storage /QI

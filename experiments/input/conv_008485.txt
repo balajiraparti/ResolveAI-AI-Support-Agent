@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi. Share button in android app just crashes Spotify, has done for over a week now? Help. 8.4.22.857 on pixel xl
+SpotifyCares: @410884 Hey Ricardo, thanks for the heads up! We're looking into this as we speak. Fingers crossed we'll have an update soon /BH

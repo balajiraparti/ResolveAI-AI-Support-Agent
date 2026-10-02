@@ -1,0 +1,2 @@
+Customer: @SpotifyCares can i change the order of my playlist when i have local files on it?
+SpotifyCares: @663971 Definitely! If you're on desktop, just drag songs to change their order. It works even with local files on the playlist. Hope this helps /QI

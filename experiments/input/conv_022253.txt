@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When using Google Assistant on my phone "Play AC/DC", Spotify will launch, artist page will open, but playback does not start.
+SpotifyCares: @480347 Hi there! Can you let us know what phone and version of Spotify you're using? We'll see what we can suggest /DR

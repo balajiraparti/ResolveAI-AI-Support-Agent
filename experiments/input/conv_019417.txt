@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Ive been logging out n restart my device n the problems remain unchanged. My Spotify version is the premium one. Now it shows error code 4
+SpotifyCares: @582397 You should see the Spotify version when you click Help &gt; About Spotify. Try following the steps at https://t.co/EqisDMwZAT. Any better? /KC

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares So no fix has been pushed even in the four months that it's been a known bug, and even longer since it's been (possibly) unreported?
+SpotifyCares: @389430 We appreciate you sharing your thoughts on this. Rest assured we'll pass on your feedback to the right team /JS

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Windows 7, usu when I hover over Spotify icon on the taskbar I get controls for music. Missing. Restarting Spotify didn't help
+SpotifyCares: @421972 Hey there! Could you try uninstalling and reinstalling the app? Let us know how it goes /DF

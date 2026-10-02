@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The @115888 app won't launch on my Windows 10 Mobile phone (HP Elite x3 Verizon version). It times out on the splash screen and then says "error: The audio could not be started. Please restart the application." I've tried uninstalling and reinstalling to no avail.
+SpotifyCares: @701852 Hey there! When did the issue start to happen? Does restarting your device help at all? /LO

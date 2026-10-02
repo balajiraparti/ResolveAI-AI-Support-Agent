@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error message, just doesnt play.
+SpotifyCares: @550869 Thanks for the info. Does logging out and back in make a difference? You can also try restarting the app to see if it helps /CB

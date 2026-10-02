@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have Spotify premium and have playlists downloaded but when using bus WiFi none of my downloaded playlists show up and it won’t connect, even though the WiFi is working fine https://t.co/rXZS7xsCZ2
+SpotifyCares: @143767 Thanks. Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /NS

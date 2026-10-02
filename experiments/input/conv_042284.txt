@@ -1,0 +1,2 @@
+Customer: @SpotifyCares tried to buy a premium gift card but after I entered the e-delivery details and hit continue, the page just refreshed w/o taking me to a payment page. Help?
+SpotifyCares: @251264 Hey Natalie, help's here! Can you try using a different browser or an incognito window? Clearing your browser's cache and cookies might also help. Let us know how it goes /GS

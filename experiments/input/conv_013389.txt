@@ -1,0 +1,2 @@
+Customer: @115888 Please add last.fm support for remote devices. Really shouldn't be that hard to implement from the backend.
+SpotifyCares: @340577 We can see how that’d be handy. Thanks for taking the time to reach out – your feedback's been noted 📝 /DF

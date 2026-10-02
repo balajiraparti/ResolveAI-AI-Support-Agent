@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Just got an email about someone trying to reset my Spotify password. This was not me. Can you block this malicious user/IP from your service?
+SpotifyCares: @127987 Hey! We’re sorry to hear that. Check out: https://t.co/QHn3ok8y2n for what to do next /JS

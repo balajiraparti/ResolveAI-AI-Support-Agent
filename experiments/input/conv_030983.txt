@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The Spotify mac app won't properly open the share browser window.
+SpotifyCares: @511975 Hey! What device, operating system, and Spotify version are you using? Also, how long has this been happening for? We'll see what we can suggest /CB

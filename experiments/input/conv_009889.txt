@@ -1,0 +1,3 @@
+Customer: @SpotifyCares Device: Xiaomi Redmi note 4, Lollypop
+Spotify version: 8.4.23.784 armV7
+SpotifyCares: @493544 Can you let us know the exact Lollipop version on your phone? Also, does the issue occur only when streaming songs? We'll dig deeper /LP

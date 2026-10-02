@@ -1,0 +1,2 @@
+Customer: @SpotifyCares For some reason, neither buttons work on the iOS @115888 app. When tapped, nothing happens. Tried deleting and reinstalling the app but it still happens. https://t.co/Vz91uptbsZ
+SpotifyCares: @196732 Hey Luna! Can you let us know the iOS and Spotify version you're using? We'll see what we can suggest /LO

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Done. When logged out CPU is nearly 0%. As soon as I log in its back to 20-23%. Maybe the animated advertising needs it?
+SpotifyCares: @463861 Hmm. We're afraid we don't have info regarding that. Would you happen to remember when this started happening? /DR

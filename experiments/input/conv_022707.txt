@@ -1,0 +1,2 @@
+Customer: @SpotifyCares well the pink error no longer shows up for some reason but the songs do still skip rapidly and then play 3-4 ads in between
+SpotifyCares: @488639 Got it. Does logging out then back in help? We'll keep an eye out for your update /JS

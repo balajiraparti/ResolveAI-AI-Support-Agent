@@ -1,0 +1,2 @@
+Customer: @SpotifyCares After I listen to an ad on the Android App to get 30 mins ad-free music, an ad still comes out after the first song.
+SpotifyCares: @190995 Hey, that doesn't sound good! Did the app crash at any point during the 30 minutes? That can cause the ad-free time to reset /RB

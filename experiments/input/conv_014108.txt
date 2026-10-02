@@ -1,0 +1,2 @@
+Customer: @SpotifyCares ios 10.3.2, spotify 8.4.22
+SpotifyCares: @362018 Thanks. Could you try using a different internet connection to see if it makes any difference? Keep us posted /AR

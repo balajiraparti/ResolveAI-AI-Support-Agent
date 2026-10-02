@@ -1,0 +1,3 @@
+Customer: @SpotifyCares Windows 10
+Spotify 1.0.68.407
+SpotifyCares: @226518 Thanks! Could you try logging out &gt; restarting your device &gt; logging back in to see if it helps? Keep us posted /AR

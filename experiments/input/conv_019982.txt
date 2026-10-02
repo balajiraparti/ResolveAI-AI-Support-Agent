@@ -1,0 +1,2 @@
+Customer: @SpotifyCares They aren’t locally imported… We just imported her iTunes playlist in Spotify so it found identical songs. Is that why they are greyed out?
+SpotifyCares: @118116 You're right. It's possible that some tracks from her iTunes isn't available on Spotify. This is why you can't play these tracks /JU

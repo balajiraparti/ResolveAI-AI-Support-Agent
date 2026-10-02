@@ -1,0 +1,2 @@
+Customer: I was logged out of my account and when I try to log in it doesn't work. I try to reset my password and it says "The CSRF token is invalid. Please try to resubmit the form." Can you please help? @SpotifyCares
+SpotifyCares: @136865 Hey Alyssa, help's here! Could you DM us your account's username and email address? We'll take a look backstage /BX https://t.co/ldFdZRiNAt

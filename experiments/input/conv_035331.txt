@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No, I do not get any error messages.
+SpotifyCares: @279456 Got it. When did this start happening? Was it after a specific firmware/app update? /NS

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Your app asked to pick a username at sign up (android).. Nowhere in the app is a place to set display name. https://t.co/HpOPbdC4nU
+SpotifyCares: @327730 Thanks! We can see that your chosen display name is 'Napsterbater'. This is the name that the other users will see /LO

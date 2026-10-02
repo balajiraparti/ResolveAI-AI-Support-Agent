@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The noise that appears when you switch/pause/play a song on spotify on iphones
+SpotifyCares: @505169 Got it. You can turn this off by going to Your Library &gt; Settings (the gear icon) &gt; Playback and toggling off "Play Feedback Sounds" /CE

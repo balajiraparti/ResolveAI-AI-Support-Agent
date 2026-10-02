@@ -1,0 +1,7 @@
+Customer: "Spotify will reconnect when it detects a connection"
+
+7 minutes online and it finally noticed.
+Fix this. It's a major problem
+
+@SpotifyCares
+SpotifyCares: @668296 Hi there! Can you let us know your device' make/model, operating system, and Spotify version? We'll see what we can suggest /GT

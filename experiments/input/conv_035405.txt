@@ -1,0 +1,2 @@
+Customer: @SpotifyCares On the iOS app I still see suggestions, in desktop browser "discover" is also empty. What is going on ?
+SpotifyCares: @283228 Hey Richard, help's here! Can you try logging out &gt; completely closing the app &gt; restarting your device &gt; logging back in again? Let us know how it goes /KM

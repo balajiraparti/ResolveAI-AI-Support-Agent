@@ -1,0 +1,2 @@
+Customer: @SpotifyCares What's the point of following an artist if Spotify doesn't alert me to new releases or even show the new release in the "New Releases" section?
+SpotifyCares: @522927 We're looking into an issue with push notifications not being sent. You can opt into email notifications at https://t.co/uznw2Ttx8I /DR

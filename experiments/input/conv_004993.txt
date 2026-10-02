@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It just stalls here. I have tried restarting and killing the app. My work colleague who also has android and premium alsp has this issue. https://t.co/YpwHhT41WB
+SpotifyCares: @293320 That's odd. Just to confirm, does it happen at any specific points (e.g. at startup, during streaming)? /RI

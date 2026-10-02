@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Why do they still show, and how can I delete them finally? When trying to edit the playlist in the client, the two songs don't appear.
+SpotifyCares: @590149 Hi! Can you send us a screenshot of how it appears on your end? What device, operating system, and Spotify version is this happening on? /AY

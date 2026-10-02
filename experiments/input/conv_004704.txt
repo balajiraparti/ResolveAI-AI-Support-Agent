@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hey guys, my playlist will only play songs in the chunks they were added as oppose to mixing them all, can I change this?
+SpotifyCares: @289562 Hi there! We’ve recently made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /JM

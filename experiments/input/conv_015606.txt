@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Would appreciate it if you at least acknowledged the bug and tell us you're going to fix it in the next release.
+SpotifyCares: @403432 Hey, this doesn't sound cool! Can you let us know the device make/model and exact operating system and Spotify versions you're using? /PL

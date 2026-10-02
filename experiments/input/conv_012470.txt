@@ -1,0 +1,2 @@
+Customer: @SpotifyCares page to get it to start playing again.  After a few times doing that, the app locks up all together.  Pandora streams fine /2
+SpotifyCares: @128829 Hey, this doesn't sound good! Can you let us know the device, OS and browser you're using? We'll see what we can suggest /DB

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yes, this happens when I click shuffle play. It only happens on my phone (which is updated to the current version), not on my PC or Surface.
+SpotifyCares: @581679 Got it. Is this happening on 3G/4G, WiFi, or both? Could you let us know the exact Android and Spotify version you're using? /KB

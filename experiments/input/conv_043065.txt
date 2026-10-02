@@ -1,0 +1,2 @@
+Customer: I'm running windows 7 and I'm not sure what the version is but in the update folder of the local appdata it says 1.0.69.323 https://t.co/c9O5W1vqkg
+SpotifyCares: @259954 Thanks for the info. Can you try another reinstallation with the exact steps here: https://t.co/PDA2aKzC6Q? Let us know how it goes /PB

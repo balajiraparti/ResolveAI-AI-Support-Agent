@@ -1,0 +1,2 @@
+Customer: @115888 @SpotifyCares Android client has a weird bug in the queue when selecting to remove items from queue and scrolling unchecks items
+SpotifyCares: @318929 Hi Mohammed! Can you let us know your device's make/model &amp; the Android and Spotify versions you're using? We'll see what we can suggest /AY

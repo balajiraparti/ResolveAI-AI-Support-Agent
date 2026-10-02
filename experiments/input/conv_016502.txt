@@ -1,0 +1,2 @@
+Customer: @SpotifyCares btw. reinstall didn’t help (as expected)… looking forward to get firewall / proxy requirements (i.e. what traffic needs to be unblocked)
+SpotifyCares: @160030 2: confirm if your network has some restrictions that might affect Spotify. Let us know how it plays out /RC

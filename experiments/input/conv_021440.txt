@@ -1,0 +1,2 @@
+Customer: @SpotifyCares , How come Spotify opens on PC start up, even when the settings has it shut off? I tried to uninstall Web App, wont let me. :@
+SpotifyCares: @463480 Hi Chris! Help's here. Can you let us know your operating system and app versions? We'll see what we can suggest /MU

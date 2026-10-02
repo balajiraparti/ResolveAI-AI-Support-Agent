@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Desktop at work is Windows 7, Spotify version 1.0.65.320.gac7a8e02. Mobile is Samsung S7 edge, so android, using 8.4.23.784 armV7.
+SpotifyCares: @555136 Gotcha. Can you try logging out, restarting both devices, and logging back in to see if it makes a difference? /JO

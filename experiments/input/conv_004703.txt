@@ -1,0 +1,2 @@
+Customer: @SpotifyCares.When I link my Spotify account to my Echo to play on Sonos, I can't play Spotify on my phone or desktop app
+SpotifyCares: @286241 Hey Chris! Just to check, are you trying to play on your Echo and your phone/desktop at the same time? /JP

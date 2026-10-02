@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Tried on WiFi and cellular, same issue. Happens on various devices on same songs. Eg grizzly bear - mourning sound. Fails on all devices
+SpotifyCares: @337785 Just to check, is this happening with songs from other artists as well? /LM

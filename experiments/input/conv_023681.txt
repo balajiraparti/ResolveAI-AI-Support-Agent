@@ -1,0 +1,2 @@
+Customer: @SpotifyCares the web player. randomly stops playing, logs me out, then either won’t let me log back in or play anything.
+SpotifyCares: @514261 Thanks for that info. Our best tech folks are on the case as we speak. Hopefully we'll have a fix soon /PX

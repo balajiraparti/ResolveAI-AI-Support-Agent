@@ -1,0 +1,2 @@
+Customer: @SpotifyCares each update removes the songs I had available for offline, if they were only saved and not in a playlist. I then have to manually download each one from memory.
+SpotifyCares: @704909 Hey, sorry to hear that! Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /KT

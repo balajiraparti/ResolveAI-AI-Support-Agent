@@ -1,0 +1,2 @@
+Customer: @SpotifyCares IOS 11.0.3 Spotify track playing doesn’t show on lock screen of iPhone 7p. Apple Music shows, but not open. Apple prob??
+SpotifyCares: @405608 Hey there! That's not cool. Can you let us know the exact app version you're using? We'll see what we can suggest /PB

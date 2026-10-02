@@ -1,0 +1,2 @@
+Customer: @Spotifycares the lockscreen controls and out of app pause functionality have not been functional since the latest app update on iOS 11
+SpotifyCares: @568990 Hey there, help's here! Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /TY

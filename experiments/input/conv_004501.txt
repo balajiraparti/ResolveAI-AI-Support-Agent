@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify controls aren’t available from my lock screen so my car just plays from my Apple Music
+SpotifyCares: @217435 Hmm. What happens after logging out &gt; restarting your device (holding the Sleep/Wake + Volume Down buttons for 10 seconds) &gt; logging in? /AY

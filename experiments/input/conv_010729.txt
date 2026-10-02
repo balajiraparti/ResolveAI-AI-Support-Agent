@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I would like to be able to choose columns to display, like the song/album year.
+SpotifyCares: @505038 Hey! What device, operating system, and Spotify version are you using? We'll see what we can suggest /CB

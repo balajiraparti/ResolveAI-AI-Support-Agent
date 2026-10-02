@@ -1,0 +1,2 @@
+Customer: @SpotifyCares On my laptop using Windows 10. I've got the latest Spotify I'm assuming. Everything else is fine, it's literally just that album is jumpy.
+SpotifyCares: @513751 Hmm. Can you try logging out, restarting your device, then logging back in? Does that help? /JE

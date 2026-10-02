@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I've given up on the desktop app. It's unresponsive and buggy, but worst of all it leaks massive amounts of memory. I see incremental updates, but none of them fix the elephant in the room. I can use the web app, but I can't scrobble from it or easily play by album.
+SpotifyCares: @6463 Hey there! We'd love to help. What device (make &amp; model), operating system, and Spotify version are you using? We'll see what we can suggest /LP

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey! I've noticed my offline tracks have been cleared unpredictably every week or so. I'm running the latest version on iOS11.
+SpotifyCares: @600125 Hey! Sorry to hear that. See the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /RA

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 7, IOS 11.0.3, Spotify 8.4.20.536
+SpotifyCares: @361936 Thanks for the info. Try restarting your device by holding the Sleep/Wake + Volume Down buttons for 10 seconds. Does that help? /PB

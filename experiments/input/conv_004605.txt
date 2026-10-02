@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Samsung Galaxy S7
+Android 7.0 Nougat
+Spotify 8.4.22.857 armV7
+SpotifyCares: @615596 Got it. Can you check if Download using cellular is enabled under Your Library &gt; Settings &gt; Music Quality? We'll be right here waiting /LP

@@ -1,0 +1,2 @@
+Customer: @115888 is it possible that after upgrading Android to 8.0, the Spotify app forgot my login credentials, but remembered that the app was in offline mode? I could only login after removing all data for the app. I tried removing cache but that didn't work.
+SpotifyCares: @803977 Hey there! Just to check, are you able to log in to the app? Can you DM us your account's email address or username? We'll take a look backstage /PB https://t.co/ldFdZRiNAt

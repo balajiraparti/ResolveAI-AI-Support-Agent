@@ -1,0 +1,2 @@
+Customer: . @115888 update has messed with ability to queue up full albums by righ clicking the name of the album. Now you've got to select all the songs.
+SpotifyCares: @639482 Hey, we hear you 🎧 Rest assured, your feedback will be passed on to the right folks /JM

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Device is Android phone (Nexus 5x), happens on that and on Win10 laptop (tho, of course, I can't connect to Chromecast straight from the laptop; I have to connect to it via the phone first). Latest versions of Spotify, I believe.
+SpotifyCares: @237284 Got it. Does logging out &gt; restarting your devices &gt; logging back in help at all? Keep us posted /MT

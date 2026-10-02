@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Nothing. Nothing is happening. That’s the problem.
+SpotifyCares: @293269 Can you give us more info on the issue? Are you getting any specific error messages? What device, OS and Spotify version are you using? /LM

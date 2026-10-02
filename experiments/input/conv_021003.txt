@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm sorry, I tried that last time to no avail. Can you instead first verify for me that this is indeed a feature that is supposed to work ?
+SpotifyCares: @126752 We understand, but could you let us know when exactly you reinstalled the app? Also, what Spotify version are you currently running? /LM

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Found a bug where a song in an album is saved in my library but the notification shows that it's not. https://t.co/68OlXBUMAg
+SpotifyCares: @744324 Hey there! Can you let us know what device, Android, and Spotify version you're running? We'll see what we can suggest /LM

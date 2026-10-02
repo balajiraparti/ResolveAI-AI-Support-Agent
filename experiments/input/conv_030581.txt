@@ -1,0 +1,2 @@
+Customer: @spotifycares Music continuously cuts in and out when casting to a Chromecast Audio. Other services work fine with the device. Can you help?
+SpotifyCares: @716182 Hey there! What device, operating system, and Spotify version are you casting from? Are you connected to your home or a public WiFi network? We'll check this out /CE

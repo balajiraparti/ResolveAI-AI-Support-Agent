@@ -1,0 +1,2 @@
+Customer: @117153 Hey my Spotify just started doing that thing where it skips thru songs like a scratched CD.. is the iOS update the culprit?
+SpotifyCares: @704114 Hey, that doesn't sound right. Can you let us know the iOS and Spotify versions you're using? We'll see what we can suggest /RH

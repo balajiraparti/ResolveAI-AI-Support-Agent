@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No it’s just that your app never loads when I try to launch it.
+SpotifyCares: @670263 Can you let us know which Spotify version you're currently using? Did this start after a recent update? /NQ

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Device: Nexus 6p (Android 7.1)
+SpotifyCares: @525305 Hmm, that's odd. Are you getting this error message even when you're connected to a WiFi network? /RR

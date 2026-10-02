@@ -1,0 +1,2 @@
+Customer: @SpotifyCares having trouble accessing Spotify through control center, iOS 11.0, Spotify version 8.4.25, i have premium
+SpotifyCares: @518511 Hi there. Don't worry, help's here. Can you log out, restart your device, then log back in before checking again? /JU

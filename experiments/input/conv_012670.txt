@@ -1,0 +1,2 @@
+Customer: @AppleSupport @SpotifyCares Already closed spotify, when I turn it on again, goes back to the beatles song and the button ff and play don’t work
+SpotifyCares: @324691 Hi! Can you let us know what device, iOS, and Spotify versions you're running? Do you see any devices available in your Connect picker? /LM

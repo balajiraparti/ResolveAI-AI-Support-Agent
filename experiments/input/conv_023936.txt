@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Can't access your web site:
+curl https://t.co/CJjuCKTbqO
+curl: (35) Server aborted the SSL handshake
+SpotifyCares: @469337 Hey Sergiy! Can you let us know the internet browser you're using? Is this happening over WiFi, 3G/4G, or both? /LO

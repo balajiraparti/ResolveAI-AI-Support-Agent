@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Deleting that text doesn't split the link. Is it possible to use the short-form links for this? Sharing it is using "https open.spotify..."
+SpotifyCares: @478872 2. Instead of using Share &gt; SMS, could you try copying the URL and sending it manually over SMS to see if it makes a difference? /TB

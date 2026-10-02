@@ -1,0 +1,2 @@
+Customer: @SpotifyCares  I can't find the home page on Spotify in order to see my account details. Help
+SpotifyCares: @472174 Hey, that doesn't sound right! Just to check, have you tried opening https://t.co/SC3eGkHX7h using an incognito window? /JE

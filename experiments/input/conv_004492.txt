@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have an Apple iPhone 7Plus running iOS 11.0.2 and my Spotify is 8.4.20
+SpotifyCares: @217435 Thanks. What happens exactly when using the app via Bluetooth? Also, does logging out &gt; restarting your device &gt; logging in help? /AY

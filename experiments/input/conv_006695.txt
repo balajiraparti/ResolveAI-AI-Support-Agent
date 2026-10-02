@@ -1,0 +1,2 @@
+Customer: @SpotifyCares why am I unable to play ANY songs on spotify? I've tried logging out and logging back in, nothing is helping
+SpotifyCares: @324162 Hey Celia, that doesn't sound good. Can you let us know what device, operating system, and Spotify version you're using? /RK

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I've tried this on Brave and GChrome, (I literally don't have room for other browsers), same issue on both. No error messages.
+SpotifyCares: @553269 1: We're afraid that the web player doesn't work on Brave. Here's the list of supported browsers: https://t.co/Kmn54n1YLk.

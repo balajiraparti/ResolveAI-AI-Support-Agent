@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Version 8.2.0.549 and os 11 ( although was like this when I had ios 9)
+SpotifyCares: @511586 Got it. Can you check if updating the app makes a difference? /DV

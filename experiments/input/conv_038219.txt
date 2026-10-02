@@ -1,0 +1,2 @@
+Customer: @SpotifyCares i was listening from my laptop and suddenly my music stopped, i check and see that spotify's logged me out. i try to log back in and it gives me this message. i click "forgot pass" (tho i didnt because it's saved to my comp) and it says my username/email dont exist? https://t.co/7BbEACSNXW
+SpotifyCares: @795224 Hey! The cavalry's here. Can you DM us your account's email address? We'll take a look under the hood /JS https://t.co/ldFdZRiNAt

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I am trying to reset my password, but the page keeps showing "The CSRF token is invalid." Can you provide assistance?
+SpotifyCares: @223744 Hey Charles, help's here! Does clearing your cache/cookies help? You might also want to try using an incognito window. Let us know how it goes /VK

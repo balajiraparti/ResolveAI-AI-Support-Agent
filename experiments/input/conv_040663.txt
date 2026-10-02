@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm using Samsung J5 year 2015 and 8.4.28.875 armV7 for the Spotify version. Thank you ;)
+SpotifyCares: @132495 Thanks for those details. Could you go to Your Library &gt; Settings &gt; Behind the Lyrics to see if it's enabled? Then, try logging out and back in again. Any difference? /MA

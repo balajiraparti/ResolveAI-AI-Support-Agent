@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Not an email but an In App notification. That’s a simple programming. Pass the idea to your IT team
+SpotifyCares: @318255 Sorry for the mix-up! We're looking into an issue with push notifications not being sent. We'll pass on your feedback to the right team /RK

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares sure it is windows 10 Home and app version is 1.0.67.582.g19436fa3 (Windows Store version)
+SpotifyCares: @145719 Thanks. While on the app, can you try pressing Ctrl + 0 (zero) on your keyboard? Is it better now? /MU

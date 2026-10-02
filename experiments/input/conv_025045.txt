@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey, why am I not able to access ‘View Album’ of songs I find on a playlist or on my daily mix?
+SpotifyCares: @624388 Hey, that doesn't sound right. Can you let us know the device, operating system, and Spotify version you're using? We'll check backstage /JE

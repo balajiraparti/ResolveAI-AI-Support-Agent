@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Google Pixel, Android 8.0.0, Spotify Version 8.4.22. 857 armV7
+SpotifyCares: @381095 Thanks for the info! We're looking into this at the moment. Thanks for reporting /DD

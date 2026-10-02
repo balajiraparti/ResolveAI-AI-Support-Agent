@@ -1,0 +1,2 @@
+Customer: @115888 if I press the thumbUpButton in my androidRemote while playing in Desktop it doesn´t add the song to my RadioFavoritesPlaylist, BUG
+SpotifyCares: @411964 Hey there! Can you DM us your account's email address or username? We'll take a look /NS https://t.co/ldFdZRiNAt

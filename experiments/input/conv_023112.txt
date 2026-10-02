@@ -1,0 +1,2 @@
+Customer: @SpotifyCares i believe i am on a home network but the problem still continues when i am on a public one
+SpotifyCares: @488639 Just to confirm, were you able to give your router a restart to check if it helps? Keep us posted /AR

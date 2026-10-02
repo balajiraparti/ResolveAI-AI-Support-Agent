@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hello Some music numbers are grey and I can not play them. How can I solve this problem?
+SpotifyCares: @269791 Hey there! What device, operating system, and Spotify version are you running? Can you also let us know what songs you're trying to listen to? We'll take a look backstage /LM

@@ -1,0 +1,2 @@
+Customer: @115888 why is there no function to minimize to system tray on pc, gets very annoying when doing work while listening to music and alt tabbing a lot.
+SpotifyCares: @226807 Hi Jasvir! You can minimize it to the system tray. Just head to the app's Settings &gt; Show Advanced Settings &gt; toggle on "Close button should minimize the Spotify window to the tray" (under the section for Startup and Window Behaviour). Hope this helps /MU

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have my Spotify set to offline mode, but it's playing some songs not downloaded. Help!
+SpotifyCares: @369025 Hi Leslie, help's here! Can you let us know your device's make/model, operating system, and Spotify version? /GT

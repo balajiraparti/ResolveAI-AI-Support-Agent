@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I am trying to find a song I listened to. I don't remember the artist or name and I can't find a song history
+SpotifyCares: @287602 Hmm. What device, OS, and app version are you using? Do you recall the time or date (including your time zone) you heard the song? /LP

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Tried reinstalling. No luck. Play/pause still doesn't work. Next/previous works though.
+SpotifyCares: @641288 Just to check, what Bluetooth devices are you using? Did this start happening after a specific update? /LM

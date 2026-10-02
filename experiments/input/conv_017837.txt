@@ -1,0 +1,2 @@
+Customer: @115888 #BugReport: Everytime I press back from 'About' to 'Overview' in Artist page, the page runs to bottom &amp; not to the top.
+SpotifyCares: @574610 Hey! Can you let us know the device you're using, its operating system, and Spotify version? We'll see what we can suggest /NY

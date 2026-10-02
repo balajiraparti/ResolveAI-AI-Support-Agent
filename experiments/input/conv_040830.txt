@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I can't find that option. I've checked and my Sonos app is up to date. I've removed and then re authorised Spotify as a music service. All no joy.
+SpotifyCares: @135361 Just to check, have you tried using a different device to control your Sonos speaker? Did the same issue happen? /NG

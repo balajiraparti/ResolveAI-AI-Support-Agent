@@ -1,0 +1,2 @@
+Customer: @SpotifyCares nope, it only happens on my laptop. i have to force quit it a few times for it to work on my laptop. im on the latest os mac sierra.
+SpotifyCares: @529679 We'll take note of that. Does logging out, restarting your MacBook, and logging back in help at all? /YM

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I’m trying to upload the cover of my playlist so i upload some 1:1 image from my PC, i’m using Windows 10 and the newest version of Spotify, but the image always shown like it was rotate to the left, thank you.
+SpotifyCares: @688298 Thanks for the info. Try logging out &gt; restarting your device &gt; logging back in &gt; re-uploading the image. Does that do the trick? /AY

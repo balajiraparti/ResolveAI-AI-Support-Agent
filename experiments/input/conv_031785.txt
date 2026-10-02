@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Good morning! It's a Macbook Pro running OSX Sierra 10.12.6. Spotify version is 1.0.67.582.g19436fa3 (latest one I think).
+SpotifyCares: @737064 Cool! Can you try logging out of Spotify, restarting your Mac, and logging back in? Did that help at all? Keep us posted /NY

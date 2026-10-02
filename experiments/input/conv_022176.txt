@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It only happens if I am playing music through a USB.
+SpotifyCares: @478345 2: look at the lock screen issue. Does logging out, restarting your device, and logging back in help at all? /LO

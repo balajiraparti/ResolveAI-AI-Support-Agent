@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Oh, sorry I meant to follow up! It started working once I quit Spotify that was running on another Mac – hope that helps problemshoot.
+SpotifyCares: @498257 Thanks for letting us know! Is everything working okay, or are you still able to reproduce this when running Spotify on another Mac? /C

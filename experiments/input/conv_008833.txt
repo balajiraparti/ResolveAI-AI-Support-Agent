@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Getting that error message again! :( Seems to be just Metallica at the moment out of the few artists and albums I've tried :/
+SpotifyCares: @328295 Hey! By any chance, does it happen when switching audio output (e.g. headphones to speakers)? /RC

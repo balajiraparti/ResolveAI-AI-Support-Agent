@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I've tried this on Brave and GChrome, (I literally don't have room for other browsers), same issue on both. No error messages.
+SpotifyCares: @553269 2: On your Chrome browser, can you try clearing its cache/cookies and refreshing? Let us know how it goes /MU

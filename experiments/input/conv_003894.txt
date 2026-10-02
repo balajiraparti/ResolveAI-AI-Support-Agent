@@ -1,0 +1,2 @@
+Customer: @115888 Help. Your web player keeps kicking me out today and making me log back in + erasing all search info.
+SpotifyCares: @217299 Hi there! Does clearing your browser's cache/history help? Can you also try using other browsers and an incognito window? /ME

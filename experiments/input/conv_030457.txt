@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify no longer connects to Google Home. Speakers are in the list, but inactive. Network is fine. ?
+SpotifyCares: @713715 Hey Jack! Does logging out of your account, restarting both devices, and logging back in help at all? Let us know how that goes /TF

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No, I am asking Google Home, play song X. Once song is done, no other songs queue up automatically
+SpotifyCares: @360518 Hmm. Can you try saying “Hey Google”, then "Play &lt;name of playlist&gt;"? /MA

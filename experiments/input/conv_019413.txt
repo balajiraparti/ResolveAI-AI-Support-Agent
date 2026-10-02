@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Im currently using spotify premium. And ive try so many time to log in my pc. But they always mentioning error code 7 error code 2
+SpotifyCares: @582397 Does logging out, fully closing the app, and restarting your device help? Can you let us know the operating system and Spotify version? /KC

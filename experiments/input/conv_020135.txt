@@ -1,0 +1,2 @@
+Customer: @SpotifyCares why is that my queue only plays 50 songs from a 100 song playlist?
+SpotifyCares: @584670 Hey there! We’ve recently made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /GK

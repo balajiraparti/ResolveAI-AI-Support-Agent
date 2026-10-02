@@ -1,0 +1,2 @@
+Customer: @SpotifyCares English (English)
+SpotifyCares: @140431 In this case, content such as playlists are based on the location of your account. Since yours is set to Austria, the content will show up in German. The language setting on your app will only affect the menus. We hope this clears things up /LM

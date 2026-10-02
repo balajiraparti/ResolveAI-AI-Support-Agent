@@ -1,0 +1,2 @@
+Customer: @SpotifyCares So it’s a Spotify thing, not a sonos thing?
+SpotifyCares: @399891 Sorry for the confusion. Could you head over to your account's Approved applications at https://t.co/PORH7knOMj and check if Sonos is on the list? If so, try tapping “Revoke Access”. Let us know if that makes any difference /AQ

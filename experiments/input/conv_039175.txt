@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Is Spotify is down in the LA area?
+SpotifyCares: @807661 Hey, thanks for the report! We had a little hiccup earlier, but everything should be running just fine now /JS

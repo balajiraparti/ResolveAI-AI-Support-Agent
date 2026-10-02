@@ -1,0 +1,2 @@
+Customer: @SpotifyCares HTC 10 unlocked, android 7. I think it was happening when it was transitioning from bad wifi to cell data being off but can't recall when I pressed play. Why can't I load local data then update later? I was walking away from my home at the time.
+SpotifyCares: @254915 Thanks for letting us know. Can you try logging out, restarting your device, then logging back in? Let us know if that helps /QI

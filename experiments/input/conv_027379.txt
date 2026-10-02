@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify consistently stops working with the keyboard media buttons (play, pause, next, prev) on mac OS. Spotify 1.0.67.582.g19436fa3, macOS 10.13.1 (17B48). Media buttons work again on restart, but stop after a while.
+SpotifyCares: @282722 Hi Max! Best thing to try here is to reinstall the app with the steps found at https://t.co/EqisDMwZAT. Did it make a difference? /MU

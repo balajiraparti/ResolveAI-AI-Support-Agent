@@ -1,0 +1,2 @@
+Customer: Hi @SpotifyCares, my app keeps closing on me a few seconds into a song and cutting it off. The version I am on is 8.4.26.793. I have tried updating, shut downs and force quits. Any ideas?
+SpotifyCares: @672359 Hey Natasha, help's here. What device and operating system is this happening on? Does logging out and back in make a difference? /AY

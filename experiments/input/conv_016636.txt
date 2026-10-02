@@ -1,0 +1,2 @@
+Customer: @SpotifyCares can we not show the recently played artists on our profiles?
+SpotifyCares: @418794 Hey there! You can head over to Settings &gt; switch off "Show my current Top Artists". Hope that helps /JE

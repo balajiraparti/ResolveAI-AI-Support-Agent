@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Honor 8 Pro (or Honor V9 in China), Android 7.0, Spotify 8.4.28.875 armV7
+SpotifyCares: @265385 Thanks! Does logging out &gt; restarting the device &gt; logging back in help? /PL

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Play/next/prev keys don't work on desktop app on macOS 10.13. Any ETA on a fix? Not just me, it seems. https://t.co/LNNXsbYstO
+SpotifyCares: @530821 Hi there. We're sorry you feel that way. Can you try reinstalling the app using the steps here: https://t.co/EqisDMwZAT? Keep us posted /LM

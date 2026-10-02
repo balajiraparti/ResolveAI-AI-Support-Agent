@@ -1,0 +1,2 @@
+Customer: @SpotifyCares How do you copy URI on @115888 ?
+SpotifyCares: @714195 Hey! The URI can only be copied from the desktop app. Just right-click the track &gt; Share &gt; Copy Spotify URI. We hope this helps /MS

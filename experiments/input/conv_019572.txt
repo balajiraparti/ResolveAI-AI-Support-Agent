@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS 11.0.3 and the Spotify version is 8.4.25
+SpotifyCares: @117673 Just to check, are you able to play music fine, but the lock-screen controls are unavailable? We'll keep an eye out for your reply /MU

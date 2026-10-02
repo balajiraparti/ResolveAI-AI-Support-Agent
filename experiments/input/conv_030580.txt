@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I pressed change payment detail then entered my credit card info and then pressed continue and it’s stuck loading, it’s been loading for 40 minutes
+SpotifyCares: @716185 Can you try updating your payment details using a different web browser or an incognito/private window? Let us know how it goes /FR

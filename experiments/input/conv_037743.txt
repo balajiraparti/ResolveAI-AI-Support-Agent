@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Samsung galaxy s6, with andriod operating system. Its happening on wifi, data, and offline.
+SpotifyCares: @784817 Got it. Can you try to see if logging out &gt; restarting your phone &gt; logging back in to your account helps? Also, what's your phone's Spotify version? /DV

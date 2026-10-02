@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi. iPhone 6. On BT or connected via USB. Phone defaults to Apple music even if Spotify app open. Okay if used via @118117. Spotify App is bang uptodate via app store. Once open okay. Paused for any reason (call or disconnected) back to default.
+SpotifyCares: @691536 Hmm. Try logging out &gt; restarting your device by holding Home + Lock for 10 seconds &gt; logging back in. Does that help? /AY

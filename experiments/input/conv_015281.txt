@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Says "You are currently set to offline. Please go online to connect to Spotify"
+SpotifyCares: @236452 ¡Hey there! Can you tell us what device, operating system and Spotify version you're using? /LF

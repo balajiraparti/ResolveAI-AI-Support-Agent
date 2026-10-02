@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi, your submit button does nothing on your Get Access page for artists, tried 3 different browsers, any help?
+SpotifyCares: @454237 Hi! Are you getting any error messages? If so, can you send us a screenshot so we can take a closer look? /DR

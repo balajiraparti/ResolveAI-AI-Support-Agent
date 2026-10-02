@@ -1,0 +1,2 @@
+Customer: @SpotifyCares LInk provided does not help. Want others songs to play after requesting a specific song, currently it plays the requested song and stops.
+SpotifyCares: @219902 Hmm, that's odd. Could you let us know the device, operating system, and Spotify version you're rocking? We'll see what we can suggest /JM

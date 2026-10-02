@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Sorry, this is on Sierra, not High Sierra.  Haven't tested on the latter.
+SpotifyCares: @455683 Thanks! Can you try using the web player on a different device? Let us know how it goes /NH

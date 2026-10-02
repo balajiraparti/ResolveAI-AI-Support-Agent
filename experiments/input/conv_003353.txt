@@ -1,0 +1,2 @@
+Customer: @SpotifyCares My Playlist has switched to Playlist Radio twice today on its own and played songs I do not like. Why?
+SpotifyCares: @204110 2: by heading to Settings &gt; Playback &gt; toggle off AutoPlay. Hope this clears things up /AR

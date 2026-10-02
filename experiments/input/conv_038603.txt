@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Version is 8.4.28.1104. Happens over device restarts. In-fact over different phones.
+SpotifyCares: @451672 Got it! Just to check, does your other phone run an Android operating system? If not, can you check if it also happens when using an Android device? /PL

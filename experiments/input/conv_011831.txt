@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Pretty sure it was after updating the app but unfortunately I can’t test to know for sure.
+SpotifyCares: @327788 Can you try logging out, restarting your Android device, and logging back in? Tell us if that made a difference /JM

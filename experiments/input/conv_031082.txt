@@ -1,0 +1,2 @@
+Customer: @SpotifyCares when i close and swipe the app up and reopen it's fine. but then after a while of playing music the same thing happens.
+SpotifyCares: @725065 That's odd. We'd suggest reinstalling the app with these steps: https://t.co/46sWVpIvlI. You might need to resync your offline songs after. Any better? /JP

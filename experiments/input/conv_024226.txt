@@ -1,0 +1,2 @@
+Customer: @spotifycares Why can't I search using "playlist:boyce" anymore? I liked this feature... 😔
+SpotifyCares: @601821 Hey Matt. Your feedback matters! No worries, you can always use the format spotify:user:(who created the playlist):playlist:(playlist) /MS

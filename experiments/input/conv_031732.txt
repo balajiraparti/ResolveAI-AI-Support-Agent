@@ -1,0 +1,2 @@
+Customer: @SpotifyCares how come my Spotify keeps pausing/unpausing when I’m trying to listen to stuff? Version 8.4.27.895 (also skips songs randomly too)
+SpotifyCares: @390911 Hi! Don't worry, help has arrived. Can you let us know what device you're using? In the meantime, can you give this a try: log out from Spotify &gt; restart your device &gt; log back in? Did that make a difference? /DR

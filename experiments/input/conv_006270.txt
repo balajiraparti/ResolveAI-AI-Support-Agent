@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I think it started automatically downloading on Wi-Fi, and continued when I disconnected.
+SpotifyCares: @364918 Thanks! Just to check, did you do anything specific like updating your app version before the issue happened? /JM

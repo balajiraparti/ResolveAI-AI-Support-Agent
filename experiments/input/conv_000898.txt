@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Issue w/Spotify on WinMobile 10. Keeps saying can't connect audio, restart.  Either that or just wont play. TIA #windows10
+SpotifyCares: @160484 Hey David! What device and Spotify version are you using? We'll see what we can suggest /RA

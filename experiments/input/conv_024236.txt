@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Can you point me to any specifics regarding what the web player requires to work? Special ports, UPNP requirement etc?
+SpotifyCares: @216046 Can you let us know which web browser you're using? We'll see what we can suggest /NY

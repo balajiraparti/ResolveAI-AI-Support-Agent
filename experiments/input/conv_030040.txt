@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey! Just wanted to put in a request for your API team: Any chance you expose "thumbs up/ down" via your AppleScript API? Preferably "Save to Library" as well, but I don't want to sound greedy. ;)
+SpotifyCares: @704018 Hey, this sounds like a great idea! Suggest it in our Community at https://t.co/rtDvYZOF32 and get support from other users /CH

@@ -1,0 +1,4 @@
+Customer: @SpotifyCares I'm on iPhone 6, iOS 10.3.3, and Spotify 8.4.28.1104.
+
+This also makes me realize the Spotify version should be copyable in app for instances like this.
+SpotifyCares: @325114 Got it. Just to check, is this also happening with WiFi switched off on your phone's settings (while you're on Airplane Mode at the same time)? /KB

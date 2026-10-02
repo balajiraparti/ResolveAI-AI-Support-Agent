@@ -1,0 +1,2 @@
+Customer: @SpotifyCares S8+, Android 7.0, Spotify v 8.4.24.871armV7. This always happens when new feature rolls out. Everything breaks during slow deployment.
+SpotifyCares: @419146 Thanks! Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /KL

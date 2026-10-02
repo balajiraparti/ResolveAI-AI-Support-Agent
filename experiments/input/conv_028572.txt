@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 6, 8.4.26.793. Yes, it looks like it’s playing but no audio, if I pause it goes back to where it was before being interrupted.
+SpotifyCares: @671960 Thanks. Does logging out &gt; restarting your device by holding Home + Lock for 10 seconds &gt; logging back in help? /AY

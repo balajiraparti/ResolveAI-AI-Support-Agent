@@ -1,0 +1,2 @@
+Customer: @SpotifyCares, When an we expect the fix for the sharing songs without app crashes? I'm Android and seeing the issue as are others on IOS
+SpotifyCares: @411371 Hey! The cavalry's here. Can you fire over the device's make/model and the Spotify version you're using? We'll see what we can suggest /JS

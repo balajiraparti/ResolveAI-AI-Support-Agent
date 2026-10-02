@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm using a Samsung Galaxy S6, operating system 7.0, and it's happening over Wi-Fi
+SpotifyCares: @772944 Got it! Does logging out &gt; restarting the device &gt; logging back in help? /PL

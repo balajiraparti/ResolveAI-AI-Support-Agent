@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi there. I'm using a HTC 10 with Android 7.0. The Spotify version is 8.4.26.770.
+SpotifyCares: @410469 Thanks for the info. Is this happening over WiFi, mobile data, or both? Is this happening to tracks you've downloaded for offline use? We'll check this out /CE

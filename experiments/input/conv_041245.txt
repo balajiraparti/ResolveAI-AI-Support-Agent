@@ -1,0 +1,2 @@
+Customer: @SpotifyCares @139555 For me, as soon as I logged in it would log me out (in Chrome). I switched to Firefox and was able to log in. Makes me think something is cached weird.
+SpotifyCares: @139556 Hi Will! Can you trying clearing your Chrome browser's cache/cookies? Let us know if that makes a difference /RH

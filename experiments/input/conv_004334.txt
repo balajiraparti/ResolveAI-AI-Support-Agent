@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Similar to bullet points 3 + 4, but in my case it happens whenever the app updates...(after the update is installed). This is by design?
+SpotifyCares: @306911 Hmm. Just to make sure, did your playlists remain downloaded when all your downloaded songs desynced? /MT

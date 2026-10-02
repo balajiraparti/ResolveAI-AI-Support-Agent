@@ -1,0 +1,2 @@
+Customer: @SpotifyCares A song page loads, such as @21153's Wolves (https://t.co/Css786YWaa), and then... nothing. The main button even says "Pause". No sound, no time ticking to show it's attempting to play.
+SpotifyCares: @237681 Thanks. Can you try clearing your browser's cache/cookies? Let us know if that makes a difference /RH

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The iOS app nags me about being offline every time I turn on the phone with Spotify open and I have the phone in airplane mode. Even when I have the app in offline mode. This makes using the app during flights a frustrating, annoying, painful, and slow experience.
+SpotifyCares: @325114 Hey there! We're here to help. Can you tell us what device, operating system and version of Spotify you're using? /LF

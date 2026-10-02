@@ -1,0 +1,4 @@
+Customer: @SpotifyCares If the song changes, the Spotify window does not update to reflect the new song's cover art.
+
+Clicking on the UI either does nothing or the click passes through the Spotify window to the window (or desktop) beneath. The pass-through behavior is difficult to reproduce.
+SpotifyCares: @671908 Alright. Can you DM us your account's email address? We'll check under the hood /NY https://t.co/ldFdZRiNAt

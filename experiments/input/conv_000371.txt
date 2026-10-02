@@ -1,0 +1,2 @@
+Customer: @SpotifyCares what are the requirements to make the new Spotify app proxy compliant?
+SpotifyCares: @160030 Hey Simon. Can you tell us more about what's happening? What device, operating system, and Spotify version are you using? /AY

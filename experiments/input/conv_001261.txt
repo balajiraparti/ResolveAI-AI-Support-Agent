@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify's updated to 8.4.20, iOS 11.0.1, iPhone 6S Plus. Everything's running fine until I switch apps
+SpotifyCares: @172016 Thanks. Try logging out &gt; restarting your device by holding Home + Lock for 10 seconds &gt; logging back in. Does that help? /AY

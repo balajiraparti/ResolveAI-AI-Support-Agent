@@ -1,0 +1,2 @@
+Customer: @SpotifyCares OS? my device’s model is Iphone6s and version is 8.4.22.515
+SpotifyCares: @553436 Thanks. Can you also tell us your phone's iOS version? Does logging out &gt; restarting your phone &gt; logging back in to your account help? /DV

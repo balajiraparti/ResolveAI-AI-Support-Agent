@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Thanks, well I've figured out it seems to be a firewall issue. Why does the web player work and not the app? Are there specific ports needed to be open?
+SpotifyCares: @235094 Glad to hear it! Could you let us know if it's a personal network or a public network? We'll see what we can suggest /CG

@@ -1,0 +1,2 @@
+Customer: @115888 And this comes with HTTP status 200 and signup page doesn't say anything about the error - just hangs.
+SpotifyCares: @411839 Hi there. Don't worry, help's here. Can you try using a different browser or an incognito window instead? Let us know how it goes /JU

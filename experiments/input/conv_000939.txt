@@ -1,0 +1,2 @@
+Customer: @SpotifyCares My Windows version is 10586 (the Spotify version I don't know)
+SpotifyCares: @164927 Got it. Can you check your current Spotify version by clicking Help &gt; About Spotify? We'll be right here waiting /KB

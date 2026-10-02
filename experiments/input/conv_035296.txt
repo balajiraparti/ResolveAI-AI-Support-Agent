@@ -1,0 +1,3 @@
+Customer: @SpotifyCares Spotify version: 8.4.28.875 armV7
+Android 7.0
+SpotifyCares: @219159 Thanks. Can you try switching to Offline Mode? Let us know if that makes any difference when you play your downloaded tunes /RH

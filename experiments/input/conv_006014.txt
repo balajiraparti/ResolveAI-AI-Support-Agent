@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey is it intentional that the shuffle ignores the playlist filter on mobile?
+SpotifyCares: @361937 Hi there! Yes, that's correct. All the contents of the playlist are covered whenever you play on shuffle mode /JM

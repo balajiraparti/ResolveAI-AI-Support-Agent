@@ -1,0 +1,2 @@
+Customer: @SpotifyCares S8+. Version 8.4.24.871 armv7
+SpotifyCares: @398693 Thanks! Could you try restarting your device for 30 seconds? Let us know if you see any difference /LD

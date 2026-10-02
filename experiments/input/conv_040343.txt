@@ -1,0 +1,2 @@
+Customer: @SpotifyCares OS X Yosemite Version 10.10.5 and Spotify version 1.0.68.407.g6864aaaf if that makes any sense?
+SpotifyCares: @222228 Yes, thanks for sending over the exact versions you're using. Does logging out, restarting your device, and logging back in make any difference at all? /YM

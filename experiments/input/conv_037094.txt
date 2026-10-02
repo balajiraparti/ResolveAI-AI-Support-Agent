@@ -1,0 +1,2 @@
+Customer: @SpotifyCares i’m trying to transfer local files from my macbook air with macOS sierra version 10.12.6 to my iphone 7 with ios 11 and spotify version 8.4.28.1104
+SpotifyCares: @125830 Thanks for sending those details. Can you try reinstalling the app on both devices using the steps here: https://t.co/EqisDMwZAT? Afterwards, try syncing your local files to your phone by following the steps at https://t.co/SgMwFS1ONz. Let us know how it goes /AK

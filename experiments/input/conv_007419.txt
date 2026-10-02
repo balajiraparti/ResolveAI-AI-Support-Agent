@@ -1,0 +1,2 @@
+Customer: @5525 @SpotifyCares Spotify keeps freezing when playing on Chromecast. Tried deleting and reinstalling app on two iOS devices
+SpotifyCares: @500247 Hey! Can you let us know what iOS version you're using on both devices? For now, we'd suggest restarting your router. Keep us posted /RK

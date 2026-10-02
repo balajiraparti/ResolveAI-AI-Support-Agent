@@ -1,0 +1,2 @@
+Customer: @spotifycares audio doesn’t resume properly after I receive a phone call. Track says its playing but zero audio. Have to force close to restore. iOS 11.2
+SpotifyCares: @234707 Hey, help's here! Can you fire over the device's make/model and the Spotify version you're using? We'll see what we can suggest /JS

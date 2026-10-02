@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Nexus 6P, Oreo (8.0), 8.4.21.508
+SpotifyCares: @181536 Thanks. Best thing to try here is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT. Let us know if that makes a difference /RH

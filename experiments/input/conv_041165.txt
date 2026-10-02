@@ -1,0 +1,2 @@
+Customer: @SpotifyCares it’s not letting me access my account because it says I need to make a new password. But every time i go to do that it says that the CSRF token is invalid. Please help.
+SpotifyCares: @223452 Hey, help's here. Could you send us a DM with your account's email address and username? Also, if you could send a screenshot of the error message you're getting, that'd be super handy. We'll take a look backstage /JZ https://t.co/ldFdZRiNAt

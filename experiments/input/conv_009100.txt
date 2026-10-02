@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It's mounted correctly, not sure how I check if it's internal memory though?
+SpotifyCares: @318427 You can find it under Settings &gt; Device maintenance &gt; Storage. Can you also let us know how much free space it has? We'll hang tight /WW

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPad mini2, iPhone SE, both iOS 11.1.2 - but this issue is dated back before iOS 11 (hoped the updates will do something about it...) and it occures on both saved and streamed songs (either on WiFi or mobile). Desktop is fine.
+SpotifyCares: @229357 Got it. Just to check, do the songs stop mid-track? Could you also let us know if Autoplay is enabled on your desktop: https://t.co/kiXUjgr1xh? /LS

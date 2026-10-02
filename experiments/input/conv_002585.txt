@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey - I'm on mac OS and the 'create similar playlist' feature isn't doing anything when I click it. I've restarted but nope!
+SpotifyCares: @192956 Hey! We're here to help. Can you let us know the OS and Spotify versions you're running? We'll see what we can suggest /KM

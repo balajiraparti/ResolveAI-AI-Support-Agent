@@ -1,0 +1,2 @@
+Customer: @115888 web player gets broken sound in Chrome and does not work at all in Safari. Nice work.
+SpotifyCares: @118384 Hey! The cavalry's here. Can you try the steps at https://t.co/7QTtcOL36B? Let us know how it goes /JS

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hello... this album: album/10T9Ym4PQ28poilOtoUT7O is not from this artist: artist/55Of1EYV7uMJ7VDBG2TpxA ... please... do something with this mismatch already
+SpotifyCares: @689696 Hey! We appreciate this, but it looks like you've sent us URIs for podcasts. Can you send us the URIs of the album and artist page? /PL

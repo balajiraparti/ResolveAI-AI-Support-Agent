@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 1.0.65.320.gac7a8e02 macOS
+SpotifyCares: @754340 Thanks. Can you try the desktop app using a different network connection? Also, is this happening on other devices? /XF

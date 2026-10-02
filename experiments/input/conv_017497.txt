@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No luck still. It could be the server blocking it. I am not sure
+SpotifyCares: @434101 Hmm. Just to check, are you connected to a home (private) or public network? /MC

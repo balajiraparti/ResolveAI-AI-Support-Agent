@@ -1,0 +1,2 @@
+Customer: @SpotifyCares My Spotify on the webplayer won't load any playlists or my songs. I keep refreshing and logging out/ closing browser and it's not helping.
+SpotifyCares: @138415 Hey there, help's here! Does clearing your cache and cookies help? You might also want to try using an incognito window. Let us know how it goes /JI

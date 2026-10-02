@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Which folder? It is no longer in the local files folder on Spotify, but I’ll check the folder on my computer.
+SpotifyCares: @506389 It should be the folder on your computer which is the source of your in-app local files. Let us know how it goes /JM

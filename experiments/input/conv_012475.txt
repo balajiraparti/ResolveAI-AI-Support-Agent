@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It happens in Windows 10, in my Samsung Galaxy and in Mac iOS. Same message "this song is not available".
+SpotifyCares: @320399 Got it. Can you try logging out and back in again? You can also try restarting your devices to see if that helps /MA

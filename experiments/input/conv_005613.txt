@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi. Your web player gets stuck every time it tries to play an ad. Have to reload the page every time.
+SpotifyCares: @304408 Hey, help's here! Does clearing your cache/cookies help? You might also want to try using an incognito window. Let us know how it goes /JQ

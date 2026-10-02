@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Bummer. By the way sound controls aren’t working on mobile when in lock mode
+SpotifyCares: @247557 Is the Crossfade feature still enabled after restarting your device? What device, operating system, and Spotify version are you using? /RK

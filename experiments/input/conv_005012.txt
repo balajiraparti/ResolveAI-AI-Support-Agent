@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Work PC, LAN connection. Router settings are out of my hands.
+SpotifyCares: @293478 Can you ask your company IT if there are any active firewalls or antiviruses that might be causing this? /NS

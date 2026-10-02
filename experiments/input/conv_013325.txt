@@ -1,0 +1,2 @@
+Customer: @SpotifyCares when I search for Mastodon and then choose Crack The Skye album (shuffle play), it doesn't work. Am I the only one?
+SpotifyCares: @339708 2: version you're running? We'll see what we can suggest /DB

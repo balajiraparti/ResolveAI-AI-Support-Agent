@@ -1,0 +1,2 @@
+Customer: @SpotifyCares So when i try to reset my password i get "The CSRF token is invalid. Please try to resubmit the form." when entering both my email and username. Help?
+SpotifyCares: @817692 Hey there, help's here! Could you fire over a DM with your username and screenshot of the issue? We'll check things out backstage /ZO https://t.co/ldFdZRiNAt

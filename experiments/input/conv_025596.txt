@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hey my app and phone are up to date but the Spotify keeps pausing randomly, what should I do?
+SpotifyCares: @632668 Hey, help's here! Can you let us know your device's make/model, along with the exact operating system and Spotify version you're using? /RH

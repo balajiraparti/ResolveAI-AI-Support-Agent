@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey team., wondering if time difference between the US and AUS might affect my song being available. Released, but not there
+SpotifyCares: @305457 Hey there! Can you send us the Spotify URI? Just right-click the track &gt; Share &gt; URI. We'll check /RH

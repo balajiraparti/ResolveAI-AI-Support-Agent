@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Samsung Galaxy s6, Android 7.0, and Spotify 8.4.24
+SpotifyCares: @417280 Can you try logging out and back in again? You can also try restarting your phone to see if it helps /MA

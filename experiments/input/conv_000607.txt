@@ -1,0 +1,2 @@
+Customer: @SpotifyCares A mini player view?   Something that shows play controls, Track info but in a mini view so the whole client doesnt need to be visible.
+SpotifyCares: @166010 Don't worry. You can support a similar idea by voting for it at https://t.co/gauPI6VAPw. Give us a shout if you have other questions /DV

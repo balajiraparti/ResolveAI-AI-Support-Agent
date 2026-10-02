@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Thanks, I think part of the problem might be iOS. Could have sworn I updated my phone last night but I may require another. Spotify is version 8.4.27
+SpotifyCares: @419678 Got it. Can you try logging out &gt; restarting your phone &gt; logging back in? Let us know if that makes a difference /RH

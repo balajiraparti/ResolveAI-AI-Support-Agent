@@ -1,0 +1,3 @@
+Customer: dear @115888 
+please allow us to change the directory Spotify installs to. I, like many PC users, have multiple hard drives, and would like to install Spotify on my mass storage drive rather than my boot drive. Thank you.
+SpotifyCares: @488329 Hey there! Can you tell us what device and operating system you're using? We'll see what we can suggest /CH

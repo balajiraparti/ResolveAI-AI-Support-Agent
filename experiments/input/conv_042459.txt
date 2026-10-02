@@ -1,0 +1,2 @@
+Customer: @spotifycares I’m not able to reset my pw and get the error “CSRF token is invalid” when I enter my email. Got notice of reset 3 days ago
+SpotifyCares: @248464 Hi there. Can you try heading to https://t.co/6eDm6VZ89R using a different device, browser, or an incognito window? Let us know how it plays out /LM

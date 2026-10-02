@@ -1,0 +1,2 @@
+Customer: @SpotifyCares why does offline mode (android, app v8.4.28.876) keep deleting tracks and losing album art randomly? :(
+SpotifyCares: @267242 Hey Nick! Just to check, are your offline tracks getting desynced? Let us know - we'll see what we can suggest /SY

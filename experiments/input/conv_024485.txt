@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Correct, can also cause kernel panics. Tried using NVIDIA drivers, reset NVRAM, disabling both GPU rasterization and accelerated 2D canvas.
+SpotifyCares: @420893 Thanks for letting us know. Is this happening with every program you try to use on your Mac, or just the ones you mentioned? /CB

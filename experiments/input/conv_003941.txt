@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Tried all that. Not working. The App is working fine after I turned off the hardware enhanced option.
+SpotifyCares: @208045 Just to check, are you still having issues with the web player? We'd suggest clearing your browser's cache and cookies. Keep us posted /JE

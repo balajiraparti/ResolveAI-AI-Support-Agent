@@ -1,0 +1,2 @@
+Customer: @SpotifyCares after a while, the windows app takes up 1.5GB of RAM. Way too high. When I restart it takes closer to 250MB. What's the deal?
+SpotifyCares: @125451 Hey there! Help's here. Can you let us know the device, Windows, and app versions you're using? We'll see what we can suggest /PB

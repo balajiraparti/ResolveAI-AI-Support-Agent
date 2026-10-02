@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It's clearly a bug in your card number formatter though. It adds a space to the input field every 4 numbers but doesn't reposition the caret
+SpotifyCares: @496327 Thanks for letting us know. We'll pass it on. For now, you can sign up for Premium at https://t.co/WB5TSxRfDe /CB

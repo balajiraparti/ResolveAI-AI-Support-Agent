@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm on a Galaxy J7. I'll open the app and it just gets stuck loading for minutes.
+SpotifyCares: @491260 Does this happen on cellular data, WiFi, or both? Can you also tell us how much storage you have left on your device (or SD card)? /JU

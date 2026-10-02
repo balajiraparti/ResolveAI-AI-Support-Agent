@@ -1,0 +1,2 @@
+Customer: @SpotifyCares sometimes it works, sometimes not. I think I don't have other apps than Spotify running which need to listen to these media keys
+SpotifyCares: @306321 Can you try installing another app that uses the media keys? Afterwards, try closing Spotify, and see if the issue happens with them too /LM

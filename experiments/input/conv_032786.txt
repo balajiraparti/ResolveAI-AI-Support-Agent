@@ -1,0 +1,2 @@
+Customer: @115888 And when i enter my login &amp; password in the welcome screen I get "You are currently set to offline, please go online to connect to Spotify." Which breandead programmer builti this into an inlog screen????
+SpotifyCares: @255073 Hey! Sorry to hear you feel that way. Can you DM us your account's username or email address? We'll take a look under the hood /JS https://t.co/ldFdZRiNAt

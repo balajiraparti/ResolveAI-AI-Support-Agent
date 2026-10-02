@@ -1,0 +1,2 @@
+Customer: @SpotifyCares My company set up a new proxy that disables WebSockets. Both Spotify web and desktop clients seem to depend on them. There used to be a fallback available in Spotify web via the http=1 URL parameter, but it has been removed recently. I'm now asking if there is any alternative?
+SpotifyCares: @252237 Got it. To make sure the web player works seamlessly, we'd recommend using a connection without any network restrictions. You can reach out to your IT dept for additional help. Let us know if you need a hand with anything else /MG

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Other thing I noticed is it stops playig occasionally when I exit the app. It also plays fast forwarded on its own
+SpotifyCares: @432156 That's not cool. Is this happening over WiFi, 3G/4G, or both? Does restarting your device make any difference at all? /MV

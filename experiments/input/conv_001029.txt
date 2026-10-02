@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hey i'm trying to sign up for an account and I just keep getting the same "oops something went wrong, please try again..."
+SpotifyCares: @169550 Hey there! Can you try clearing your browser's cache and cookies? That might help /RH

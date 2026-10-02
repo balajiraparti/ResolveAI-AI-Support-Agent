@@ -1,0 +1,2 @@
+Customer: @SpotifyCares On the change payment details page it says "Loading. Please wait...." but nothing happens.
+SpotifyCares: @755582 Could you give it a go on another browser or incognito window? Let us know if that makes any difference /NJ

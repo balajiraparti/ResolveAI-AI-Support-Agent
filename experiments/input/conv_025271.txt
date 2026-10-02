@@ -1,0 +1,2 @@
+Customer: @115888 your windows app consumes 20% of my CPU. Not sure if it's those graphics you are showing when idle, but this is unacceptable.
+SpotifyCares: @625892 Hey Richard, help's here! Can you let us know your device, operating system, and Spotify version? We'll see what we can suggest /JP

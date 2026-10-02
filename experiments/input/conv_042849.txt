@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It's my work computer, and I'm at home now, but I think it's Windows 10. I tried deleting all the Spotify files and all that, but it still gave me an error message.
+SpotifyCares: @254710 Got it. Just to make sure, have you tried running the Spotify desktop app on your work computer as an administrator? Just right-click Spotify and click "Run as administrator". Keep us posted /MT

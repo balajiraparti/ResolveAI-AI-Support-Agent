@@ -1,0 +1,2 @@
+Customer: @SpotifyCares the latest of all Apple and you
+SpotifyCares: @601087 Alright. Can you let us know the exact device, iOS, and Spotify versions you're running? Also, does this happen over 3G/4G as well? /LM

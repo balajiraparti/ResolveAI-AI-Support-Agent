@@ -1,0 +1,2 @@
+Customer: @115888 your app has currently been very buggy lately because after one song plays it stops playing the whole playlist.
+SpotifyCares: @321065 Hey Anthony! Don't worry, help's here. Can you let us know the device, operating system, and Spotify version you're using? /MT

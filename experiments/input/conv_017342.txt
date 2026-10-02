@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I am using chrome. My browser keeps saying oops something went wrong. And would like me to reload.
+SpotifyCares: @434101 Got it. Does clearing your browser's cache help at all? If not, we'd suggest restarting your device. Keep us posted /MC

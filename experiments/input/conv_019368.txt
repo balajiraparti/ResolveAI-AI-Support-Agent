@@ -1,0 +1,2 @@
+Customer: @SpotifyCares android connected to honda accord
+SpotifyCares: @159354 Can you tell us the exact Android and Spotify app versions you're using? Also, what is the model of the Android device you have there? /JU

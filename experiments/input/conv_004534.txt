@@ -1,0 +1,2 @@
+Customer: @2069 @SpotifyCares Hello! The latest version of Spotify Web does not sync with Last.fm?
+SpotifyCares: @217571 Hey there! What's happening exactly? Can you let us know the device and operating system you're using? We'll see what we can suggest /PB

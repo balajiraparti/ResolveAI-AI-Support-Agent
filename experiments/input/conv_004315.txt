@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I used facebook to sign in before and now when I try logging in, it doesn't let me sign in with my facebook password nor my facebook itself.
+SpotifyCares: @214781 Got it. Are you getting an error message? If so, a screenshot would come in handy /RH

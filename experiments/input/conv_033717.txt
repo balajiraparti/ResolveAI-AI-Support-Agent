@@ -1,0 +1,2 @@
+Customer: @SpotifyCares My BMW connected drive doesn’t pick up the Spotify app since your update 2 days ago.                    Is there anything I can do to resolve this?
+SpotifyCares: @774377 Hey there! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /DN

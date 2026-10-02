@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have already restarted and logged out and it didn't work. The android version is 7.1.1 and the app version is 8.4.22.857.
+SpotifyCares: @352349 Hmm. Is this only happening via 3G/4G, or is it the same with WiFi? Keep us posted /NY

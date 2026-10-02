@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It's a samsung galaxy s7 device with Android version 7.0 Nougat and I believe I'm using the latest version of Spotify.
+SpotifyCares: @197794 Got it. Can you try logging out &gt; restarting your phone &gt; logging back in? Let us know if that makes a difference /RH

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Using spotify on my pixelbook, the pause/play button doesnt work when the app is in the background. Is this a Spotify app problem?
+SpotifyCares: @766865 Hi Joe, help's here! Does logging out &gt; restarting the device &gt; logging back in help? Keep us in the loop /AV

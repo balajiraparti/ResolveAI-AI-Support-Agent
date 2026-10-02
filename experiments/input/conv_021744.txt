@@ -1,0 +1,2 @@
+Customer: @115888 hey why does nothing on your app work offline anymore
+SpotifyCares: @610002 Hi there! Can you let us know what's happening exactly? Also, what device, OS, and Spotify version are you running? /LM

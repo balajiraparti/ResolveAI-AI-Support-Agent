@@ -1,0 +1,2 @@
+Customer: @SpotifyCares, when I hit shuffle artist, it only plays the 2 newest albums. Know how to fix this or is this a bug?
+SpotifyCares: @151579 Hey there, the cavalry's here! Does logging out, restarting your device, and logging back into Spotify help? Keep us posted /JI

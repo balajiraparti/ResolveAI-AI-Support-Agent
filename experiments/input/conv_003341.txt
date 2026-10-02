@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 6 Plus with iOS 11.0.2; app 8.4.20.535. I often open the app whilst on Edge and the list of playlists doesn’t load (it remains blank)
+SpotifyCares: @202445 Thanks for the info. Have you tried logging out then back in? Does restarting your device by holding Home + Lock for 10 seconds help? /PB

@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Yes it exibits the same behavior on a second PC running Windows 10 with two monitors @ 1080p. Mine is three @ 1440p.
+
+Second computer's version is 1.0.67.582.g19436fa3
+SpotifyCares: @671908 Got it. Can you try logging out of Spotify, restarting your PC, and logging back in to see if that helps? We'll wait for your update /NY

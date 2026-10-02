@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi. The problem (pixelisation after minimize under Windows 7) even with version 1.0.67.582.g19436fa3 is still there. 😟
+SpotifyCares: @150039 Hi there! That doesn't sound good. Does logging out of the app, restarting your device, then logging back in help at all? /QI

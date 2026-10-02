@@ -1,0 +1,2 @@
+Customer: @SpotifyCares why cant I listen to @61700 's album anymore? It says 'Not Available' anytime I try to listen to it on desktop for mac.
+SpotifyCares: @318328 That's not cool! Can you send us the album's URI? Just right-click the album &gt; Share &gt; URI. We'll have a look /LO

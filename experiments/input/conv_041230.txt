@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The app on my Galaxy S8+ seems to be broken. When I attempt to launch it, I see nothing but a black screen. Also, it constantly switches to offline mode between listening sessions. HELP
+SpotifyCares: @224968 Hey Jake, help's here! Can you send us the Android and Spotify versions you're running? We'll see what we can suggest /LO

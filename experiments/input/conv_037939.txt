@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hit play &amp; it stops. Anything from 1 to 3 secs. Working fine now. Does happen 2 to 4 times a week. Sorts itself in mins to an hour, as you keep checking. Using an HP Spectre x2 laptop (detachable) Windows 10. I've looked through Settings for 'search for updates' but to avail.
+SpotifyCares: @787069 Thanks for the info. Just to check, are you using a shared/public or private WiFi connection? If you're at home, can you restart your router? Let us know how everything plays out /WP

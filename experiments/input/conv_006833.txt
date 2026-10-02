@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, I'm unable to Create Similar Playlist. The playlists are my own, and the option is NOT greyed out, but when I click it (Mac) nothing happens at all. Running version 1.0.65.320.gac7a8e02. It has worked before, any ideas? Thanks.
+SpotifyCares: @323987 Hey! Help's here. Can you let us know the device's exact OS? Also, are you getting any error messages? We'll see what we can suggest /KM

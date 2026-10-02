@@ -1,0 +1,2 @@
+Customer: @SpotifyCares why can't I sign up? All I get is an endless loop of "you haven't signed up" and "an unknown error occurred" and other useless error messages.
+SpotifyCares: @653065 Hi! Don't worry, we'll get to the bottom of this. Can you let us know what country you're currently located at? /DR

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi! im having trouble with listen offline. Only playlists are staying saved. Been through troubleshooting. LG g4 android6.0
+SpotifyCares: @477076 Hey there! Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /BH

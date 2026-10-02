@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It's Spotify version 8.4.21.508 armV7 on Samsung s6 edge. It's happening on both Wi-Fi and 4g
+SpotifyCares: @174113 Hmm. Have you tried logging out then back in? Does restarting your device help at all? /PB

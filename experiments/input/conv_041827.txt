@@ -1,0 +1,2 @@
+Customer: @SpotifyCares a few secnds after connecting to my home wifi-connected speaker using "devices avaiable', the music cuts out and it tries to connect to a random 'device' listed as 'Free wifi'. how can i remove this rogue device from the list of available devices
+SpotifyCares: @236866 Hey there, helps here! We recommend signing out everywhere. To do so, head to https://t.co/SC3eGkHX7h &gt; Scroll down &gt; Click SIGN OUT EVERYWHERE. Let us know how it goes /ZO

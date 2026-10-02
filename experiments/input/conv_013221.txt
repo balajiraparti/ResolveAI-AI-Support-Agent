@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It’s stuck at the point where the sponsor’s video plays, but the video won’t load. I now cannot get out of that screen.
+SpotifyCares: @330184 Hmm. Just to check, is this happening over 3G/4G, WiFi, or both? If possible, can you use a different connection? /DR

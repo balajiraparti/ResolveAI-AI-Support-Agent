@@ -1,0 +1,2 @@
+Customer: @SpotifyCares But what about playlists within a folder. It’s different. Maybe not though
+SpotifyCares: @796169 The same prompt should show up if you add duplicate tracks to a playlist within a folder. Could you tell us the make/model of your device, as well as the operating system and Spotify version you're using? /KB

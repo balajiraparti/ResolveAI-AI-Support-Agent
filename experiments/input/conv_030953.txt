@@ -1,0 +1,2 @@
+Customer: @spotifycares if I create a radio station off of a playlist and add songs to that playlist does the station automatically adjust to the new songs? Or do I have to recreate the station in order to get the new influence?
+SpotifyCares: @234707 A Radio station will play music based on a song, album, artist, or playlist. You could make a mixed genre playlist first, then create a Radio station from it. Here's our handy guide: https://t.co/ZKEnG9WG7V. Hope this helps /RC

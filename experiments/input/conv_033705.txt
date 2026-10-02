@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi guys/girls, why does my shuffle almost always works terribly? When I add new tracks to a playlist (3600+ songs), these songs almost always appear in my shuffle. Besides from that I hear some tracks weekly and others rarely.. Why isn't there a real shuffle? Thanks
+SpotifyCares: @773276 Hey! We’ve made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /KT

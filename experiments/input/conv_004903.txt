@@ -1,0 +1,2 @@
+Customer: @115888 trying to create an account on PS4 and clicking sign up does nothing. no error/warning message saying what to do. bad UX
+SpotifyCares: @291377 Hey, help's here! Can you try restarting your console to see if it helps? Let us know how it goes. /YM

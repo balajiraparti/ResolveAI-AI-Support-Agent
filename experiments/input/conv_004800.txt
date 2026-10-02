@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hello, my android app keeps skipping songs and pausing and unpausing at random. Can you advise a fix?
+SpotifyCares: @290103 Hey Emma, help's here! Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /MQ

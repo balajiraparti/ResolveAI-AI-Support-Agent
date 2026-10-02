@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yes, it is still same. This is the exact screen shot right after the installation. https://t.co/4ysBjbvBl1
+SpotifyCares: @693591 Thanks. Can you try to Force Close the app first, then follow the steps here for reinstalling: https://t.co/VcYABEIhpG? You should be able to do it with Windows Task Manager. Keep us posted /XF

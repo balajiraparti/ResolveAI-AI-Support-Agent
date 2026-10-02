@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi! I am having issues with my account. Even though I do have internet connection, Spotify thinks I don't. Any ideas? Thanks! :)
+SpotifyCares: @810986 Hey there! We're here to help. Could you let us know what device, operating system, and version of Spotify you're using? Also, is this happening over 3/4G, WiFi, or both? We'll see what we can suggest /JT

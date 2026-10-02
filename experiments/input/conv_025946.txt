@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Android 8.0. Spotify 8.4.26.770. I can stream music on my Sonos with no issue, but podcasts are a no-go.
+SpotifyCares: @277460 Got it. Can you try to see if logging out &gt; restarting your device &gt; logging back in to your account makes a difference? /DV

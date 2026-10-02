@@ -1,0 +1,3 @@
+Customer: @SpotifyCares Now iPhone X, 7 Plus before.
+No audio from Spotify after playback was paused by Siri to read iMessage. All other CarPlay apps work fine with this (Apple Music, Pocketcasts, Tunein, Mixcloud, …)
+SpotifyCares: @655887 Hmm. What exact iOS and Spotify versions are you using? Also, what's the make &amp; model of your vehicle? We'll be right here waiting /LP

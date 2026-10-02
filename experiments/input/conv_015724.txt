@@ -1,0 +1,2 @@
+Customer: @SpotifyCares After any Windows update we need to reset the audio playback or Spotify won’t play.
+SpotifyCares: @393113 Hmm. Could you let us know the Windows and Spotify versions you're using? We'll see what we can suggest /JO

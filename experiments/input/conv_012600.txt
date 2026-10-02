@@ -1,0 +1,2 @@
+Customer: @SpotifyCares i know this would only work if the given link is a Spotify URI, but i'm sure the web player could redirect the playback based on my settings
+SpotifyCares: @322649 3: so it can get support from users. It's also a way for our devs to know it's something to look into 🙂 /RR

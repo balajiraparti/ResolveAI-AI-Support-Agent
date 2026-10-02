@@ -1,0 +1,2 @@
+Customer: Hi @115888 what's up with your random algorithm? It plays all the songs by one artist in a row. Is there a fix?
+SpotifyCares: @559663 Hey there! We’ve recently made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /CH

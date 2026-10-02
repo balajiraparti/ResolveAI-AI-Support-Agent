@@ -1,0 +1,5 @@
+Customer: @SpotifyCares Spotify 8.4.26.770 armV7.
+
+Oxygen 5.0
+Android version 8.0.0
+SpotifyCares: @771729 Thanks for the info. We've checked this out, and this is expected behavior. This is so you don't miss out on any notifications from other apps while listening to your tunes. We'll be sure to pass on your comments to relevant folks /CE

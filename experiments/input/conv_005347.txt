@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi there.  I'm using the Spotify desktop computer download (ON Windows 7), Spotify version: 1.0.65.320.gac7a8e02.  Thnx!!
+SpotifyCares: @297984 Got it! Could you also fire over the album's URI? Just go to the album &gt; 3 dots &gt; Share &gt; URI. We'll take a look under the hood /JM

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares after updating to the latest version, now I can’t control the playlist using the MacBookPro keyboard shortcut.
+SpotifyCares: @416856 Hey Menj! Can you let us know the exact operating system and Spotify versions you're running? We'll see what we can suggest /PL

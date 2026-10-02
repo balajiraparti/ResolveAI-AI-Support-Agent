@@ -1,0 +1,174 @@
+### GraphRAG config — Ollama LLM + HuggingFace Embeddings (fully open-source)
+### Ollama exposes an OpenAI-compatible REST API at /v1, so model_provider stays "openai"
+### but api_base points at your local Ollama server instead of api.openai.com.
+### HuggingFace embeddings run locally via the sentence-transformers library — no API key needed
+### unless the model is gated (private/restricted on HF Hub).
+
+### ── LLM + Embedding model settings ─────────────────────────────────────────
+
+models:
+  default_chat_model:
+    type: chat
+    model_provider: openai           # Ollama speaks the OpenAI protocol — keep as "openai"
+    api_key: ollama                  # Ollama ignores this but GraphRAG requires a non-empty value
+    api_base: http://localhost:11434/v1   # Ollama's OpenAI-compatible endpoint
+    model: llama3.2:1b               # any model you have pulled via `ollama pull <model>`
+    model_supports_json: true        # llama3.2 supports JSON mode — set false if using an older model
+    concurrent_requests: 1           # local Ollama can only handle one request at a time by default
+    async_mode: asyncio
+    retry_strategy: exponential_backoff
+    max_retries: 5
+    # Ollama does not enforce token-per-minute limits — leave null
+    tokens_per_minute: null
+    requests_per_minute: null
+    # Context window for llama3.2:1b. Increase to 8192 or 32768 for larger models.
+    max_tokens: 4096
+    request_timeout: 180.0           # local inference can be slow — give it time
+
+  default_embedding_model:
+    type: embedding
+    model_provider: openai           # Ollama speaks OpenAI protocol for embeddings too
+    api_key: ollama                  # dummy value — Ollama ignores it
+    api_base: http://localhost:11434/v1
+    model: nomic-embed-text          # pull with: ollama pull nomic-embed-text
+    # Good alternatives (all pulled via `ollama pull <model>`):
+    #   mxbai-embed-large            (1024-dim, higher quality, more RAM)
+    #   all-minilm                   (384-dim, fastest, least RAM)
+    #   snowflake-arctic-embed       (1024-dim, retrieval-optimized)
+    concurrent_requests: 1
+    async_mode: asyncio
+    retry_strategy: exponential_backoff
+    max_retries: 3
+    tokens_per_minute: null
+    requests_per_minute: null
+
+### ── Input settings ──────────────────────────────────────────────────────────
+
+input:
+  storage:
+    type: file
+    base_dir: "input"
+  file_type: text  # [csv, text, json]
+
+### ── Chunking ────────────────────────────────────────────────────────────────
+## Smaller chunks work better with a 1B model's limited context window.
+## Increase size/overlap if you upgrade to a 7B+ model.
+
+chunks:
+  size: 800          # reduced from 1200 — keeps prompts within llama3.2:1b's context window
+  overlap: 100
+  group_by_columns: [id]
+
+### ── Output / Storage ────────────────────────────────────────────────────────
+
+output:
+  type: file
+  base_dir: "output"
+
+cache:
+  type: file
+  base_dir: "cache"
+
+reporting:
+  type: file
+  base_dir: "logs"
+
+### ── Vector store ───────────────────────────────────────────────────────────
+## LanceDB is local and needs no external service — good match for a fully local setup.
+
+vector_store:
+  default_vector_store:
+    type: lancedb
+    db_uri: output/lancedb           # use forward slash on Windows too (Python handles it)
+    container_name: default
+
+### ── Workflow: embedding ─────────────────────────────────────────────────────
+
+embed_text:
+  model_id: default_embedding_model
+  vector_store_id: default_vector_store
+
+### ── Workflow: graph extraction ─────────────────────────────────────────────
+## Fewer entity types = shorter prompts = more reliable output from a 1B model.
+## Add types back once you've validated the pipeline works end-to-end.
+
+extract_graph:
+  model_id: default_chat_model
+  prompt: "prompts/extract_graph.txt"
+  entity_types: [organization, person, geo, event]
+  max_gleanings: 1     # keep at 1 for a 1B model — multiple gleanings multiply LLM calls
+
+### ── Workflow: description summarization ────────────────────────────────────
+
+summarize_descriptions:
+  model_id: default_chat_model
+  prompt: "prompts/summarize_descriptions.txt"
+  max_length: 300      # reduced from 500 — keeps summaries within 1B model capacity
+
+### ── Workflow: NLP-based graph extraction (regex, no LLM call) ──────────────
+
+extract_graph_nlp:
+  text_analyzer:
+    extractor_type: regex_english
+  async_mode: asyncio
+
+### ── Workflow: community clustering ─────────────────────────────────────────
+
+cluster_graph:
+  max_cluster_size: 10
+
+### ── Workflow: claims (disabled — high LLM call cost, skip for now) ─────────
+
+extract_claims:
+  enabled: false
+  model_id: default_chat_model
+  prompt: "prompts/extract_claims.txt"
+  description: "Any claims or facts that could be relevant to information discovery."
+  max_gleanings: 1
+
+### ── Workflow: community reports ────────────────────────────────────────────
+
+community_reports:
+  model_id: default_chat_model
+  graph_prompt: "prompts/community_report_graph.txt"
+  text_prompt: "prompts/community_report_text.txt"
+  max_length: 1000     # reduced from 2000 — 1B model output tends to be shorter anyway
+  max_input_length: 4000   # reduced from 8000 — stay within llama3.2:1b context window
+
+### ── Graph embedding + UMAP (disabled — local, no GPU benefit here) ─────────
+
+embed_graph:
+  enabled: false
+
+umap:
+  enabled: false
+
+### ── Snapshots ──────────────────────────────────────────────────────────────
+
+snapshots:
+  graphml: false
+  embeddings: false
+
+### ── Query settings ─────────────────────────────────────────────────────────
+
+local_search:
+  chat_model_id: default_chat_model
+  embedding_model_id: default_embedding_model
+  prompt: "prompts/local_search_system_prompt.txt"
+
+global_search:
+  chat_model_id: default_chat_model
+  map_prompt: "prompts/global_search_map_system_prompt.txt"
+  reduce_prompt: "prompts/global_search_reduce_system_prompt.txt"
+  knowledge_prompt: "prompts/global_search_knowledge_system_prompt.txt"
+
+drift_search:
+  chat_model_id: default_chat_model
+  embedding_model_id: default_embedding_model
+  prompt: "prompts/drift_search_system_prompt.txt"
+  reduce_prompt: "prompts/drift_search_reduce_prompt.txt"
+
+basic_search:
+  chat_model_id: default_chat_model
+  embedding_model_id: default_embedding_model
+  prompt: "prompts/basic_search_system_prompt.txt"

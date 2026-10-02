@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Ipod touch 6th gen. 8.4.3.884
+SpotifyCares: @511158 Got it. Does logging out then back in help? If it doesn't, could you try restarting the device by holding Home + Lock for 10 seconds? /JS

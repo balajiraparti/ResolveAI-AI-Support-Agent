@@ -1,0 +1,2 @@
+Customer: Can @115888 fix the android app so that it doesn't pause other android apps if Spotify is changing song on a completely different device?
+SpotifyCares: @154719 Hey Marcus, that's not cool! Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /JJ

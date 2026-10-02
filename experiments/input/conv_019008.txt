@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I am trying to connect Spotify to a Sonos from either my Win10 or Chromebook - both don't show devices. Works from phone. All on same wifi.
+SpotifyCares: @235576 2: an incognito window in your Chromebook? Let us know how it goes /SY

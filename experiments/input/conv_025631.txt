@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Swip down does nothing no symbol as show in guide. 8.4.26.770 armV7. Andriod 7.0 Note 5
+SpotifyCares: @573856 Thanks for letting us know. Can you try logging out &gt; restarting your phone &gt; logging back in? See if that makes a difference /RH

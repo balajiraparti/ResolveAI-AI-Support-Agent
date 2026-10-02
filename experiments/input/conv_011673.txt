@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Large number of playlists affecting Spotify performance? Eg I tried moving a folder with lots of playlists and Spotify crashed
+SpotifyCares: @553055 Hey! You should be able to save a large number of playlists. Can you send us your account's email/username? We'll take a look backstage /KL

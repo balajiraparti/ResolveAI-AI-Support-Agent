@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm using iOS 10.2 and my Spotify version is 8.4.22.515
+SpotifyCares: @559512 Cool! Just to check, does logging out of Spotify, restarting your device, and logging back in help at all? Keep us posted /NY

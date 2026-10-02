@@ -1,0 +1,2 @@
+Customer: Anyone else having issues with @115888? The app keeps logging me out and isn’t connecting to my Bluetooth devices.
+SpotifyCares: @562375 Hi Travis, help's here! What make/model of device are you running, and what app version? Any error messages when trying to log in again? /T

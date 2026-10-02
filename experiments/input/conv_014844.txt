@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Im using android version.
+SpotifyCares: @384275 Could you then tell us the Android and Spotify version you're currently running? We'll check under the hood /AR

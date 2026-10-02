@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Is there a way to only show that button if there is a device available?
+SpotifyCares: @539645 Hi Aj! We're afraid there's no option to hide it, but we'll pass your suggestion on to the relevant folks /GS

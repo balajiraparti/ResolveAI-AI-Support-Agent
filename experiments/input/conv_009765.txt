@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm using a 2017 Samsung A5, running Android 7.0, with Spotify 8.4.23.784 armV7
+SpotifyCares: @504566 Thanks. Does logging out and restarting your device help? Let us know how it goes /RC

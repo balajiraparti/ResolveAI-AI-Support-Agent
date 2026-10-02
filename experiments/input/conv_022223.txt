@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Spotify 8.4.25.771 armv7
+Android 7.1.1 on OxygenOS 4.5.1
+I'm hitting share via SMS, which inputs "Here's a song for you.. (long song link)"
+SpotifyCares: @478872 Can you let us know if you've pasted the link on your SMS window or you've shared it to SMS from the app? Keep us posted /MU

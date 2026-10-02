@@ -1,0 +1,2 @@
+Customer: @SpotifyCares why can't I see the list of people on Spotify Family except for one? everyone else is just a generic avatar with no name
+SpotifyCares: @370671 Hi there! Can you give this a try: log out from Spotify &gt; restart your device &gt; log back in? Did that make a difference? /DR

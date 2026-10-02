@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey there. Currently getting skipping during songs. Playing on Macbook Pro OS 10.12.6. Any suggestions? Have latest Spotify.
+SpotifyCares: @530692 Hey Cormac, help's here! Could you confirm the exact app version? Does it happen during all songs? We'll see what we can suggest /T

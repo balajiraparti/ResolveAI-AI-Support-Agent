@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Private WiFi network. Logged out of all devices. Restarted all devices. Factory reset and reconnected Sonos. Sonos works fine from Sonos app but not from any Spotify client.
+SpotifyCares: @722716 Does the same thing happen when you use the desktop app to control your tunes on a different device other than Sonos? You might also want to try restarting your router and see if it helps. Keep us posted /AY

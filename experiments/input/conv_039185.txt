@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi there, the Spotify app has stopped working for me, giving me an error message. I’ve restarted my phone. Closed and opened the app. Restarted my internet. Tried on 4G. To no avail. Looks like the web player is affected too. Any ideas what’s happening?
+SpotifyCares: @807654 Hey there! Thanks for letting us know. Everything’s looking good on our end now - are you still having this issue? /FR

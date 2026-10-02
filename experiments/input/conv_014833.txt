@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm using Android 6.0 and Spotify latest version 8.4.24.871 armV7
+SpotifyCares: @384077 Thanks! Can you try logging out &gt; restarting your device &gt; logging back in to see if it helps? Keep us posted /AR

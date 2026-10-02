@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When I go to Programs and click “Uninstall,” it shows me the same message as when I try to open Spotify. That it’s missing ‘api-ms-win-core-processthreads-|1-1-1.dll’
+SpotifyCares: @255311 Hmm. Could you DM us your account's username or email address? We'll check behind the scenes /RE https://t.co/ldFdZRiNAt

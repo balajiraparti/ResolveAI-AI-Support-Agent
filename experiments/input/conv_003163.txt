@@ -1,0 +1,2 @@
+Customer: Hello @115888. Your desktop app always crashes. Can you do something about this?
+SpotifyCares: @312393 Hey, help's here! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /RS

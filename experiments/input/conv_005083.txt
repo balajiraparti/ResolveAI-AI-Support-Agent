@@ -1,0 +1,2 @@
+Customer: @116130 My Bluetooth headphones no longer respond to commands on iOS 11.0.2. Any known issues?
+SpotifyCares: @294586 Hey there! We don't officially support Bluetooth, but we'll try our best. Can you let us know the Spotify version you're rocking? /RC

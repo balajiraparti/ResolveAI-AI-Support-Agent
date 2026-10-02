@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Android 7.0, Spotify 8.4.26.770 armV7
+SpotifyCares: @715367 Gotcha. Is this happening on 3G/4G, WiFi, or both? Does logging out &gt; restarting your device &gt; logging back in help at all? /KB

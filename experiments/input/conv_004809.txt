@@ -1,0 +1,2 @@
+Customer: @SpotifyCares ... and worked fine until about an hour ago when I updated Spotify.
+SpotifyCares: @289678 Can you try removing then readding Spotify from the Sonos website? Just follow the steps here: https://t.co/KRkUmpwS36 /CM

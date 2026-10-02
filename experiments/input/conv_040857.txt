@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I use Firefox Quantum on Mac OS Sierra version 10.12.6 on a late 2009 iMac desktop. Fairly often Spotify just won't let me play any music. I have to totally close Spotify and re-login for it to work again. Sometimes a browser reset is also necessary. Thanks for looking into this.
+SpotifyCares: @136357 Got it. Do you get any error messages? Does the issue happen with all tracks or playlists? Try using a private window or a different browser. Let us know if it does the same thing /CO

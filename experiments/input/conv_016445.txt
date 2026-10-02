@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No it does not. That’s why I’m asking if proxies are still supported with 1.66? Exactly the same settings worked well with 1.64 https://t.co/NBXOTbrY2A
+SpotifyCares: @160030 The latest version of the desktop app should still work behind proxies. Does switching Proxy type to Auto Detect make a difference? /CX

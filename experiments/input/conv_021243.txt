@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No, the problem is I open the app and it says im offline, so it doesn't login. But, I am connected to my mobile network
+SpotifyCares: @396564 Thanks. Could you try connecting to a different network? If you're on 3/4G, try connecting to WiFi, or vice versa. Keep us posted /JP

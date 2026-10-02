@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Thanks. I'm using a MacBook Air with OS X Yosemite. No idea what version of Spotify (1.0.67.582.g19436fa3 ?). Randomly pauses and I have to manually press play button each time.
+SpotifyCares: @544894 Thanks. Does logging out &gt; restarting your device &gt; logging back in help at all? /MC

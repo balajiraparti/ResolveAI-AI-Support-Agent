@@ -1,0 +1,2 @@
+Customer: @117168 so all of my created playlist are defaulting to Christmas music after the first song..is this a bug? Please fix
+SpotifyCares: @801525 Hi there! Can you try logging out &gt; restarting your device &gt; logging back in to see if it makes a difference? Keep us posted /MU

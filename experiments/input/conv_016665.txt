@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hello, I’m not getting an error message. I’m just getting a page that doesn’t let me input my code and it’s saying tickets aren’t avail.
+SpotifyCares: @418945 Hmm. Could you give it another shot using an incognito window or a different browser? Let us know how it plays out /GU

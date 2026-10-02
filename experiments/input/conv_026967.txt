@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm on a Windows PC, tried absolutely everything hardware related and also tried reinstalling and turning off hardware acceleration
+SpotifyCares: @655860 Hmm. Just to check, are you getting any specific error messages? If so, a screenshot can be handy /NG

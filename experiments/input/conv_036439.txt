@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Why isn't scrobling/last.fm working with some Connect devices (Onkyo in my case). Works ok with Sonos though.
+SpotifyCares: @156298 Hmm, that's odd. Don’t worry, we can help. What’s happening exactly? Can you let us know the devices and operating systems you’re having trouble with? Once you fire over that info, we'll take a look 🔍 /DT

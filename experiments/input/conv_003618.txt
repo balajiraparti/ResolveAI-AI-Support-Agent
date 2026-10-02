@@ -1,0 +1,2 @@
+Customer: @SpotifyCares spotify v8.4.22.857 armv7 android: 7.0 - essentially, say the music paused by pulling my headphones, spotify will kill itself. pls no
+SpotifyCares: @279800 Thanks for the info. Can you try using a different device to see if it does the same thing? We'd also suggest restarting your device /NY

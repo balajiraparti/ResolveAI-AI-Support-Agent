@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Open Spotify then toggle to another app (using the 3D panel switch button thing - don't know what it's called). Also happens during notifications
+SpotifyCares: @139569 Just to check, does the playback stop when you're running other apps and getting notifications? Can you also let us know your device, operating system, and app version? We'll see what we can suggest /MU

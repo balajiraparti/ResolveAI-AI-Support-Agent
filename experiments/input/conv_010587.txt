@@ -1,0 +1,2 @@
+Customer: Hi @SpotifyCares a lot of songs are stating “This song is not available” on my Mac desktop app. Its driving me bonkers. Any fix!? Thanks
+SpotifyCares: @550045 Hi Jen, we're here to help. Can you let us know the OS X and Spotify versions you're using? Does logging out and back in help at all? /AC

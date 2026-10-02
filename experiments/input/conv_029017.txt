@@ -1,0 +1,2 @@
+Customer: Hey @SpotifyCares did a recent iOS update remove search from the app?
+SpotifyCares: @682725 Hey! You should still be able to use Search on the most recent version of iOS. Could you let us know what's happening exactly? /CX

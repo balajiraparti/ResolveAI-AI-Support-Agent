@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Might be worth noting, this has only happened since the new Android OS was released yesterday, as it's messed up loads of other things too.
+SpotifyCares: @436957 Gotcha. We'll notify our devs so they can give it a look. For now, keep us posted if the reinstall helped fix the issue /NY

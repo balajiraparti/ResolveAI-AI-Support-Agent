@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Done that already. Now how do I get local music to show up under Songs/Artists/Albums, side-by-side with streamed music?
+SpotifyCares: @171285 This isn't possible as local files are only be saved in playlists. We're just a tweet away if you have any other questions /CX

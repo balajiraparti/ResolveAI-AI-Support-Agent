@@ -1,0 +1,2 @@
+Customer: @115888 "Cannot find 'api-ms-win-core-processthreads-l1-1-12.dll'. Please re-install this aplication." Fix your shit idiots im a paying customer.
+SpotifyCares: @259179 1: Hey there! Can you try right clicking your task bar &gt; Start Task Manager &gt; Processes, and then end any processes by Spotify. Afterwards, delete the Spotify folders found in C:\Users\USERNAME\AppData\Roaming and C:\Users\USERNAME\AppData\Local.

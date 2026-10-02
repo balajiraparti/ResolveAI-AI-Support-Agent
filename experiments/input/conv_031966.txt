@@ -1,0 +1,2 @@
+Customer: @115888 why can’t I sign in or make a account
+SpotifyCares: @740011 Hi there! Can you let us know what's happening exactly? Are you getting any specific error messages when trying to sign in/sign up? Also, are you doing this through the app or the browser? /LM

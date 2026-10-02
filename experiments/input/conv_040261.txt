@@ -1,0 +1,2 @@
+Customer: @115888 do I really need to delete my whole offline libary to be able to log-in in the Android app? Otherwise it says "Please go online", even tho there's no UI for that on the login screen. 😠
+SpotifyCares: @817969 Hey! Sorry for the confusion. You'll need to turn off Offline Mode. To do this, tap Your Library &gt; Settings &gt; Playback &gt; switch off Offline Mode. Let us know how it goes /LJ

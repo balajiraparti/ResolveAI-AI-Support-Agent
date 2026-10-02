@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Can download song list on mobile so assumed it was possible on desktop.
+SpotifyCares: @200082 For now, it's only possible to download playlists on desktop. Don't worry, we'll let our devs know that's something you'd like to see /RH

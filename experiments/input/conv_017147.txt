@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No, no error messages. Apple’s own music app just responds to the headset commands even if the Spotify app is playing.
+SpotifyCares: @426798 Got it. Have you tried logging out and back in to your account? Also, does restarting your device help at all? /NS

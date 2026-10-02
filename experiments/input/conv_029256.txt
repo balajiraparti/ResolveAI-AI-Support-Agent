@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Oh I see now that I can't reach the last.fm website either, so it's probably a time-out of their servers.
+SpotifyCares: @688104 We've tried accessing Last.fm's website, and we've encountered the same thing. We'd suggest getting in touch with them for more info /RE

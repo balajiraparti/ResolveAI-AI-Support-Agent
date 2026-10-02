@@ -1,0 +1,2 @@
+Customer: Hey @SpotifyCares, how come I can add songs to a shared playlist using the iOS app but can’t see the shared playlist at all when I go to add a song on the web app for Chrome browser?
+SpotifyCares: @780096 Hey Clayson! We're afraid it's not possible to add tracks to a Collaborative playlist using the web player at the moment. Don't worry, our team's working hard on things. We're passing on all feedback on this /MG

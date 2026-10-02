@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Checked, none of these apply - unless an *automatic* update deleted them and switched off the download option?
+SpotifyCares: @124703 Hmm. An app update shouldn't do that. We suggest that you remove your offline devices and reinstall if it happens again /CP

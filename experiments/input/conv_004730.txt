@@ -1,0 +1,2 @@
+Customer: @SpotifyCares After clearing the Spotify link in the Alexa app, the desktop and phone app work, but no more control via the Echo
+SpotifyCares: @286241 2: to either continue playing on it or have it play on your speaker. More info at https://t.co/64CIqASpvY /JP

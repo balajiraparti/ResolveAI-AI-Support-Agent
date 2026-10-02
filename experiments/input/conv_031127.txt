@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi there I didn't *think* it was High Sierra, which I updated a while ago, as I only noticed when updated Spotify this morning. Was working yesterday. BUT same issue with iTunes.  What you think?
+SpotifyCares: @725678 Thanks for confirming that. Can you try logging out, restarting your device, and logging back in? Tell us how everything plays out /JM

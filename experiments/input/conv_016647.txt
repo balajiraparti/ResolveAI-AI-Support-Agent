@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No errors or messages, just a 5 minute lag on interactions and the fallout where it won't load *any* content after close or force quit.
+SpotifyCares: @415514 Hmm. Have you tried logging out, restarting your device, then logging back in? Keep us in the loop /PB

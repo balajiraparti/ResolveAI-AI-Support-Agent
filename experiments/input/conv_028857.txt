@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It’s an iPhone 7 running the latest versions of both iOS 11 and Spotify. Songs won’t shuffle at all when connected to Bluetooth in my Mazda CX-5.
+SpotifyCares: @441430 Got it. Can you try to see if logging out &gt; restarting your phone &gt; logging back in to your account makes a difference? /DV

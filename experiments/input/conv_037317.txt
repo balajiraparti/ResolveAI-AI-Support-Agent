@@ -1,0 +1,3 @@
+Customer: @SpotifyCares I just dumped the whole thing. I'd expect its your job to figure this out, isn't it. 
+I'd expect some auto-updater left over garbage coupled with audio cache. But who knows
+SpotifyCares: @537736 Hmm. Can you fire over the Windows and Spotify version you're currently using? We'll see what we can suggest /KB

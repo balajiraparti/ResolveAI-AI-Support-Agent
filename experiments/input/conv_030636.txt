@@ -1,0 +1,3 @@
+Customer: Hello @SpotifyCares 
+I'm using Spotify free at my Android phone and have some playlist with audiobooks and instrumental music. Each time I try to play any of them, the app puts a lot of "suggestions" into the queue, but I don't want them! Any possibility turn these off? Thanks!
+SpotifyCares: @717387 Hey there! This is part of our Free service on mobile. There's more info about it here: https://t.co/Uv9kyGcsCc. To reduce the number of Suggested Tracks you get, try adding more artists into your playlists. Let us know if there's anything else /AP

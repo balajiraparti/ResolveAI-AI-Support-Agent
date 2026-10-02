@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Sure, 8.4.21.508 armV7
+SpotifyCares: @159744 Thanks. Are you having this issue with every track? Did this start happening after a specific update? /RH

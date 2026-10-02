@@ -1,0 +1,2 @@
+Customer: @SpotifyCares laptop, windows
+SpotifyCares: @709531 Got it. Which Spotify version are you running? Does the same thing happen when you're using a different device? /MA

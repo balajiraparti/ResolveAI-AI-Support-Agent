@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Tried clearing cache, normal, incognito, and from in the app. All still give that error.
+SpotifyCares: @223744 Thanks for trying. If possible, can you give it a shot using another device? Keep us posted /LO

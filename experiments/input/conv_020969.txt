@@ -1,0 +1,4 @@
+Customer: @SpotifyCares hello help!
+Yes I have been trying to sign up as a new user. And it won't let me.
+As I said, it says an unknown error occurred
+SpotifyCares: @456526 Are you trying to sign up using the app or through the web player? We'll see what we can suggest /ME

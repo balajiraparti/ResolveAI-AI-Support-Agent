@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No issue on Android app on phone. Could be interference from local files on desktop?
+SpotifyCares: @254907 Possibly. We'd suggest, once you have access to your computer, removing the local files source and see what happens. Keep us posted /JP

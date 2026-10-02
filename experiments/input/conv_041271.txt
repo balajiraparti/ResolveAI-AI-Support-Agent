@@ -1,0 +1,2 @@
+Customer: @SpotifyCares the 503 errors happened this morning and then about 2 hours ago. They were transient errors lasting a few mins each time, which I think is what 503 errors mean anyway. They happened on my local machine and production servers and they were errors from the API, not the app.
+SpotifyCares: @224971 Hmm. Does restarting your device make any difference? Keep us posted /LO

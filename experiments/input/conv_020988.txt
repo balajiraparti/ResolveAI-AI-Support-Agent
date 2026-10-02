@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 8.4.24.506
+SpotifyCares: @446898 Got it! It seems you're currently running an older version of the app. Can you try updating it? Let us know if it makes any difference /PB

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I wasn't able to get that working to get it added to my artist page, but when I searched today it was there, so resolved. But is there generally a delay between playlist creation and its availability in search?
+SpotifyCares: @799228 It's normally instant, but there might have been some cache issues that were stopping this. Glad to see it's working now, though! For future questions, you can reach the Artist Support team directly here: https://t.co/41wf7ozbVm /I

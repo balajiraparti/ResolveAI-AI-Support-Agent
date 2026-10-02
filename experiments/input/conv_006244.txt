@@ -1,0 +1,2 @@
+Customer: @115888 #bugReport songs are prematurely ending. Somewhere between 50-90% of song plays, then next song starts without fade #iOS latest
+SpotifyCares: @309307 Hey Jeff, help's here! Can you let us know your device and Spotify version? We'll see what we can suggest /JP

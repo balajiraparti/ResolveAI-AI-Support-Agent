@@ -1,0 +1,2 @@
+Customer: @SpotifyCares and as far as i can tell, they're still out of sync (based on some initial tests just now)
+SpotifyCares: @769071 Thanks for that info. Could you tell us if this happening on your device while connected to WiFi, 3G/4G or both? /AV

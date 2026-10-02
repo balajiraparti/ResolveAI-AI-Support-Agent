@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 6s, iOS 11.1, and just updated to the newest Spotify. Still crashing
+SpotifyCares: @813238 Thanks! Can you try logging out, restarting your phone by holding Home + Lock for 10 seconds, and logging back in? Any better? /JP

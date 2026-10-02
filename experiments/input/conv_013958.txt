@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 7+, iOS 11.0.3, 8.4.22.515. Restarted phone and that fixed it but started happening again shortly after.
+SpotifyCares: @308567 Thanks for the info. Are you getting any specific error messages? A screenshot would come in handy /NS

@@ -1,0 +1,2 @@
+Customer: @116230 @115888 app takes very long to load properly on win 10. Needs to be a lot lighter and faster.
+SpotifyCares: @124332 Hi Thomas, the cavalry's here! Does logging out, restarting your device, and logging back into Spotify help? Keep us posted /JI

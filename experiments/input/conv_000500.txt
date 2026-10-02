@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Every time I try to update my payment method, I get "This form has expired. Please reload the page and try again." Any ideas?
+SpotifyCares: @219802 Hi there! Could you give it another go using a different browser or an incognito window? A different device might also do the trick /JM

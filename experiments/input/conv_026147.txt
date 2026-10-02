@@ -1,0 +1,2 @@
+Customer: @115888 hey your app crashed and wiped all the saved songs from my listen offline, now I'm kinda screwed on this long drive
+SpotifyCares: @644355 Hey Alex! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /MS

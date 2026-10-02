@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Everything that should be clickable is clickable. And the clicks register (I can see the player respond to the click). But it doesn't play. https://t.co/SkcWN1VW06
+SpotifyCares: @172260 How's your internet connection for loading other web pages? Can you try clearing your browser’s cache and restarting the web player? /MV

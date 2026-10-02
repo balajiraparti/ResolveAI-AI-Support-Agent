@@ -1,0 +1,2 @@
+Customer: Hey @115888, why does the desktop app on windows open at startup even with the option disabled under preferences? Also not in windows startup programs. It's a small thing, but I'm paying for this service. Can I be sure the high quality streaming button is actually working?
+SpotifyCares: @739608 Hey Dan, help's here! Could you let us know your device's make/model and Spotify version? We'll see what we can suggest /GU

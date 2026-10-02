@@ -1,0 +1,2 @@
+Customer: @SpotifyCares not sure if iOS bug or specifically relating to the X but when I’m listening to music on Spotify and accept a call. The only way to get the musi to resume is to completely force close the app and reopen it
+SpotifyCares: @471615 Hey, help's here! Can you let us know the iOS and Spotify versions you're using? We'll see what we can suggest /GK

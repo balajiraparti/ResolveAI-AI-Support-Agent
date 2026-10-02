@@ -1,0 +1,2 @@
+Customer: Yo @SpotifyCares there seems to be a general problem with your service right now. Songs are freezing, or not loading. Both webservice and app.
+SpotifyCares: @623322 Hi there! Can you let us know the device, operating system, and Spotify version you're rocking? We'll see what we can suggest /JM

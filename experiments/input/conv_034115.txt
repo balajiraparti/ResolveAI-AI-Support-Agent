@@ -1,0 +1,2 @@
+Customer: @115888 Your password reset page is down. 504 Gateway error.
+SpotifyCares: @778598 Hi there. Can you let us know what country you're currently in? Could you also try using a different device, browser, or an incognito window? Let us know how it plays out /LM

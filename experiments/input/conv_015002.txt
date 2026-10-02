@@ -1,0 +1,2 @@
+Customer: @115888 On an Android. I deleted Spotify folder, cleared cache still says my folder is full? What? Is it because it sign in thru Facebook?
+SpotifyCares: @388643 Hey! Can you let us know the operating system and Spotify versions you're using? We'll see what we can suggest /RC

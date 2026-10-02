@@ -1,0 +1,2 @@
+Customer: @SpotifyCares was not syncing on wif this morni; later on LTE, it synced $10 of @169291 data. I always have "DL on cellular" disabled https://t.co/TvfcfyYQvh
+SpotifyCares: @372878 Hey! Can you let us know the Android and Spotify versions you're using? We'll see what we can suggest /RC

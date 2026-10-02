@@ -1,0 +1,2 @@
+Customer: @SpotifyCares can't start Windows Desktop app right now. Any problems?
+SpotifyCares: @139560 Hey, that's not cool!Can you let us know the device, operating system, and Spotify app version you’re using? We'll see what we can suggest /JY

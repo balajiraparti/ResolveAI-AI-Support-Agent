@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi there! Albums aren't playing. Updated Spotiy in the last hour. Running ver. 1.0.68.407.g6864aaaf on MacOS High Sierra 10.13.1 (17B48)
+SpotifyCares: @156302 Hey! That doesn't sound good. Did it start happening just after the update, or was it already happening before? /QI

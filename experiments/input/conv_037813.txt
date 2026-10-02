@@ -1,0 +1,2 @@
+Customer: @SpotifyCares just want to make sure I send you the right info. you want the startup shot from my taskmanager? or where would i find the info?
+SpotifyCares: @630168 Sorry for the confusion. Could you change your Startup settings? To do so, open the desktop app of Spotify &gt; Click the drop down next to your username &gt; Click Settings and scroll down &gt; Click ADVANCED SETTINGS &gt; Under Startup and Windows Behavior &gt; Select No. Keep us updated /ZO

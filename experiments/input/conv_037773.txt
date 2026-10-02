@@ -1,0 +1,2 @@
+Customer: @SpotifyCares shuffle is broken. on playlists the app will play 10-20 songs off the same two albums if possible then switches to two other albums. doesn’t feel random at all when a large playlist with dozens of albums only shuffles through 2 at a time.
+SpotifyCares: @789473 Hey, help's here! Can you let us know the device, OS, and Spotify version you're running? We'll see what we can suggest /DB

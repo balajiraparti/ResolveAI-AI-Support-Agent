@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I've logged out and logged back in. Crashes when searching. Also tells me that I'm offline when trying to bring up menu to add to playlist
+SpotifyCares: @550780 Got it. Can you try reinstalling the app? You can find the steps for your device at https://t.co/cxGHt0bCR8. Keep us posted /SJ

@@ -1,0 +1,2 @@
+Customer: @117153 Getting a lot of issues with web player - 'Oops something went wrong, reload', seeing nginx 503 errors!
+SpotifyCares: @549011 Hey Roo! Can you try clearing your browser's cache and cookies? Using an incognito window might do the trick, too. Keep us posted /JE

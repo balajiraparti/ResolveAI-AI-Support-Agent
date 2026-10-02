@@ -1,0 +1,7 @@
+Customer: @SpotifyCares Steps to reproduce:
+1) Open Spotify in Windows on a multi-monitor computer
+2) Ensure Spotify is maximized/full-screen
+3) Play a song song (not necessary to trigger the bug, but you won't see a frozen timer otherwise)
+4) Press WIN+SHIFT+RIGHT ARROW
+5) Observe the Spotify window
+SpotifyCares: @671908 Hmm. We'd like to check things backstage. Could you fire over your account's email address via DM? Just click on the link above /NY

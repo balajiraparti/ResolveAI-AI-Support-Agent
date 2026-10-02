@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yes, but nothing changed. When i try to share music on twitter, application automatically opens and looks like this. It was seemed with album cover before. https://t.co/zIlSs7wz8x
+SpotifyCares: @219116 Got it. When did this issue start? Could you let us know the version of Spotify you're running? We'll take a look under the hood /CO

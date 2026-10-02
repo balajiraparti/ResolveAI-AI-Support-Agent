@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The devices being used feature is stopping me from listening, as you can see there is only one device yet the play button is grayed out.
+SpotifyCares: @378822 Got it. Could you try opening the web player in an incognito/private window? Keep us posted /RK

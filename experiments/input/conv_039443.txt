@@ -1,0 +1,2 @@
+Customer: @SpotifyCares tried to make a new account on laptop and iPhone but said email is taken. When I enter the email in "forgot your username or password" it says "the CSRF token is invalid. Please try to resubmit the form"
+SpotifyCares: @806656 Hey, help's here! Can you DM us your account's email address? We'll take a look backstage /MG https://t.co/ldFdZRiNAt

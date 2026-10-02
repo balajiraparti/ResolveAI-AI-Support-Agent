@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Running from my Samsung s7, android version 7.0, and running Spotify v.8.4.26.770
+SpotifyCares: @220018 Thanks! Can you try logging out &gt; restarting the device &gt; logging back in? Let us know if that helps /PL

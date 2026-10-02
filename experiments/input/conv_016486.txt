@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Not really. I’m not the only one with this issue in our network. Are there any debugging possibilities (e.g. logs) within the Spotify app?
+SpotifyCares: @160030 1: We're afraid we don't have any more info to share about that, but we've already let our team know it's something you'd like to see.

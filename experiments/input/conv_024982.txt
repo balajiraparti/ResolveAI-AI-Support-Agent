@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Windows 10 and Spotify version 1.0.67.582.g19436fa3. I believe it was the "Your Time Capsule" playlist that bugged out.
+SpotifyCares: @618947 Got it. We'd suggest logging out, fully closing the app, and restarting your device, before trying again. Does that help? /RE

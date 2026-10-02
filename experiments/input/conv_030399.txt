@@ -1,0 +1,3 @@
+Customer: @SpotifyCares That I understand, takes quite a lot of time. I want to be able to just save the entire playlist. 
+Create a save button, when pressed enter a playlist name. Press save &amp; you're done! Super easy :-)
+SpotifyCares: @366783 Thanks for the feedback. We'll be sure to let our team know it's something you'd like to see /CB

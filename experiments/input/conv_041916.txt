@@ -1,0 +1,10 @@
+Customer: @SpotifyCares Hi
+
+Galaxy S8 G9505
+Android 7.0
+Spotify 8.4.29.289 has been updated since issue commenced.
+
+Also if relevant Samsung experience 8.1
+
+Streaming to JBL extreme but occurred when deciding to switch from other device to S8 in Spotify
+SpotifyCares: @238041 Thanks for the details. Does restarting your devices help at all? /AP

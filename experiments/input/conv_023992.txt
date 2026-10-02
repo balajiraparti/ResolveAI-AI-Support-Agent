@@ -1,0 +1,2 @@
+Customer: Can’t control Spotify from control center/lock screen on iOS11 nor does it work w/my Bluetooth in my car. Help? @SpotifyCares @AppleSupport
+SpotifyCares: @519407 Hey Katie! Can you let us know the exact iOS and Spotify versions you're running? We'll see what we can suggest /RH

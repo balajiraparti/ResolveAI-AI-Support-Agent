@@ -1,0 +1,5 @@
+Customer: Hi @SpotifyCares  - can't use Spotify Connect. Speaker shows in device list - selecting it does nothing. Previously working. Still works on iPhone 7. My devices:
+
+OnePlus 3T (Android 8)
+Sonos Play:1
+SpotifyCares: @148645 Hey there! Can you let us know the exact Spotify version running on your device? We'll see what we can suggest /AP

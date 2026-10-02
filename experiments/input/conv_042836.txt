@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I’m having trouble on my Win 7 computer after the new update. Says it’s missing ‘api-ms-win-core-processthreads-|1-1-1.dll’
+SpotifyCares: @255311 Hey there! Have you tried reinstalling the app by following the steps at https://t.co/qhJOnj2N9J? /RE

@@ -1,0 +1,2 @@
+Customer: @115888 All years of use now getting a error code 126 on logon.  Nothing's changed on my PC.
+SpotifyCares: @468674 Hey! What device, operating system, and Spotify version are you using? We'll see what we can suggest /CB

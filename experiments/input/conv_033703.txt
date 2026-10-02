@@ -1,0 +1,16 @@
+Customer: *installs Spotify for Artists android app*
+
+*opens app, selects artist*
+
+*app crashes*
+
+*tries again*
+
+*app crashes*
+
+*tries again*
+
+*app crashes*
+
+*uninstalls Spotify for Artists android app*
+SpotifyCares: @776668 Hey Darren, sorry to hear you're having trouble. Could you let us know your device and operating system? We'll take a look for you /Q

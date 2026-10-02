@@ -1,0 +1,2 @@
+Customer: @115888 Trying to change payment info, being told CSRF token invalid, don't know what that means, can't contact an actual person. Wtf?
+SpotifyCares: @571852 Hey Courtney, help's here! Can you DM us your account's email address? We'll see what we can suggest /SJ https://t.co/ldFdZRiNAt

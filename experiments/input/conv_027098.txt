@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have version 8.4.26.793 and the search bar only appears when I swipe from the bottom but you cannot click on it because you are swiping up. It won’t appear any other way
+SpotifyCares: @654595 Hmm. What's the make &amp; model of your device? The operating system (and version) installed on it would be handy too /LP

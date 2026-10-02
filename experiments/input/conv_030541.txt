@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hello, I'm trying to set up the Spotify+Hulu for Students account but when I submit payment info and try to continue it says the CSRF token is in valid. What does that mean?
+SpotifyCares: @715377 Hey William! The cavalry's here. Could you DM us your account's email address? We'll take a look under the hood /KB https://t.co/ldFdZRiNAt

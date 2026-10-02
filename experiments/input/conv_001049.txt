@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Can't create an account.  Firefox, Chrome, iPhone:  "oops something went wrong".  I give up.
+SpotifyCares: @169721 Hey Brandon! Can you try clearing your browser's cache/cookies? See if that helps /RH

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares What keywords besides "playlist", "playlists", + "song" would I use?
+SpotifyCares: @116393 We suggest using keywords similar to those used in the suggested idea. If you need anything else, give us a shout /RB

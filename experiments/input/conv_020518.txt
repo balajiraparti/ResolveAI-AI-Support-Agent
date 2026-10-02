@@ -1,0 +1,3 @@
+Customer: @SpotifyCares Everything is up to date. Clearing the cache  reduced the length of the freezes, but they still happen. Getting about 60-100 logged errors per freeze. 
+Thanks!
+SpotifyCares: @129423 Gotcha. Does logging out, restarting your device, and logging back in help at all? Let us know how it goes /JE

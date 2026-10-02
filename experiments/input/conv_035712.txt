@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi! My app is showing as offline. I originally thought it was an issue with my ISP, however everything else seems to be working. https://t.co/lBISKMty2y
+SpotifyCares: @139993 Alright. Can you let us know what device, OS X, and Spotify version you're running? Also, did this start happening after a specific update /LM

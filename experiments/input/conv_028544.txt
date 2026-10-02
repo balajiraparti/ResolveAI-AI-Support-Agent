@@ -1,0 +1,3 @@
+Customer: @115888 Bug on a multi-monitor Windows 10 setup:
+Moving a full-screen Spotify window between monitors using WIN+SHIFT+[Arrow key] causes the window to freeze and become unresponsive to user input until the window is repositioned using a different method.
+SpotifyCares: @671908 Hi there, help's here! Can you let us know the Spotify version you're rocking? We'll see what we can suggest /NY

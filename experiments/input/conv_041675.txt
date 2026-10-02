@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Samsung Galaxy S8, Nougat OS, and version 8.4.28.875 armV7
+SpotifyCares: @231384 Thanks! Does logging out, restarting your device, then logging back in help at all? /QI

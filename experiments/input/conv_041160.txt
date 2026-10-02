@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Your API endpoints (eg /me, /browse/featured-playlists) are frequently returning a 404 errors (eg 50% of all requests). Is something going on at HQ?
+SpotifyCares: @224049 Hey James! Don’t worry, we can help. What’s happening exactly? Can you let us know the device/OS you’re using? /MT

@@ -1,0 +1,2 @@
+Customer: @115888 problem on iPhone: search for song, tap it to play it and it plays something else on results list. I’m premium.
+SpotifyCares: @229937 Hey, that doesn't sound right. Can you let us know the iOS and Spotify versions you're using? We'll see what we can suggest /RH

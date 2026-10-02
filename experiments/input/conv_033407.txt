@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Didn't work. 
+
+Also, y'all need an option to keep the quick controls in the notification panel even when I'm not in the app for a few minutes. If I still have a device playing Spotify the controls should stay, not time out.
+SpotifyCares: @769067 Hmm. Can you reinstall the app this time by following the steps here: https://t.co/EqisDMwZAT? As for the quick controls not timing out, we'll let our devs know that it's something you'd like to have on the mobile app /JU

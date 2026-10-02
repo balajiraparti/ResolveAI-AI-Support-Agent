@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I found it! The version is 8.4.22.857 armV7
+SpotifyCares: @293133 Thanks! Does restarting your device - including removing the battery for 30 seconds if possible - help at all? /RB

@@ -1,0 +1,2 @@
+Customer: @spotifycares Windows client audio starts stuttering/slowing down after about 1 minute, doesn't matter which album. audio playback in web player and other local media players is fine. any ideas?
+SpotifyCares: @762521 Hey! Help's here. Can you let us know the make and model of your device and the version of your Spotify app? We'll see what we can suggest /RA

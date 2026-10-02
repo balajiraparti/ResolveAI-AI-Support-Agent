@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi it's OS Sierra and the latest spotify update ( 1.0.64.399.g4637b02a )
+SpotifyCares: @160407 Thanks. When did you start having this issue? Also, what usually makes the app freeze? /RH

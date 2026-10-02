@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Android V7.0, Samsung S7 Edge, Spotify V8.4.25.771armV7. Bluetooth controls work fine on all other media apps, play/pause dont work on sptfy
+SpotifyCares: @121676 Got it. Can you try to see if logging out &gt; restarting your phone &gt; logging back in to your account makes a difference? /DV

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares sync between Spotify &amp; Facebook stopped working at around at Sep 26, 2017. Option to sync is on. Any ideas?:)
+SpotifyCares: @166758 We're afraid we no longer share your listening activity to Facebook. Rest assured, your feedback will be passed on to the right folks /DV

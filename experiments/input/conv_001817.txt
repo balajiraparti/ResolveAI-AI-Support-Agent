@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hello!! My Bluetooth headphone controls do not work with spotify on my galaxy s8. Powerbeats3. Is their a fix for this?
+SpotifyCares: @183894 Hi Gerard! We don't officially support Bluetooth, but we'll do our best. Can you let us know your device's Android and Spotify versions? /NY

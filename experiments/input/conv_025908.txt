@@ -1,0 +1,2 @@
+Customer: @SpotifyCares "Can't play the current song", then plays after a few seconds, but randomly stutters.
+SpotifyCares: @255459 Can you DM us your OS X, Spotify version, make and model of your device, and your account's email address? We'll see what we can suggest /KT https://t.co/ldFdZRiNAt

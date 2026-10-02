@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey. Behind the lyrics doesn't work for me? I'm on latest android version playing "Sorry" by Justin B(works on brothers phone)
+SpotifyCares: @406258 Hey there! Can you head to Settings &gt; Playback &gt; and check if Behind the Lyrics is enabled? We'll be right here waiting /NS

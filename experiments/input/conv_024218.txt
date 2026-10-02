@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Can I disable the reseting of the single-song-loop when I select a new song? (Keep looping a song when I select a new one)
+SpotifyCares: @527582 Hi Noël! We don't have that feature yet, but it sounds like a great idea. Suggest it in our Community at https://t.co/rtDvYZOF32 /NH

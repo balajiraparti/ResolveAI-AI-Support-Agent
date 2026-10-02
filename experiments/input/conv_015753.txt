@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It’s on MacBook Air, Mac OS High Sierra, Chrome. The problem is the ${date} inline where it should be the real date.
+SpotifyCares: @403952 Thanks. Could you send us a DM with your account's email/username and the link to the page? We'll take a look backstage /AY https://t.co/ldFdZRiNAt

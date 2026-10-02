@@ -1,0 +1,2 @@
+Customer: @SpotifyCares So I’d still have to download all my tracks again even though my app is up to date and I’ve only got one active offline device?
+SpotifyCares: @545538 That's correct. After removing all your offline devices and reinstalling the app, you need to download your offline tracks again /AR

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Android 7.0, is that what you mean?
+SpotifyCares: @534226 Yup, that's right. Could you try restarting the device? Does the issue persist? /JS

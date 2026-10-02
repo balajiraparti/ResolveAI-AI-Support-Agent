@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Since a few days, I cannot use the web player at https://t.co/8I1mwj5iIw. When I hit Play nothing happens. On Firefox 56. Why?
+SpotifyCares: @199992 Hey! Does this happen on every browser you try to use? What OS are you on? Also, are you on a home or office network? /CB

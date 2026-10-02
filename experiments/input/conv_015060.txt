@@ -1,0 +1,3 @@
+Customer: @115888 why does my app continue downloading using mobile data when I have this turned off in 
+my settings?
+SpotifyCares: @392821 Hey Mark! Does logging out, restarting the device, and logging back in help at all? Keep us posted /TF

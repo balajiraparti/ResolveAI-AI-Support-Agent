@@ -1,0 +1,2 @@
+Customer: @SpotifyCares App doesn't load, only this black screen, and then press anything (library for example) and this message pops up https://t.co/CYVq3xXLTj
+SpotifyCares: @795213 Is this happening while connected to WiFi, 3G/4G or both? /DF

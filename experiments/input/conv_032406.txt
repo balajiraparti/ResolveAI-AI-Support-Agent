@@ -1,0 +1,2 @@
+Customer: @117153 I know Spotify's going to enter my country - Vietnam so I'd like to change the country setting from US to Vietnam. However, it doesn't work. I only see one option which is US and nothing else. How can I deal with it, please?
+SpotifyCares: @228476 Hi there! If you're unable to select any other country, this is because the system automatically detects your current location, so it's not possible to switch to a country that doesn't match your IP address. Can you let us know what country you're currently located in? /DR

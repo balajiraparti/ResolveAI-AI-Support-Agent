@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Have tried reinstalling the app, restarting computer, logging in and out. All to no avail. Reinstalling app worked last time.
+SpotifyCares: @205701 Hi Dan! Could you tell the exact operating system and Spotify version you're running? Also, can you send us a screenshot of that error? /GS

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey Spotify! That doesn't address my issue. I want to not be deaf, not change quality settings or mess around with an equalizer.
+SpotifyCares: @532306 There should be some info about Audio Normalization in the link we sent. Just to check, did you enable this on the app? /KC

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares "Song is not available" in the blue bar. Do you have a public bug tracker? I have more.
+SpotifyCares: @533531 Got it. We're afraid we don't have a tracker, but could you let us know the device, operating system, and Spotify version you're using? /JE

@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Yes, I switched to the web player for now. The client is nicer but I am not comfortable with having unknown services open on untrusted networks. :) 
+It would be nice to be able to disable P2P function even if it deteriorates fluidity.
+Thank you for the answer.
+SpotifyCares: @722557 Got it. We appreciate your feedback on this. Don't worry, we'll make sure to pass this on to the right team. Feel free to tweet us if there's anything else /GK

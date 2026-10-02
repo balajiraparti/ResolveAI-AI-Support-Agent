@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hello again.  The "About" page for artists isn't showing any content for me.  Chrome 61, mac 10.12.6.
+SpotifyCares: @208776 Hey, help's here! Does clearing your cache/cookies help? You might also want to try using an incognito window. Let us know how it goes /RV

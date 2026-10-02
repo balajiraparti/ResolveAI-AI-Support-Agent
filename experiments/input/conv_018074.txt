@@ -1,0 +1,2 @@
+Customer: @SpotifyCares my spotify says i’m offline but i’m connected to internet
+SpotifyCares: @537219 Hi there! Don't worry, we're here to help. Can you let us know the device, operating system, and Spotify version you're using? /MT

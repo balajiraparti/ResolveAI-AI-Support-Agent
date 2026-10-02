@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Play Queue has a mind of its own. It shouldn’t matter what I added to queue three days ago; if I tap track 1 of an album now, I want to play it all, not just that track and then some unexpected thing from the queue!
+SpotifyCares: @250111 Hi there. We're sorry you feel that way. Can you let us know what device, operating system, and Spotify version you're running? /LM

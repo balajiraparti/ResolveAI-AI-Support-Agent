@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Pixel XL. Spotify version 8.4.25.771armV7
+SpotifyCares: @480347 Thanks. Can you give this a try: log out from Spotify &gt; restart your device &gt; log back in? Did that make a difference? /DR

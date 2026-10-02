@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Version 1.0.68.407.g6864aaaf now, but the freeze happened shortly after I started up and got the 'updating' message. Windows error logs don't seem to have anything.
+SpotifyCares: @802997 Thanks for letting us know. Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /AL

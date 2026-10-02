@@ -1,0 +1,2 @@
+Customer: @SpotifyCares android 7.0 on a moto g4 with spotify 8.4.25.771armV7. spotify will randomly delete all saved music.
+SpotifyCares: @470037 Sorry to hear that! Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /MA

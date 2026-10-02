@@ -1,0 +1,2 @@
+Customer: iOS 11(.1) has issues when using camera, then music,which (from Spotify) breaks.Not sure if it’s ios or the app?@AppleSupport @SpotifyCares
+SpotifyCares: @123396 Hey! That doesn't sound right. Can you let us know the device and Spotify version you're running? We'll see what we can suggest /KM

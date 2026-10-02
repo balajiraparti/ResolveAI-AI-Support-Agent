@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hello, I’m having issues upgrading to Premium with the Student Discount plan; the system’s unable to verify my student status
+SpotifyCares: @197208 Hey there! Let's try clearing your browser's cache and cookies or using an incognito window to set up the discount. Keep us posted /BH

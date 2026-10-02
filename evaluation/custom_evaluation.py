@@ -1,18 +1,23 @@
 """
     Used Custom Evaluator code from https://atalupadhyay.wordpress.com/2026/01/30/rag-evaluation-from-bleu-scores-to-production-ready-metrics/ 
 """
+from langchain_mistralai import ChatMistralAI
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
-from langchain_mistralai import ChatMistralAI
-from langchain_ollama import ChatOllama
+from langchain_openai import ChatOpenAI
 from typing import List, Dict
 import re
 from langchain_huggingface import HuggingFaceEmbeddings
-embeddings=HuggingFaceEmbeddings()
+from langchain_groq import ChatGroq
+
+# Embeddings initialised once at import time (no network call)
+embeddings = HuggingFaceEmbeddings()
 class CustomRAGEvaluator:
     def __init__(self, embedding_model):
         self.embeddings = embedding_model
-        self.llm = ChatOllama(model="llama3.2:1b", temperature=0)  # Strong model for evaluation
+        # Uses the same OpenAI key already configured for the rest of the app.
+        # Swap model name here if you want a cheaper/faster judge.
+        self.llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.2)
 
     def context_precision(self, query: str, retrieved_chunks: List[str]) -> float:
         """
@@ -95,7 +100,8 @@ def custom_evaluator(query,response,context):
     test_query = query
     test_answer = response
     test_contexts = context
-    print("=== Custom Metrics ===")
-    print(f"Context Precision: {evaluator.context_precision(test_query, test_contexts):.3f}")
-    print(f"Answer Relevance: {evaluator.answer_relevance(test_query, test_answer):.3f}")
-    print(f"Faithfulness: {evaluator.faithfulness(test_answer, test_contexts):.3f}")
+    return f"{evaluator.context_precision(test_query, test_contexts):.3f}",f"{evaluator.answer_relevance(test_query, test_answer):.3f}",f"{evaluator.faithfulness(test_answer, test_contexts):.3f}"
+    # print("=== Custom Metrics ===")
+    # print(f"Context Precision: {evaluator.context_precision(test_query, test_contexts):.3f}")
+    # print(f"Answer Relevance: {evaluator.answer_relevance(test_query, test_answer):.3f}")
+    # print(f"Faithfulness: {evaluator.faithfulness(test_answer, test_contexts):.3f}")

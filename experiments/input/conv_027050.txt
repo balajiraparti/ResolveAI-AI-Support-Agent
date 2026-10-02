@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I used the Inspect element in Chrome to look at the code for the form.  It loaded in the window pane on the left side.  When I closed the inspection tool, the form was still there.  I entered my information and all is well.  Weird.
+SpotifyCares: @654628 Just to clarify, were you able to successfully update your payment details? /LM

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, why is my Spotify app often so slow after bringing it back to the foreground? Galaxy Note 4, model SM-N910F, Android 6.0.1
+SpotifyCares: @393117 Hey! That doesn't sound good? Can you send us a bit more info on what's happening? Also, what Spotify version are you using? /AU

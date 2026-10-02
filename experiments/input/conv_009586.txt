@@ -1,0 +1,2 @@
+Customer: @SpotifyCares need to fix the issues with @5525 audio. No issues with @11337.
+SpotifyCares: @163532 Hey there! What's happening exactly? What device, operating system, and Spotify version are you on? /AY

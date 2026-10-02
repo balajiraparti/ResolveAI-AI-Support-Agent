@@ -1,0 +1,2 @@
+Customer: @117153 I'm having some issues these last few days/weeks, when I'm listening an album some songs don't seem to be available, instead of the duration of those songs I get 'NaN' and the music stops playing when reaching a song like that.
+SpotifyCares: @810482 Hey Steven! The cavalry's here. Can you let us know your device's make/model, operating system, and exact Spotify version? We'll see what we can suggest /KB

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares ...that's just a link to the documentation. Try using your own API Console (beta) and you'll see the exact issue: https://t.co/mEvJYmzg7a
+SpotifyCares: @224049 Apologies for the confusion. Your developer questions can be asked at https://t.co/QqtOtnoa06. They'll be able to help you further /MT

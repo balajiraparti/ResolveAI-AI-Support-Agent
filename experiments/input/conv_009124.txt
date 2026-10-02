@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It's Spotify version 8.4.22.857 armV7 on a Samsung Galaxy S8+ running Android 7.0
+SpotifyCares: @170378 Thanks! Can you try logging out, restarting your phone, and logging back in? Does that make any difference? /JP

@@ -1,0 +1,2 @@
+Customer: @spotifycares Trying to open app on iphone. Says to login through FB, but get error 404. But then when trying email, says FB isn't connected
+SpotifyCares: @402324 Hey there! Does clearing your cache/cookies help? You might also want to try using an incognito/private window. Let us know how it goes /RV

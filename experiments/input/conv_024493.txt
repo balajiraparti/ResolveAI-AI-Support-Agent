@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Not every program, but any that uses specific GPU features, like the apps I mentioned (which all have Electron in common).
+SpotifyCares: @420893 Thanks for the info. Just to be completely sure, did you already try restarting the app? What about reinstalling? /CB

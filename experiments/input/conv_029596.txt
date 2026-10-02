@@ -1,0 +1,3 @@
+Customer: @SpotifyCares Android 8.0 Nexus 6P - Spotify version 8.4.26.770 armv7
+Windows 10 Pro v1607 build 14393.1066 - Spotify version 1.0.67.582.g19436fa3 (not sure if that's right, couldn't find it specified in desktop app). Issue occurs on both devices.
+SpotifyCares: @584377 Got it. Could you try restarting your devices, then log out and back in? Let us know how it goes /AU

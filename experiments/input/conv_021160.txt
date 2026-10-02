@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I use your iOS app with a Bluesound Node 2.  A volume issue (Bluesound blames you) blew my speakers.  What should I do?
+SpotifyCares: @475305 Hey there! Can you let us know the versions of your Bluesound software, operating system and Spotify app? We'll see what we can suggest /PC

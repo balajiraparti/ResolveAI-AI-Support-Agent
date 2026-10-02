@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm running Windows 10 Home. My Spotify version is whatever is available through the Windows store, fully updated.
+SpotifyCares: @364795 Does restarting your computer help? Do you experience the same issue when you're logged in on a different device? /MA

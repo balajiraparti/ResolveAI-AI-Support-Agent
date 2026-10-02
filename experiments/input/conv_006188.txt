@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Whenever I try to share a public playlist I've created, the Spotify app crashes. I'm on a Pixel 1, Android 8.0.0
+SpotifyCares: @537456 Hi Andrew, help's here! What troubleshooting have you tried so far? Does this happen with every track/album/playlist you try to share? /WW

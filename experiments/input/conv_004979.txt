@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error messages - this hasn’t happened before. I’m using an iPhone 7+ with iOS 11.0.2 and version 8.4.20.535
+SpotifyCares: @293134 Got it. Try logging out, fully closing the app, and restarting your device. Does that help? /KC

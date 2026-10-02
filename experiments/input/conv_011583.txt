@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error message. It just will not play. But I can put on another playlist (made by friends or Spotify) and it plays perfectly
+SpotifyCares: @646926 Hmm. Can you let us know the device, operating system, and app version you're using? We'll see what we can suggest /PB

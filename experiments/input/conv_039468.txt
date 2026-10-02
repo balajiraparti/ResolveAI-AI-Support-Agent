@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Do you guys have a blog or something where I can find an explanation of how your shuffle algorithm works?
+SpotifyCares: @755552 Hi there. We’ve actually made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /JU

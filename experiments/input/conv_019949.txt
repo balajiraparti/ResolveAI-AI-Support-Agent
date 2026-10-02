@@ -1,0 +1,2 @@
+Customer: @116888 @SpotifyCares Same exact issue. Sound won’t play more than 50% although i have it on full
+SpotifyCares: @116887 Hey! The cavalry's here. Could you confirm the iOS and Spotify version you're using? We'll see what we can suggest /KB

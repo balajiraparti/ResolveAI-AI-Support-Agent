@@ -1,0 +1,2 @@
+Customer: Wow, @SpotifyCares has a terrible bug on Android. If you get logged out in offline mode you can't log back in without reinstalling the app.
+SpotifyCares: @575415 Hi there. Don't worry, we'll look into this. Can you tell us the device as well as both Android and Spotify app versions you're using? /JU

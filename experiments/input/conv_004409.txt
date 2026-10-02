@@ -1,0 +1,5 @@
+Customer: @SpotifyCares Hey,
+seems to be an issue with the latest Chrome version on OSX.
+Restarting Chrome fixes everything.
+Thanks, and have a great day!
+SpotifyCares: @215636 Great to hear you've found a way around it. Give us a shout if the problem persists. We'll carry on helping out! /AY

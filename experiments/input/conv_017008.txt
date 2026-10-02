@@ -1,0 +1,2 @@
+Customer: @SpotifyCares i want to listen turkish artist "manas" but two artist mixed. all manas's(turkish one and indian one) albums are same artist page. must fix
+SpotifyCares: @424378 2: artist name &gt; Share &gt; Copy Spotify URI. We'll take a look backstage /AR

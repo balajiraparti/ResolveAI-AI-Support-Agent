@@ -1,0 +1,3 @@
+Customer: @SpotifyCares 8.4.23.784 armV7
+I'm going to try again with android 'battery optimization' disabled for spotify.
+SpotifyCares: @412553 Sounds like a plan. We'll keep an eye out for your update /AR

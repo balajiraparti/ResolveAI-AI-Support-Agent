@@ -1,0 +1,2 @@
+Customer: As a non-Spotify user, what happens when someone tweets a Spotify song or playlist and I click on it: nothing. Because screw me, I guess?
+SpotifyCares: @187967 Hey, sorry for the delay! Can you send us a link to the track/playlist that you're trying to access? We'll figure out what's going on /RR

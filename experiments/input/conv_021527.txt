@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Nope, no change. But when I switch from Alexa as a speaker to my iPhone as a speaker, the 3 state works. Definite Alexa problem.
+SpotifyCares: @462954 Do you have available firmware updates on Alexa? If so, installing them can do the trick. We'll be on the lookout for your updates /AY

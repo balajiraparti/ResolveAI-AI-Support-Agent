@@ -1,0 +1,2 @@
+Customer: @115888 @131098 Spotify to Chromecast randomly stops playing audio (on iPad/IOS and Android phone). Time bar still moving. Does not happen on other apps that can cast to Chromecast. Known problem? Real showstopper.
+SpotifyCares: @255062 Hi there. Don't worry, help's here. If you're on a home WiFi network, can you restart your router before checking if it does it again /JU

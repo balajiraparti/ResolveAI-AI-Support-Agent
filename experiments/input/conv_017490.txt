@@ -1,0 +1,2 @@
+Customer: @SpotifyCares web player has not worked for 48+ hours. Prompts to refresh don't fix issue. Please help?
+SpotifyCares: @435719 Hey Amber! Does clearing your cache/cookies help? You might also want to try using an incognito window. Let us know how it goes /KL

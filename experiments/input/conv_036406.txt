@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Thanks for getting back to me. My question is - when you "shuffle" a playlist is it truly random?  For at least the past year it feels like the same songs keep coming up even though there are over 2k on the playlist.
+SpotifyCares: @154709 No worries. We’ve recently made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od. If there's anything else, just give us a shout /PC

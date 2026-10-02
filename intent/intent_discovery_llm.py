@@ -218,7 +218,6 @@ Here are representative tweets from this cluster:
 {examples}
 
 Top keywords for this cluster (via c-TF-IDF): {keywords}
-
 Respond with ONLY a single JSON object and nothing else. No explanation, no markdown fences, no extra words.
 Output exactly this format:
 {{"intent_label": "short_snake_case_label", "display_name": "Human Readable Label", "description": "one short sentence describing this intent"}}

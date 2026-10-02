@@ -1,0 +1,2 @@
+Customer: @SpotifyCares  https://t.co/l2jLOMMBgU
+SpotifyCares: @328296 Can you try unticking the "Allow Spotify to be opened from the web"? Does that help? /NG

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares since I installed macOS High Sierra, the Spotify app often uses 100% or even 150% of my CPU. Bug?
+SpotifyCares: @297559 Hi there! Just to check, did the issue only happen when you've upgraded to High Sierra? Also, what's the Spotify version you're rocking? /JM

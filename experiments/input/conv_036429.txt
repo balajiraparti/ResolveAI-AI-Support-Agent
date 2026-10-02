@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, bit of a strange one. Track name is 'Losss'. It shows correctly on the desktop player, but when I grab the track link, it shows as 'Loss', like so: https://t.co/VBzCJyZQB9
+SpotifyCares: @156304 Hey there! We can see the track shows as "Losss" on our end. Can you send us a screenshot of how it appears on your mobile app? We'll take a closer look /AP

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi I'm trying to stop Spotify automatically running on my pc, i sorted it in preferences so it's wouldn't open automatically but it still is
+SpotifyCares: @250955 Hi Amanda! The cavalry's here. Can you try restarting your device? Then, log out and back in. Does that help? /AU

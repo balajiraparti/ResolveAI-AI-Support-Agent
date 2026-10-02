@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I've reinstalled the app and am now getting the attached error code when I try to log in. https://t.co/F7W4O0rQkZ
+SpotifyCares: @139993 Hmm. Can you try using a different internet connection, and see if it makes a difference? /LM

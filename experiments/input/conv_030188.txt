@@ -1,0 +1,2 @@
+Customer: @SpotifyCares From what I can see it just seems to be happening on the desktop app (1.0.67.582.g19436fa3) on my mac, to one private playlist, but I use it all the time so it's a bit annoying
+SpotifyCares: @123279 We understand. Best thing to try here is to reinstall the app with the steps found at https://t.co/EqisDMwZAT. Keep us posted /MU

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares i open the app and it just immediately closes as if it was never opened.
+SpotifyCares: @304150 Thanks for clarifying. Can you let us know the iOS and Spotify versions you're using? We'll see what we can come up with /AR

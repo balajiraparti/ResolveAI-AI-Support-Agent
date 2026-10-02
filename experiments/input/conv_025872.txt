@@ -1,0 +1,2 @@
+Customer: @SpotifyCares @115888 Spotify 1.0.66.478.g1296534d on MacOS 10.11.6. Client does not seem to be robust when things get tricky e.g. network changes, captive portals, poor connection or switching audio devices. It regularly gets confused and throws this error.
+SpotifyCares: @283460 Thanks. Can you try logging out &gt; restarting your device &gt; logging back in help? Let us know how it goes /RS

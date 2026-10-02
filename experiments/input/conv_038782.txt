@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify starts up on Windows 10 even though it is disabled from settings and task manager. There seems to be no definite fix. https://t.co/MA5fyomEpT
+SpotifyCares: @131457 Hmm, that doesn't sound right. What Spotify version are you using? We'll see what we can suggest /JE

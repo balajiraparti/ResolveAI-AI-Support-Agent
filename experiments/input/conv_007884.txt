@@ -1,0 +1,2 @@
+Customer: @115888 Ability to recommend songs to friends for specifc playlists of theirs. "&lt;friend&gt; thinks Song X would be a good match for your playlist Y"
+SpotifyCares: @389975 2: idea on the Community at https://t.co/rtDvYZOF32 for others to vote on. Let us know if we can help with anything else /LM

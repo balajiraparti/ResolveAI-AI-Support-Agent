@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It did fix it. However, when I have tried to get a password reset w my email I get this "The CSRF token is invalid." so i have to sign up w fb.
+SpotifyCares: @233340 Can you DM us your account's email address and username? We'll take a look backstage /KL https://t.co/ldFdZRiNAt

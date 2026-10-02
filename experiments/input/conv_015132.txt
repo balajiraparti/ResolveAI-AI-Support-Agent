@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Restarting doesn't do anything, and I'm connected to a home network.
+SpotifyCares: @164929 Alright. Can you check if restarting your router does the trick? Also, when did this start to happen? /DV

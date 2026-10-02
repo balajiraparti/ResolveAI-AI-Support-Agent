@@ -1,0 +1,2 @@
+Customer: @SpotifyCares "Activity" seems to be in permanent "loading" mode, so nothing's coming up. How to fix this? (Windows Vista Basic. PC/Laptop.) Thanks if you can help.
+SpotifyCares: @762220 Hey Tez! We're afraid your operating system's no longer supported, but we can try a few troubleshooting steps. Can you let us know the version of your Spotify app? /RA

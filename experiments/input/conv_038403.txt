@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I usually play the albums on shuffle so not sure, but I've only recently started having this problem. Normally even after all the songs have shuffled through, the album just replays.
+SpotifyCares: @271808 Thanks for letting us know. Could you try heading to your app's Settings &gt; Autoplay &gt; toggle off to see if it does the trick? There's more info on Autoplay at https://t.co/kiXUjgr1xh. Hope this helps /AR

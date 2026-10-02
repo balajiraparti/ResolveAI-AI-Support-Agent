@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I am using Chrome OS on the Pixelbook. The App vesrion is 8.4.28.875 x86
+SpotifyCares: @766865 Thanks. We're afraid that we don't offer official support for Chrome OS, so we can't guarantee that the app will run smoothly on your device. Currently, here's our system requirements: https://t.co/eQeNrNnvlX /MU

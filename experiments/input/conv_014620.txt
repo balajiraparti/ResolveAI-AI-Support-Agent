@@ -1,0 +1,2 @@
+Customer: Hi @115888: If I go to an album view on mobile and select the first track, I want to listen to that album. Not whatever was in queue.
+SpotifyCares: @566335 Hey! The cavalry's here. Can you DM us your account's username or email address? We'll take a look under the hood /JS https://t.co/ldFdZRiNAt

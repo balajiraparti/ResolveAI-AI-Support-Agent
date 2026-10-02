@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It works when I restart my device but it stops working after awhile. I keep having to restart my device whenever it happens
+SpotifyCares: @466472 At this point, we'd suggest that you reinstall the app by following the steps here: https://t.co/EqisDMwZAT. Let us know how it goes /DR

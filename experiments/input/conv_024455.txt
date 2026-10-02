@@ -1,0 +1,2 @@
+Customer: @SpotifyCares i am using oneplus 5, android 7.1.1 and latest spotify version 8.4.26.770 armv7
+SpotifyCares: @526990 Got it. We've checked, and everything looks good on our end. Does logging out and back in help? Keep us posted /LP

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, can't play music in web player/mobile app with the free account I use at work. My premium account seems to be working tho
+SpotifyCares: @534484 Hey James! Does clearing your cache/cookies help? You might also want to try using an incognito/private window. Let us know how it goes /RV

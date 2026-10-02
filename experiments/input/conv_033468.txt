@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm connected on WiFi and it says no Internet connection.  But any other programs I open online are working properly. Everything is up to date and never had this issue before.
+SpotifyCares: @769808 Got it! If you could let us know what device, operating system, and version of Spotify you're using, that'd be helpful /AN

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Windows 10, 1.0.68.407.g6864aaaf
+SpotifyCares: @802394 Got it. Just to check, does logging out then logging back in help at all? /PB

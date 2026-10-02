@@ -1,0 +1,2 @@
+Customer: @SpotifyCares A restart seems to have fixed the black screen issue. However it still switches to offline mode between sessions (on both wifi and data,).
+SpotifyCares: @224968 Thanks for letting us know. It's not ideal, but can you try reinstalling the app? Just follow the steps at https://t.co/PDA2aKzC6Q. Let us know if that helps /CE

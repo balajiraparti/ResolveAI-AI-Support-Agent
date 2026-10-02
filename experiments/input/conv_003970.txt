@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I’m using a MacBook Air, macOS Sierra (10.12.6) &amp; the latest version of Spotify (1.0.65.320). I’ve tried clearing the storage cache as well.
+SpotifyCares: @209815 Thanks! Is this happening while connected to WiFi, 3G/4G or both? /KL

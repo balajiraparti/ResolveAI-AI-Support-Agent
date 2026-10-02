@@ -1,0 +1,2 @@
+Customer: @SpotifyCares is it correct the Spotify web player doesn't have a play queue feature? I've been a happy paying Spotify customer for about 10 years but now I have a Chromebook I may have to cancel. It also freezes all the time :'(
+SpotifyCares: @230511 Hey Natasha, sorry to hear that. We're afraid Play Queue isn't available on web player right now, but we'll let the right team know it's something you'd like to see. Can you confirm your Chrome OS and Google Chrome are up-to-date? /JE

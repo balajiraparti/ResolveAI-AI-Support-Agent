@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I can log in using Chrome, I can direct to an album/playlist, however when I try and PLAY music, the button is pressed but nothing happens.
+SpotifyCares: @372298 Thanks for letting us know. Can you try using a different browser or an incognito window? Does this help at all? /ME

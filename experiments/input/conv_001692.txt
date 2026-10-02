@@ -1,0 +1,2 @@
+Customer: @SpotifyCares ios 11 on iphone 8.4.20.535 no error msg
+SpotifyCares: @181496 Are you rocking Premium or Free? Does logging out, fully closing the app, and restarting your device help? /KC

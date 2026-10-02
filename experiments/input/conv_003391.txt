@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm having issues where even though songs are downloaded and in my playlist, they won't play.
+SpotifyCares: @204575 Hey Rafael! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /RH

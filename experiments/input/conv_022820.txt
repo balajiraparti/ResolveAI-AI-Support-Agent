@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Now it's casting to chromecast but can't control music. When I go to next song it plays out loud on phone, and current song stays on tv
+SpotifyCares: @436957 Best thing to try here is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT. Let us know how it plays out /NY

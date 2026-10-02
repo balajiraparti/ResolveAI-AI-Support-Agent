@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Pixel XL Android 8.0 SP10.05.2017 Spotify uninstalled/re-installed v8.4.22.87 armV7. Select Share playlist (or album) crashes
+SpotifyCares: @537596 Thanks for the heads up. Our tech folks are investigating this as we speak, and we'll have it up and running as soon as we can! /CO

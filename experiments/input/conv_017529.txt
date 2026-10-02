@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Chrome version 62.0.3202.75 &amp; also tried IE 11.1770.14393.0 and Firefox 56.0.2
+SpotifyCares: @435719 Okay, is this happening while connected to WiFi, 3G/4G or both? /KL

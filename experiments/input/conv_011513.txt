@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I tried uninstalling/reinstalling last night and the problem persisted.
+SpotifyCares: @325332 Hmm. Can you let us know the device's model and the exact operating system and Spotify versions you're using? /PL

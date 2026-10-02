@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi. Spotify app on Windows Phone looks like its playing a song. But doesn't. Requires phone restart almost always.
+SpotifyCares: @644357 Hey James! Could you try a quick reinstall for us? Just follow the steps here: https://t.co/EqisDMwZAT. Let us know how this goes /CG

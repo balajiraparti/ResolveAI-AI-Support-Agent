@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Version 8.4.25.906
+SpotifyCares: @629098 Got it. Are you using Bluetooth, USB, or an aux cable? Does logging out &gt; restarting your phone &gt; logging back in help? /RH

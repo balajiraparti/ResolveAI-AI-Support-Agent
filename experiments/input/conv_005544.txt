@@ -1,0 +1,2 @@
+Customer: @SpotifyCares every time I try to reset my password it says something about the csrf token being invalid. Help!
+SpotifyCares: @535020 Hey! Could you send us a DM with your account's email address and username, as well as a screenshot of the error? We'll take a look /RV https://t.co/ldFdZRiNAt

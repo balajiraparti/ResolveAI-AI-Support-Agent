@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Neither the com.spotify.Client or Spotify folders were present on my system. Deleted the app, downloaded and installed. "Songs" still empty.
+SpotifyCares: @583474 Thanks for trying that. Just to check, is it just your tracks in Songs that have disappeared? What about albums, artists, or playlists? /CO

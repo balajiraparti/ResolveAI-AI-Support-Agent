@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify version? 1.0.67.582.g19436fa3  that right? And OS version: 10.13.1 (17B48)
+SpotifyCares: @132062 Thanks for the info! Can you try logging out and back in to the app? Does restarting your device help? /CH

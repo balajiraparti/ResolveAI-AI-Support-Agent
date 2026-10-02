@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It works now however when I tried again (the working time) it pushed several empty “Log In” titled pages and I had to press “Back” several times to get to the two buttons again so I could press Log In again and then it worked.
+SpotifyCares: @196732 Hmm. Let's try to refresh your app. Can you log out, restart your device, and then log back in? Let us know how it goes /LO

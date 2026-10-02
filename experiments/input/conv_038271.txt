@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Can’t log in to my account because you want me to change my pw. Every time I try I get this message: “The CSRF token is invalid. Please try to resubmit the form.” Filling out a contact form requires a log in which I’m obviusly unable to do. Username:kjuleee
+SpotifyCares: @795914 Hey there! Can you also DM us your account's email address and a screenshot of the error message you're seeing? We'll take a look /RB https://t.co/ldFdZRiNAt

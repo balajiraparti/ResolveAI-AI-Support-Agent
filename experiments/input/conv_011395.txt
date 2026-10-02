@@ -1,0 +1,2 @@
+Customer: @SpotifyCares the web player isn't working for any song at all.
+SpotifyCares: @317635 Hmm. Is this happening over WiFi, 3G/4G, or both? Can you also let us know which tracks or artists are you unable to play? /RE

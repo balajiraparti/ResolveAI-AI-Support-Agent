@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Windows7, chrome, it has been 2 days. Logout doesn't help. When I try to open the player, the whole browser lags.
+SpotifyCares: @227530 Does the same thing happen if other tabs are closed? Also, you might want to try clearing your browser's cache/cookies. Let us know how everything plays out /AY

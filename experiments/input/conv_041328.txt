@@ -1,0 +1,2 @@
+Customer: @116380 @115888 I tried loading a playlist in the Windows app, but it didn't load all songs at all, instead giving me a progress ring.
+SpotifyCares: @226518 Hey there! Can you let us know the device/OS and Spotify version you're using? We'll see what we can suggest /AR

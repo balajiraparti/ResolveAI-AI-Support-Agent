@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The problem seems to be that my monitors have different resolutions. #1: 1920x1080; #2: 1600x1200. The window size is limited to the resolution of the screen it opened on. So, if I move it from #1 to #2, the bottom 120px of the window are transparent.
+SpotifyCares: @752879 Thanks! Can you DM us a screenshot of how it's appearing on the second window when it becomes transparent? We'll take a closer look /K https://t.co/ldFdZRiNAt

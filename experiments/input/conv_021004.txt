@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Android version is 5.1.1
+SpotifyCares: @278311 Got it! Can you try logging out, restarting your device, and logging back in? Any better? /JP

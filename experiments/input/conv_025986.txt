@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have an issue where if I go to play music on my phone after I've queued music on my computer, I lose all the music I added to my computer's queue. Even the recently played section only has what I played on my phone, not anything from the 6 hours of music yesterday
+SpotifyCares: @516168 Hey there! Could you tell us your device/OS you're using? We'll see what we can suggest /DF

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares macOS High Sierra + iOS 11.0.3 (iPhone 6)
+SpotifyCares: @319993 Thanks! Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /TB

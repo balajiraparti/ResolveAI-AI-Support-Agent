@@ -1,0 +1,321 @@
+{
+  "run_id": "2026-09-30T06:54:14.578589Z",
+  "phase1": [
+    {
+      "row_index": 0,
+      "question": "wtf is this. Why is there a song limit on premium? I guess I can't add anymore songs :-( https://t.co/M5N1nFsM3Y",
+      "answer": "Hi! I totally get how annoying this can feel.  \nPremium has a **10,000‑song limit** in Your Music (Songs + Albums + Artists). This limit is in place because less than 1 % of users reach that number, so it keeps the service running smoothly for everyone.  \n\nIf you hit the limit, you’ll need to delete a few songs to add new ones. If you’d like to see this limit increased, you can vote for the idea in our community: https://t.co/a9TZL1Dqp6. For more details, check out this link: https://t.co/jve60PseJV.  \n\nLet me know if there’s anything else I can help with!",
+      "contexts": [
+        "\n--- HISTORICAL THREAD 1 ---\n\nCustomer: text: wtf is this @115888? Why is there a song limit on premium? I guess I can't add anymore songs :-( https://t.co/M5N1nFsM3Y\nAgent: text: @817825 Hey! There's more info on the 10k limit in Your Music (Songs + Albums + Artists) here: https://t.co/jve60PseJV /RC\n  Customer: text: @SpotifyCares Yes I understand there is a limit, but why?\n  Agent: text: @817825 1: In this case. the reason is because less than 1% of users reach the 10k limit on Your Music. The current limit ensures a great...\n    Customer: text: @SpotifyCares It's been over 1 year and there is still a limit of 10,000 songs. Are there any plans to change this? I literally have to delete songs every single day to add new ones. Plz plz help\n    Agent: text: @817825 Hey there! We can see how that'd be useful. You can vote for the official idea here: https://t.co/a9TZL1Dqp6. If you ever need anything else, just shout and we'll come running 🏃 /DI\n\n\n\n--- HISTORICAL THREAD 2 ---\n\nCustomer: text: Hey @115888 why is this a thing despite it being a premium account?... @SpotifyCares @117168 https://t.co/rZo1qVjF4k\nAgent: text: @421973 Hi! There's currently a 10k limit in Your Music (Songs + Albums + Artists). You can check out more info here: https://t.co/nA9xjKKhwL /WW\n  Customer: text: @SpotifyCares Okay you win this round... https://t.co/DbK9zledpK\n  Agent: text: @421973 Don't feel that way! There's nothing wrong with having an epic music collection and ... https://t.co/DJKTFKorwT 😉 /WW\n\n\n\n--- HISTORICAL THREAD 3 ---\n\nCustomer: text: Well, this sucks. What's the point of having a premium subscription if there's a limit to downloading songs (and a very small limit at that)? https://t.co/vwvKVpytqo\nAgent: text: @822480 We're sorry you feel that way. We'd suggest supporting the idea in our Community at https://t.co/XncParYphj to help make an increase happen /AR\n  Customer: text: @SpotifyCares Thank you for the response!\n  Agent: text: @822480 You're welcome! If you ever need our help with anything else, just give us a... https://t.co/AUc7DGJpgF 🙂 /AR\n\n\n\n--- HISTORICAL THREAD 4 ---\n\nCustomer: text: I pay for premium and I get this crap @115888 ? Why? https://t.co/bzRN3GVwar\nAgent: text: @576742 @117168 Hey! There's currently a 10k limit in Your Music (Songs + Albums + Artists). More info here: https://t.co/59ABtm5Ftl /MG\n\n\n\n--- HISTORICAL THREAD 5 ---\n\nCustomer: text: @115888 I don't pay for premium to see this?????? https://t.co/1xp016xM6d\nAgent: text: @424156 Hey Victoria! There's a download limit of 3,333 songs per device. Can you confirm if you've already reached this number? /GS\n  Customer: text: @SpotifyCares Yes I can confirm\n  Agent: text: @424156 We understand. In that case, we're afraid there's no going around it but to delete some of them. Sorry for any disappointment caused /GS\n"
+      ],
+      "ground_truth": "There's more info on the 10k limit in Your Music (Songs + Albums + Artists). Try removing songs you can check more details here: https://t.co/jve60PseJV /RC",
+      "logged_at": "2026-09-30T06:55:03.271469Z"
+    },
+    {
+      "row_index": 0,
+      "question": "wtf is this. Why is there a song limit on premium? I guess I can't add anymore songs :-( https://t.co/M5N1nFsM3Y",
+      "answer": "Hi there! I’m sorry you’re running into this.  \nSpotify currently has a **10,000‑song limit** for the “Your Music” library (songs + albums + artists). It’s a small limit because less than 1 % of users hit it. If you’ve reached the cap, you’ll need to delete a few tracks to add new ones.  \n\nYou can help us consider raising the limit by voting for the idea here: https://t.co/a9TZL1Dqp6.  \n\nLet me know if you need any help with deleting tracks or anything else!",
+      "contexts": [
+        "\n--- HISTORICAL THREAD 1 ---\n\nCustomer: text: wtf is this @115888? Why is there a song limit on premium? I guess I can't add anymore songs :-( https://t.co/M5N1nFsM3Y\nAgent: text: @817825 Hey! There's more info on the 10k limit in Your Music (Songs + Albums + Artists) here: https://t.co/jve60PseJV /RC\n  Customer: text: @SpotifyCares Yes I understand there is a limit, but why?\n  Agent: text: @817825 1: In this case. the reason is because less than 1% of users reach the 10k limit on Your Music. The current limit ensures a great...\n    Customer: text: @SpotifyCares It's been over 1 year and there is still a limit of 10,000 songs. Are there any plans to change this? I literally have to delete songs every single day to add new ones. Plz plz help\n    Agent: text: @817825 Hey there! We can see how that'd be useful. You can vote for the official idea here: https://t.co/a9TZL1Dqp6. If you ever need anything else, just shout and we'll come running 🏃 /DI\n\n\n\n--- HISTORICAL THREAD 2 ---\n\nCustomer: text: Hey @115888 why is this a thing despite it being a premium account?... @SpotifyCares @117168 https://t.co/rZo1qVjF4k\nAgent: text: @421973 Hi! There's currently a 10k limit in Your Music (Songs + Albums + Artists). You can check out more info here: https://t.co/nA9xjKKhwL /WW\n  Customer: text: @SpotifyCares Okay you win this round... https://t.co/DbK9zledpK\n  Agent: text: @421973 Don't feel that way! There's nothing wrong with having an epic music collection and ... https://t.co/DJKTFKorwT 😉 /WW\n\n\n\n--- HISTORICAL THREAD 3 ---\n\nCustomer: text: Well, this sucks. What's the point of having a premium subscription if there's a limit to downloading songs (and a very small limit at that)? https://t.co/vwvKVpytqo\nAgent: text: @822480 We're sorry you feel that way. We'd suggest supporting the idea in our Community at https://t.co/XncParYphj to help make an increase happen /AR\n  Customer: text: @SpotifyCares Thank you for the response!\n  Agent: text: @822480 You're welcome! If you ever need our help with anything else, just give us a... https://t.co/AUc7DGJpgF 🙂 /AR\n\n\n\n--- HISTORICAL THREAD 4 ---\n\nCustomer: text: I pay for premium and I get this crap @115888 ? Why? https://t.co/bzRN3GVwar\nAgent: text: @576742 @117168 Hey! There's currently a 10k limit in Your Music (Songs + Albums + Artists). More info here: https://t.co/59ABtm5Ftl /MG\n\n\n\n--- HISTORICAL THREAD 5 ---\n\nCustomer: text: @115888 I don't pay for premium to see this?????? https://t.co/1xp016xM6d\nAgent: text: @424156 Hey Victoria! There's a download limit of 3,333 songs per device. Can you confirm if you've already reached this number? /GS\n  Customer: text: @SpotifyCares Yes I can confirm\n  Agent: text: @424156 We understand. In that case, we're afraid there's no going around it but to delete some of them. Sorry for any disappointment caused /GS\n"
+      ],
+      "ground_truth": "There's more info on the 10k limit in Your Music (Songs + Albums + Artists). Try removing songs you can check more details here: https://t.co/jve60PseJV /RC",
+      "logged_at": "2026-09-30T06:57:13.951975Z"
+    },
+    {
+      "row_index": 1,
+      "question": "you have a typo in a track. How do I report it? She Wants Revenge - \"All Wound Up\" is listed as \"All Would Up\"",
+      "answer": "Hi!  \nTo report the typo, just share the song link with us:\n\n1. Open the track in the app.  \n2. Tap the three dots (…) → **Share** → **Copy Song Link**.  \n3. Send that link to us (or use this quick‑report link: https://t.co/LpsmyUtme0).\n\nWe’ll take care of it right away. Thanks for letting us know!",
+      "contexts": [
+        "\n--- HISTORICAL THREAD 1 ---\n\nCustomer: text: @115888 you have a typo in a track. How do I report it? She Wants Revenge - \"All Wound Up\" is listed as \"All Would Up\"\nAgent: text: @411933 Hi Mike! Can you send us the Song Link? Just tap the three dots &gt; Share &gt; Copy Song Link. We'll check it out /AK\n\n\n\n--- HISTORICAL THREAD 2 ---\n\nCustomer: text: @SpotifyCares hello, I want to report broken so song. how to report it?\nAgent: text: @251620 Thanks. We'll get this reported. Great detective work! https://t.co/LpsmyUtme0 /MG\n\n\n\n--- HISTORICAL THREAD 3 ---\n\nCustomer: text: Where do we report typos? @115888 @SpotifyCares @36652 https://t.co/TJoqvA2EQw\nAgent: text: @371217 Hi there! Thanks for letting us know. We'll get this reported. Great detective work. https://t.co/LpsmyUtme0 🔍 /MU\n\n\n\n--- HISTORICAL THREAD 4 ---\n\nCustomer: text: @SpotifyCares hello, I want to report broken so song. how to report it?\nAgent: text: @251620 Hey there! Can you send us the Song Link? Just tap the three dots &gt; Share &gt; Copy Link. We'll take a look /NQ\n\n\n\n--- HISTORICAL THREAD 5 ---\n\nCustomer: text: @SpotifyCares hello, this track has a typo. It says 'I?m', when ofc it should be 'I'm' https://t.co/vFYXQNn98N\nAgent: text: @156304 Thanks. We'll get this reported. Great detective work! https://t.co/LpsmyUtme0 /DF\n"
+      ],
+      "ground_truth": " Can you send us the Song Link? Just tap the three dots & Share; Copy Song Link. We'll check it out /AK",
+      "logged_at": "2026-09-30T06:57:42.134327Z"
+    },
+    {
+      "row_index": 2,
+      "question": "Why are there no Bob Seger songs on Spotify? This is a disgrace omgggg. @115888 @631411",
+      "answer": "Hey! We’d love to have all his stuff available, but we have some info about content here: https://t.co/YlV1IAXwsi. We don’t have an exact date when Bob Seger’s music will be added to Spotify. If you have any other questions, let us know!",
+      "contexts": [
+        "\n--- HISTORICAL THREAD 1 ---\n\nCustomer: text: Why are there no Bob Seger songs on Spotify? This is a disgrace omgggg. @115888 @631411\nAgent: text: @631410 Hey Jill! We’d love to have all his stuff available, but we have some info about content here: https://t.co/YlV1IAXwsi /CE\n  Customer: text: @SpotifyCares Hey man, when did you add him? Why wasn't I the first one you told????\n  Agent: text: @631410 We're afraid we don't have the exact date when Bob Seger's music was made available on Spotify. Let us know if you have other questions /JU\n\n\n\n--- HISTORICAL THREAD 2 ---\n\nCustomer: text: @115888 how come Rodney Atkins song if you’re going through hell isn’t on Spotify anymore???\nAgent: text: @560323 Hey Ashley! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon. We have more info here: https://t.co/0i8GpimuDa /LO\n\n\n\n--- HISTORICAL THREAD 3 ---\n\nCustomer: text: @SpotifyCares why are all of Bring Me The Horizon's songs prior to 2008 not on Spotify? with an addition to Chasing Rainbows off Sempiternal\nAgent: text: @402767 Hey there! Can you DM us your account's username or email address? We'll take a look under the hood /RS https://t.co/ldFdZRiNAt\n\n\n\n--- HISTORICAL THREAD 4 ---\n\nCustomer: text: @SpotifyCares Scars on Broadway music removed from Spotify in the US, but not in other countries?\nAgent: text: @377984 Hey Justin! We have some info about missing content here: https://t.co/MEjmIRL2eB. If you have any other questions, give us a shout 🙂 /KL\n  Customer: text: @SpotifyCares The band hasn't made an album since 2008 and disbanded in 2013, I can't imagine why there would be a sudden issue with music that has been on Spotify for literal years.\n  Agent: text: @377984 We hear you 🎧 Rest assured, your feedback will be passed on to the right folks /KL\n\n\n\n--- HISTORICAL THREAD 5 ---\n\nCustomer: text: @139985 @SpotifyCares anything new on why his music is being removed?\nAgent: text: @139984 Hey! Licensing agreements can affect music availability. There's info about Spotify content here: https://t.co/YlV1IAXwsi. Let us know if there's anything else /RC\n"
+      ],
+      "ground_truth": "We'd love to have all his stuff available, but we have some info about content here: https://t.co/YlV1IAXwsi /CE",
+      "logged_at": "2026-09-30T06:58:25.823491Z"
+    },
+    {
+      "row_index": 3,
+      "question": "would like to know why is it every time I stream and use my Bluetooth headphones, the music gets choppy and inaudible?",
+      "answer": "Hi there! I’m sorry you’re having trouble with your Bluetooth headphones. Let’s try a few quick fixes that have helped others in the past.\n\n1. **Tell me a bit more about your setup**  \n   - What phone or device are you using?  \n   - Which Android or iOS version?  \n   - What version of the Spotify app do you have installed?\n\n2. **Try a simple reset**  \n   - Log out of Spotify, then log back in.  \n   - Restart your phone or tablet.  \n   - If the problem goes away, you can keep using it normally.\n\n3. **Check Wi‑Fi interference**  \n   - When you’re in the car or using Bluetooth headphones, try turning Wi‑Fi off on your phone. Some users have found that Wi‑Fi can interfere with Bluetooth audio.\n\n4. **Reinstall the app (if needed)**  \n   - If the issue keeps happening, uninstall Spotify and then reinstall it from the app store. This often clears any corrupted settings.\n\nGive those a try and let me know how it goes. If the problem persists, we can dig deeper—just let me know the details above and we’ll keep working on it. Thanks for your patience!",
+      "contexts": [
+        "\n--- HISTORICAL THREAD 1 ---\n\nCustomer: text: Hi @SpotifyCares , would like to know why is it every time I stream and use my Bluetooth headphones, the music gets choppy and inaudible?\nAgent: text: @461803 Hey, help's here! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /GK\n  Customer: text: @SpotifyCares I'm using a Huawei P9, Android OS, app ver 8.4.18.743. My headphones are Avantree Audition Bluetooth 4.0 headphones.\n  Agent: text: @461803 Thanks. Could you try logging out and back in again? If you still have the same issue, try restarting your device. Keep us posted /GK\n    Customer: text: @SpotifyCares Thanks, I've done what you suggested and it seems alright for now. Will update you guys again if anything goes wrong.\n    Agent: text: @461803 Great! Glad to hear it's working. Just let us know if we can help with anything else. https://t.co/m4HWSbgHVZ /GK\n      Customer: text: @SpotifyCares Hey Spotify, this is happening again. I can't possibly be logging in and out / restarting each time this happens? :(\n      Agent: text: @461803 Hi, help's here! Could you DM us your username &amp; email? Also, could you tell us more about what's going on? We'll take a look backstage /JQ https://t.co/ldFdZRiNAt\n\n\n\n--- HISTORICAL THREAD 2 ---\n\nCustomer: text: This is so annoying. I literally can't listen to songs fully on @115888 without little skips/pausing when I'm connected via Bluetooth audio on my Google Home.\nAgent: text: @225820 Hey Caroline, that doesn't sound cool! Can you let us know the device (make and model), operating system, and app version you're using right now? We'll see what we can suggest /RK\n  Customer: text: @SpotifyCares Hi I'm using an HP 15-ay177cl, working on Windows 10, and I'm just using the most recent version of Spotify for desktop.\n  Agent: text: @225820 Thanks! Could you try logging out &gt; restarting your device &gt; logging back in to see if it helps? Keep us posted /AR\n    Customer: text: @SpotifyCares I've already tried doing this about 5+ times\n    Agent: text: @225820 Got it! Could you DM us your account's email address? We'll take a look under the hood /KB https://t.co/ldFdZRiNAt\n\n\n\n--- HISTORICAL THREAD 3 ---\n\nCustomer: text: Why does @115888  skip on Bluetooth?\nAgent: text: @159354 Hi Kelvin, that's not cool! What device, OS and Spotify version are you rocking? We'll see what we can suggest /BH\n  Customer: text: @SpotifyCares android connected to honda accord\n  Agent: text: @159354 Can you tell us the exact Android and Spotify app versions you're using? Also, what is the model of the Android device you have there? /JU\n    Customer: text: @SpotifyCares On an LG g4 https://t.co/NQrtIvnEa0\n    Agent: text: @159354 Got it! Are you getting any error messages? If so, sending us a screenshot of it would be handy /PL\n      Customer: text: @SpotifyCares No error message, just random skipping while playing in the car.\n      Agent: text: @159354 Hmm, that's odd. Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /MQ\n        Customer: text: @SpotifyCares The problem subsided after I turned wifi off on my phone. Guessing the signal interfered with Bluetooth\n        Agent: text: @159354 That's possible. For now, we'd suggest turning off WiFi whenever you stream via Bluetooth in your car. Anything else, just let us know /DN\n\n\n\n--- HISTORICAL THREAD 4 ---\n\nCustomer: text: @SpotifyCares could you please get rid of the (very) annoying adverts that play whilst I’m listening to music - it’s making me deaf.\nAgent: text: @577674 Hey there! Ads help keep the Free service free. For now, check out https://t.co/zgnxs5kPEu if you haven't had a subscription before /AR\n  Customer: text: @SpotifyCares It’s usually okay, but now every 5 minutes or so random music blares out (on full volume) - for headphone users like me, it’s horrible.\n  Agent: text: @577674 Hmm. Can you try logging out &gt; restarting your device &gt; logging back in to see if it helps? Keep us posted /AR\n    Customer: text: @SpotifyCares Just tried it and after 10/15 minutes of listening, it begins again. It’s impossible to listen to music when they keep playing over it.\n    Agent: text: @577674 Hmm. Best thing to try here is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT. Let us know how it goes /AR\n      Customer: text: @SpotifyCares Reinstalled and 2 minutes through my second song an advert for Maltesers starts playing - unable to cross these types of adverts off too.\n      Agent: text: @577674 Just to check, did the app crash at any point during the 30 minutes? That can cause the ad-free time to reset /MT\n        Customer: text: @SpotifyCares They also always appear right after this picture of a car appears. Or at least I think they do.\n        Agent: text: @577674 Got it. Could you DM us your account's email address or username? We'll take a look backstage /MT https://t.co/ldFdZRiNAt\n\n\n\n--- HISTORICAL THREAD 5 ---\n\nCustomer: text: @115888 having issues where shuffle won’t shuffle in car with iOS 11.\nAgent: text: @206319 Hi Chad, that doesn't sound cool. Could you let us know the Spotify version and car model you're using? We'll see what we can suggest /JO\n  Customer: text: @SpotifyCares Spotify version 8.4.20. Car is a 2013 Mazda CX-5\n  Agent: text: @206319 Got it. Does restarting your phone make any difference? Also, how do you link your device to your car's stereo? /KB\n    Customer: text: @SpotifyCares I connect via Bluetooth.  Restarting makes no difference.  I also have Bluetooth headphones that shuffle fine when connected.\n    Agent: text: @206319 Can you try logging out &gt; restarting your device &gt; logging back in? Let us know if it helps /PL\n      Customer: text: @SpotifyCares I tried that and it still has the same problem\n      Agent: text: @206319 Could you try the steps here for us: https://t.co/EqisDMwZAT? They should help with this /MT\n        Customer: text: @SpotifyCares It still didn’t work for me.\n        Agent: text: @206319 Can you DM us your account's username or email address? We'll take a look under the hood /PL https://t.co/ldFdZRiNAt\n"
+      ],
+      "ground_truth": "DM account's username and email address",
+      "logged_at": "2026-09-30T06:59:22.760391Z"
+    },
+    {
+      "row_index": 4,
+      "question": "you charged my account twice and over drawn my account. We need to talk about this refund y'all about to give me",
+      "answer": "Hi there! I’m sorry to hear about the double charge and the overdraft. Could you please DM us your Spotify username or the email address associated with your account? Once we have that, we’ll investigate the issue and work on getting a refund for you. Thank you!",
+      "contexts": [
+        "\n--- HISTORICAL THREAD 1 ---\n\nCustomer: text: @115888 you charged my account twice and over drawn my account. We need to talk about this refund y'all about to give me .\nAgent: text: @533622 Hi there, help's arrived! Can you DM us your account's username and email address? We'll see what's going on /WW https://t.co/ldFdZRiNAt\n\n\n\n--- HISTORICAL THREAD 2 ---\n\nCustomer: text: @115888 I got charged twice in September. Can you please help refund this money back. Thanks\nAgent: text: @178669 Hi Francesca, help's here! Can you DM us your account's username or email address? We'll take a look under the hood /PL https://t.co/ldFdZRiNAt\n  Customer: text: @SpotifyCares Thank you this is all sorted now, thank you so much for your help!\n  Agent: text: @178669 Glad to hear everything's sorted out! If you need anything else, you know where to find us 🙂 /DB\n\n\n\n--- HISTORICAL THREAD 3 ---\n\nCustomer: text: @115888 I need a refund from you guys,  I cancelled my service with you,  two months ago.\nAgent: text: @291499 Hey, help's here! Did you got charged again? Also, can you DM us your account's email address? We'll take a look backstage /SJ https://t.co/ldFdZRiNAt\n\n\n\n--- HISTORICAL THREAD 4 ---\n\nCustomer: text: @SpotifyCares Hi, you've charged me twice when I signed up - once student and once regular. Please refund\nAgent: text: @435558 Hey! Could you DM us your account's username and email address? We'll see what we can suggest /DF https://t.co/ldFdZRiNAt\n\n\n\n--- HISTORICAL THREAD 5 ---\n\nCustomer: text: @SpotifyCares I was charged twice this month, how do I go about getting a refund?\nAgent: text: @328741 Hey Maíra! Can you DM us your account's username or email address? We'll see what we can do /YM https://t.co/ldFdZRiNAt\n"
+      ],
+      "ground_truth": "DM account's username and email address",
+      "logged_at": "2026-09-30T07:02:19.558644Z"
+    },
+    {
+      "row_index": 0,
+      "question": "wtf is this. Why is there a song limit on premium? I guess I can't add anymore songs :-( https://t.co/M5N1nFsM3Y",
+      "answer": "Hi! I totally get how annoying that can feel.  \nPremium users have a **10,000‑song limit** in Your Music (Songs + Albums + Artists). This limit is in place because less than 1 % of users reach it, and it helps keep the app running smoothly. If you hit the limit, you’ll need to delete a few songs to add new ones.  \n\nYou can learn more about the limit here: https://t.co/jve60PseJV  \nIf you’d like us to consider raising the limit, you can vote for the idea here: https://t.co/a9TZL1Dqp6  \n\nLet me know if there’s anything else I can help with!",
+      "contexts": [
+        "\n--- HISTORICAL THREAD 1 ---\n\nCustomer: text: wtf is this @115888? Why is there a song limit on premium? I guess I can't add anymore songs :-( https://t.co/M5N1nFsM3Y\nAgent: text: @817825 Hey! There's more info on the 10k limit in Your Music (Songs + Albums + Artists) here: https://t.co/jve60PseJV /RC\n  Customer: text: @SpotifyCares Yes I understand there is a limit, but why?\n  Agent: text: @817825 1: In this case. the reason is because less than 1% of users reach the 10k limit on Your Music. The current limit ensures a great...\n    Customer: text: @SpotifyCares It's been over 1 year and there is still a limit of 10,000 songs. Are there any plans to change this? I literally have to delete songs every single day to add new ones. Plz plz help\n    Agent: text: @817825 Hey there! We can see how that'd be useful. You can vote for the official idea here: https://t.co/a9TZL1Dqp6. If you ever need anything else, just shout and we'll come running 🏃 /DI\n\n\n\n--- HISTORICAL THREAD 2 ---\n\nCustomer: text: Hey @115888 why is this a thing despite it being a premium account?... @SpotifyCares @117168 https://t.co/rZo1qVjF4k\nAgent: text: @421973 Hi! There's currently a 10k limit in Your Music (Songs + Albums + Artists). You can check out more info here: https://t.co/nA9xjKKhwL /WW\n  Customer: text: @SpotifyCares Okay you win this round... https://t.co/DbK9zledpK\n  Agent: text: @421973 Don't feel that way! There's nothing wrong with having an epic music collection and ... https://t.co/DJKTFKorwT 😉 /WW\n\n\n\n--- HISTORICAL THREAD 3 ---\n\nCustomer: text: Well, this sucks. What's the point of having a premium subscription if there's a limit to downloading songs (and a very small limit at that)? https://t.co/vwvKVpytqo\nAgent: text: @822480 We're sorry you feel that way. We'd suggest supporting the idea in our Community at https://t.co/XncParYphj to help make an increase happen /AR\n  Customer: text: @SpotifyCares Thank you for the response!\n  Agent: text: @822480 You're welcome! If you ever need our help with anything else, just give us a... https://t.co/AUc7DGJpgF 🙂 /AR\n\n\n\n--- HISTORICAL THREAD 4 ---\n\nCustomer: text: I pay for premium and I get this crap @115888 ? Why? https://t.co/bzRN3GVwar\nAgent: text: @576742 @117168 Hey! There's currently a 10k limit in Your Music (Songs + Albums + Artists). More info here: https://t.co/59ABtm5Ftl /MG\n\n\n\n--- HISTORICAL THREAD 5 ---\n\nCustomer: text: @115888 I don't pay for premium to see this?????? https://t.co/1xp016xM6d\nAgent: text: @424156 Hey Victoria! There's a download limit of 3,333 songs per device. Can you confirm if you've already reached this number? /GS\n  Customer: text: @SpotifyCares Yes I can confirm\n  Agent: text: @424156 We understand. In that case, we're afraid there's no going around it but to delete some of them. Sorry for any disappointment caused /GS\n"
+      ],
+      "ground_truth": "There's more info on the 10k limit in Your Music (Songs + Albums + Artists). Try removing songs you can check more details here: https://t.co/jve60PseJV /RC",
+      "logged_at": "2026-09-30T07:16:45.535239Z"
+    },
+    {
+      "row_index": 0,
+      "question": "wtf is this. Why is there a song limit on premium? I guess I can't add anymore songs :-( https://t.co/M5N1nFsM3Y",
+      "answer": "Hey there! I totally get how frustrating it can be when you hit a limit. 🎶\n\nFor Premium users, there’s a hard cap of **10,000 songs** in Your Music (Songs + Albums + Artists). The reason for this limit is that less than 1 % of users actually reach it, so it helps keep the app fast and reliable for everyone.\n\nIf you’re already at the limit, you’ll need to delete some songs to add new ones. If you’d like to see this limit raised, you can vote for the idea here: https://t.co/a9TZL1Dqp6. The more votes we get, the more likely Spotify will consider increasing it.\n\nHope that clears things up! Let me know if there’s anything else I can help with.",
+      "contexts": [
+        "\n--- HISTORICAL THREAD 1 ---\n\nCustomer: text: wtf is this @115888? Why is there a song limit on premium? I guess I can't add anymore songs :-( https://t.co/M5N1nFsM3Y\nAgent: text: @817825 Hey! There's more info on the 10k limit in Your Music (Songs + Albums + Artists) here: https://t.co/jve60PseJV /RC\n  Customer: text: @SpotifyCares Yes I understand there is a limit, but why?\n  Agent: text: @817825 1: In this case. the reason is because less than 1% of users reach the 10k limit on Your Music. The current limit ensures a great...\n    Customer: text: @SpotifyCares It's been over 1 year and there is still a limit of 10,000 songs. Are there any plans to change this? I literally have to delete songs every single day to add new ones. Plz plz help\n    Agent: text: @817825 Hey there! We can see how that'd be useful. You can vote for the official idea here: https://t.co/a9TZL1Dqp6. If you ever need anything else, just shout and we'll come running 🏃 /DI\n\n\n\n--- HISTORICAL THREAD 2 ---\n\nCustomer: text: Hey @115888 why is this a thing despite it being a premium account?... @SpotifyCares @117168 https://t.co/rZo1qVjF4k\nAgent: text: @421973 Hi! There's currently a 10k limit in Your Music (Songs + Albums + Artists). You can check out more info here: https://t.co/nA9xjKKhwL /WW\n  Customer: text: @SpotifyCares Okay you win this round... https://t.co/DbK9zledpK\n  Agent: text: @421973 Don't feel that way! There's nothing wrong with having an epic music collection and ... https://t.co/DJKTFKorwT 😉 /WW\n\n\n\n--- HISTORICAL THREAD 3 ---\n\nCustomer: text: Well, this sucks. What's the point of having a premium subscription if there's a limit to downloading songs (and a very small limit at that)? https://t.co/vwvKVpytqo\nAgent: text: @822480 We're sorry you feel that way. We'd suggest supporting the idea in our Community at https://t.co/XncParYphj to help make an increase happen /AR\n  Customer: text: @SpotifyCares Thank you for the response!\n  Agent: text: @822480 You're welcome! If you ever need our help with anything else, just give us a... https://t.co/AUc7DGJpgF 🙂 /AR\n\n\n\n--- HISTORICAL THREAD 4 ---\n\nCustomer: text: I pay for premium and I get this crap @115888 ? Why? https://t.co/bzRN3GVwar\nAgent: text: @576742 @117168 Hey! There's currently a 10k limit in Your Music (Songs + Albums + Artists). More info here: https://t.co/59ABtm5Ftl /MG\n\n\n\n--- HISTORICAL THREAD 5 ---\n\nCustomer: text: @115888 I don't pay for premium to see this?????? https://t.co/1xp016xM6d\nAgent: text: @424156 Hey Victoria! There's a download limit of 3,333 songs per device. Can you confirm if you've already reached this number? /GS\n  Customer: text: @SpotifyCares Yes I can confirm\n  Agent: text: @424156 We understand. In that case, we're afraid there's no going around it but to delete some of them. Sorry for any disappointment caused /GS\n"
+      ],
+      "ground_truth": "There's more info on the 10k limit in Your Music (Songs + Albums + Artists). Try removing songs you can check more details here: https://t.co/jve60PseJV /RC",
+      "logged_at": "2026-09-30T07:18:26.658261Z"
+    },
+    {
+      "row_index": 0,
+      "question": "wtf is this. Why is there a song limit on premium? I guess I can't add anymore songs :-( https://t.co/M5N1nFsM3Y",
+      "answer": "Hey there! I totally get how frustrating it can be to hit a limit. 🎶\n\nFor Premium users, there’s a **10,000‑song cap** on Your Music (Songs + Albums + Artists). This limit is in place because less than 1 % of users reach it, and it helps keep the app running smoothly for everyone. If you’re also downloading songs to a device, that adds a separate **3,333‑song limit per device**.\n\nIf you’d like to see this limit increased, you can vote for the idea here: https://t.co/a9TZL1Dqp6. The more votes we get, the higher the chance it’ll be raised.\n\nI’m sorry this is causing trouble for you—thanks for your patience, and let me know if there’s anything else I can help with!",
+      "contexts": [
+        "\n--- HISTORICAL THREAD 1 ---\n\nCustomer: text: wtf is this @115888? Why is there a song limit on premium? I guess I can't add anymore songs :-( https://t.co/M5N1nFsM3Y\nAgent: text: @817825 Hey! There's more info on the 10k limit in Your Music (Songs + Albums + Artists) here: https://t.co/jve60PseJV /RC\n  Customer: text: @SpotifyCares Yes I understand there is a limit, but why?\n  Agent: text: @817825 1: In this case. the reason is because less than 1% of users reach the 10k limit on Your Music. The current limit ensures a great...\n    Customer: text: @SpotifyCares It's been over 1 year and there is still a limit of 10,000 songs. Are there any plans to change this? I literally have to delete songs every single day to add new ones. Plz plz help\n    Agent: text: @817825 Hey there! We can see how that'd be useful. You can vote for the official idea here: https://t.co/a9TZL1Dqp6. If you ever need anything else, just shout and we'll come running 🏃 /DI\n\n\n\n--- HISTORICAL THREAD 2 ---\n\nCustomer: text: Hey @115888 why is this a thing despite it being a premium account?... @SpotifyCares @117168 https://t.co/rZo1qVjF4k\nAgent: text: @421973 Hi! There's currently a 10k limit in Your Music (Songs + Albums + Artists). You can check out more info here: https://t.co/nA9xjKKhwL /WW\n  Customer: text: @SpotifyCares Okay you win this round... https://t.co/DbK9zledpK\n  Agent: text: @421973 Don't feel that way! There's nothing wrong with having an epic music collection and ... https://t.co/DJKTFKorwT 😉 /WW\n\n\n\n--- HISTORICAL THREAD 3 ---\n\nCustomer: text: Well, this sucks. What's the point of having a premium subscription if there's a limit to downloading songs (and a very small limit at that)? https://t.co/vwvKVpytqo\nAgent: text: @822480 We're sorry you feel that way. We'd suggest supporting the idea in our Community at https://t.co/XncParYphj to help make an increase happen /AR\n  Customer: text: @SpotifyCares Thank you for the response!\n  Agent: text: @822480 You're welcome! If you ever need our help with anything else, just give us a... https://t.co/AUc7DGJpgF 🙂 /AR\n\n\n\n--- HISTORICAL THREAD 4 ---\n\nCustomer: text: I pay for premium and I get this crap @115888 ? Why? https://t.co/bzRN3GVwar\nAgent: text: @576742 @117168 Hey! There's currently a 10k limit in Your Music (Songs + Albums + Artists). More info here: https://t.co/59ABtm5Ftl /MG\n\n\n\n--- HISTORICAL THREAD 5 ---\n\nCustomer: text: @115888 I don't pay for premium to see this?????? https://t.co/1xp016xM6d\nAgent: text: @424156 Hey Victoria! There's a download limit of 3,333 songs per device. Can you confirm if you've already reached this number? /GS\n  Customer: text: @SpotifyCares Yes I can confirm\n  Agent: text: @424156 We understand. In that case, we're afraid there's no going around it but to delete some of them. Sorry for any disappointment caused /GS\n"
+      ],
+      "ground_truth": "There's more info on the 10k limit in Your Music (Songs + Albums + Artists). Try removing songs you can check more details here: https://t.co/jve60PseJV /RC",
+      "logged_at": "2026-09-30T07:48:09.492840Z"
+    }
+  ],
+  "phase2": [
+    {
+      "metric": "faithfulness",
+      "scores": [
+        0.8888888888888888
+      ],
+      "logged_at": "2026-09-30T06:55:23.774528Z"
+    },
+    {
+      "metric": "answer_relevancy",
+      "scores": [
+        0.7574483891062972
+      ],
+      "logged_at": "2026-09-30T06:55:23.778628Z"
+    },
+    {
+      "metric": "context_precision",
+      "scores": [
+        0.9999999999
+      ],
+      "logged_at": "2026-09-30T06:55:23.781975Z"
+    },
+    {
+      "metric": "context_recall",
+      "scores": [
+        0.5
+      ],
+      "logged_at": "2026-09-30T06:55:23.785568Z"
+    },
+    {
+      "metric": "context_entity_recall",
+      "scores": [
+        0.3999999992
+      ],
+      "logged_at": "2026-09-30T06:55:23.788363Z"
+    },
+    {
+      "metric": "nv_accuracy",
+      "scores": [
+        0.75
+      ],
+      "logged_at": "2026-09-30T06:55:23.793139Z"
+    },
+    {
+      "metric": "answer_correctness",
+      "scores": [
+        0.546762273874763
+      ],
+      "logged_at": "2026-09-30T06:55:23.797495Z"
+    },
+    {
+      "metric": "faithfulness",
+      "scores": [
+        0.8,
+        0.7777777777777778,
+        1.0,
+        0.7647058823529411,
+        0.6
+      ],
+      "logged_at": "2026-09-30T07:03:36.653197Z"
+    },
+    {
+      "metric": "answer_relevancy",
+      "scores": [
+        0.6097855200861823,
+        0.6783097017810314,
+        0.0,
+        0.5170629615599932,
+        0.5647299650247978
+      ],
+      "logged_at": "2026-09-30T07:03:36.663481Z"
+    },
+    {
+      "metric": "context_precision",
+      "scores": [
+        0.9999999999,
+        0.9999999999,
+        0.9999999999,
+        0.9999999999,
+        0.9999999999
+      ],
+      "logged_at": "2026-09-30T07:03:36.675386Z"
+    },
+    {
+      "metric": "context_recall",
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "logged_at": "2026-09-30T07:03:36.684321Z"
+    },
+    {
+      "metric": "context_entity_recall",
+      "scores": [
+        0.33333333277777777,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "logged_at": "2026-09-30T07:03:36.692254Z"
+    },
+    {
+      "metric": "nv_accuracy",
+      "scores": [
+        0.75,
+        0.75,
+        0.75,
+        null,
+        null
+      ],
+      "logged_at": "2026-09-30T07:03:36.706185Z"
+    },
+    {
+      "metric": "answer_correctness",
+      "scores": [
+        0.49696534690525634,
+        0.4521134707599578,
+        0.6608868484228441,
+        0.00948894047358169,
+        0.3415020727263367
+      ],
+      "logged_at": "2026-09-30T07:03:36.715299Z"
+    },
+    {
+      "metric": "faithfulness",
+      "scores": [
+        null
+      ],
+      "logged_at": "2026-09-30T07:21:36.533764Z"
+    },
+    {
+      "metric": "answer_relevancy",
+      "scores": [
+        null
+      ],
+      "logged_at": "2026-09-30T07:21:36.545447Z"
+    },
+    {
+      "metric": "context_precision",
+      "scores": [
+        null
+      ],
+      "logged_at": "2026-09-30T07:21:36.554023Z"
+    },
+    {
+      "metric": "context_recall",
+      "scores": [
+        null
+      ],
+      "logged_at": "2026-09-30T07:21:36.564480Z"
+    },
+    {
+      "metric": "context_entity_recall",
+      "scores": [
+        null
+      ],
+      "logged_at": "2026-09-30T07:21:36.575442Z"
+    },
+    {
+      "metric": "nv_accuracy",
+      "scores": [
+        null
+      ],
+      "logged_at": "2026-09-30T07:21:36.584654Z"
+    },
+    {
+      "metric": "answer_correctness",
+      "scores": [
+        null
+      ],
+      "logged_at": "2026-09-30T07:21:36.593143Z"
+    },
+    {
+      "metric": "faithfulness",
+      "scores": [
+        0.1
+      ],
+      "logged_at": "2026-09-30T07:48:23.943782Z"
+    },
+    {
+      "metric": "answer_relevancy",
+      "scores": [
+        0.6575105785698422
+      ],
+      "logged_at": "2026-09-30T07:49:10.530442Z"
+    },
+    {
+      "metric": "context_precision",
+      "scores": [
+        0.9999999999
+      ],
+      "logged_at": "2026-09-30T07:49:50.779942Z"
+    },
+    {
+      "metric": "context_recall",
+      "scores": [
+        0.5
+      ],
+      "logged_at": "2026-09-30T07:50:32.778095Z"
+    },
+    {
+      "metric": "context_entity_recall",
+      "scores": [
+        0.8333333319444445
+      ],
+      "logged_at": "2026-09-30T07:51:14.647590Z"
+    },
+    {
+      "metric": "nv_accuracy",
+      "scores": [
+        0.75
+      ],
+      "logged_at": "2026-09-30T07:51:55.390116Z"
+    },
+    {
+      "metric": "answer_correctness",
+      "scores": [
+        0.26863622182432356
+      ],
+      "logged_at": "2026-09-30T07:52:45.567281Z"
+    }
+  ]
+}

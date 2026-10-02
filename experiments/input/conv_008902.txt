@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error messages, but when I click play on any song, artist, or playlist, nothing happens. Attached is a screenshot- the ad won't go away https://t.co/VSQdTYMSip
+SpotifyCares: @437794 Thanks for the screenshot. Could you give it another try using an incognito window? Let us know how it plays out /GU

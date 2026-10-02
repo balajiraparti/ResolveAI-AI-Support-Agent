@@ -1,0 +1,2 @@
+Customer: @SpotifyCares how does a family account work with Alexa. Can I listen to different music on more than one echo?
+SpotifyCares: @599257 Hi Alex! You can only stream on one device, but your members can use the other Echos as long as they're logged in to their own accounts /DN

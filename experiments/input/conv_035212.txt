@@ -1,0 +1,6 @@
+Customer: @SpotifyCares "This song is not available. If you have this song on your computer you can import it"
+
+Seeing this error a lot at the moment on various artists. UK account, currently in Indonesia if that has an effect?
+
+Example: Jurassic 5 - Canto De Ossanha
+SpotifyCares: @277651 Hey Rob! The cavalry's here. Could you tell us the operating system and Spotify version you're using? We'll take a look under the hood /KB

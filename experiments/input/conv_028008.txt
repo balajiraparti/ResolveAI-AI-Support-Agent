@@ -1,0 +1,2 @@
+Customer: @SpotifyCares help I can't use the share option
+SpotifyCares: @665430 Hey, help's here! Can you let us know the device, OS, and Spotify version you're running? Also, are you getting any error messages? /KM

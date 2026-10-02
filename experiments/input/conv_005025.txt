@@ -1,0 +1,2 @@
+Customer: @SpotifyCares (Android 8.0, Pixel) App crashes when trying to share playlist.
+SpotifyCares: @293910 Hey James. Our best tech folks are on the case as we speak. Hopefully we'll have a fix soon! /NS

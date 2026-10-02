@@ -1,0 +1,2 @@
+Customer: @SpotifyCares https://t.co/Do9LebwX9R according to this community post there is a solution and that is to change the web player settings. However those settings arent present in any windows based browser I have used so far and I dont think I should have to use an UA exploit to fix this,
+SpotifyCares: @633115 Looks like that solution was for the old web player. Don't worry, our devs are monitoring all feedback posted in our Community /NS

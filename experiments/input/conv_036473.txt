@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Having some playback issues. Web player and app both won't play "in album" on my laptop. Clicking same song on artist front page works, but not in album itself. Any suggestions?
+SpotifyCares: @156654 Hey there! That's not cool. Does logging out &gt; restarting the devices &gt; logging back in help? Keep us posted /PX

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Trying to play Winnerbäck on either iPhone or iPad doesnt work. Nothing happens when I click song or shuffle.
+SpotifyCares: @321347 Got it. Does logging out &gt; restarting your device &gt; logging back in again make any difference? /KM

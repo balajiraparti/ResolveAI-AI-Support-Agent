@@ -1,0 +1,2 @@
+Customer: @SpotifyCares in your web UI can you add some indication of whether the song is saved or not, like you have on desktop app and how you used to have in oil Web UI. Because I open playlist and wanna see the songs I'd saved previously. Ideally you could bring the old UI back
+SpotifyCares: @187918 Hey Alan! We appreciate your feedback on this, and we'll be sure to let our devs know this is something you'd like to see. Let us know if we can help with anything else /LM

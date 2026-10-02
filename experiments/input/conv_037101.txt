@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yes, I even reset their locations to see if that would work but it didn't
+SpotifyCares: @125853 Hmm, that's odd. Are both devices connected to the same WiFi network? We'd also recommend using different connections /MT

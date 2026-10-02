@@ -1,0 +1,2 @@
+Customer: @115888 hey there I am having problem on my app, the advertisement just keep popping out and I could not close it, until I kill the app and boot again, the problem continue happening
+SpotifyCares: @225883 Hey, the cavalry's here! What's the exact device, operating system, and Spotify app version you're using? Can you also send over a screenshot of the ad you're getting? We'll do our best to help out /NJ

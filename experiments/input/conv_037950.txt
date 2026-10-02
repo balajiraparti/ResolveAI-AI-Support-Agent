@@ -1,0 +1,6 @@
+Customer: @SpotifyCares Thanks! iOS is 11.0.3 on iPhone 6s Spotify app 8.4.28.1104
+
+When using the extreme setting in Spotify on my MacBook it’s indicating a high rate. But with the phone app it’s indicating about 48kps no matter what quality setting is selected 
+
+Thanks again for your help 😃
+SpotifyCares: @786205 Got it! Could you try uninstalling and reinstalling the app? Let us know how it goes /DF

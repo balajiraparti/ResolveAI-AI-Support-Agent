@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Tried reinstalling the latest version available. The issue persisted.
+SpotifyCares: @763838 Hmm. Can you try logging out of Spotify, restarting your Mac, and logging back in to see if that helps? /NY

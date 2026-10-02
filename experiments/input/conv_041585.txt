@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yes they are up to date. I just have an issue when I'm listening to a playlist sometimes it will pause the song. And the only way to fix it is to start the song again
+SpotifyCares: @230511 Gotcha. Can you try logging out, restarting the device, then logging back in? Does that help at all? /JE

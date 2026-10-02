@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Latest version of Spotify. When the updates come in, that message pops up. I'm using Windows 7.
+SpotifyCares: @253243 Hmm. Just to check, do you have any antivirus or firewall programs installed? If so, could you try disabling them before trying to reinstall the app? Just to follow the steps at https://t.co/PDA2aKzC6Q. Keep us posted /GT

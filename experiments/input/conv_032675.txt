@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Nope - still has same issue - So I play music, switch to YouTube App, start watching a video, that takes over the speakers (as it should), switch back to Spotify and press play, it suggests it is playing but nothing comes out.
+SpotifyCares: @133574 Alright. Does logging out &gt; restarting your phone &gt; logging back in to your account make a difference? /DV

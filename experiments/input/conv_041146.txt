@@ -1,0 +1,2 @@
+Customer: Hey @115888 &amp; @SpotifyCares, When are you going to fix the web player to work correctly with Firefox's "media.autoplay.disabled" set FALSE? I have quite a backlog of music to get to!
+SpotifyCares: @237681 Hey Michele, help's here! Can you tell us what's happening exactly? We'll see what we can suggest /RH

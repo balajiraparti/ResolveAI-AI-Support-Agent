@@ -1,0 +1,98 @@
+[
+  {
+    "event": "experiment_cooldown",
+    "metric": "faithfulness",
+    "sample_idx": null,
+    "sleep_s": 35.0,
+    "reason": "fully reset TPM window before next metric",
+    "ts": "2026-09-30T07:48:23.951985Z"
+  },
+  {
+    "event": "recovery",
+    "metric": "faithfulness",
+    "sample_idx": null,
+    "sleep_s": 0.0,
+    "reason": "experiment cooldown complete",
+    "ts": "2026-09-30T07:48:58.955324Z"
+  },
+  {
+    "event": "experiment_cooldown",
+    "metric": "answer_relevancy",
+    "sample_idx": null,
+    "sleep_s": 35.0,
+    "reason": "fully reset TPM window before next metric",
+    "ts": "2026-09-30T07:49:10.538335Z"
+  },
+  {
+    "event": "recovery",
+    "metric": "answer_relevancy",
+    "sample_idx": null,
+    "sleep_s": 0.0,
+    "reason": "experiment cooldown complete",
+    "ts": "2026-09-30T07:49:45.542407Z"
+  },
+  {
+    "event": "experiment_cooldown",
+    "metric": "context_precision",
+    "sample_idx": null,
+    "sleep_s": 35.0,
+    "reason": "fully reset TPM window before next metric",
+    "ts": "2026-09-30T07:49:50.788200Z"
+  },
+  {
+    "event": "recovery",
+    "metric": "context_precision",
+    "sample_idx": null,
+    "sleep_s": 0.0,
+    "reason": "experiment cooldown complete",
+    "ts": "2026-09-30T07:50:25.792328Z"
+  },
+  {
+    "event": "experiment_cooldown",
+    "metric": "context_recall",
+    "sample_idx": null,
+    "sleep_s": 35.0,
+    "reason": "fully reset TPM window before next metric",
+    "ts": "2026-09-30T07:50:32.789095Z"
+  },
+  {
+    "event": "recovery",
+    "metric": "context_recall",
+    "sample_idx": null,
+    "sleep_s": 0.0,
+    "reason": "experiment cooldown complete",
+    "ts": "2026-09-30T07:51:07.793990Z"
+  },
+  {
+    "event": "experiment_cooldown",
+    "metric": "context_entity_recall",
+    "sample_idx": null,
+    "sleep_s": 35.0,
+    "reason": "fully reset TPM window before next metric",
+    "ts": "2026-09-30T07:51:14.654689Z"
+  },
+  {
+    "event": "recovery",
+    "metric": "context_entity_recall",
+    "sample_idx": null,
+    "sleep_s": 0.0,
+    "reason": "experiment cooldown complete",
+    "ts": "2026-09-30T07:51:49.660433Z"
+  },
+  {
+    "event": "experiment_cooldown",
+    "metric": "nv_accuracy",
+    "sample_idx": null,
+    "sleep_s": 35.0,
+    "reason": "fully reset TPM window before next metric",
+    "ts": "2026-09-30T07:51:55.394122Z"
+  },
+  {
+    "event": "recovery",
+    "metric": "nv_accuracy",
+    "sample_idx": null,
+    "sleep_s": 0.0,
+    "reason": "experiment cooldown complete",
+    "ts": "2026-09-30T07:52:30.396655Z"
+  }
+]

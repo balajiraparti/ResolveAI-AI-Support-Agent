@@ -1,0 +1,2 @@
+Customer: @SpotifyCares same problem. music still plays when i unplug headphones.  listening to music, switched to play a video in twitter, switched back to spotify, music is still “playing” but no sound.  checked volume and that i’m listening on this phone, have to force quit app https://t.co/zMAedsVJYK
+SpotifyCares: @382234 Thanks! Can you let us know your device, operating system, and Spotify version? We'll see what we can suggest /JP

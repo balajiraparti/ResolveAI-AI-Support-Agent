@@ -1,0 +1,2 @@
+Customer: @SpotifyCares logging in and out does not work but thank you for helping
+SpotifyCares: @488639 No worries. Could you try clearing your browser's cache to see if it helps? Let us know how it goes /AR

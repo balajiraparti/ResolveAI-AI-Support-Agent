@@ -1,0 +1,2 @@
+Customer: @SpotifyCares how do I turn off Behind The Lyrics. It’s really annoying
+SpotifyCares: @641334 Hey Leland! To stop it from displaying automatically, head to Settings &gt; Playback &gt; toggle off Behind the Lyrics /TB

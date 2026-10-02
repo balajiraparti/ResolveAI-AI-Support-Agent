@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Current version of Trivium's "The Wretchedness Inside" is incorrect. Replace this, please
+SpotifyCares: @406106 Hi there! Can you send us the Spotify URI? Just right-click the track &gt; Share &gt; URI. We'll see what we can do to help /JM

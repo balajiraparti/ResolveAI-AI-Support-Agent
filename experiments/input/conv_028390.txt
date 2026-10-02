@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify desktop app causes horrible battery drain on my win 10 laptop. Been trying to track this down for weeks just to find it was Spotify causing it. Battery should last 6+ hours, but with Spotify running even without playing music, it lasts maybe 2. What gives? https://t.co/TsakV5ubHa
+SpotifyCares: @669686 Hey there! Can you let us know your Spotify version? We'll see what we can suggest /MG

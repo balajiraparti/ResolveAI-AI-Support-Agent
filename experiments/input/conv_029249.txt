@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi, is there some issue with @13281 connections? I suddenly get the message my password is wrong, while it's the right one and spotify doesnt scrobble anymore.
+SpotifyCares: @688104 Hi there! Can you tell us what device, operating system, and Spotify version you're using? We'll see what we can suggest /RE

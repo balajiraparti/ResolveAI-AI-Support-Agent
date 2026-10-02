@@ -1,0 +1,2 @@
+Customer: @117153 Now fixed (hadn't been working for 30 mins), worth still checking bug?
+SpotifyCares: @291600 Hi Sam! Help's here. Can you let us know the iOS and Spotify versions you're rocking? We'll see what we can suggest /NY

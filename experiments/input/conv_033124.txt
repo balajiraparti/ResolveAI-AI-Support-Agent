@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Clearly I understand that your app can't be moved to the SD card. My point was that when I don't download the songs they are still downloading into your cache. So I have to clear your cache at least once a week because I run out of space on my phone
+SpotifyCares: @264942 Hmm. Can you let us know the device you're using, its operating system, and Spotify version? We'll see what we can suggest /NY

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares every time I open spotify web player in chrome, I can't play anything. I click the play button on a playlist or song, and no action is taken. I have to close chrome and reopen it before I am able to play music. What's up with that?
+SpotifyCares: @817677 Hey Amber, help's here! Could you try the web player on a incognito window? Additionally, clearing your cache and cookies might do the trick. Let us know how it goes /ZO

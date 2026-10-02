@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error messages, I can turn the mobile data on in my settings for Spotify but as soon as I close my settings it deactivated again
+SpotifyCares: @399881 Just to check, are you having trouble streaming or listening offline? Also, what device, operating system, and Spotify version are you running? /KM

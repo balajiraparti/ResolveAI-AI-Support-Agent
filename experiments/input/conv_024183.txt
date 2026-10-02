@@ -1,0 +1,2 @@
+Customer: @SpotifyCares onePlus One , 8.4.26.770 armV7, Cyanogen OS bacon, android version 6.0.1.
+SpotifyCares: @275304 Thanks for the info. Just to check, is this happening via WiFi, 3G/4G, or both? Does restarting your connection help at all? /NY

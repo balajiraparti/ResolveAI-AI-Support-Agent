@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi. Can’t control Spotify through control center and Bluetooth. Help
+SpotifyCares: @191953 Hi Claire! Don't worry, we'll figure this out. Can you let us know what device and version of Spotify you're using? /DR

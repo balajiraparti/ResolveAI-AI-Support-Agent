@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Having problems with offline mode on my Honor 7. When I use my SD card for storage after every restart all downloads are gone!
+SpotifyCares: @435557 Hi there. Can you let us know what Android and Spotify version are you running? Also, how much space do you have left on your SD card? /LM

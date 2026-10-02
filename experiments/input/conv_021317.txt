@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Sure, it’s Spotify 8.4.25.906 on iOS 11.0.3. Not a new issue though, followed me through several updates.
+SpotifyCares: @462154 Thanks. Can you try logging out &gt; restarting your phone &gt; logging back in? Let us know if that makes a difference /RH

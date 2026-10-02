@@ -1,0 +1,2 @@
+Customer: Hi @SpotifyCares! I am using the webplayer on Chrome on Win 10 . The volume level slider resets itself to the max setting every so often. :(
+SpotifyCares: @606246 Hey there! That's odd. Could you try using a different browser or an incognito window? Let us know if the same thing happens /PB

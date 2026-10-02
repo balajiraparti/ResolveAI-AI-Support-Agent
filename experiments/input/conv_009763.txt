@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have not noticed anything else not working. Restart and log in/out did not work either.
+SpotifyCares: @505338 Got it. Does this happen when logging in to other devices as well? /SJ

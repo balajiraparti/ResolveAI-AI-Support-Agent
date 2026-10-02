@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The buttons are too close to each other. Devs should add more padding / margin
+SpotifyCares: @515258 Thanks for the feedback. We’ll get this passed onto the right team. We're here for you if there's anything else /YM

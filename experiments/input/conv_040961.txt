@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Version 8.4.29.289 on Android Oreo 8.0.0
+SpotifyCares: @138951 Got it. Can you try to log out of your account &gt; restart your device &gt; and log back in to see if it helps? If you can reply with the exact make and model of your device, that'd be great /HR

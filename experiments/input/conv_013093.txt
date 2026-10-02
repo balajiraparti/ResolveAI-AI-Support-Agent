@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 6s, version 11.0.3. No error message, the songs are visible but won’t play when I select them. Every other artist is plays fine.
+SpotifyCares: @335272 Hmm. Have you tried logging out &gt; restarting your device &gt; logging back in? /RK

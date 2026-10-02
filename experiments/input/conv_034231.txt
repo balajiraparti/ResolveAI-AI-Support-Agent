@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Galaxy Note 8; Android 7.1.1: New update just crashes Spotify. I can open the app but that's it. Done all the usual steps (uninstalled, deleted cache e.c.t.) Please look into this!
+SpotifyCares: @778892 Hey there! Could you let us know the exact app version on your device? If you're getting any error messages, a screenshot of it would be handy. We'll see what we can suggest /LP

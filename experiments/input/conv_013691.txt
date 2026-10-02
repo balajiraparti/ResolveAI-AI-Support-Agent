@@ -1,0 +1,2 @@
+Customer: @115888 its not shuffle if all the songs in my playlist are played in order by artist
+SpotifyCares: @188975 Hi there! We’ve recently made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /NY

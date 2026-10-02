@@ -1,0 +1,2 @@
+Customer: @SpotifyCares put EPs under ‘albums’ instead of singles on all apps, it’s implemented well on the web version
+SpotifyCares: @558544 Hey Robert, this sounds like a great idea! Suggest it in our Community at https://t.co/rtDvYZOF32 and get support from other users /KL

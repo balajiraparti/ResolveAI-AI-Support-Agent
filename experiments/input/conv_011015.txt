@@ -1,0 +1,3 @@
+Customer: @SpotifyCares Mac 10.12.6, 1.0.65.320.gac7a8e02
+Volume is about 85% that of iTunes
+SpotifyCares: @554042 Hmm. Does logging out, restarting your computer, and logging back in help at all? /YM

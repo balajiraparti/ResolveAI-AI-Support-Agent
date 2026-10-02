@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Samsung Galaxy S8+, Android 7.0, Spotify 8.4.19.792. Today it's loading the app but not updating current song data when the track changes =/
+SpotifyCares: @134389 Thanks for the info. Can you try logging out of Spotify, restarting your device, and logging back in to see if that helps? /NY

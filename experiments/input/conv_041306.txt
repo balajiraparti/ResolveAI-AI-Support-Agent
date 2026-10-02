@@ -1,0 +1,2 @@
+Customer: @115888 When I go to play a song it says the song isn't available, and it says it on every song.
+SpotifyCares: @226111 Hey Justin, that's not cool! Can you let us know what device, operating system, and Spotify version you're running? We'll see what we can suggest /RA

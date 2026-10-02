@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify is missing from the lock screen on iPhone after the 11.0.2 update. Buttons won’t turn volume up or down either
+SpotifyCares: @212272 Hey Daniel, we'd love to help! Can you try logging out, restarting your phone, and logging back in? Any better? /JP

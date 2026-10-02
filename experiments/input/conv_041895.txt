@@ -1,0 +1,2 @@
+Customer: @spotifycares Consistent issue with casting to speakers via Chromecast Audio - when playing from playlist, eventually, queue resets to beginning of playlist &amp; keeps doing so, until I close and re-open everything. looks like others have this issue too, for a while. any fix likely?
+SpotifyCares: @237284 Hey there! Don't worry, we're here to help. Can you let us know the device, operating system, and Spotify version you're using with Chromecast Audio? We'll see what we can suggest /MT

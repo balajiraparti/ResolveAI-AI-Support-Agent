@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Desktop is running Windows 10. Mobile Spotify is 8.4.25 and desktop Spotify is 1.0.67.582.g19436fa3. I think they are all the recent updated versions because no updates are available
+SpotifyCares: @648171 Got it. Just to check, are you using the same WiFi network for your phone and computer? /MU

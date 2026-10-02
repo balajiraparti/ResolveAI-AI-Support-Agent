@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm running Spotify 1.0.65.320.gac7a8e02 on macOS Sierra version 10.12.6. Also on a Huawei P9 Lite, Android 7.0, Spotify 8.4.22.857 armV7
+SpotifyCares: @310182 Thanks. Is this happening on both devices? Also, does this error appear when you're connected to 3G/4G, WiFi, or both? /DB

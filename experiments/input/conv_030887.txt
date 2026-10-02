@@ -1,0 +1,2 @@
+Customer: Pourquoi est-ce que le client #Spotify est en écoute sur le réseau ? Encore du P2P ? Possible de désactiver ça sans passer par firewall ?
+SpotifyCares: @722557 Hi there! Yes, Spotify does this to be able to provide you with the smoothest streaming with no buffering times. The web player or mobile app doesn't have this though. You can try listening through the web player instead. Hope this info helps /GK

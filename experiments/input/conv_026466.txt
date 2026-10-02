@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When I am scrolling through twitter and a video starts to auto play, my music stops playing. Never used to do that.
+SpotifyCares: @646236 Thanks for the info! Could you let us know the device/OS and Spotify version you're using? We'll see what we can suggest /AR

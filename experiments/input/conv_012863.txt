@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I get “invalid username or PW” (I know that it’s right) then when I try to reset it says “CSRF token is invalid”
+SpotifyCares: @327729 Hi, help's here! Could you DM us your email address and username? We'll do some digging 🔍 /JQ https://t.co/ldFdZRiNAt

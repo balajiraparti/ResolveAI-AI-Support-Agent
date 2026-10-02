@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The issue was on a new macOS device with a fresh installed Spotify client.
+SpotifyCares: @442195 We hear you! Even so, we'd recommend giving both the desktop player and your mobile device a quick reboot to kick things into gear. Let us know how it goes /TB

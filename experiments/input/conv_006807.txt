@@ -1,0 +1,2 @@
+Customer: @SpotifyCares With the latest update on Android, when I click Share on an album/song/playlist the app crashes.
+SpotifyCares: @322105 Hey Kev, help's here. What device is this happening on? Can you also let us know the exact Android and Spotify versions you're on? /AY

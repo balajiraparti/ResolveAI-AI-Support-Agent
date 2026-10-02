@@ -1,0 +1,2 @@
+Customer: @SpotifyCares App freezes and crashes on open before I can even check version number. Downloaded from the Win10 Store, latest release 10/24.
+SpotifyCares: @267252 Copy that. If you haven't tried this yet, can you restart your PC? Can we also know when did this start happening? Was it after a specific update? /WP

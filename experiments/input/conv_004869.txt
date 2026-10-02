@@ -1,0 +1,2 @@
+Customer: @SpotifyCares so it's happened again. not working in chrome (incl incognito) or firefox.  i go to playlist. hit play. nothing. also greyd out play button.
+SpotifyCares: @339554 Sorry to hear about that. Are you using a public or private connection? If possible, can you try restarting your router? Keep us posted /ME

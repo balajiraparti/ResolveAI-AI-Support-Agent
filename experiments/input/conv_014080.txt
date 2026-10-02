@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No errors, the music still plays. It just won’t show up the player on the lock screen where I can change songs, volume etc.
+SpotifyCares: @308567 Got it. Could you log out and back in to see if it helps? Let us know how it goes /NS

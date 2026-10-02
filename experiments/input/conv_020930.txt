@@ -1,0 +1,4 @@
+Customer: @SpotifyCares hello, I can't seem to sign up.
+It says unknown error has occurred.
+What should I do?
+SpotifyCares: @456526 Hi there, help has arrived. What's happening exactly? Just to confirm, are you trying to create a Spotify account? /ME

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares My phone can’t recognize the app within the control center &amp; lock screen. I can’t pause or skip songs &amp; the names don’t show.
+SpotifyCares: @420189 Hey Joel, that doesn't sound right. What device, iOS, and Spotify versions are you using? We'll see what we can suggest /JE

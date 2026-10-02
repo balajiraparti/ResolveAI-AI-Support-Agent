@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Logged out/in of app and not seen repeat problem yet. But has now decided to open when PC reboots! Have changed settings back, but why?!
+SpotifyCares: @472175 2: Show Advanced Settings &gt; Startup and Window Behavior &gt; Open Spotify automatically after you log into the computer /GT

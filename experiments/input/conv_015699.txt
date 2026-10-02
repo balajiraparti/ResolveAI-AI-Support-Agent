@@ -1,0 +1,2 @@
+Customer: @SpotifyCares FYI: I've had numerous "no response" crashes with Spotify 1.0.66 in full-screen on macOS 10.12.6 after unlocking the computer.
+SpotifyCares: @405754 Hi Andreas, that's not fun! Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /TY

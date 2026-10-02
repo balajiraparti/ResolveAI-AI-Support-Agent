@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hello. I've turned off autoplay, yet Spotify keeps playing music I do not want after an album/playlist ends. Driving me nuts.
+SpotifyCares: @578205 Hey there! Can you let us know the device/OS and Spotify version you're using? We'll see what we can suggest /AR

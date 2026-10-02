@@ -1,0 +1,2 @@
+Customer: @SpotifyCares The normal 3 state is a 2 state on these devices: no repeat and repeat all
+SpotifyCares: @462954 Hmm, that's odd. Does logging out &gt; restarting your devices &gt; logging back in help at all? Keep us posted /MT

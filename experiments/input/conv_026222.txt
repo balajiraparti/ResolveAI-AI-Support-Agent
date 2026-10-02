@@ -1,0 +1,3 @@
+Customer: @SpotifyCares Android 7.0 
+Version 8.4.25.771armV7
+SpotifyCares: @644355 We see! Could you check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /CG

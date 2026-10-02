@@ -1,0 +1,2 @@
+Customer: @SpotifyCares  https://t.co/IE7No4r9jZ
+SpotifyCares: @528224 In this case, the number shows how many people have streamed the song. If the song has less than 1k streams, it will show as "&lt;1000" /LM

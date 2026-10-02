@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, I have a problem with y subscription.
+SpotifyCares: @327490 Hey Fabio! Could you send us some details about what's happening, along with any error messages you're seeing? We'll keep an eye out /MQ

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares In the web player I’ve been getting a gateway 504 error message. When the page does load none of the music will play.  I’m in chrome on Linux.  On my iPhone none of the search function works I get a blank page for the results.
+SpotifyCares: @702507 Thanks for bearing with us! We had a little hiccup earlier, but everything should be running just fine now /JS

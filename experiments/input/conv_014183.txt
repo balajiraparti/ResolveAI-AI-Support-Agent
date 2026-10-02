@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I went online, closed the app and opened and played a song, same exact thing happened as when offline
+SpotifyCares: @366003 Got it. Is this happening via WiFi, 3G/4G, or both? Does restarting your connection help at all? /NY

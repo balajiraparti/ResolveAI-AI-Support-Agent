@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Nothing happens when I press play. Eveything looks completely as usual, except no matter what song I press play on, it doesn’t play. It does get listed as “recently played” though.
+SpotifyCares: @752876 Hmm, that's odd. Can you try using another browser or an incognito window? Any better? /KM

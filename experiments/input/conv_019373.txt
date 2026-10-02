@@ -1,0 +1,2 @@
+Customer: @SpotifyCares my Spotify app doesn’t show on my iPhone lock screen unless I restart my phone/ I can’t change the volume or song when locked
+SpotifyCares: @706215 Hey there! Can you let us know which iOS and Spotify versions you're currently using? We'll see what we can suggest /NQ

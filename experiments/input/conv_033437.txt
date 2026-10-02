@@ -1,0 +1,6 @@
+Customer: dear @115888,
+
+free idea. write an algorithm that prevents the "recommended songs based on this playlist" feature from recommending songs that can already be found in previously curated playlists. keep things fresh. 
+
+-a kinda priggish user who doesn't even pay for your product.
+SpotifyCares: @769816 Hey Calin, thanks for the feedback – we appreciate it! We’ll get this passed onto the right team /NS

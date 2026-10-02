@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm on 8.4.20.535 (downloaded earlier today on the Belgian store as I wanted to see if reinstalling fixed the issue)
+SpotifyCares: @359923 Thanks. Can you try logging out &gt; restarting your device &gt; logging back in? Let us know how it goes /RS

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Um. Just received a cancellation email (I didn't cancel), logging in works briefly then I'm auto logged out and told Error code 3, then Reset password tells me: "The CSRF token is invalid. Please try to resubmit the form". What's going on?
+SpotifyCares: @623328 Hey! Can you DM us your account's email address? We'll see what we can suggest /CB https://t.co/ldFdZRiNAt

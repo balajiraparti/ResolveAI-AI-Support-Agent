@@ -1,0 +1,2 @@
+Customer: @115888  #bug (web player) this happens pretty often. Play button does nothing. Reloading fixes it. https://t.co/379fVAUcSP
+SpotifyCares: @171765 Hey Matteo! Can you let us know what device, operating system, and Spotify version you're using? We'll see what we can suggest /CH

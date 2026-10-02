@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hello! I'm trying to log in to my web player on Chrome, but every time I'm taken to the login/sign up page, I click login, enter my username and password, then I'm taken back to the login/sign up page. Do you know what might be happening?
+SpotifyCares: @224362 Hey Michael, help's here! Does the same thing happen when you use a different browser or incognito window? If you haven't tried it yet. Can you give it a shot? Let us know how it goes /KC

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, is there a reason why I can't find a user when i search for them in the app?
+SpotifyCares: @491566 Hi. It’s currently not possible to search for a user account that you’re not following, friends with on Facebook, or a verified account /KL

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I still only see the year. Missing day and month.
+SpotifyCares: @275430 Right now, this is an intended behavior of the app. We'll be passing this feedback on to the relevant folks /RC

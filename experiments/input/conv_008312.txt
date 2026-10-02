@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey. Spotify on Windows 8.1 is using my CPU a lot (30-40%) and it's making my computer crash. What can I do?
+SpotifyCares: @403878 Hey there! Don't worry, help's here. Can you let us know the Spotify version you're using? We'll see what we can suggest /MT

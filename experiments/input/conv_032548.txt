@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify v8.4.28.1104 / iPhone X / iOS 11.2 beta. Hardware volume controls on the phone don’t work for controlling volume when playing through connect device. Works ok when playing audio on the phone itself. Assume 11.2 beta bug? - one to be aware of though. 🤞🏻
+SpotifyCares: @749152 Thanks. We don't have info regarding that, but can you give this a try: log out from Spotify &gt; restart your device &gt; log back in? Did that make a difference? /DR

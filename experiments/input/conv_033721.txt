@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Version 1.0.67.582 desktop, it's doing it both on my iPhone 6 and on Windows 10. Albums worked yesterday https://t.co/idiCYXzX7r
+SpotifyCares: @494825 Hmm. What iOS and Spotify versions do you have on your phone? Does logging out &gt; restarting your devices &gt; logging back in help? /AY

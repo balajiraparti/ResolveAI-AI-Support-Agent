@@ -1,0 +1,2 @@
+Customer: @117153 shuffle play isn’t working via either the shuffle play button or shuffle on the song screen.
+SpotifyCares: @776364 Hey Mindy, help's here. Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /KL

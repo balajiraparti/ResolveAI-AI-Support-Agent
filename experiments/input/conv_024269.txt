@@ -1,0 +1,2 @@
+Customer: @116130 Your app has a terrible habit of freezing on the ad page after minimising stopping it from working at all
+SpotifyCares: @600875 Hey, that doesn't sound good. Can you let us know the device you're using, its operating system, and Spotify version? We'll check it out /NY

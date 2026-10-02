@@ -1,0 +1,2 @@
+Customer: @SpotifyCares IOS is 11.1.2. Spotify version 8.4.28.1104 https://t.co/8xVX0GCO2t
+SpotifyCares: @244747 Thanks. Try restarting your device by holding Sleep/Wake + Lock buttons for 10 seconds. Does that help? /AP

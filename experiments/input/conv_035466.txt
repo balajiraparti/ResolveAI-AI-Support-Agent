@@ -1,0 +1,2 @@
+Customer: @115888 @spotifycares when are you planning to sort out the #bug where it takes a good 60 seconds to add a track to a playlist when you are offline? It's been like this since ca mid-2014 (wasn't the case before). Still happening on iOS, even on beta 8.4.29. Driving me #mad.
+SpotifyCares: @146710 Hey Olivier, help's here! Could you let us know your device make and model? Can you also try logging out and back in again? Does that make any difference? /GK

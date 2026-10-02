@@ -1,0 +1,3 @@
+Customer: @SpotifyCares Spotify 8.4.27.895
+iOS 11.2
+SpotifyCares: @754291 Got it. Can you check if logging out &gt; restarting your phone &gt; logging back in to your account makes a difference? /DV

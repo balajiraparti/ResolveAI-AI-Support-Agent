@@ -1,0 +1,2 @@
+Customer: @SpotifyCares V 8.4.25.771 armV7, Android. Honestly nothing big, just that pages take time to reload when returning from one.
+SpotifyCares: @618975 Hmm. What's your device's make/model and Android version? Does logging out and back in make a difference? /AY

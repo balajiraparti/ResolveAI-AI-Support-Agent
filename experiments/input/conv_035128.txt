@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yes. There's no option to specify download location if I format the SD card to be used as extra internal storage (which is what it should be), only if I format it as removable storage.
+SpotifyCares: @274500 Thanks! This is because if you format it as an extra internal storage, the app will also read it as an internal memory. This means the app will not detect any removable storage, and this option will not appear. Hope this clarifies things /JP

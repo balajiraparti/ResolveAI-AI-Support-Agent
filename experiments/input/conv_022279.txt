@@ -1,0 +1,3 @@
+Customer: @SpotifyCares iPhone X, iOS 11.1, Sonos Controller 8.1.1. 
+Was happening on my iPhone 7 Plus also.
+SpotifyCares: @417273 On your Spotify app, tap Devices Available (on the Now Playing bar) &gt; select Sonos. Can you check if the songs still skip randomly? /MU

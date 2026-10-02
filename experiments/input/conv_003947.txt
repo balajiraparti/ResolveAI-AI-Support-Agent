@@ -1,0 +1,2 @@
+Customer: @115888 your Linux client is choking on a number of ads recently and requires a restart to continue :/
+SpotifyCares: @211676 Hi! Just a heads up, we don't officially support Linux, but we'll try our best to help you get this fixed. What's happening exactly? /ME

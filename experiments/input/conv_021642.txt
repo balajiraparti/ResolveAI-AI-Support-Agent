@@ -1,0 +1,2 @@
+Customer: @115888 I just tried to update my payment but got this message: "The CSRF token is invalid. Please try to resubmit the form." I redid the form and it still gives me the same error. Please help.
+SpotifyCares: @590189 Hey Laura, help's here! Can you DM us your account's username and email address? We'll take a look backstage /MQ https://t.co/ldFdZRiNAt

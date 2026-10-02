@@ -1,0 +1,2 @@
+Customer: @SpotifyCares i did clear the cache and the problem is still there.
+SpotifyCares: @488639 Just to check, are you on a home or public network? If possible, can you try rebooting the router to see if the issue persists? /AR

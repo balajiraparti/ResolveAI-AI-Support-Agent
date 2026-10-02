@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm using a Samsung Galaxy S8, Android 7.0, Spotify Version 8.4.22.857 armV7.
+SpotifyCares: @318929 Thanks for the info. Does logging out &gt; restarting your device &gt; logging back in make a difference? /AY

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares My iPhone logged me out &amp; now says my log-in is incorrect. When I try to reset my password it says, The CSRF is invalid.
+SpotifyCares: @344258 Hey there! Could you DM us your Spotify account's email address? We'll take a look under the hood /BH https://t.co/ldFdZRiNAt

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, I’m using an iPhone 7 IOS 11.1.1 and Spotify version 8.4.27.895. Thanks
+SpotifyCares: @689952 Thanks. Does logging out and back in again make a difference? If you still encounter the same issue, does a soft reset help? /GK

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares your web player doesn't PLAY. Chrome browser cleared cache, cookies, history, etc. It loads, but won't play =\
+SpotifyCares: @323993 Hey there! That's not cool. Just to check, are you getting any error messages? If so, could you send us a screenshot? /GU

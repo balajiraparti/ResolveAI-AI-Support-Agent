@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yep, they are! It's very repeatable too.if the phone is left on spotify and screen locks, unlocking disconnects it and stops payback. If spotify is minimised and brought back into the foreground it immediately stops playback and disconnects. If background for &gt;5 min sptfy closes
+SpotifyCares: @782996 That's odd. Can you DM us your account's username or email address? We'll check things backstage /MU https://t.co/ldFdZRiNAt

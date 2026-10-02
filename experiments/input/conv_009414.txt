@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I have an iPhone 6, with iOS 11.0.2 software. The version of Spotify I have is 8.4.20.535
+SpotifyCares: @450267 Thanks. Could you try restarting your device by holding Home + Lock for 10 seconds? Does that help? /AN

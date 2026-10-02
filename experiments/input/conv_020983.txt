@@ -1,0 +1,2 @@
+Customer: @SpotifyCares ..."Allow site to play protected content". However this setting doesn't exist, nor does its subheading of "Protected Content".
+SpotifyCares: @453360 Alright. If possible, can you try to see if updating your browser makes a difference? /DV

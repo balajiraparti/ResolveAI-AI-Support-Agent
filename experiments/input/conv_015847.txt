@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It wasn't loading because I didn't have any unthrottled data volume left, so I switched it to offline.
+SpotifyCares: @406951 Thanks for letting us know. Just to check - did your albums also become unsaved from your collection when your music desynced? /K

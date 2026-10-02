@@ -1,0 +1,2 @@
+Customer: @SpotifyCares received subscription payment failed notification despite card being valid. Tried updating using same card and with two other credit cards but always get same error "seems your payment card provider is having a bad day". I think actually spotify not working
+SpotifyCares: @761717 Hey Rory! Can you DM us your account's email address or username? We'll take a look backstage /AR https://t.co/ldFdZRiNAt

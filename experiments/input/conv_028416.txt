@@ -1,0 +1,2 @@
+Customer: yo @115888 this iOS app update you pushed yesterday fucked everything up, if you make a single tiny sound in any other app the music stops but the slider continues (not sure if just Bluetooth? but fix it thanks)
+SpotifyCares: @341404 Hey Jake! The cavalry's here. Could you let us know the exact iOS and Spotify version you're using? We'll see what we can suggest /KB

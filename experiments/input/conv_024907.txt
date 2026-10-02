@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Just wondering, what causes the Android app to keep nearly 3 gb of user data on my phone? I don't have any songs downloaded or anything. Is there a way to optimize that?
+SpotifyCares: @618973 Hey Katie! Can you tell us what Android and Spotify versions you're using? We'll see what we can suggest /CH

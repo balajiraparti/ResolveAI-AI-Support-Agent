@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I’m on v8.4.25. I have an iPhone 7+ and on iOS 11.1 It freezes, I kill the app, re-open, it works long enough for me to play a song, freezes
+SpotifyCares: @474386 Got it! Try logging out, restarting your device, and logging back in. Does that help? /RA

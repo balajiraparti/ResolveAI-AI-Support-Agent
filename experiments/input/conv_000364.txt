@@ -1,0 +1,2 @@
+Customer: @SpotifyCares tried in chrome incognito and edge, still playing the same incorrect songs, dont have another device to try
+SpotifyCares: @160032 Can you check if clearing your cache helps? Can you also try logging out &gt; restarting your device &gt; logging back in? /PL

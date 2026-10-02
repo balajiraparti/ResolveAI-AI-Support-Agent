@@ -1,0 +1,2 @@
+Customer: @115888 opening the app (android) now also opens @135616. WTF guys.
+SpotifyCares: @152739 Hey! Could you double-check if Waze navigation is enabled under the Social section in your Spotify Settings? If so, try disabling it /CO

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares it's still happening both phone, spotify web on desktop and desktop app
+SpotifyCares: @179263 Hmm, that's odd. Just to check, is this issue happening on WiFi, 3G/4G, or both? We'd also recommend trying different connections /MT

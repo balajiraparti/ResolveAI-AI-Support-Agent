@@ -1,0 +1,3 @@
+Customer: @SpotifyCares I'm using Spotify on my Galaxy Note 5 which operates on Android and the version is 
+8.4.22.857 which I believe is the latest.
+SpotifyCares: @317845 Thanks for the info. When did this start happening? Try logging out, fully closing the app, and restarting your device. Does that help? /KC

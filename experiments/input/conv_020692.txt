@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error messages, the music just cuts out every 10-15 seconds.
+SpotifyCares: @124710 Got it. Could you try using an incognito window or a different browser to see if it helps? Let us know how it goes /NS

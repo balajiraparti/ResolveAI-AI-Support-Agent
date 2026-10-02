@@ -1,0 +1,7 @@
+Customer: "The song is already in your playlist."
+
+"Add anyways"
+"Skip duplicate"
+
+Instinctively clicked the left button to cancel, but here, cancel was the primary button. I feel like that's not quite right? @115888 @89432 https://t.co/t4NKPcYF00
+SpotifyCares: @662780 Hi there! Can you let us know your device's make/model, operating system, and Spotify version? We'll take a closer look /GT

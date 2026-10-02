@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Soptify app version is 8.4.28.875 arm v7
+SpotifyCares: @776652 Got it. Can you try to see if logging out &gt; restarting your phone &gt; logging back in to your account makes a difference? /DV

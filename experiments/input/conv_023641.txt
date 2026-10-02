@@ -1,0 +1,4 @@
+Customer: @117153 trying to access web player and receiving "400 Bad request
+
+Your browser sent an invalid request."
+SpotifyCares: @599622 Hey David! We'd like to know more about this, so can you tell us what browser and OS you're using? We'll see what we can suggest /GU

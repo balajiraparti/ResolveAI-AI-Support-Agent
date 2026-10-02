@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify is taking 4-5 minutes to download a song on my phone over wifi. Why is that?
+SpotifyCares: @600101 Hey! The cavalry's here. Can you DM us your account's username or email address? We'll take a look under the hood /JS https://t.co/ldFdZRiNAt

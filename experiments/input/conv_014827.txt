@@ -1,0 +1,2 @@
+Customer: @SpotifyCares My Android app seems to disconnect when everything else works fine. Lag and unresponsive. Been looking for solution.
+SpotifyCares: @384077 Hey there! Can you let us know the Android and Spotify version you're using? We'll see what we can suggest /AR

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 1. Doesn't load up past the splash screen, so can't log out, etc. 2. I've restarted, and reinstalled, without success.
+SpotifyCares: @401644 Hmm. Could you send us your account's email address or username? We'll take a look backstage /CH

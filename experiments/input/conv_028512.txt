@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Both, Spotify is 8.4.26 and running iOS 11.2, both brand new so bugs are probably expected
+SpotifyCares: @341404 Just to check, does restarting your phone by holding the Sleep/Wake + Volume Down buttons for 10 seconds make any difference? /KB

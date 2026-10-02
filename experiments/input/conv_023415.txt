@@ -1,0 +1,2 @@
+Customer: @SpotifyCares App does not match device resolution. Sometimes the bottom nav bar of Spotify gets hidden and cant use its functions
+SpotifyCares: @504323 Thanks for the heads up. Your feedback has been noted and passed onto the team. Fingers crossed, we'll have some updates soon /AY

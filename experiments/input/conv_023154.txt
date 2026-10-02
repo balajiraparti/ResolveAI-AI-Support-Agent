@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS 11.1, v 8.4.25.906, macOS 10.13 v 1.0.66.478.g1296534d
+SpotifyCares: @518506 Thanks for the info. Does logging out then back in help? If it doesn't, could you try restarting the device? Let us know how it goes /JS

@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Had issues since iOS 11, currently running 11.1.1 with Spotify version 8.4.26.793. The bottom menu comes and goes randomly. 
+
+Doesn’t always do it
+SpotifyCares: @655876 Got it. Can you try logging out, restarting your iPhone, then logging back in? Does that help? /JE

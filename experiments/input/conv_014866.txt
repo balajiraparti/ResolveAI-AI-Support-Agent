@@ -1,0 +1,5 @@
+Customer: He there @115888 @SpotifyCares 
+I am trying to sign up for Spotify and I got this error.
+Need this solved.
+Added the console.log screenshot https://t.co/Ik7GyZXspp
+SpotifyCares: @385558 Hey there! Can you try signing up at https://t.co/d4Pr8cFVVJ using an incognito window or a different browser? Let us know how it goes /NS

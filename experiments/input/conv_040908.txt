@@ -1,0 +1,2 @@
+Customer: @SpotifyCares @137949 I keep getting the message "cannot play ... the connection to Spotify was lost", what's going on?
+SpotifyCares: @137948 Hey Anthony, the cavalry's here! Does logging out, restarting your device, and logging back into Spotify help? Keep us posted /JI

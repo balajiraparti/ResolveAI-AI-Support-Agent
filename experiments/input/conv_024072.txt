@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Only “fix” is to close and reopen the app.
+SpotifyCares: @522377 Hey! The cavalry's here. Can you fire over the device's make/model, iOS, and the Spotify version you're using? /JS

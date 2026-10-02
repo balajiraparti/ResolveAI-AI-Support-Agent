@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 8 (running on iOS 11.1.1), app version 8.4.27, and Spotify Music app is the one I’m using.
+SpotifyCares: @451663 Thanks for the info. Try logging out &gt; restarting your device &gt; logging back in. Does that make a difference? /AY

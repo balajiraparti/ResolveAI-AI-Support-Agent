@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey. Recently, every time I open Spotify on High Sierra it hangs forever. I've tried reinstalling already to no avail. Help!
+SpotifyCares: @164929 Hi Dave, help's arrived! Can you let us know your desktop's Spotify version? Also, could you send us a screenshot of what you're seeing? /DV

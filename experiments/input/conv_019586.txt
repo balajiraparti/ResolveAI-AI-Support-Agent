@@ -1,0 +1,2 @@
+Customer: @583011 @SpotifyCares is this a known issue with the app? Or is this an iOS issue?
+SpotifyCares: @583010 Hey. What Spotify version are you on? Does logging out &gt; restarting your device by holding Home + Lock for 10 seconds &gt; logging in help? /AY

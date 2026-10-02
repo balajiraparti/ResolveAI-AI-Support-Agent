@@ -1,0 +1,2 @@
+Customer: @SpotifyCares MBPr, macOS 10.13.1, latest version of Spotify. It's been happening since macOS 10.13 was released, more details: https://t.co/KeoOrVYOj8
+SpotifyCares: @420893 To clarify, this is happening to other apps too, right? What troubleshooting steps have you tried so far for Spotify? /CB

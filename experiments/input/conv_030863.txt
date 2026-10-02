@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Sharing to Facebook from iPad is not working. After hitting share, a 90's looking window appears but the post is empty.
+SpotifyCares: @415209 Hi Dani! Help's here. Can you let us know the model and iOS version of your iPad, along with the Spotify app version? Also, it'd be great if you could send a screenshot of the sharing options that you're seeing. We'll take a closer look /MU

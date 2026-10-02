@@ -1,0 +1,2 @@
+Customer: @spotifycares can't play any music in album page on Windows 7 64-bit version 1.0.68.407.g6864aaaf. all other music plays fine. attached image to show what it looks like when i try to play a song from album page. if i play the exact same album in my files it works fine. https://t.co/a6gyI5eZZX
+SpotifyCares: @155917 Got it. Just to make sure, are you connected on a wired or wireless internet connection? /MT

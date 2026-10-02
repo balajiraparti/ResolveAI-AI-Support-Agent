@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Why does sharing playlists on Android split the link text on SMS? It's not clickable
+SpotifyCares: @478872 Hey Gabriel! What Android and Spotify version are you using? Also, could you send us a screenshot with an example of how it's splitting? /BH

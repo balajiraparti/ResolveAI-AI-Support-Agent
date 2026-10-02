@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yes, a playlist works. That is not the issue. If you say Play X, it should play song X, then start a radio station based on that song
+SpotifyCares: @360518 2: under "Advanced voice commands for free and subscription services". Hope this clears things up /MA

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hey there. All my offline tracks are gone from the iOS app. Storage of app is still ~5GB though. Version 8.4.25.906. thanks!
+SpotifyCares: @586081 Hi there. We're sorry to hear that. We suggest checking out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF /LM

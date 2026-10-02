@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, after a Windows 10 update, the sound goes off when I move away from the tab where I've opened Spotify. which is annoying because I listen to music while working. :)
+SpotifyCares: @648169 Thanks. Does restarting your computer help? Is it also happening on another browser or an incognito window? /LW

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 7, iOS 11.1 (was also happening on iOS 11), Spotify version 8.4.25.906
+SpotifyCares: @522377 Got it. Does logging out then back in help? If it doesn't, could you try restarting the device by holding Home + Lock for 10 seconds? /JS

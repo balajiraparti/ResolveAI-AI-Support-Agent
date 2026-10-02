@@ -1,0 +1,2 @@
+Customer: @SpotifyCares There's no problem now. Once I've crashed out of windows and rebooted it works OK. But I have had this happen 3 or 4 times always when starting up the desktop app.
+SpotifyCares: @802997 Okay. Best thing to try next is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT. Let us know if you're still experiencing issues /AL

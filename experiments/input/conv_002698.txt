@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Version 1.64.403.0 from the windows 10 store. Happens regularily, sometimes it works, sometimes not... But it always works on the lockscreen
+SpotifyCares: @306321 Thanks for the info. Can you try using a different keyboard with a play/pause key, and see if the issue persists? /LM

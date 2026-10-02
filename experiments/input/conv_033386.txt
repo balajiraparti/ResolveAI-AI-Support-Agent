@@ -1,0 +1,6 @@
+Customer: @SpotifyCares When I shuffle a playlist and I view the song queue it keeps showing the same 5 or 6 songs repeatedly instead of the other songs in the playlist.
+
+I'm on OnePlus One running Android 6.0.1 Marshmallow.
+
+(Also sometimes I can't add new songs to a playlist on iPad Pro iOS 11.1.2)
+SpotifyCares: @769067 Could you log out, restart your phone, then log back in before checking again? Let us know how it goes /JU

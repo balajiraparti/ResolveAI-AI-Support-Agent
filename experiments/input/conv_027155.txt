@@ -1,0 +1,11 @@
+Customer: Hey @115888... need help with Spotify Connect or something? It often loses track of devices.
+
+The world's best streaming service shouldn't EVER let such high-profile bugs make it to production.
+
+You need one of two things:
+
+⬜ better developers
+⬜ a huge fly swatter
+
+You decide.
+SpotifyCares: @240529 Thanks. Can you tell us your devices' operating systems and Spotify versions? We'll see what we can suggest /MG

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS 11.0.3, 8.4.24 beta (can't be a beta thing since it also happens on Win/Mac/browser player). Win 10/Mac Sierra latest Spotify versions
+SpotifyCares: @441709 Thanks. Can you try logging out, restarting your devices, then logging back in? Fingers crossed that'll do the trick /JE

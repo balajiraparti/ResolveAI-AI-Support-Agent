@@ -1,0 +1,4 @@
+Customer: @SpotifyCares spotify:album:4US3nmuLIKELhVZdBPiKxx
+
+Just checked and my account is set to US as it should be.
+SpotifyCares: @369974 Thanks. Could you try reinstalling the app on both your devices? Just follow the steps at https://t.co/EqisDMOAsr. See if that helps /RH

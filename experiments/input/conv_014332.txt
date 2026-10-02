@@ -1,0 +1,2 @@
+Customer: @SpotifyCares @169291 this is post-oreo update, and I've never had this problem before; still trying to troubleshoot the toggling of wifi/lte states and downloads
+SpotifyCares: @372879 Hey! Can you let us know the Spotify version that you're using? We'll see what we can suggest /RC

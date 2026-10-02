@@ -7,7 +7,6 @@ https://github.com/AkarshVyas/Agentic-AI-youtube/blob/main/humanintheloop.py
 import os
 from typing import TypedDict, Annotated
 from dotenv import load_dotenv
-from deepeval.tracing import observe,update_current_span
 from langgraph.graph import (
     StateGraph,
     START,
@@ -16,14 +15,15 @@ from langgraph.graph import (
 
 
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
+from langfuse import get_client
+from langfuse.langchain import CallbackHandler
 from pydantic import BaseModel,Field
 from langgraph.graph.message import add_messages
 from langchain_core.prompts import ChatPromptTemplate
-from langgraph.checkpoint.memory import MemorySaver
+from langgraph.checkpoint.memory import MemorySaver,InMemorySaver
 from langgraph.types import interrupt, Command
 from langchain_mistralai import ChatMistralAI
 from langchain_openai import ChatOpenAI
-from deepeval.metrics import AnswerRelevancyMetric,FaithfulnessMetric
 import sys
 from pathlib import Path
 from langchain_ollama import ChatOllama
@@ -32,30 +32,121 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 from intent.intent_classification import classify_intent
-from retrieval.muliturn_retrieval_sample import TurnChainRetriever
-# from retrieval.multiturn_retrieval import TurnChainRetriever
+# from retrieval.muliturn_retrieval_sample import TurnChainRetriever
+from retrieval.multiturn_retrieval import TurnChainRetriever
+import datetime
+import uuid
 load_dotenv()
-relevancy_metric = AnswerRelevancyMetric(threshold=0.7)
-faithfulness_metric = FaithfulnessMetric(threshold=0.8)
 
+
+# ============================================================
+# CONVERSATION MEMORY
+# ============================================================
+
+class ConversationMemory:
+    """
+    Lightweight in-process memory store.
+
+    Keeps one compact record per turn, keyed by session_id.
+    Each record captures the decisions made during that turn so that
+    subsequent turns have enough context to continue coherently.
+    """
+
+    def __init__(self):
+        # { session_id: [turn_record, ...] }
+        self._store: dict[str, list[dict]] = {}
+
+    # ── write ─────────────────────────────────────────────────────────────────
+
+    def record_turn(
+        self,
+        session_id: str,
+        query: str,
+        intent: str,
+        retrieval_required: bool,
+        escalated: bool,
+        hitl_reason: str,
+        context_summary: str,
+        response: str,
+        approved: bool | None,
+    ) -> None:
+        """Append a compact record for one completed turn."""
+        if session_id not in self._store:
+            self._store[session_id] = []
+
+        # Summarise long fields to 1 sentence each (truncate — no extra LLM call)
+        self._store[session_id].append({
+            "turn":        len(self._store[session_id]) + 1,
+            "ts":          datetime.datetime.now(datetime.timezone.utc).isoformat(),
+            "query":       query[:200],
+            "intent":      intent[:120],
+            "retrieval":   retrieval_required,
+            "escalated":   escalated,
+            "hitl_reason": hitl_reason[:200] if hitl_reason else "",
+            "context":     context_summary[:300] if context_summary else "(no context)",
+            "response":    response[:300] if response else "(no response)",
+            "approved":    approved,
+        })
+
+    # ── read ──────────────────────────────────────────────────────────────────
+
+    def get_context_block(self, session_id: str, max_turns: int = 5) -> str:
+        """
+        Return a compact memory block (last N turns) formatted as a
+        system-message string that can be prepended to the LLM context.
+        """
+        turns = self._store.get(session_id, [])
+        if not turns:
+            return ""
+
+        recent = turns[-max_turns:]
+        lines = ["=== CONVERSATION HISTORY ==="]
+        for t in recent:
+            lines.append(
+                f"[Turn {t['turn']}] "
+                f"User: {t['query']} | "
+                f"Intent: {t['intent']} | "
+                f"Retrieval: {t['retrieval']} | "
+                f"Escalated: {t['escalated']} | "
+                f"Response summary: {t['response']}"
+            )
+        lines.append("===========================")
+        return "\n".join(lines)
+
+    def has_session(self, session_id: str) -> bool:
+        return bool(self._store.get(session_id))
+
+    def clear(self, session_id: str) -> None:
+        self._store.pop(session_id, None)
+
+
+# Module-level singleton — shared across all requests in this process
+_memory = ConversationMemory()
+
+
+langfuse = get_client()
+
+langfuse_handler = CallbackHandler()
 # ============================================================
 # LLM
 # ============================================================
 def get_llm():
-     return ChatOpenAI(
-        model="gpt-4o",
+     return ChatNVIDIA(
+        model="openai/gpt-oss-20b",
         temperature=0.2,
     )
 
 SUPPORT_SYSTEM_PROMPT="""
-You are a helpful ai support agent expert for spotify brand. Your job is to solve the customer issue based on the how the the same issue is solved in past history.
-                Be professional and polite. Always respond with empathy and provide clear solutions. Make sure that you only answer from given historical evidences and do not invent new solutions/things on your own.You need to answer strictly on provided evidences
+You are a helpful ai support agent  for spotify brand. Your job is to solve the customer issue based on the how the the same issue is solved in past history.
+                Be professional and polite. Always respond with empathy and provide clear solutions. Make sure that you only answer from given historical evidences and do not invent new solutions/things on your own.You need to answer strictly on provided evidences.
+                If the the user asking general questions then respond with appropriate message.
                 
                 Tone:
                 - Use simple language. Avoid Robotic Phrasing 
                 - Acknowledge customer inquiries first with warm message
 
                 Rules:
+                - If the user is greeting or showing gratitude then respond with war message
                 - Use given historical evidence to generate effective solution if present
                 - If a user asks a question outside your defined role or responsibilities, respond with:- "This question falls outside the scope of my current knowledge"
     
@@ -74,6 +165,7 @@ class RetrievalSchema(BaseModel):
     is_retrieval_required:bool
 class SupportState(TypedDict):
     query: str
+    session_id: str              # persistent across multi-turn conversation
 
     messages: Annotated[list, add_messages]
 
@@ -82,20 +174,22 @@ class SupportState(TypedDict):
     intent_name: str
     intent_description: str
     # Generated response
-    draft: str =None
+    draft: str
 
     # Human feedback
     review_feedback: str
-   
+
     # HITL state
     is_approved: bool
     human_required: bool
-    hitl_reason:str
-    is_retrieval_required:bool
- 
+    hitl_reason: str
+    is_retrieval_required: bool
 
     # Retrieval information
     retrieval_results: list
+
+    # Memory context block injected at start of each turn
+    memory_context: str
 
 
 # ============================================================
@@ -122,7 +216,7 @@ def route_after_retrieval_decision(state: SupportState):
 
     return "writer"
 def decision_node(state:SupportState):
-        query = state["query"]
+        query = state["messages"]
         intent = state.get("intent_name", "")
         intent_description = state.get("intent_description", "")
     
@@ -131,12 +225,20 @@ def decision_node(state:SupportState):
         prompt=ChatPromptTemplate.from_messages(
                  [(
                     "system",
-                    """You are customer support ai agent for spotify company. who helps to solve the issue realated album,songs, account, bug, content availability, account access,family plan issue, subscription problem, plan charging problem, playback issue 
-     Decide if for the given query,intent and intent description the retrival is required is or not.
-    if the user is greeting or having natural conversation then do not set is_retrieval_required=True
-    if the user asking for any issue then is_retrieval_required=True   
-    Return ONLY valid JSON.
-    
+                    """You are a customer support AI agent for Spotify. Your role is to help users resolve issues related to albums, songs, accounts, bugs, content availability, account access, Family Plan issues, subscriptions, billing and plan charges, and playback problems.
+Guidelines:
+
+-Clarify Vague Queries: If the user's input does not provide enough context to understand their problem, ask a clear follow-up question to get more details.
+
+-Determine Retrieval Needs: Decide whether database or information retrieval is necessary based on the user's intent:
+
+-Do not trigger retrieval (is_retrieval_required: false) if the user is simply greeting you, expressing gratitude, or offering praise.
+
+-Do trigger retrieval (is_retrieval_required: true) if the user is asking for help with an issue or troubleshooting.
+
+Output Format:
+Return ONLY valid JSON.
+
     """,
                 ),
                 ("human", "{query}"),
@@ -151,16 +253,20 @@ def decision_node(state:SupportState):
     
     CUSTOMER INTENT:
     
-    {intent}
+    {intent[0]}
     
     
     INTENT DESCRIPTION:
     
-    {intent_description}
+    {intent_description[0]}
     
     
   
-    """})
+    """},config={
+        "callbacks": [langfuse_handler]
+    })
+        
+        langfuse.flush()
         return {
             "is_retrieval_required":response.is_retrieval_required
         }
@@ -184,14 +290,7 @@ def retrieval_node(state: SupportState) -> dict:
 
     if not results:
         print("[Retrieval] No historical evidence found.")
-        update_current_span(
-            retrieval_context=[],
-            metadata={
-                "retrieval_count": 0,
-                "retrieval_status": "empty"
-            }
-        )
-
+        
         return {
             "retrieval_results": [],
             "historical_evidence": "",
@@ -311,17 +410,33 @@ INTENT DESCRIPTION:
 HISTORICAL SUPPORT EVIDENCE:
 
 {evidence}
-"""})
+"""},config={
+        "callbacks": [langfuse_handler]
+    })
+    # Guard: structured-output parsing can return None if the model
+    # response doesn't match the schema (e.g. malformed JSON).
+    # Default to human escalation — the safer fallback.
+    if response is None:
+        print(
+            "[evidence_check_node] WARNING: structured-output returned None "
+            "(LLM response did not match HumanEscalationSchema). "
+            "Defaulting to human escalation."
+        )
+        langfuse.flush()
+        return {
+            "human_required": True,
+            "hitl_reason": "Structured-output parsing failed; escalating as a precaution.",
+        }
+
     if response.human_escalation:
         return {
             "human_required": True,
-            "hitl_reason":response.escalation_reason
+            "hitl_reason": response.escalation_reason,
         }
 
-    
-
+    langfuse.flush()
     return {
-        "human_required": False
+        "human_required": False,
     }
 
 
@@ -329,14 +444,14 @@ HISTORICAL SUPPORT EVIDENCE:
 # STEP 3
 # GENERATE RESPONSE
 # ============================================================
-@observe(type="llm",metrics=[relevancy_metric,faithfulness_metric])
+
 def writer_node(state: SupportState) -> dict:
     """
     Generate a customer-support response from historical evidence.
     """
 
     writer_llm=get_llm()
-    query = state["query"]
+    query = state["messages"]
     evidence = state.get("historical_evidence","")
     feedback = state.get("review_feedback", "")
     intent=state.get("intent_name","")
@@ -375,9 +490,12 @@ historical evidence.
         [
             ("system", SUPPORT_SYSTEM_PROMPT),
             ("human", user_message),
-        ]
+        ],config={
+        "callbacks": [langfuse_handler]
+    }
     )
 
+    langfuse.flush()
     draft = response.content
 
     print("\n[Generated response]")
@@ -386,9 +504,44 @@ historical evidence.
     print("-" * 60)
 
     return {
-        "draft": draft,
-       "messages":[response]
+        "draft":    draft,
+        "messages": response,    # AIMessage — add_messages handles accumulation
     }
+
+
+# ============================================================
+# STEP 3b  — MEMORY RECORDER
+# Runs after writer_node; commits the turn to ConversationMemory.
+# ============================================================
+
+def memory_node(state: SupportState) -> dict:
+    """
+    Record the completed turn into ConversationMemory and return
+    an updated memory_context so the NEXT turn has history.
+    """
+    session_id = state.get("session_id", "default")
+
+    # Summarise context to first 300 chars of first thread
+    raw_ctx = state.get("historical_evidence", "") or ""
+    ctx_summary = raw_ctx[:300].replace("\n", " ").strip() if raw_ctx else "(no context)"
+
+    _memory.record_turn(
+        session_id        = session_id,
+        query             = state.get("query", ""),
+        intent            = state.get("intent_name", ""),
+        retrieval_required= bool(state.get("is_retrieval_required", False)),
+        escalated         = bool(state.get("human_required", False)),
+        hitl_reason       = state.get("hitl_reason", ""),
+        context_summary   = ctx_summary,
+        response          = (state.get("draft") or "")[:300],
+        approved          = state.get("is_approved"),
+    )
+
+    new_context = _memory.get_context_block(session_id)
+    print(f"[Memory] Session '{session_id}' — "
+          f"{len(_memory._store.get(session_id, []))} turn(s) recorded.")
+
+    return {"memory_context": new_context}
 
 
 # ============================================================
@@ -525,160 +678,193 @@ def route_after_review(state: SupportState):
 
 graph = StateGraph(SupportState)
 
+graph.add_node("retrieval",     retrieval_node)
+graph.add_node("evidence_check", evidence_check_node)
+graph.add_node("writer",         writer_node)
+graph.add_node("memory",         memory_node)   # ← new memory recorder
+graph.add_node("decide_retrieval", decision_node)
+graph.add_node("human_review",   human_review_node)
 
-graph.add_node(
-    "retrieval",
-    retrieval_node,
-)
+# START → decide_retrieval
+graph.add_edge(START, "decide_retrieval")
 
-graph.add_node(
-    "evidence_check",
-    evidence_check_node,
-)
-
-graph.add_node(
-    "writer",
-    writer_node,
-)
-graph.add_node("decide_retrieval",decision_node)
-graph.add_node(
-    "human_review",
-    human_review_node,
-)
-
-# START
-graph.add_edge(
-    START,
+# decide_retrieval → retrieval | writer
+graph.add_conditional_edges(
     "decide_retrieval",
+    route_after_retrieval_decision,
+    {"retrieval": "retrieval", "writer": "writer"},
 )
 
+# retrieval → evidence_check
+graph.add_edge("retrieval", "evidence_check")
 
-# Retrieval → Evidence Check
-graph.add_edge(
-    "retrieval",
-    "evidence_check",
-)
-graph.add_conditional_edges("decide_retrieval",route_after_retrieval_decision,{"retrieval":"retrieval","writer":"writer"})
-
-# Evidence → Writer OR Human
+# evidence_check → writer | human_review
 graph.add_conditional_edges(
     "evidence_check",
     route_after_evidence,
-    {
-        "writer": "writer",
-        "human_review": "human_review",
-    },
+    {"writer": "writer", "human_review": "human_review"},
 )
 
-
-
-
-# Human Review → Writer OR END
+# human_review → writer | END
 graph.add_conditional_edges(
     "human_review",
     route_after_review,
-    {
-        "writer": "writer",
-        END: END,
-    },
+    {"writer": "writer", END: END},
 )
 
+# writer → memory → END
+graph.add_edge("writer", "memory")
+graph.add_edge("memory", END)
+
 
 # ============================================================
-# CHECKPOINTER
+# SHARED APP-LEVEL GRAPH  (compiled once; checkpointer persists
+# across requests so /review can resume a paused thread)
 # ============================================================
-@observe(type="agent")
-def call_workflow(user_query:str):
-    checkpointer = MemorySaver()
-    intent_result=classify_intent(user_query)
-    app = graph.compile(
-        checkpointer=checkpointer
 
+_checkpointer = InMemorySaver()
+_compiled_app  = None   # lazy-initialised on first request
+
+
+def build_app():
+    """Return the compiled LangGraph app (singleton per process)."""
+    global _compiled_app
+    if _compiled_app is None:
+        _compiled_app = graph.compile(checkpointer=_checkpointer)
+    return _compiled_app
+
+
+def _build_initial_state(user_query: str, session_id: str) -> dict:
+    """Classify intent and build the initial SupportState dict."""
+    intent_result = classify_intent(user_query)
+
+    valid_intents       = []
+    intent_descriptions = []
+
+    for item in intent_result:
+        llm_validation = item.get("llm_validation", {}) or {}
+        llm_response   = llm_validation.get("response", {}) or {}
+
+        if llm_validation.get("is_correct") is True:
+            valid_intents.append(str(item.get("intent_label", "")))
+        elif llm_response.get("corrected_label"):
+            valid_intents.append(str(llm_response.get("corrected_label", "")))
+        elif item.get("intent_label"):
+            valid_intents.append(str(item.get("intent_label", "")))
+
+        if llm_response.get("description"):
+            intent_descriptions.append(str(llm_response.get("description", "")))
+        elif str(item.get("description", "")).strip():
+            intent_descriptions.append(str(item.get("description", "")))
+
+    # Inject memory from previous turns of this session as a system message
+    memory_ctx = _memory.get_context_block(session_id)
+    initial_messages = []
+    if memory_ctx:
+        initial_messages.append({"role": "system", "content": memory_ctx})
+    initial_messages.append({"role": "user", "content": user_query})
+
+    return {
+        "query":      user_query,
+        "session_id": session_id,
+        "messages":   initial_messages,
+        "memory_context": memory_ctx,
+        "intent_name": (
+            "\n".join(valid_intents) if valid_intents
+            else (intent_result[0].get("intent_label", "") if intent_result else "")
+        ),
+        "intent_description": (
+            "\n".join(intent_descriptions) if intent_descriptions
+            else (intent_result[0].get("description", "") if intent_result else "")
+        ),
+    }
+
+
+def call_workflow_start(user_query: str, session_id: str | None = None):
+    """
+    Start a new workflow for *user_query*.
+
+    Parameters
+    ----------
+    user_query : str
+    session_id : str, optional
+        Persistent session identifier for multi-turn memory.
+        If omitted, a new session is created.
+
+    Returns
+    -------
+    result    : dict  — LangGraph state (may contain ``__interrupt__``)
+    thread_id : str   — pass to ``call_workflow_resume`` if interrupted
+    session_id: str   — pass back on subsequent turns
+    """
+    if not session_id:
+        session_id = str(uuid.uuid4())
+    thread_id = str(uuid.uuid4())
+    config    = {"configurable": {"thread_id": thread_id},"callbacks":[langfuse_handler]}
+    result    = build_app().invoke(
+        _build_initial_state(user_query, session_id), config=config
     )
-   
-    config = {"configurable": {"thread_id": "spotify_session_15"}}
-    state={"query":user_query,"messages":[{"role":"user","content":user_query}],"intent_name":"\n".join(i["intent_label"]for i in intent_result),"intent_description":"\n".join(i["description"]for i in intent_result)}
-    result=app.invoke(state,config=config)
+    _log_result(result)
+    return result, thread_id, session_id
 
-    print(result.get("draft",None))
-    while "__interrupt__" in result:
 
-            interrupt_data = (
-                result["__interrupt__"][0].value
-            )
+def call_workflow_resume(thread_id: str, human_decision: str) -> dict:
+    """
+    Resume a paused workflow with the human reviewer's decision.
 
-            print("\n")
-            print("=" * 70)
-            print("HUMAN REVIEW REQUIRED")
-            print("=" * 70)
-
-            print(
-                f"\nCustomer:\n"
-                f"{interrupt_data['customer_message']}"
-            )
-            print(
-                f"\nEvidence:\n"
-                f"{interrupt_data['historical_evidence']}"
-            )
-            print(
-                f"\nDraft:\n"
-                f"{interrupt_data['draft']}"
-            )
-
-            print(
-                "\nActions:"
-            )
-
-            print(
-                "  approve  -> approve response"
-            )
-
-            print(
-                "  feedback -> provide feedback and regenerate"
-            )
-
-            print(
-                "  takeover -> human handles customer"
-            )
-
-            human_input = input(
-                "\nYour decision:\n> "
-            ).strip()
-
-            result = app.invoke(
-                Command(
-                    resume=human_input
-                ),
-                config=config,
-            )
-
-    print("\n")
-    print("=" * 70)
-    print("FINAL RESULT")
-    print("=" * 70)
-
-    print(
-        f"\nCustomer:\n{result['query']}"
-    )
-
-    print(
-        f"\nResponse:\n{result.get("draft","No Draft Available")}"
-    )
-    print(f"\n review")
-    print(f"\n Review Feedback:{result.get("review_feedback","No Review Available")}")
-    print(f"\n Human-in-the-loop reason:{result.get("hitl_reason","")}")
-    print(
-        f"Approved: {result.get("is_approved",None)}"
-    )
-    print(f"\n evidence: {result.get("historical_evidence","No Evidence")}")
-    print(f"\n intent:{result.get("intent_name","No intent")} \n intent_description:{result.get("intent_description","No description")}")
+    Parameters
+    ----------
+    thread_id      : returned by ``call_workflow_start``
+    human_decision : "approve" | "takeover" | free-text feedback
+    """
+    config = {"configurable": {"thread_id": thread_id},"callbacks":[langfuse_handler]}
+    result = build_app().invoke(Command(resume=human_decision), config=config)
+    _log_result(result)
     return result
 
-if __name__=="__main__":
-    call_workflow("hi")
-# # Export graph visualization
-# output_path = Path("resolveai_graph.png")
 
-# png_data = app.get_graph().draw_mermaid_png()
+def _log_result(result: dict) -> None:
+    """Print a concise server-console summary."""
+    print("\n" + "=" * 70)
+    print("WORKFLOW RESULT")
+    print("=" * 70)
+    print(f"Query:    {result.get('query', '')}")
+    print(f"Draft:    {str(result.get('draft', 'No draft'))[:200]}")
+    print(f"Approved: {result.get('is_approved')}")
+    print(f"HITL:     {result.get('hitl_reason', '')}")
+    print(f"Feedback: {result.get('review_feedback', '')}")
+    if "__interrupt__" in result:
+        print("[INTERRUPTED — awaiting human review via /review endpoint]")
+    print("=" * 70 + "\n")
 
-# output_path.write_bytes(png_data)
+
+# ============================================================
+# CLI ENTRY-POINT — blocking input() loop for local script runs
+# Do NOT call from FastAPI; use call_workflow_start / call_workflow_resume
+# ============================================================
+
+def call_workflow(user_query: str) -> dict:
+    result, thread_id = call_workflow_start(user_query)
+
+    while "__interrupt__" in result:
+        interrupt_data = result["__interrupt__"][0].value
+
+        print("\n" + "=" * 70)
+        print("HUMAN REVIEW REQUIRED")
+        print("=" * 70)
+        print(f"\nCustomer:\n{interrupt_data.get('customer_message', '')}")
+        print(f"\nEvidence:\n{interrupt_data.get('historical_evidence', '')}")
+        print(f"\nDraft:\n{interrupt_data.get('draft', '')}")
+        print("\nActions:")
+        print("  approve   -> approve response")
+        print("  feedback  -> provide feedback and regenerate")
+        print("  takeover  -> human handles customer")
+
+        human_input = input("\nYour decision:\n> ").strip()
+        result = call_workflow_resume(thread_id, human_input)
+
+    return result
+
+if __name__ == "__main__":
+    call_workflow("emailed about the double charges two weeks back")
+

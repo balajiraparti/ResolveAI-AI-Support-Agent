@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 7+, iOS 11.0.3, Spotify 8.4.22. I turn shuffle on, then when I go to skip a track, it just turns shuffle off automatically.
+SpotifyCares: @373596 That's odd. Can you log out, restart your phone, and log back in? Let us know how it goes /YM

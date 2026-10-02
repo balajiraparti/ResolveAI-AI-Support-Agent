@@ -1,0 +1,2 @@
+Customer: @SpotifyCares i don't think so. i'm using a google pixel; idk if there have been any weird overarching issues there
+SpotifyCares: @575957 At this point, we'd suggest removing your offline devices at https://t.co/8WYo44m758 and reinstalling the app. We'd also recommend to keep your app updated and avoid cache-clearing apps. Rest assured, we'll pass your feedback to the right folks /RC

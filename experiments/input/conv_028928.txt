@@ -1,0 +1,2 @@
+Customer: @SpotifyCares A video of strange play/pause behaviour while there is no sound https://t.co/aHv4QDlazf
+SpotifyCares: @671960 Gotcha. It's not ideal, but the exact steps here should help out: https://t.co/EqisDMwZAT. Fingers crossed that'll do the trick /JE

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I can't login, and it's saying CSRF token is invalid when I try and reset my password? What's happening! #help please DM me.
+SpotifyCares: @768457 Hey there! Can you DM us your account's username and email address? We'll take a look backstage /SY https://t.co/ldFdZRiNAt

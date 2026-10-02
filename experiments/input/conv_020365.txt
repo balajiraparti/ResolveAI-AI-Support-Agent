@@ -1,0 +1,2 @@
+Customer: @SpotifyCares ios version 8.4.25 and ios 11.0.3
+SpotifyCares: @128149 Got it. Does logging out and back in help? Restarting your device (hold Sleep/Wake + Volume Down for 10 seconds) is also worth a shot /LP

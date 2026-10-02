@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hello! Some albums won’t play when I click on the song I want. Please help!
+SpotifyCares: @554403 Hey Cynthia! The cavalry's here. Can you fire over the device's make/model, operating system, and the Spotify version you're using? /KB

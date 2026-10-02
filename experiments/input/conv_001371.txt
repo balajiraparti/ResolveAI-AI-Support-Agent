@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 8.0.0
+SpotifyCares: @176103 Thanks for letting us know about this. Don't worry, our best tech folks are looking into it as we tweet. Hopefully we'll have fix soon /ME

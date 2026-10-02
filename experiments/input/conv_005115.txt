@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I keep getting 'Can't play the current song'?
+SpotifyCares: @345430 Hey, help's here! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /RS

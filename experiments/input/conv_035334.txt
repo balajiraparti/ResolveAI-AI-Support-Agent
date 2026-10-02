@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When casting to my Google Home on shuffle, Spotify only shuffles a few songs near the first song instead of my whole library. :(
+SpotifyCares: @281684 Hey there! Thanks for the report. The right team are aware of this issue between Shuffle and Connect and they're investigating as we speak /PL

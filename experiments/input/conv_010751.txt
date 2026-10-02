@@ -1,0 +1,2 @@
+Customer: @SpotifyCares attempting to listen to "In Flames". Says the song is not available. For all songs. rebooted device. all other bands work.
+SpotifyCares: @551014 Hey there, help's here! Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /RV

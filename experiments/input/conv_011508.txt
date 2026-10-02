@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Thanks.  
+
+I am using Chrome Version 60.0.3112.113 (Official Build) (64-bit) on Mac Yosemite 10.10.5
+SpotifyCares: @217299 Got it. Try logging out &gt; restarting your device &gt; logging back in. Does that make a difference? /AY

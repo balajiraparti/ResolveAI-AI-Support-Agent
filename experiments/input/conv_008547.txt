@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I'm Pixel XL, Project Fi, Android 8.0.0, Oct 5th patch, and Spotify 8.4.22.857.  Crashes and restarts repeatedly on share attempt.
+SpotifyCares: @411371 Thanks for the info. Rest assured our best tech folks are on the case as we speak. Hopefully we'll have a fix soon! /JS

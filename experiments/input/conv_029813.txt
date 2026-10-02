@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Are there any known issues with Spotify running on High Sierra? Whenever I play music, my whole Macbook goes really slow, scrolling is juddery and keyboard cannot keep up with typing. Stops when I stop playing music, even with app still open?
+SpotifyCares: @699798 Hi Shane. Don't worry, we'll look into this. Can you tell us what's the exact app version you're using? We'll see what we can suggest /JU

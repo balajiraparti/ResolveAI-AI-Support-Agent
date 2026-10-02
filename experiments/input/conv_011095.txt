@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS 10.2
+SpotifyCares: @554225 Got it. Just to check, are you also getting the same Shuffle issue on other devices? /KB

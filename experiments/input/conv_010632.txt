@@ -1,0 +1,2 @@
+Customer: Hello @SpotifyCares ! It seems that i can't play any song from some artists. Lot's of people are talking about this bug. Any help please ?
+SpotifyCares: @570975 Hey there! That doesn't sound good. Can you let us know the device, operating system, and app version you're using? /PB

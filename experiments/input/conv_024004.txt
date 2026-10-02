@@ -1,0 +1,2 @@
+Customer: @SpotifyCares it was saying "Okay, I'll play [artist/song/etc]" not doing anything...but when I looked at the app, time was running but it wasn't playing
+SpotifyCares: @186717 Got it. To cover all bases, could you get back to us with the device/OS that's connected to Google Home? We'll be waiting /MT

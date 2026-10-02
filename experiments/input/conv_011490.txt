@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi - I've tried that(I've even provided you console logs showing the issue...). Can you please debug your side, since it's looking like something is broken in your service layer.
+SpotifyCares: @232362 We understand. Don't worry, our best tech folks are investigating this. Hopefully we'll have a fix soon! /MU

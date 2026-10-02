@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi, I can't login on android. App keeps telling me the device is offline. When I press"connect", nothing happens. Please help
+SpotifyCares: @191231 Hi there! Help's here. Can you try restarting your device to see if it makes a difference? Keep us posted /MU

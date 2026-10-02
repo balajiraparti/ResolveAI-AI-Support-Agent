@@ -1,0 +1,2 @@
+Customer: @SpotifyCares after the update to mac 10.13 the media keys only work for about 10-15 min after that there is no Spotify response. Restart of the app doesn't help need to restart the whole system
+SpotifyCares: @637789 Hey there! Can you let us know the Spotify version that you're using? We'll see what we can suggest /RC

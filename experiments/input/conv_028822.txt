@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 1.0.67.582.g19436fa3, macOS High Sierra.
+SpotifyCares: @441415 Got it. Does logging out &gt; restarting your desktop &gt; logging back in to your account help? /DV

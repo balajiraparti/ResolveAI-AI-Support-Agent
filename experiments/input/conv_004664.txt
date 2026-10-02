@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No error. The captcha just times out after 30 sec or so. (Tried now on Edge, IE and Firefox) https://t.co/H6ON9bD59p
+SpotifyCares: @278383 Have you tried using a private/incognito window? We might have some luck with this one. Any better? /JP

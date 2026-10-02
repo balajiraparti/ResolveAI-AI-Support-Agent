@@ -1,0 +1,2 @@
+Customer: @SpotifyCares when i try to play from my playlists it’ll play one song and then it’ll just disappear and not let me play any other playlists
+SpotifyCares: @367010 We see! Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /CG

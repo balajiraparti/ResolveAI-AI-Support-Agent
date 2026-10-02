@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Thanks. I understand the inherent idea of trying to match files to existing catalogue—it improves offline capability and it provides play data. But it’s 100% wrong when I have conflicting ID3 tags on my files.
+SpotifyCares: @396174 We understand. Not to worry, we'll also give our devs a nudge on this /MT

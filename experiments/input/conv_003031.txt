@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify 1.0.64.399.g4637b02a; macOS 10.13
+SpotifyCares: @198688 Thanks for the info. Does logging out &gt; restarting your computer &gt; logging back in help at all? Keep us posted /MT

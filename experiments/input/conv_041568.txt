@@ -1,0 +1,2 @@
+Customer: @spotifycares I’m trying to change my password because I can’t remember my old one but when I type in my email or username it says csrf token invalid would you be able to recover my account or someway to sync it to Facebook
+SpotifyCares: @231910 Hey there, we're sorry to hear that! Can you send us a DM with your username and a screenshot of the error you're receiving? We'll take a look backstage /JX https://t.co/ldFdZRiNAt

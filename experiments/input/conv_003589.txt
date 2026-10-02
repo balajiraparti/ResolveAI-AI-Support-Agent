@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I am at home (Jazztel, Spain). On private browsing there is no difference, with uBlock disabled neither. Am I the only one unable to use it?
+SpotifyCares: @199992 Got it. Could you try using Google Chrome to see if the same thing happens? Let us know how it goes /NS

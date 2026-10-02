@@ -1,0 +1,2 @@
+Customer: @SpotifyCares HQS is turned off and all sources are disabled. Still at 110% CPU. Oof.
+SpotifyCares: @556378 Thanks. Can you try turning off "Hardware Acceleration" under Compatibility? Keep us posted /SJ

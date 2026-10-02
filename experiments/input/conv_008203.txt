@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It always takes 10 Minutes or so before Spotify actually works via Apple CarPlay. It either says it’s not signed in (but is open on phone) or it shows the song with the play button but refuses to play.  I’m not alone https://t.co/l2QSsDTj9a
+SpotifyCares: @397695 Hi Brent. That doesn't sound good. Does logging out, restarting your device, then logging back in help at all? /QI

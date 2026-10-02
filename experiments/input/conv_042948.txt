@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Oh, I wasn't getting an error message, I was just reporting some odd behavior from within the client itself when clicking on an in-client link to the album. Naturally, viewing the album from the provided link works. :)
+SpotifyCares: @247699 Hmm. Can you try removing your local files sources at Preferences &gt; Local Files? Let us know how you get on /MV

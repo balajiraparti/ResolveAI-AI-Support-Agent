@@ -1,0 +1,3 @@
+Customer: @SpotifyCares Samsung Galaxy S5 neo, Android 6.0.1, Spotify 8.4.26.770 armv7
+Whenever i select a song to play on my chromecast and let spotify run in the background of my phone, after the song ends, it  starts playing from the beginning of the playlist instead of next song
+SpotifyCares: @813233 Thanks for the info. Just to check, did you have Shuffle enabled when it happened? Keep us in the loop /PB

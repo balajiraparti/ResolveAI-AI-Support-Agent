@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hello, the latest update has bricked the Spotify app on my Samsung s8. Will no longer load into my profile and auto closes. Deleted cache and uninstalled / reinstalled but no luck. Any ideas?
+SpotifyCares: @274510 Hi there! Does restarting your phone make any difference? Keep us posted /XF

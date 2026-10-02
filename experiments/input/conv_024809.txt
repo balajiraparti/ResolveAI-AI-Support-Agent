@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Every song on said playlist is a different artist
+SpotifyCares: @517161 Hmm. Can you send us the URI of the playlist you're referring to? Just right-click the playlist &gt; Share &gt; URI &gt; Copy Spotify URI /AR

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It happens every time I shut off my computer and turn it back on. Just happened again. It saves other settings, but that one reverts
+SpotifyCares: @323125 That's odd. Could you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /AR

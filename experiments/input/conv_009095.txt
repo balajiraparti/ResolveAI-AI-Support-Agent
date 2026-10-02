@@ -1,0 +1,2 @@
+Customer: @SpotifyCares try and play a song.   It will not play and it is not giving an error either.   It does it on both my laptop and phone.
+SpotifyCares: @411866 Got it. Can you let us know the devices, OS, and Spotify version you're using? We'll see what we can suggest /KL

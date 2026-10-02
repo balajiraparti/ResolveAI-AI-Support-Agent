@@ -1,0 +1,2 @@
+Customer: @SpotifyCares the card entry screen for premium is bugged. It inserts spaces and doesn't correct the cursor location. On android, in app
+SpotifyCares: @496327 Hey! Do you have any trouble signing up using an incognito window? Let us know how it goes /CB

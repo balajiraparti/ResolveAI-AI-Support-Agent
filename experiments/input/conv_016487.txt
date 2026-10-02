@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Not really. I’m not the only one with this issue in our network. Are there any debugging possibilities (e.g. logs) within the Spotify app?
+SpotifyCares: @160030 2: Can you let us know the operating system used on the device this is happening on? We'll see what we can suggest /RC

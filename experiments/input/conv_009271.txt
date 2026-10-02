@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I use Windows 8. I cannot currently play any song. Clicking play has no effect (the song doesn't even start playing)
+SpotifyCares: @468402 Hey there! Can you send us the version of Spotify you're running? We'll see what we can suggest /LO

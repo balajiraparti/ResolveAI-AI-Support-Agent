@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No errors, if I'm in the middle of a song and tap on the song that doesn't play it immediately stops playing music
+SpotifyCares: @426192 Alright! Can you try logging out, restarting your device, then logging back in? /JL

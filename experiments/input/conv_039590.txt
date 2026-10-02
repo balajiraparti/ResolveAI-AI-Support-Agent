@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi I'm using an HP 15-ay177cl, working on Windows 10, and I'm just using the most recent version of Spotify for desktop.
+SpotifyCares: @225820 Thanks! Could you try logging out &gt; restarting your device &gt; logging back in to see if it helps? Keep us posted /AR

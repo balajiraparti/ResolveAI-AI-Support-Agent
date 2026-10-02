@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Could you try adding more an error message when a file wont play? Could you try building in a way to resymcing specific files?
+SpotifyCares: @142363 Thanks for the feedback. Not to worry, we'll make sure it's passed on to the right team. To make sure we're on the same page, did reinstalling the app help you in playing your local files on your iPhone X? /MT

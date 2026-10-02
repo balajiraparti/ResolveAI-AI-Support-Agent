@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yep. All that I tried. Even uninstalled, restarted. Removed all data by hand. Installed again. The default settings was set to SD card, but all music ended on the internal storage.
+SpotifyCares: @319584 Got it. Could you let us know your phone model, Android and Spotify versions? We'll see what we can suggest /LS

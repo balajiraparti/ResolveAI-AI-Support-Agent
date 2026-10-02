@@ -1,0 +1,3 @@
+Customer: @SpotifyCares Spotify 8.4.24.871 armV7
+Android  6.0.1 build AA0571
+SpotifyCares: @400363 1: Thanks! We're afraid this isn't possible right now, but we'll give our devs a nudge that this is something that you'd like to be able...

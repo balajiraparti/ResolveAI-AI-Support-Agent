@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Software version 8.4.20.535 I am pretty sure it has never worked properly, but I may have gotten more mixes lately. They just don’t refresh.
+SpotifyCares: @455243 Hmm. Can you try logging out, restarting your device by holding Home + Lock for 10 seconds, then logging back in? /PB

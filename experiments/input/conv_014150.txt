@@ -1,0 +1,2 @@
+Customer: @SpotifyCares PC with Windows 7 with version 1.0.65.320 and a Samsung galaxy S7 with version 8.4.24.874 (both devices are up to date)
+SpotifyCares: @397484 Thanks! Can you let us know if logging out and back in to the app makes any difference? Also, does restarting your device help? /CH

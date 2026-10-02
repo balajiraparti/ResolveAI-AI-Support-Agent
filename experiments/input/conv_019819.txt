@@ -1,0 +1,2 @@
+Customer: @SpotifyCares @118117 Why does it say “can’t play this right now” and why are playlist songs greyes out (originally imported from iTunes)
+SpotifyCares: @118116 Hey Andy! Since Sonos streams directly from Spotify's catalog, it's not possible to play your local files. Hope this clarifies things /JP

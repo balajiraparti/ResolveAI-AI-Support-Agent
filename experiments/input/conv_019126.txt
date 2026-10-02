@@ -1,0 +1,3 @@
+Customer: @SpotifyCares macOS Sierra: 10.12.6
+Spotify: 1.0.66.478.g1296534d
+SpotifyCares: @583474 Hey there! Let's try reinstalling Spotify following these steps: https://t.co/3FU57oyTNJ. Let us know how it goes /BH

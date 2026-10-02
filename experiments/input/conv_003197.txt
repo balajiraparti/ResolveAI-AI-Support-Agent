@@ -1,0 +1,2 @@
+Customer: @115888 The error translates to "Phone locked or doesn't have Spotify in focus".
+SpotifyCares: @201343 Hey there! Thanks for the feedback. We'll pass it onto the relevant team. Just to check, are you still having any issues with the app? /PB

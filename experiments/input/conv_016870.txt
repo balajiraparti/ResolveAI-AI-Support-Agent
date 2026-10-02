@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi, Spotify isn’t set on offline but every time I’m not on WiFi it says “Spotify is offline” but my data is activate
+SpotifyCares: @422419 Hey Camille, that doesn't sound right. What device, operating system, and version of Spotify is this happening on? We'll lend a hand /SY

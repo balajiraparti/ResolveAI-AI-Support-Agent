@@ -1,0 +1,2 @@
+Customer: @SpotifyCares To fix this, I have to scroll around to unfocus the text field, then tap the text field again and then the keyboard will appear
+SpotifyCares: @389430 Hey Ethan! Can you let us know when this started happening? Can you tell us if this started after an app update? /CH

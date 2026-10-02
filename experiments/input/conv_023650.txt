@@ -1,0 +1,2 @@
+Customer: @SpotifyCares @513381 Same issue. iOS. Logged out of app --&gt; restarted device --&gt; logged in --&gt; same behavior, same issue
+SpotifyCares: @513380 Hey Bryan! Can you tell us your device, iOS and Spotify versions? We'll see what else we can suggest /LS

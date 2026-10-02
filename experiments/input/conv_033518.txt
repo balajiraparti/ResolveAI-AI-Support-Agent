@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Whenever I use your app, the amount of memory it takes up grows exponentially.  It starts at about 195 MB, after a half hour it's up to about 400 MB.  It does this on both my phone and tablet.
+SpotifyCares: @770623 Hey Dave, help's here! Can you let us know what devices, operating systems, and Spotify versions you're using? We'll see what we can suggest /CH

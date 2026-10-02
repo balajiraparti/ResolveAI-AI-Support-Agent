@@ -1,0 +1,2 @@
+Customer: @SpotifyCares your web player won't work on my laptop, the play button is grayed out and music won't play. Logging out/back in does nothing.
+SpotifyCares: @301925 Hi there, the cavalry's here! Does restarting your device after logging out and back into Spotify help? Keep us in the loop /JI

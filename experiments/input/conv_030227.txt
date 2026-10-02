@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify 8.4.27, iOS 11.3 beta, iphone 6s
+SpotifyCares: @665062 Thanks for the details. Does the issue occur on the Spotify app only, or does it happen on other media players as well? /KT

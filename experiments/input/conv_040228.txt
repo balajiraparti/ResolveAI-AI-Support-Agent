@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Also realized it isn't even playing the 2 most recent albums, only the top 10 songs. And it is putting some of them 4x in a row.
+SpotifyCares: @151579 Thanks for clarifying. Just to check, is this happening on other devices that you log in to? Can you look into that for us? /JP

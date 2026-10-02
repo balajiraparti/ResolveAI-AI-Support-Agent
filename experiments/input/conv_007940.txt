@@ -1,0 +1,2 @@
+Customer: Dear @SpotifyCares is there a way to queue a serial podcast so it starts at episode 1 and then automatically goes sequentially?
+SpotifyCares: @374008 Hi there! Can you let us know which device and operating system you're using? We'll see what we can suggest /NQ

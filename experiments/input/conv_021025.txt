@@ -1,0 +1,2 @@
+Customer: @SpotifyCares ...and I get the "No results found for '[insert search term]'" message. I've had lots of bugs, but this is new.
+SpotifyCares: @456065 Hey Lucas! Does logging out of Spotify, restarting your device and logging back in help at all? Keep us posted /TF

@@ -1,0 +1,2 @@
+Customer: Hey @spotifycares, why can't we filter out Danish music from "Browse"? Like most people I'm not at all interested in Danish music.
+SpotifyCares: @492236 Hi again! Music availability differs per country. This means that music you find in Browse follows your account's country settings /MU

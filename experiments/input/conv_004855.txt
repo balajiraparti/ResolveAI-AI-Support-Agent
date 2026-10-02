@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Songs will occasionally just stop. When I say "Hey Google play X" it responds with "Sorry, we're having trouble connecting."
+SpotifyCares: @290317 Thanks for sending it over. Can you try restarting both devices and see if that makes any difference? /AG

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hey Spotify! having issue playing artists on the Mac desktop app. all ok on mobile and web. tried full reinstall/reboot.ideas?
+SpotifyCares: @194431 Hey Rob, we're here to help! Are you receiving any error messages when trying to play? Is it certain artists or all music? Let us know /RV

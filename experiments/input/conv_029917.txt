@@ -1,0 +1,2 @@
+Customer: @SpotifyCares I’m on OSX 10.10.5 and the latest version of Spotify but this has been going on for a few months. It takes 5+ minutes to fully load the program and it won’t work until finished. I’m not the only one with this issue, it’s well documented online.
+SpotifyCares: @682718 Got it. Best thing to try here is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT. Let us know how it goes /AB

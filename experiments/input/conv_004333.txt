@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify still won't play #DemiLovato. The problem effects all of her albums.
+SpotifyCares: @214906 Is this happening when switching audio output devices? Have you tried removing local files sources under Preferences &gt; Local Files? /JL

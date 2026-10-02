@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No you completely missed the question. I already have a station from a playlist. If I add new songs to the originating playlist does the station based on that playlist update dynamically? Or do I have to manually recreate the station from the playlist again
+SpotifyCares: @234707 Sorry for the confusion. Adding more tracks to the playlist will indeed improve your Radio station. Let us know if there's anything else /RC

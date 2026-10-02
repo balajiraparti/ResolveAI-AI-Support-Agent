@@ -1,0 +1,2 @@
+Customer: @115888 how can I stop your mac app from launching at startup? And why does it do so by default?
+SpotifyCares: @158686 Hey Joss! Just to check, have you disabled "Open Spotify automatically adter you log into the computer" through the desktop app's Settings? It's under "Startup and Window Behaviour" /RH

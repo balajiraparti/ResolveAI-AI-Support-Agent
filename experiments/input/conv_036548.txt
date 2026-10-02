@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Ah, on by default and sneakily hidden under "advanced settings". I've switched it off. You should put it "off" by default, and make it enablable by the same Operating System level of configs which allows any mac app to be opened on startup.
+SpotifyCares: @158686 We understand, and we appreciate the feedback! We'll pass it on to the relevant folks. Let us know if you ever need us again. We'd be... https://t.co/LgAM6ky9Vv /GS

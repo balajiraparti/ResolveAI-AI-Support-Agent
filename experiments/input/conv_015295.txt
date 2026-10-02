@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS 11.0.3, Spotify 8.4.24. The app is behaving fine, it’s just slightly scaled up from iPad 9.7 inch resolution to my 10.5 inch resolution
+SpotifyCares: @394014 Thanks. Sorry to hear you're not a fan of our iPad look. No worries, we'll pass your feedback on to the right team /GT

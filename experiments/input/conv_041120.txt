@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Spotify not working on iOS when in lock screen- or actually in background at all.
+SpotifyCares: @306928 Hi Joy! Can you let us know the iOS and Spotify versions you're using? We'll see what we can suggest /RH

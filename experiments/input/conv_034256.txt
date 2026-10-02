@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Not able to login due to http 504  gateway timeout, then problems with nginx web server. Though seems like it's resolved.
+SpotifyCares: @778901 Just to confirm, are you now able to access the website/app again? /JP

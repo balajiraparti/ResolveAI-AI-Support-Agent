@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi-I have been adding missing songs to my playlists from my Local Files and this has worked great until today. Today, when I drop and drop my local files to my playlist it replaces them with wrong approximate matches. How do I stop this?
+SpotifyCares: @238736 Hey Andy! Can you try to edit the track name before uploading the file? Let us know how it goes /SJ

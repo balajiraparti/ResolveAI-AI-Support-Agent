@@ -1,0 +1,2 @@
+Customer: @115888 @4792 When I connect my iPhone, Spotify thinks it’s Waze. The Spotify app shows in ConnectedDrive, but it’s unresponsive. https://t.co/mVgmGrr0qz
+SpotifyCares: @165740 Hey! Can you try heading to Your Library &gt; Settings &gt; toggling off Waze Navigation? See if that helps /TM

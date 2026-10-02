@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Specifically, "Allow site to play protected content" is not an option under Chrome 52.0 settings.
+SpotifyCares: @453360 Hi, help's here! Can you let us know your desktop's OS version? We'll see what we can suggest /DV

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Logged out/in. Tried Chrome,Firefox - same issue, IE not supported. Installed desktop app for Win7 - everything as expected. Webplayer bug.
+SpotifyCares: @334433 Thanks for the heads-up. Could you try using an incognito window? Make sure to clear cache/cookies too. Let us know how it goes /AK

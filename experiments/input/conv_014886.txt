@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iPhone 8, iOS 11.0.3, Spotify v 8.4.22.515. Sometimes if I step into an artist with 2+ albums it seems to shuffle 1 at a time. Thanks guys!
+SpotifyCares: @564609 Got it! We’ve recently made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /PL

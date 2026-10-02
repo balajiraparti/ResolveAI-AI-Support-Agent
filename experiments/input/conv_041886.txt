@@ -1,0 +1,2 @@
+Customer: @115888 got a Spotify update today on Windows 7, now the client doesn't open. Missing DLLs. CANT UNINSTALL. Reinstalling didn't solve. I'M SO MUCH TRIGGERED
+SpotifyCares: @237291 Hey there! Don't worry, we're here to help. Can you send us a screenshot of how the issue looks like on your end? We'll see what we can suggest /MT

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Bluesound:  iOS App: 2.12.2, BluOS: 2.12.9, Spotify: Version 8.4.25.906.  But these have likely changed since the incident happened.
+SpotifyCares: @475305 Thanks. Just to check, did this happen while on Spotify Connect? If so, when and how did it exactly happen? We'd like to take a look /XF

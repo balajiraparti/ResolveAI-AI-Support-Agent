@@ -1,0 +1,2 @@
+Customer: @SpotifyCares the problem does not occur when I play a short playlist (my ~50 song playlists all work fine)
+SpotifyCares: @353738 That's odd! Can check if logging out &gt; restarting your devices &gt; logging back in help? /PL

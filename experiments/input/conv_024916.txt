@@ -1,0 +1,4 @@
+Customer: @SpotifyCares @115888 The only step I haven't tried yet is the "manage devices", all the rest I've done or is irrelevant. Would that possibly work? Cause I see two problems:
+-Individual songs over time deleting themselves
+-All download buttons reset and all music gone at once
+SpotifyCares: @546846 1: For now, it would be best to start fresh by removing your offline devices at https://t.co/8WYo44m758 and reinstalling the app by...

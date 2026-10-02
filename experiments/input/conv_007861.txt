@@ -1,0 +1,2 @@
+Customer: @SpotifyCares My music keeps stuttering/skipping ever since I upgraded to iOS 11... tried reinstalling but it doesn’t fix it
+SpotifyCares: @183147 Hey! Can you try logging out, restarting your device, and logging back in? Let us know how it plays out /YM

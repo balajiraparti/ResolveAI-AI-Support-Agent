@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Is the Spotify Web Player down? I try to login and it keeps reloading the login/sign up page.
+SpotifyCares: @512574 Hey there! Help's here. Can you let us know the device and operating system you're using? We'll see what we can suggest /PB

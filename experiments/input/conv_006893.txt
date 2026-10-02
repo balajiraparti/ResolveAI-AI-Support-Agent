@@ -1,0 +1,2 @@
+Customer: @117153 The spotify iPad app does not connect even though I'm connected to the internet. I keep getting the message an error occurred
+SpotifyCares: @385469 Hi Peter, that doesn't sound cool. Could you let us know the iOS and Spotify versions you're using? We'll see what we can suggest /JO

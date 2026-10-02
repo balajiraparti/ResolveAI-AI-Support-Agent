@@ -1,0 +1,2 @@
+Customer: @SpotifyCares 8.4.23.784 armV7 Android V 7.0
+SpotifyCares: @560558 Got it. Does logging out and restarting your device help? Let us know how it goes /RC

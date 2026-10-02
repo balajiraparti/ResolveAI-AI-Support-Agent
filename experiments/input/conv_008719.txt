@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Samsung GS8, Android 7.0 and version 8.4.22.857
+SpotifyCares: @417897 Could you disable and enable Autoplay by following the steps here: https://t.co/kiXUjgr1xh? Then, try logging out and back in again /MA

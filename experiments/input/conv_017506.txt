@@ -1,0 +1,6 @@
+Customer: @SpotifyCares 36.1Gb free 
+Spotify 8.4.24.871armV7 
+Android 6.0
+
+When I set the storage to SD card, after the reboot it is again set to internal storage.
+SpotifyCares: @435557 Alright. Can you try reinstalling the app using the steps here: https://t.co/EqisDMwZAT? Keep us posted /LM

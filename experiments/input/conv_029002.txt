@@ -1,0 +1,2 @@
+Customer: @SpotifyCares No. Router has been reset. Speaker is connected via UTP with router, But it doesn’t seem to connect. White led is on, But No sound. When pushing on II button, led Goes flashing orange.
+SpotifyCares: @680148 Got it! Just to check, what device/OS you're controlling Spotify from? We'll see what we can suggest /LD

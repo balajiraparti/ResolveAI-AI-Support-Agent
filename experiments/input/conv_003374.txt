@@ -1,0 +1,2 @@
+Customer: @SpotifyCares So is the Queue deleted when I play a new playlist now? I guess the iPad must be restarted when updated because that icon was not there?
+SpotifyCares: @204399 Hmm. Could you confirm the iOS and Spotify version you're using? We'll see what we can suggest /KB

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Lenovo yoga 900, windows 10, version 1.0.66.478.g1296534d. again, the idle animation is super unnecessary
+SpotifyCares: @625892 Thanks! When did you notice this first happening? Does logging out, restarting your laptop, and logging back in make any difference? /JP

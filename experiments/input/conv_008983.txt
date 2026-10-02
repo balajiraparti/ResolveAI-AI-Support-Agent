@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hi guys, this issue has come back :/ any ideas?
+SpotifyCares: @318427 Hello again! Can you double check that your SD card is mounted correctly, and that it's not formatted as internal memory? Keep us posted /WW

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares MacOS 10.12.6 - view scale is set to "actual size". Here's a pic w/ your twitter feed for scale https://t.co/aBkDRGIVPG
+SpotifyCares: @316532 Hmm. We can confirm that we didn't make any changes to the fonts and UI size. Could it be possible your app was previously zoomed out? /RK

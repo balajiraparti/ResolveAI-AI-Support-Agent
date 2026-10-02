@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Yes there are some restrictions, that’s why I’m asking what needs to be opened?
+SpotifyCares: @160030 By default, the app doesn't have any proxy/firewall requirements. Does the same thing happen when using a different network connection? /RC

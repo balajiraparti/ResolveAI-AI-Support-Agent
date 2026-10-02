@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Your payment gateway seems to be having issues; it's not accepting my card, but no requests for payment are being sent to my bank? And no issues with my card?
+SpotifyCares: @264943 Hey, the cavalry's here! Can you send us a DM with your account's email address or username? We'll take a look under the hood /AY https://t.co/ldFdZRiNAt

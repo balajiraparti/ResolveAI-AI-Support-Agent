@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Should be set to UK
+SpotifyCares: @416015 Got it. Looks like the album isn't available in your country due to licensing. More info here: https://t.co/MEjmIRL2eB /AY

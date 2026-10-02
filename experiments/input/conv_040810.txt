@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Like I say, my speaker is visible, but when I click on it, the app just goes back to the song screen and doesn't switch to the speaker... https://t.co/7k5oCPmc45
+SpotifyCares: @135361 Thanks. Can you make sure you've enabled "Control Sonos from Spotify" in the Sonos app settings? There's more info here: https://t.co/Wgy3SqHCeq /NG

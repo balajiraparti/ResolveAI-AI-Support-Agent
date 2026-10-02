@@ -1,0 +1,2 @@
+Customer: Hi @SpotifyCares have I changed something in my settings? I can't listen to a playlist for long before it starts the radio and eats up my data
+SpotifyCares: @785030 Hey, help's here! Looks like Autoplay is enabled on your device. You can disable it by following the steps here: https://t.co/kiXUjgr1xh. Let us know how it goes /JS

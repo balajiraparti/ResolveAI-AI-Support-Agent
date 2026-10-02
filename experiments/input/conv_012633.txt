@@ -1,0 +1,2 @@
+Customer: @SpotifyCares When click on the track, No Cap. Nothing happens. I don't get an error message or anything. The player doesn't pop up. Nothing
+SpotifyCares: @557171 Alright. Can you let us know what device, OS, and Spotify version you're running? Is this also happening on any other devices? /LM

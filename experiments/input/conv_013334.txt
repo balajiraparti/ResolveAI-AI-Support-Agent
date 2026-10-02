@@ -1,0 +1,2 @@
+Customer: @115888 when my app simply doesn't play even after hitting "shuffle," on an album, why? It happens occasionally and sometimes won't fix itself even after restarting.
+SpotifyCares: @561110 Hey Ryan, help's here! Can you let us know the device, OS, and Spotify version you're running? We'll see what we can suggest /DB

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Tried an incognito Chrome window.  No change.  Work has blocked https://t.co/JoK7ESpKMg in Firefox
+SpotifyCares: @117526 Hmm. Does logging in on a different device show the same issue? Keep us updated /PC

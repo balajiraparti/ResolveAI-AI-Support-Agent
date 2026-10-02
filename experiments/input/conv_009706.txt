@@ -1,0 +1,2 @@
+Customer: Does anyone know if there is a way to copy a playlist on @115888 so you can remember the songs if it disappears? @67027 @496607
+SpotifyCares: @548834 2: enable "Show unavailable songs in playlists". This way, you could still see the unavailable track, as it'll just be grayed out /MU

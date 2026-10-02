@@ -1,0 +1,2 @@
+Customer: @SpotifyCares hi, the app crashes everytime I try to create a new playlist in a folder (on the Android app). Will it be fixed?
+SpotifyCares: @232854 Hey Alessia, that's not cool! Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /JK

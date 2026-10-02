@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Running on iPhone X (the app is not updated to support the device yet) https://t.co/bmZPOdWtSF
+SpotifyCares: @488641 Can you let us know the exact iOS version you're running? Does logging out &gt; restarting the device &gt; logging back in help? /PL

@@ -1,0 +1,2 @@
+Customer: @SpotifyCares May I know if the Chromecasting on Android bug has been worked on or noticed? Basically, it doesn't work whilst Google Music works perfectly.. :-(
+SpotifyCares: @623925 Hi, help's here! Do you have the latest firmware installed on your Chromecast device? Which Android and Spotify version are you running? /MA

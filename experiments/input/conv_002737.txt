@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Hit song context menu. Hit share. Screen goes black for 3 seconds then I'm back at the Spotify home screen
+SpotifyCares: @194236 Thanks! Can you let us know the Spotify version you're using? We'll see what we can suggest /JN

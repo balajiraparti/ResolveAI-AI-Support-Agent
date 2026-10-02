@@ -1,0 +1,2 @@
+Customer: @SpotifyCares iOS 11.0.1 and spotify 8.4.20 i can’t control my music when its on from the lockscreen :(
+SpotifyCares: @171000 Thanks for the info. Could you try logging out &gt; restarting your device &gt; logging back in to see if it helps? Keep us posted /AR

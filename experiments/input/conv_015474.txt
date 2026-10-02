@@ -1,0 +1,2 @@
+Customer: @SpotifyCares It only does this on Spotify. Logging out or restarting the device does not help.
+SpotifyCares: @344505 Does this issue happen over 3G/4G, WiFi, or both? Can you try if using a different connection helps? Keep us posted /AR

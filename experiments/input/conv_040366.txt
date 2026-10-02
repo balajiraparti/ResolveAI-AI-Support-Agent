@@ -1,0 +1,4 @@
+Customer: @SpotifyCares Dell Precision 3420
+Using Spotify on web browser
+Mozilla Firefox 57.0
+SpotifyCares: @818536 Hmm. Can you check if the same thing happens when using a different browser? We'd recommend trying out Google Chrome instead. Let us know how everything plays out /CH

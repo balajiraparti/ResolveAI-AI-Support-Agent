@@ -1,0 +1,2 @@
+Customer: @SpotifyCares Um, thats odd. It used to only play the filtered songs. Also, is it intentional that adding songs to quere removes the filter?
+SpotifyCares: @361937 Hmm, are you using the same device where the playlist filter used to work? Also, when did you notice it doesn't work anymore? /JM

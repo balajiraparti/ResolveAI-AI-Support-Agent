@@ -1,0 +1,2 @@
+Customer: @115888 your website isn’t letting me change my payment method. Keep gettin the CSRF token is invalid. #DontYouWantToTakeMyMoney ???
+SpotifyCares: @560603 Hi John, help's here! Can you DM us your account's username and email address? We'll help backstage /TY https://t.co/ldFdZRiNAt
