@@ -131,8 +131,8 @@ langfuse_handler = CallbackHandler()
 # LLM
 # ============================================================
 def get_llm():
-     return ChatNVIDIA(
-        model="openai/gpt-oss-20b",
+     return ChatOpenAI(
+        model="gpt-5.4",
         temperature=0.2,
     )
 
@@ -315,6 +315,7 @@ def retrieval_node(state: SupportState) -> dict:
     
     state["retrieval_results"]= results
     state["historical_evidence"]=historical_evidence
+    
     return state
 
 
@@ -514,34 +515,34 @@ historical evidence.
 # Runs after writer_node; commits the turn to ConversationMemory.
 # ============================================================
 
-def memory_node(state: SupportState) -> dict:
-    """
-    Record the completed turn into ConversationMemory and return
-    an updated memory_context so the NEXT turn has history.
-    """
-    session_id = state.get("session_id", "default")
+# def memory_node(state: SupportState) -> dict:
+#     """
+#     Record the completed turn into ConversationMemory and return
+#     an updated memory_context so the NEXT turn has history.
+#     """
+#     session_id = state.get("session_id", "default")
 
-    # Summarise context to first 300 chars of first thread
-    raw_ctx = state.get("historical_evidence", "") or ""
-    ctx_summary = raw_ctx[:300].replace("\n", " ").strip() if raw_ctx else "(no context)"
+#     # Summarise context to first 300 chars of first thread
+#     raw_ctx = state.get("historical_evidence", "") or ""
+#     ctx_summary = raw_ctx[:300].replace("\n", " ").strip() if raw_ctx else "(no context)"
 
-    _memory.record_turn(
-        session_id        = session_id,
-        query             = state.get("query", ""),
-        intent            = state.get("intent_name", ""),
-        retrieval_required= bool(state.get("is_retrieval_required", False)),
-        escalated         = bool(state.get("human_required", False)),
-        hitl_reason       = state.get("hitl_reason", ""),
-        context_summary   = ctx_summary,
-        response          = (state.get("draft") or "")[:300],
-        approved          = state.get("is_approved"),
-    )
+#     _memory.record_turn(
+#         session_id        = session_id,
+#         query             = state.get("query", ""),
+#         intent            = state.get("intent_name", ""),
+#         retrieval_required= bool(state.get("is_retrieval_required", False)),
+#         escalated         = bool(state.get("human_required", False)),
+#         hitl_reason       = state.get("hitl_reason", ""),
+#         context_summary   = ctx_summary,
+#         response          = (state.get("draft") or "")[:300],
+#         approved          = state.get("is_approved"),
+#     )
 
-    new_context = _memory.get_context_block(session_id)
-    print(f"[Memory] Session '{session_id}' — "
-          f"{len(_memory._store.get(session_id, []))} turn(s) recorded.")
+#     new_context = _memory.get_context_block(session_id)
+#     print(f"[Memory] Session '{session_id}' — "
+#           f"{len(_memory._store.get(session_id, []))} turn(s) recorded.")
 
-    return {"memory_context": new_context}
+#     return {"memory_context": new_context}
 
 
 # ============================================================
@@ -681,7 +682,7 @@ graph = StateGraph(SupportState)
 graph.add_node("retrieval",     retrieval_node)
 graph.add_node("evidence_check", evidence_check_node)
 graph.add_node("writer",         writer_node)
-graph.add_node("memory",         memory_node)   # ← new memory recorder
+# graph.add_node("memory",         memory_node)   # ← new memory recorder
 graph.add_node("decide_retrieval", decision_node)
 graph.add_node("human_review",   human_review_node)
 
@@ -713,8 +714,8 @@ graph.add_conditional_edges(
 )
 
 # writer → memory → END
-graph.add_edge("writer", "memory")
-graph.add_edge("memory", END)
+# graph.add_edge("writer", "memory")
+# graph.add_edge("memory", END)
 
 
 # ============================================================
@@ -758,17 +759,18 @@ def _build_initial_state(user_query: str, session_id: str) -> dict:
             intent_descriptions.append(str(item.get("description", "")))
 
     # Inject memory from previous turns of this session as a system message
-    memory_ctx = _memory.get_context_block(session_id)
-    initial_messages = []
-    if memory_ctx:
-        initial_messages.append({"role": "system", "content": memory_ctx})
-    initial_messages.append({"role": "user", "content": user_query})
+    # memory_ctx = _memory.get_context_block(session_id)
+    # initial_messages = []
+    # if memory_ctx:
+    #     initial_messages.append({"role": "system", "content": memory_ctx})
+    # initial_messages.append({"role": "user", "content": user_query})
 
     return {
         "query":      user_query,
         "session_id": session_id,
-        "messages":   initial_messages,
-        "memory_context": memory_ctx,
+        "messages":  [{"role":"user","content":user_query}],
+        # "messages": initial_messages ,
+        # "memory_context": memory_ctx,
         "intent_name": (
             "\n".join(valid_intents) if valid_intents
             else (intent_result[0].get("intent_label", "") if intent_result else "")
@@ -799,7 +801,8 @@ def call_workflow_start(user_query: str, session_id: str | None = None):
     """
     if not session_id:
         session_id = str(uuid.uuid4())
-    thread_id = str(uuid.uuid4())
+    # thread_id = str(uuid.uuid4())
+    thread_id = session_id
     config    = {"configurable": {"thread_id": thread_id},"callbacks":[langfuse_handler]}
     result    = build_app().invoke(
         _build_initial_state(user_query, session_id), config=config

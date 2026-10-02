@@ -11,7 +11,7 @@ load_dotenv()
 
 class AskRequest(BaseModel):
     query: str
-    session_id: str | None = None   # pass back on subsequent turns for memory
+    session_id: str | None = "125"   # pass back on subsequent turns for memory
 
 
 class ReviewRequest(BaseModel):
