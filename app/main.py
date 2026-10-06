@@ -94,10 +94,10 @@ async def ask(request: AskRequest):
     # Background eval — only when a final response exists
     response = payload["response"]
     context  = payload["historical_evidence"]
-    if response and context and not payload["human_required"]:
-        asyncio.create_task(
-            asyncio.to_thread(_safe_eval, request.query, response, context)
-        )
+    # if response and context and not payload["human_required"]:
+    #     asyncio.create_task(
+    #         asyncio.to_thread(_safe_eval, request.query, response, context)
+    #     )
 
     return payload
 
@@ -120,12 +120,12 @@ async def review(request: ReviewRequest):
 
     response = payload["response"]
     context  = payload["historical_evidence"]
-    if response and context:
-        asyncio.create_task(
-            asyncio.to_thread(
-                _safe_eval, result.get("query", ""), response, context
-            )
-        )
+    # if response and context:
+    #     asyncio.create_task(
+    #         asyncio.to_thread(
+    #             _safe_eval, result.get("query", ""), response, context
+    #         )
+    #     )
 
     return payload
 
