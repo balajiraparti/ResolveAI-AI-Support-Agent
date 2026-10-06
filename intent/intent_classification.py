@@ -16,12 +16,7 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
-INPUT_FILE = (
-    PROJECT_ROOT
-    / "intent"
-    / "cluster_summary.csv"
-)
-
+INPUT_FILE =  INPUT_FILE = Path(__file__).parent / "cluster_summary.csv"
 OUTPUT_FILE = (
     PROJECT_ROOT
     / "intent"
