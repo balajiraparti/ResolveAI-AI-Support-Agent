@@ -448,12 +448,12 @@ CUSTOMER QUERY:
 
 CUSTOMER INTENT:
 
-{intent}
+{intent[0]}
 
 
 INTENT DESCRIPTION:
 
-{intent_description}
+{intent_description[0]}
 
 
 HISTORICAL SUPPORT EVIDENCE:
@@ -561,9 +561,9 @@ Human reviewer feedback:
 
 {feedback}
 intent:
-{intent}
+{intent[0]}
 intent description:
-{intent_description}
+{intent_description[0]}
 
 Generate a NEW response.
 
