@@ -7,12 +7,14 @@ from evaluation.custom_evaluation import custom_evaluator
 from app.support_agent_workflow import call_workflow_start, call_workflow_resume
 from logger.audit_logger import _audit
 from datetime import datetime, timezone
+from uuid import uuid4
+
 load_dotenv()
 
 
 class AskRequest(BaseModel):
     query: str
-    session_id: str | None = "131"   # pass back on subsequent turns for memory
+    session_id: str | None = str(uuid4())   # pass back on subsequent turns for memory
 
 
 class ReviewRequest(BaseModel):
