@@ -1,0 +1,53 @@
+﻿query,expected_action,is_human_escalation,Intent
+wtf is this. Why is there a song limit on premium? I guess I can't add anymore songs :-( https://t.co/M5N1nFsM3Y,There's more info on the 10k limit in Your Music (Songs + Albums + Artists). Try removing songs you can check more details here: https://t.co/jve60PseJV /RC,No,premium_account_playback_issue
+"you have a typo in a track. How do I report it? She Wants Revenge - ""All Wound Up"" is listed as ""All Would Up""", Can you send us the Song Link? Just tap the three dots & Share; Copy Song Link. We'll check it out /AK,Yes,uncategorized
+Why are there no Bob Seger songs on Spotify? This is a disgrace omgggg. @115888 @631411,"We'd love to have all his stuff available, but we have some info about content here: https://t.co/YlV1IAXwsi /CE",No,spotify_album_not_available
+"would like to know why is it every time I stream and use my Bluetooth headphones, the music gets choppy and inaudible?",DM account's username and email address,Yes,playback_bug_report
+you charged my account twice and over drawn my account. We need to talk about this refund y'all about to give me,DM account's username and email address,Yes,charging_issue
+I'm trying to log into my account I haven't used in a while using Facebook and I keep getting 404 errors. Help?,DM account's username and email address,Yes,login_problem
+ I have the student premium but was charged $9.99 this month,DM account's username and email address,Yes,pricing_complaint
+ Please contact me about problems with app for Android. Thx,DM account's username and email address,Yes,fix_app_bug
+"I realize they're sort of a competitor, but your terrible support for Chromecast is making me use the service less and less.",We will pass the result to the right folks,Yes,chromecast_audio_volume_mismatch
+are there any news on an official Spotify app for the #AppleWatch?,Vote to bring the supoort on Apple Watch https://t.co/SEK4E4gi22 /RH,No,spotify_app_on_watch
+ having issues connecting to the internet on a desktop. Says I'm offline when I have full internet connection,DM account's username and email address,Yes,offline_mode_issue
+"Halo Spotify, saya ingin mengajukan kerjasama sponsorship. Saya bisa menghubungi/mengirim proposal kemana ya? Terimakasih"," Hey Esa! We can help out in English via Twitter, but we also have Indonesian support via emai",No,subscription_cancellation
+ I hate my Spotify username and I can't change it please helppppp,DM account's username and email address,Yes,spotify_username_change
+"please help, my account has been hacked and they have changed my email address so I can't log in",DM account's username and email address,Yes,hacked_email_change
+i am having some trouble canceling an account is there any way i could call or email you for help?,DM account's username and email address,Yes,cancel_account
+" Yeah I mean i like the 90s rock, but where is the 90s hip hop, metal, pop, etc? Same story for each decade station. Need more variety.",We will pass the result to the right folks,Yes,uncategorized
+ All seems to be fine now. Thanks!,close conversation with a message,No,uncategorized
+I fucking LOVED 503 Service Unavailable error as a teenager! Well done ,DM account's username and email address,Yes,uncategorized
+Just GREAT!! Even instrumental songs can be EXPLICIT https://t.co/Dy25XsDWFS,Your feedback has been noted and passed to the team,Yes,explicit_content
+i love how has different UX across all of their (web)apps. And by love I mean I hate it. Some features just flat out missing from the webapp. How they are okay with this fragmentation is absurd. #spotifymehs,Your feedback has been noted and passed to the team,Yes,uncategorized
+"Wow that response only took one hr, thank god Iâ€™m not paying.. oh wait I am paying, thanks for nothing I already solve it.",We will pass the result to the right folks,Yes,uncategorized
+" It seems like my account was reset, now I have my account but lost all my music, family subscription and my username as well. Great job!",DM account's username and email address,Yes,uncategorized
+Hi a lot of songs are stating This song is not available on my Mac desktop app. Its driving me bonkers. Any fix!? Thanks,ask os x  and spotify version. Try logging out and login again,No,playback_bug_report
+"needs a ""don't recommend this song again"" option",Your feedback has been noted and passed to the team,Yes,uncategorized
+"How do I change the order of songs in a playlist, please?", You can also find all the info on how to sort the songs in your playlists and more at https://t.co/27tQ1AasOw /BH,No,playlist_sorting
+been trying to update my payment but it dint load. Or cancel. It doesnt take a moment\ https://t.co/HTWCbf5exa,DM account's username and email address,Yes,payment_update_issue
+"Spotify website is down, There goes my gaming music :(","We had a little hiccup backstage, but it should be working now. We're here if you need us /JE",No,uncategorized
+"hello i have problems with my familiar premium plan,  my family members just can't login.",DM account's username and email address,Yes,family_plan_invitation_issue
+Still not available  https://t.co/aMkCnfqTV9,Please can you let us what you exactly looking about .We'll available to you soon as availble to us,No,working_problem
+"hey spotify, i need spotify in Venezuela please, why not available in my country?",We're launching in new countries as often as possible. Be sure to register yourself with email at spotify servicehttps://t.co/X8DVSX9QgM /QI,No,launch_intent
+"Hello ! It's possible to migrate all account (subscription, followings/followers and all playlists) to another account ? I want to change the username of my account :)",DM account's username and email address,Yes,playlist_transfer
+My spotify premium keeps going to the free one and I don't have any of my playlists.  This is happening on all of my devices.  I emailed support and they said they would get back with me.  How long does it normally take to get back with me? reference #  10062461.,DM account's username and email address,Yes,purchase_gift_card
+"I have a premium account - for whatever reason every Bowie and Springsteen song is showing up as ""song is not available."" HALP",DM account's username and email address,Yes,premium_account_playback_issue
+add Capital Steez on Spotify please,"We'd love to have all of their stuff available, but we have some info about content here: https://t.co/0i8GpimuDa /MX",No,spotify_album_add_request
+I need to talk to someone about charges for a phantom account…,"We don't have phone support right now, but we'll be glad to help via Twitter. You can also get in touch with our Email team at https://t.co/ZgU70TbP8M. Let us know how you'd like to proceed /AU",Yes,uncategorized
+How do I speak to someone,Don't worry we can help. What actually happened what device/os you are using,No,care_request
+"the Spotify app is telling me an error occurred, please try again. my internet connection is fine and I have the most recent version of the app-also tried restarting phone, logging out &amp; deleting/reinstalling app",We are fine now could you please try now. If the error persist then we will sent you dm please continue conversation from there,Yes,uncategorized
+…,Hey there! What's up? Is your app misbehaving? Let us know what's happening exactly so we can help /JP,No,uncategorized
+Why is your web player down ,We will pass the result to the right folks,Yes,uncategorized
+"is there a way to stop every single ad I get being about going to university, its making me miserable so please stop it","Hey there! Sorry, we didn't mean to cause any offense. We'll pass your feedback on to our Ads team",Yes,ad_playback_bug_report
+"i have'nt been able to pay my subscription since like 3 months ago, the app wont recognize my credit card and i've tried with multiple times",DM account's username and email address,Yes,uncategorized
+Are you guys planning on fixing the Roku / Now TV app? I can't see any of my playlists on there. Search options are also limited. Pretty useless overall.,Hey there! We have some info about the Spotify app on Roku here: https://t.co/1nqkZkn6JX. Give us a shout if there's anything else /GS,No,playlist_feature_request
+Of cpurse thank you,Great! We'll keep an eye out for your DM /AN https://t.co/ldFdZRiNAt,No,uncategorized
+"Thanks for your response. I do not, simply find your app UI / design dismel looking and not very user ""friendly"" noar inviting. Thanks! âœŒï¸","We appreciate your thoughts. Don't worry, we'll be sure to pass this on to the right folks. Give us a shout if you ever need us again ðŸ˜‰ /CH",Yes,uncategorized
+SpotifyCares Thanks!,You're welcome! We've just replied to your DM. We'll carry on helping you out there /K,No,uncategorized
+ you charged me and I can't access my account. Tweeting the only way to resolve an issue? Terrible customer service smh,DM account's username and email address,Yes,uncategorized
+ I have been charged twice for my Spotify Premium+Headspace subscription this month. Can you fix it?,DM account's username and email address,Yes,uncategorized
+" Not able to log in to my account on all browsers, using Spotify Connect with Sonos or stream music through the Sonos app. Streaming through regular PC and smartphone app works fine. What gives? I live in Copenhagen, Denmark.",Could you please screenshot of  any error message along with account details,Yes,sonos_app_connect_issue
+ I just found out my account is not linked to my email and I can not figure out my password. Help!,DM account's username and email address,Yes,login_bug_report
+" I'm trying to update my billing info and when I hit get premium, it's only giving me the option to get the family plan that I do not need. Help a girl out before I switch to @115948 ðŸ™ƒðŸ™ƒðŸ™ƒ @115888 https://t.co/MYuqNvIuQi",DM account's username and email address,Yes,family_plan_invitation_issue
+Can you import songs that aren't on Spotify yet? So I can stream music from small local bands without effort?,we're here to help! You can find info about uploading local files here: https://t.co/OlHHfUqbst /BX,No,uncategorized
+I've monitored the desktop experience and the problem hasn't gone away. It's a bug with your software. Is this a known issue?,DM account's username and email address,Yes,uncategorized
