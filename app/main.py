@@ -1,17 +1,18 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Query
 from pydantic import BaseModel
 import os
 import asyncio
 from dotenv import load_dotenv
 from evaluation.custom_evaluation import custom_evaluator
 from app.support_agent_workflow import call_workflow_start, call_workflow_resume
-
+from logger.audit_logger import _audit
+from datetime import datetime, timezone
 load_dotenv()
 
 
 class AskRequest(BaseModel):
     query: str
-    session_id: str | None = "125"   # pass back on subsequent turns for memory
+    session_id: str | None = "131"   # pass back on subsequent turns for memory
 
 
 class ReviewRequest(BaseModel):
@@ -125,3 +126,40 @@ async def review(request: ReviewRequest):
         )
 
     return payload
+
+
+# ── Audit Trail ───────────────────────────────────────────────────────────────
+
+@app.get("/audit")
+async def get_audit(
+    session_id: str | None = Query(default=None),
+    thread_id:  str | None = Query(default=None),
+):
+    """
+    Return audit events.
+    - No params    → all events
+    - session_id   → events for that session
+    - thread_id    → events for that thread
+    """
+    if session_id:
+        events = _audit.get_by_session(session_id)
+    elif thread_id:
+        events = _audit.get_by_thread(thread_id)
+    else:
+        events = _audit.get_all()
+
+    return {"total": len(events), "events": events}
+
+
+@app.delete("/audit/clear")
+async def clear_audit():
+    """Admin: wipe the in-memory audit log."""
+    _audit.clear()
+    return {"status": "cleared"}
+
+@app.get("/health")
+async def health_check():
+    return {
+        "status": "healthy",
+        "timestamp": datetime.now(timezone.utc).isoformat()
+    }

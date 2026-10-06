@@ -45,7 +45,6 @@ class TurnChainRetriever:
 
     def search(self, query: str, top_k_children: int = 10, top_n_parents: int = 5):
         child_results = self.vectorstore.similarity_search_with_score(query, k=top_k_children)
-
         # Aggregate to parent thread level via max score across matched turns
         parent_best = {}
         for doc, score in child_results:
@@ -70,8 +69,9 @@ class TurnChainRetriever:
                 "next_turn_ids": md.get("next_turn_ids", []),  # list -- may contain multiple branches
                 "parent_thread_text": parent_doc.page_content if parent_doc else None,
             })
-        return results
+        return results  
 
+          
 
 if __name__ == "__main__":
     retriever = TurnChainRetriever()

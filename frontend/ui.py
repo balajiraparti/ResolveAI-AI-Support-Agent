@@ -20,6 +20,7 @@ except Exception as e:
 # ── Constants ─────────────────────────────────────────────────────────────────
 API_URL    = "http://127.0.0.1:8000/ask"
 REVIEW_URL = "http://127.0.0.1:8000/review"
+AUDIT_URL  = "http://127.0.0.1:8000/audit"
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(page_title="ResolveAI", page_icon="🎧", layout="wide")
@@ -100,11 +101,57 @@ st.markdown("""
         padding: 0.75rem 1.2rem; margin-bottom: 0.6rem;
         font-size: 0.92rem; color: #d1fae5;
     }
+
+    /* ── Audit Trail badges ───────────────────────────────── */
+    .aud-badge {
+        display: inline-block; border-radius: 20px;
+        padding: 0.18rem 0.7rem; font-size: 0.72rem; font-weight: 700;
+        letter-spacing: 0.04em; white-space: nowrap;
+    }
+    .aud-SUCCESS  { background: #14532d; color: #86efac; border: 1px solid #16a34a; }
+    .aud-ESCALATED{ background: #78350f; color: #fde68a; border: 1px solid #d97706; }
+    .aud-WARNING  { background: #7f1d1d; color: #fca5a5; border: 1px solid #dc2626; }
+    .aud-PENDING  { background: #1e293b; color: #94a3b8; border: 1px solid #475569; }
+    .aud-FAILURE  { background: #450a0a; color: #ff6b6b; border: 1px solid #ef4444; }
+
+    /* audit event row — 7 columns: ID | Timestamp | Session | Node | EventType | Status | Message */
+    .aud-row {
+        display: grid;
+        grid-template-columns: 120px 145px 120px 170px 190px 115px 1fr;
+        gap: 0.4rem; align-items: start;
+        padding: 0.55rem 0.9rem; border-bottom: 1px solid #1e2130;
+        font-size: 0.79rem; color: #c4cbe8;
+    }
+    .aud-header {
+        background: #161929; color: #6b7ba4;
+        font-size: 0.72rem; font-weight: 700; text-transform: uppercase;
+        letter-spacing: 0.06em;
+        border-radius: 8px 8px 0 0;
+    }
+    .aud-row:hover { background: #1a1d2e; }
+    .aud-event-id { color: #6366f1; font-family: monospace; font-size: 0.76rem; }
+    .aud-node     { color: #a5b4fc; font-weight: 600; }
+    .aud-type     { color: #e2e8f8; }
+    .aud-table    { border: 1px solid #2d3348; border-radius: 8px; overflow: hidden; margin-top: 0.5rem; }
+    .aud-msg      { color: #94a3b8; font-size: 0.76rem; line-height: 1.6; word-break: break-word; }
+    .aud-msg.failure { color: #ff6b6b; }
+    /* key-value pills inside message column */
+    .aud-kv       { display: inline-flex; flex-wrap: wrap; gap: 0.25rem 0.5rem; }
+    .aud-kv-pair  { display: inline-flex; align-items: baseline; gap: 0.25rem;
+                    background: #1e2130; border-radius: 6px;
+                    padding: 0.1rem 0.5rem; font-size: 0.73rem; }
+    .aud-kv-key   { color: #6366f1; font-weight: 600; }
+    .aud-kv-sep   { color: #475569; }
+    .aud-kv-val   { color: #e2e8f8; max-width: 30ch; overflow: hidden;
+                    text-overflow: ellipsis; white-space: nowrap; }
+    .aud-kv-val.bool-true  { color: #4ade80; }
+    .aud-kv-val.bool-false { color: #f87171; }
+    .aud-kv-val.null-val   { color: #64748b; font-style: italic; }
 </style>
 """, unsafe_allow_html=True)
 
 st.title("🎧 ResolveAI")
-tab_chat, tab_eval = st.tabs(["💬 Chat", "🔬 Evaluate"])
+tab_chat, tab_eval, tab_audit = st.tabs(["💬 Chat", "🔬 Evaluate", "🔍 Audit Trail"])
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -463,3 +510,175 @@ with tab_eval:
 
     st.divider()
     st.caption("ResolveAI Evaluation Harness · Query + Ground Truth → Generate → (Review if needed) → Custom Evaluate")
+
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# AUDIT TRAIL TAB
+# ═══════════════════════════════════════════════════════════════════════════════
+with tab_audit:
+    import time, json, io
+
+    st.header("🔍 Audit Trail Stream")
+    st.caption("Append-only log of every decision made by the ResolveAI agent — reconstructable chronologically.")
+
+    # ── Controls ───────────────────────────────────────────────────────────────
+    ctrl1, ctrl2, ctrl3, ctrl4, ctrl5 = st.columns([1.8, 1.8, 1.2, 1.2, 1.2])
+    with ctrl1:
+        filter_session = st.text_input("Filter by Session ID", key="aud_session", placeholder="session-uuid…")
+    with ctrl2:
+        filter_thread  = st.text_input("Filter by Thread ID",  key="aud_thread",  placeholder="thread-uuid…")
+    with ctrl3:
+        filter_status  = st.selectbox("Status", ["ALL", "SUCCESS", "ESCALATED", "WARNING", "PENDING"], key="aud_status")
+    with ctrl4:
+        live_mode = st.checkbox("⚡ Live (5s)", key="aud_live")
+    with ctrl5:
+        refresh_btn = st.button("⟳ Refresh", key="aud_refresh")
+
+    # ── Fetch ──────────────────────────────────────────────────────────────────
+    def _fetch_audit(session_id=None, thread_id=None):
+        try:
+            params = {}
+            if session_id and session_id.strip():
+                params["session_id"] = session_id.strip()
+            elif thread_id and thread_id.strip():
+                params["thread_id"] = thread_id.strip()
+            r = requests.get(AUDIT_URL, params=params, timeout=(5, 10))
+            r.raise_for_status()
+            return r.json().get("events", [])
+        except Exception as e:
+            st.warning(f"Could not reach audit endpoint: {e}")
+            return []
+
+    events = _fetch_audit(filter_session, filter_thread)
+
+    # Apply status filter client-side
+    if filter_status != "ALL":
+        events = [e for e in events if e.get("status") == filter_status]
+
+    # Show newest first
+    events = list(reversed(events))
+
+    # ── Stats bar ──────────────────────────────────────────────────────────────
+    total = len(events)
+    st1, st2, st3, st4, st5 = st.columns(5)
+    st1.metric("Total Events",  total)
+    st2.metric("✅ SUCCESS",    sum(1 for e in events if e["status"] == "SUCCESS"))
+    st3.metric("⚠️ WARNING",   sum(1 for e in events if e["status"] == "WARNING"))
+    st4.metric("🔶 ESCALATED", sum(1 for e in events if e["status"] == "ESCALATED"))
+    st5.metric("⏳ PENDING",   sum(1 for e in events if e["status"] == "PENDING"))
+
+    # Failure count shown prominently if any exist
+    fail_count = sum(1 for e in events if e["status"] == "FAILURE")
+    if fail_count:
+        st.error(f"❌ {fail_count} FAILURE event(s) detected — check the Message column below for exception details.")
+
+    st.divider()
+
+    if not events:
+        st.info("No audit events yet. Send a query in the Chat tab to start generating events.")
+    else:
+        # ── Table header ───────────────────────────────────────────────────────
+        st.markdown(
+            '<div class="aud-table">'
+            '<div class="aud-row aud-header">'
+            '<span>Event ID</span>'
+            '<span>Timestamp</span>'
+            '<span>Session</span>'
+            '<span>Node / Actor</span>'
+            '<span>Event Type</span>'
+            '<span>Status</span>'
+            '<span>Message</span>'
+            '</div>',
+            unsafe_allow_html=True,
+        )
+
+        STATUS_ICON = {
+            "SUCCESS":  "✅",
+            "WARNING":  "⚠️",
+            "ESCALATED":"🔶",
+            "PENDING":  "⏳",
+            "FAILURE":  "❌",
+        }
+
+        for ev in events:
+            status = ev.get("status", "")
+            icon   = STATUS_ICON.get(status, "🔵")
+            ts     = ev.get("ts", "").replace("T", " ").split("+")[0]
+            session_short = (ev.get("session_id") or "")[:10] + "…"
+            raw_msg = ev.get("message") or ""
+            msg_class = "failure" if status == "FAILURE" else ""
+
+            # Try to parse JSON message — render as key-value pills
+            kv_html = ""
+            try:
+                kv = json.loads(raw_msg)
+                if isinstance(kv, dict):
+                    pills = []
+                    for k, v in kv.items():
+                        if v is None:
+                            val_cls = "null-val"
+                            v_str   = "null"
+                        elif isinstance(v, bool):
+                            val_cls = "bool-true" if v else "bool-false"
+                            v_str   = str(v).lower()
+                        else:
+                            val_cls = ""
+                            v_str   = str(v)[:60] + ("…" if len(str(v)) > 60 else "")
+                        pills.append(
+                            f'<span class="aud-kv-pair">'
+                            f'<span class="aud-kv-key">{k}</span>'
+                            f'<span class="aud-kv-sep">:</span>'
+                            f'<span class="aud-kv-val {val_cls}">{v_str}</span>'
+                            f'</span>'
+                        )
+                    kv_html = f'<span class="aud-kv">{"".join(pills)}</span>'
+                else:
+                    kv_html = f'<span class="aud-msg {msg_class}">{raw_msg}</span>'
+            except (json.JSONDecodeError, TypeError):
+                # Plain string (e.g. exception message from FAILURE events)
+                kv_html = f'<span class="aud-msg {msg_class}">{raw_msg}</span>'
+
+            st.markdown(
+                f'<div class="aud-row">'
+                f'<span class="aud-event-id">{ev["event_id"]}</span>'
+                f'<span>{ts}</span>'
+                f'<span style="font-family:monospace;font-size:0.72rem">{session_short}</span>'
+                f'<span class="aud-node">{ev.get("node","")}</span>'
+                f'<span class="aud-type">{ev.get("event_type","")}</span>'
+                f'<span><span class="aud-badge aud-{status}">{icon} {status}</span></span>'
+                f'<span>{kv_html}</span>'
+                f'</div>',
+                unsafe_allow_html=True,
+            )
+
+        st.markdown('</div>', unsafe_allow_html=True)
+
+        # ── Detail expander ────────────────────────────────────────────────────
+        st.markdown("")
+        with st.expander("🔎 Full Event Details (select from list)", expanded=False):
+            event_options = {f"{e['event_id']} — {e['event_type']}": e for e in events}
+            chosen_label  = st.selectbox("Event", list(event_options.keys()), key="aud_detail_sel")
+            if chosen_label:
+                st.json(event_options[chosen_label])
+
+        # ── CSV export ─────────────────────────────────────────────────────────
+        import csv
+        buf = io.StringIO()
+        if events:
+            writer = csv.DictWriter(
+                buf,
+                fieldnames=["event_id","ts","session_id","thread_id","node","event_type","status","message","details"],
+                extrasaction="ignore",
+            )
+            writer.writeheader()
+            for ev in events:
+                writer.writerow({**ev, "details": json.dumps(ev.get("details", {}))})
+        st.download_button(
+            "⬇ Export CSV", data=buf.getvalue(),
+            file_name="resolveai_audit.csv", mime="text/csv", key="aud_csv",
+        )
+
+    # ── Live refresh ───────────────────────────────────────────────────────────
+    if live_mode:
+        time.sleep(5)
+        st.rerun()

@@ -1,6 +1,7 @@
 """
     Used Custom Evaluator code from https://atalupadhyay.wordpress.com/2026/01/30/rag-evaluation-from-bleu-scores-to-production-ready-metrics/ 
 """
+from langchain_nvidia_ai_endpoints import ChatNVIDIA
 from langchain_mistralai import ChatMistralAI
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
@@ -9,6 +10,9 @@ from typing import List, Dict
 import re
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_groq import ChatGroq
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Embeddings initialised once at import time (no network call)
 embeddings = HuggingFaceEmbeddings()
@@ -17,7 +21,7 @@ class CustomRAGEvaluator:
         self.embeddings = embedding_model
         # Uses the same OpenAI key already configured for the rest of the app.
         # Swap model name here if you want a cheaper/faster judge.
-        self.llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.2)
+        self.llm = ChatNVIDIA(model="openai/gpt-oss-20b", temperature=0.2)
 
     def context_precision(self, query: str, retrieved_chunks: List[str]) -> float:
         """

@@ -12,7 +12,7 @@ from langgraph.graph import (
     START,
     END,
 )
-
+from langchain_mistralai import ChatMistralAI
 
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
 from langfuse import get_client
@@ -36,6 +36,8 @@ from intent.intent_classification import classify_intent
 from retrieval.multiturn_retrieval import TurnChainRetriever
 import datetime
 import uuid
+from logger.audit_logger import _audit
+import json
 load_dotenv()
 
 
@@ -131,8 +133,8 @@ langfuse_handler = CallbackHandler()
 # LLM
 # ============================================================
 def get_llm():
-     return ChatOpenAI(
-        model="gpt-5.4",
+     return ChatNVIDIA(
+        model="nvidia/nemotron-3-super-120b-a12b",
         temperature=0.2,
     )
 
@@ -215,17 +217,18 @@ def route_after_retrieval_decision(state: SupportState):
     )
 
     return "writer"
-def decision_node(state:SupportState):
+def decision_node(state: SupportState):
+    sid = state.get("session_id", "")
+    try:
         query = state["messages"]
         intent = state.get("intent_name", "")
         intent_description = state.get("intent_description", "")
-    
-        
-        llm=get_llm().with_structured_output(RetrievalSchema)
-        prompt=ChatPromptTemplate.from_messages(
-                 [(
-                    "system",
-                    """You are a customer support AI agent for Spotify. Your role is to help users resolve issues related to albums, songs, accounts, bugs, content availability, account access, Family Plan issues, subscriptions, billing and plan charges, and playback problems.
+
+        llm = get_llm().with_structured_output(RetrievalSchema)
+        prompt = ChatPromptTemplate.from_messages(
+            [(
+                "system",
+                """You are a customer support AI agent for Spotify. Your role is to help users resolve issues related to albums, songs, accounts, bugs, content availability, account access, Family Plan issues, subscriptions, billing and plan charges, and playback problems.
 Guidelines:
 
 -Clarify Vague Queries: If the user's input does not provide enough context to understand their problem, ask a clear follow-up question to get more details.
@@ -240,83 +243,131 @@ Output Format:
 Return ONLY valid JSON.
 
     """,
-                ),
-                ("human", "{query}"),
+            ),
+            ("human", "{query}"),
             ]
-            )
-        evidence_check_chain=prompt | llm 
-        response=evidence_check_chain.invoke({"query":f"""
+        )
+        evidence_check_chain = prompt | llm
+        response = evidence_check_chain.invoke({"query": f"""
     CUSTOMER QUERY:
-    
+
     {query}
-    
-    
+
+
     CUSTOMER INTENT:
-    
+
     {intent[0]}
-    
-    
+
+
     INTENT DESCRIPTION:
-    
+
     {intent_description[0]}
-    
-    
+
+
   
-    """},config={
-        "callbacks": [langfuse_handler]
-    })
-        
+    """}, config={"callbacks": [langfuse_handler]})
+
         langfuse.flush()
-        return {
-            "is_retrieval_required":response.is_retrieval_required
-        }
+        _audit.emit(
+            node       = "DECISION_NODE",
+            event_type = "RETRIEVAL_DECISION",
+            status     = "SUCCESS",
+            message    = json.dumps({
+                "retrieval_required": response.is_retrieval_required,
+                "intent":             state.get("intent_name", "")[:80],
+                "intent_description": state.get("intent_description", "")[:120],
+            }, ensure_ascii=False),
+            session_id = sid,
+            thread_id  = sid,
+            retrieval_required = response.is_retrieval_required,
+            intent     = state.get("intent_name", "")[:80],
+        )
+        return {"is_retrieval_required": response.is_retrieval_required}
+
+    except Exception as exc:
+        _audit.emit(
+            node       = "DECISION_NODE",
+            event_type = "RETRIEVAL_DECISION",
+            status     = "FAILURE",
+            message    = f"{type(exc).__name__}: {str(exc)[:300]}",
+            session_id = sid,
+            thread_id  = sid,
+        )
+        raise
 def retrieval_node(state: SupportState) -> dict:
     """
     Retrieve historically similar customer-support conversations.
     """
-
+    sid = state.get("session_id", "")
     query = state["query"]
-
     print("\n[Retrieval]")
     print(f"Customer query: {query}")
 
-    retriever = TurnChainRetriever()
+    try:
+        retriever = TurnChainRetriever()
+        results = retriever.search(
+            query,
+            top_k_children=10,
+            top_n_parents=5,
+        )
 
-    results = retriever.search(
-        query,
-        top_k_children=10,
-        top_n_parents=5,
-    )
+        if not results:
+            print("[Retrieval] No historical evidence found.")
+            _audit.emit(
+                node       = "RETRIEVAL_NODE",
+                event_type = "RETRIEVAL_COMPLETE",
+                status     = "WARNING",
+                message    = json.dumps({"threads_found": 0, "note": "No historical evidence — auto-escalating to human review."}),
+                session_id = sid,
+                thread_id  = sid,
+                threads_found = 0,
+            )
+            return {
+                "retrieval_results": [],
+                "historical_evidence": "",
+                "human_required": True,
+            }
 
-    if not results:
-        print("[Retrieval] No historical evidence found.")
-        
-        return {
-            "retrieval_results": [],
-            "historical_evidence": "",
-            "human_required": True,
-        }
-
-    historical_evidence = "\n\n".join(
-        [
-            f"""
+        historical_evidence = "\n\n".join(
+            [
+                f"""
 --- HISTORICAL THREAD {i + 1} ---
 
 {result["parent_thread_text"]}
 """
-            for i, result in enumerate(results)
-        ]
-    )
+                for i, result in enumerate(results)
+            ]
+        )
 
-    print(
-        f"[Retrieval] Retrieved {len(results)} historical threads."
-    )
+        print(f"[Retrieval] Retrieved {len(results)} historical threads.")
+        _audit.emit(
+            node       = "RETRIEVAL_NODE",
+            event_type = "RETRIEVAL_COMPLETE",
+            status     = "SUCCESS",
+            message    = json.dumps({
+                "threads_found":   len(results),
+                "evidence_preview": historical_evidence[:150].replace("\n", " "),
+            }, ensure_ascii=False),
+            session_id = sid,
+            thread_id  = sid,
+            threads_found    = len(results),
+            evidence_preview = historical_evidence[:200].replace("\n", " "),
+        )
 
-    
-    state["retrieval_results"]= results
-    state["historical_evidence"]=historical_evidence
-    
-    return state
+        state["retrieval_results"]   = results
+        state["historical_evidence"] = historical_evidence
+        return state
+
+    except Exception as exc:
+        _audit.emit(
+            node       = "RETRIEVAL_NODE",
+            event_type = "RETRIEVAL_COMPLETE",
+            status     = "FAILURE",
+            message    = f"{type(exc).__name__}: {str(exc)[:300]}",
+            session_id = sid,
+            thread_id  = sid,
+        )
+        raise
 
 
 # ============================================================
@@ -328,15 +379,16 @@ def evidence_check_node(state: SupportState) -> dict:
     """
     Basic deterministic evidence gate.
     """
-    query = state["query"]
-    intent = state.get("intent_name", "")
+    sid                = state.get("session_id", "")
+    query              = state["query"]
+    intent             = state.get("intent_name", "")
     intent_description = state.get("intent_description", "")
-    evidence = state.get("historical_evidence", "")
+    evidence           = state.get("historical_evidence", "")
 
-    
-    llm=get_llm().with_structured_output(HumanEscalationSchema)
-    prompt=ChatPromptTemplate.from_messages(
-             [(
+    try:
+        llm = get_llm().with_structured_output(HumanEscalationSchema)
+        prompt = ChatPromptTemplate.from_messages(
+            [(
                 "system",
                 """
 You are a quality-control gatekeeper for Spotify's customer support system. You are shown a
@@ -352,7 +404,7 @@ AUTO_APPROVE if any of the following are true:
 - If the customer asks for general, non-account-specific information such as rate limits, plan limits, feature availability, supported devices, or general list/name information, treat the request as low-risk and eligible for AUTO_APPROVE when the answer is supported by reliable evidence.
 - Do not require human review for general informational questions unless the information is unavailable, conflicting, outdated, or requires access to the customer's private account.
 - If the requested information or solution is currently unavailable but can be obtained by asking the customer for missing details, do not escalate immediately; ask a concise clarifying question and continue the workflow
-- If the user greets customer or starts the conversation  
+- If the user greets customer or starts the conversation
 - The answer is generic/informational and requires no account-specific, order-specific,
   or case-specific lookup or action to be correct.
 - The topic is not billing, refunds, cancellations, account security, legal, safety,
@@ -361,9 +413,8 @@ AUTO_APPROVE if any of the following are true:
   thread context you weren't given.
 - if the customer complementing the service or sending feedback or saying gratitude
 - if the spotify is down, then the brand response may include changing browser or using incognito mode
-- Customer may want to contact to spotify support but the there is lack of context given 
-- example brand may provides information to solve the problem. they may request customer to visit to link to check if the unavailable song album are there are added and restarting device,use incognito mode or reinstalling the latest spotify version to check the device compatibility issue. if the user request is unclear or vague like not available without any context given where the brand may ask additional information like device, os and app version.
-
+- Customer may want to contact to spotify support but the there is lack of context given
+- example brand may provides information to solve the problem.
 
 Decide ESCALATE rather than AUTO_APPROVE if ANY of the following are true:
 - The retrieved passages do not directly and completely address the customer's specific
@@ -372,27 +423,24 @@ Decide ESCALATE rather than AUTO_APPROVE if ANY of the following are true:
   information that is not present in the retrieved passages (e.g. checking a real account,
   issuing a refund, verifying identity, looking up a specific order or payment).
 - The message involves billing disputes, refunds, cancellations, account security or
-  suspected account compromise, legal threats, safety concerns, self-harm, harassment,hacking or
+  suspected account compromise, legal threats, safety concerns, self-harm, harassment, hacking or
   any indication the customer is distressed and needs a human's judgment or empathy rather
   than a templated answer.
-- for example brand may ask for additional information from customer like sending username and email address. they brand may note the feedback from the customer which is later analyzed by human assistant. the brand may say the phone support is not availble and send mail to spotify service where team can analyze the issue
 
 Otherwise, if the retrieved passages clearly, completely, and safely answer exactly what the
 customer asked, decide AUTO_APPROVE.
 
-When in doubt, escalate. A missed auto-approval costs a few minutes of human review time; a
-wrong auto-approved answer costs customer trust and may require correcting misinformation
-later. Bias toward caution.
+When in doubt, escalate. Bias toward caution.
 
 Return ONLY valid JSON.
 
 """,
             ),
             ("human", "{evidence}"),
-        ]
+            ]
         )
-    evidence_check_chain=prompt | llm 
-    response=evidence_check_chain.invoke({"evidence":f"""
+        evidence_check_chain = prompt | llm
+        response = evidence_check_chain.invoke({"evidence": f"""
 CUSTOMER QUERY:
 
 {query}
@@ -411,34 +459,71 @@ INTENT DESCRIPTION:
 HISTORICAL SUPPORT EVIDENCE:
 
 {evidence}
-"""},config={
-        "callbacks": [langfuse_handler]
-    })
-    # Guard: structured-output parsing can return None if the model
-    # response doesn't match the schema (e.g. malformed JSON).
-    # Default to human escalation — the safer fallback.
-    if response is None:
-        print(
-            "[evidence_check_node] WARNING: structured-output returned None "
-            "(LLM response did not match HumanEscalationSchema). "
-            "Defaulting to human escalation."
-        )
+"""}, config={"callbacks": [langfuse_handler]})
+
+        # Guard: structured-output parsing can return None
+        if response is None:
+            print(
+                "[evidence_check_node] WARNING: structured-output returned None. "
+                "Defaulting to human escalation."
+            )
+            langfuse.flush()
+            _audit.emit(
+                node       = "EVIDENCE_CHECK",
+                event_type = "EVIDENCE_CHECK",
+                status     = "WARNING",
+                message    = json.dumps({"escalated": True, "reason": "Structured-output parsing returned None — escalating as a precaution."}),
+                session_id = sid,
+                thread_id  = sid,
+                escalated  = True,
+            )
+            return {
+                "human_required": True,
+                "hitl_reason": "Structured-output parsing failed; escalating as a precaution.",
+            }
+
+        if response.human_escalation:
+            _audit.emit(
+                node       = "EVIDENCE_CHECK",
+                event_type = "EVIDENCE_CHECK",
+                status     = "ESCALATED",
+                message    = json.dumps({
+                    "escalated":    True,
+                    "hitl_reason":  response.escalation_reason[:200],
+                    "human_required": True,
+                }, ensure_ascii=False),
+                session_id = sid,
+                thread_id  = sid,
+                escalated  = True,
+                reason     = response.escalation_reason[:200],
+            )
+            return {
+                "human_required": True,
+                "hitl_reason": response.escalation_reason,
+            }
+
         langfuse.flush()
-        return {
-            "human_required": True,
-            "hitl_reason": "Structured-output parsing failed; escalating as a precaution.",
-        }
+        _audit.emit(
+            node       = "EVIDENCE_CHECK",
+            event_type = "EVIDENCE_CHECK",
+            status     = "SUCCESS",
+            message    = json.dumps({"escalated": False, "human_required": False, "note": "Evidence sufficient — auto-approving."}),
+            session_id = sid,
+            thread_id  = sid,
+            escalated  = False,
+        )
+        return {"human_required": False}
 
-    if response.human_escalation:
-        return {
-            "human_required": True,
-            "hitl_reason": response.escalation_reason,
-        }
-
-    langfuse.flush()
-    return {
-        "human_required": False,
-    }
+    except Exception as exc:
+        _audit.emit(
+            node       = "EVIDENCE_CHECK",
+            event_type = "EVIDENCE_CHECK",
+            status     = "FAILURE",
+            message    = f"{type(exc).__name__}: {str(exc)[:300]}",
+            session_id = sid,
+            thread_id  = sid,
+        )
+        raise
 
 
 # ============================================================
@@ -450,15 +535,16 @@ def writer_node(state: SupportState) -> dict:
     """
     Generate a customer-support response from historical evidence.
     """
+    sid = state.get("session_id", "")
+    try:
+        writer_llm        = get_llm()
+        query             = state["messages"]
+        evidence          = state.get("historical_evidence", "")
+        feedback          = state.get("review_feedback", "")
+        intent            = state.get("intent_name", "")
+        intent_description= state.get("intent_description", "")
 
-    writer_llm=get_llm()
-    query = state["messages"]
-    evidence = state.get("historical_evidence","")
-    feedback = state.get("review_feedback", "")
-    intent=state.get("intent_name","")
-    intent_description=state.get("intent_description","")
-
-    user_message = f"""
+        user_message = f"""
 Customer message:
 
 {query}
@@ -487,27 +573,53 @@ The new response must still be strictly grounded in the
 historical evidence.
 """
 
-    response = writer_llm.invoke(
-        [
-            ("system", SUPPORT_SYSTEM_PROMPT),
-            ("human", user_message),
-        ],config={
-        "callbacks": [langfuse_handler]
-    }
-    )
+        response = writer_llm.invoke(
+            [
+                ("system", SUPPORT_SYSTEM_PROMPT),
+                ("human", user_message),
+            ],
+            config={"callbacks": [langfuse_handler]},
+        )
 
-    langfuse.flush()
-    draft = response.content
+        langfuse.flush()
+        draft = response.content
 
-    print("\n[Generated response]")
-    print("-" * 60)
-    print(draft)
-    print("-" * 60)
+        print("\n[Generated response]")
+        print("-" * 60)
+        print(draft)
+        print("-" * 60)
 
-    return {
-        "draft":    draft,
-        "messages": response,    # AIMessage — add_messages handles accumulation
-    }
+        _audit.emit(
+            node       = "WRITER_NODE",
+            event_type = "RESPONSE_GENERATED",
+            status     = "SUCCESS",
+            message    = json.dumps({
+                "response":      draft[:300].replace("\n", " "),
+                "response_len":  len(draft),
+                "feedback_used": bool(feedback),
+                "human_feedback": (feedback[:150] if feedback else None),
+            }, ensure_ascii=False),
+            session_id = sid,
+            thread_id  = sid,
+            draft_preview  = draft[:200].replace("\n", " "),
+            feedback_used  = bool(feedback),
+        )
+
+        return {
+            "draft":    draft,
+            "messages": response,
+        }
+
+    except Exception as exc:
+        _audit.emit(
+            node       = "WRITER_NODE",
+            event_type = "RESPONSE_GENERATED",
+            status     = "FAILURE",
+            message    = f"{type(exc).__name__}: {str(exc)[:300]}",
+            session_id = sid,
+            thread_id  = sid,
+        )
+        raise
 
 
 # ============================================================
@@ -559,27 +671,34 @@ def human_review_node(state: SupportState) -> dict:
     human_response = interrupt(
         {
             "type": "support_response_review",
-
             "customer_message": state["query"],
-
-            "historical_evidence": state[
-                "historical_evidence"
-            ],
-
+            "historical_evidence": state["historical_evidence"],
             "draft": state.get("draft","No draft Available"),
-
-
             "instruction": (
                 "Approve the response, reject it with feedback, "
                 "or take over the conversation."
             ),
-
             "allowed_actions": [
                 "approve",
                 "reject",
                 "takeover",
             ],
         }
+    )
+    _audit.emit(
+        node       = "HUMAN_REVIEW_NODE",
+        event_type = "HUMAN_REVIEW_REQUESTED",
+        status     = "PENDING",
+        message    = json.dumps({
+            "hitl_reason":    state.get("hitl_reason", "")[:200],
+            "draft_preview":  (state.get("draft") or "")[:150].replace("\n", " "),
+            "human_required": True,
+            "is_approved":    None,
+        }, ensure_ascii=False),
+        session_id = state.get("session_id", ""),
+        thread_id  = state.get("session_id", ""),
+        hitl_reason   = state.get("hitl_reason", "")[:200],
+        draft_preview = (state.get("draft") or "")[:150].replace("\n", " "),
     )
 
     # --------------------------------------------------------
@@ -737,6 +856,16 @@ def build_app():
 
 def _build_initial_state(user_query: str, session_id: str) -> dict:
     """Classify intent and build the initial SupportState dict."""
+    _audit.emit(
+        node       = "ORCHESTRATOR",
+        event_type = "WORKFLOW_STARTED",
+        status     = "SUCCESS",
+        message    = json.dumps({"query": user_query[:200]}, ensure_ascii=False),
+        session_id = session_id,
+        thread_id  = session_id,
+        query      = user_query[:200],
+    )
+
     intent_result = classify_intent(user_query)
 
     valid_intents       = []
@@ -764,6 +893,20 @@ def _build_initial_state(user_query: str, session_id: str) -> dict:
     # if memory_ctx:
     #     initial_messages.append({"role": "system", "content": memory_ctx})
     # initial_messages.append({"role": "user", "content": user_query})
+
+    _audit.emit(
+        node        = "INTENT_CLASSIFIER",
+        event_type  = "INTENT_CLASSIFIED",
+        status      = "SUCCESS",
+        message     = json.dumps({
+            "intent":      ("\n".join(valid_intents) if valid_intents else "")[:120],
+            "description": ("\n".join(intent_descriptions) if intent_descriptions else "")[:200],
+        }, ensure_ascii=False),
+        session_id  = session_id,
+        thread_id   = session_id,
+        intent      = ("\n".join(valid_intents) if valid_intents else "")[:120],
+        description = ("\n".join(intent_descriptions) if intent_descriptions else "")[:200],
+    )
 
     return {
         "query":      user_query,
@@ -808,6 +951,31 @@ def call_workflow_start(user_query: str, session_id: str | None = None):
         _build_initial_state(user_query, session_id), config=config
     )
     _log_result(result)
+
+    # Emit WORKFLOW_COMPLETE or INTERRUPTED
+    interrupted = "__interrupt__" in result
+    _last_msg = ""
+    try:
+        _last_msg = result.get("messages", [])[-1].content if result.get("messages") else ""
+    except Exception:
+        pass
+    _audit.emit(
+        node       = "ORCHESTRATOR",
+        event_type = "WORKFLOW_COMPLETE" if not interrupted else "WORKFLOW_INTERRUPTED",
+        status     = "PENDING" if interrupted else ("ESCALATED" if result.get("human_required") else "SUCCESS"),
+        session_id = session_id,
+        thread_id  = thread_id,
+        message    = json.dumps({
+            "is_approved":    result.get("is_approved"),
+            "human_required": result.get("human_required"),
+            "interrupted":    interrupted,
+            "hitl_reason":    result.get("hitl_reason", ""),
+            "response":       _last_msg[:300].replace("\n", " ") if _last_msg else None,
+        }, ensure_ascii=False),
+        approved       = result.get("is_approved"),
+        human_required = result.get("human_required"),
+        interrupted    = interrupted,
+    )
     return result, thread_id, session_id
 
 
@@ -823,6 +991,40 @@ def call_workflow_resume(thread_id: str, human_decision: str) -> dict:
     config = {"configurable": {"thread_id": thread_id},"callbacks":[langfuse_handler]}
     result = build_app().invoke(Command(resume=human_decision), config=config)
     _log_result(result)
+
+    # Emit human decision + final outcome
+    session_id = result.get("session_id", thread_id)
+    _audit.emit(
+        node       = "HUMAN_AGENT",
+        event_type = "HUMAN_DECISION",
+        status     = "SUCCESS",
+        message    = json.dumps({
+            "human_feedback": human_decision[:150],
+            "is_approved":   result.get("is_approved"),
+            "takeover":      human_decision.lower() in {"takeover", "take over"},
+            "human_required": result.get("human_required"),
+        }, ensure_ascii=False),
+        session_id = session_id,
+        thread_id  = thread_id,
+        decision   = human_decision[:100],
+        approved   = result.get("is_approved"),
+        takeover   = human_decision.lower() in {"takeover", "take over"},
+    )
+    _audit.emit(
+        node       = "ORCHESTRATOR",
+        event_type = "WORKFLOW_COMPLETE",
+        status     = "SUCCESS" if result.get("is_approved") else ("ESCALATED" if result.get("human_required") else "SUCCESS"),
+        message    = json.dumps({
+            "is_approved":    result.get("is_approved"),
+            "human_required": result.get("human_required"),
+            "human_feedback": human_decision[:150],
+            "hitl_reason":    result.get("hitl_reason", ""),
+        }, ensure_ascii=False),
+        session_id = session_id,
+        thread_id  = thread_id,
+        approved       = result.get("is_approved"),
+        human_required = result.get("human_required"),
+    )
     return result
 
 
