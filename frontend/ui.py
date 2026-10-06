@@ -21,6 +21,9 @@ except Exception as e:
 API_URL    = "https://resolveai-ai-support-agent-production.up.railway.app/ask"
 REVIEW_URL = "https://resolveai-ai-support-agent-production.up.railway.app/review"
 AUDIT_URL  = "https://resolveai-ai-support-agent-production.up.railway.app/audit"
+# API_URL    = "http://localhost:8000/ask"
+# REVIEW_URL = "http://localhost:8000/review"
+# AUDIT_URL  = "http://localhost:8000/audit"
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(page_title="ResolveAI", page_icon="🎧", layout="wide")

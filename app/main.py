@@ -3,7 +3,7 @@ from pydantic import BaseModel
 import os
 import asyncio
 from dotenv import load_dotenv
-from evaluation.custom_evaluation import custom_evaluator
+# from evaluation.custom_evaluation import custom_evaluator
 from app.support_agent_workflow import call_workflow_start, call_workflow_resume
 from logger.audit_logger import _audit
 from datetime import datetime, timezone
@@ -29,12 +29,12 @@ app = FastAPI(
 )
 
 
-def _safe_eval(query: str, response: str, context) -> None:
-    """Run custom_evaluator, swallowing all errors (non-critical)."""
-    try:
-        custom_evaluator(query, response, context)
-    except Exception as e:
-        print(f"[custom_evaluator] skipped (non-critical): {e}")
+# def _safe_eval(query: str, response: str, context) -> None:
+#     """Run custom_evaluator, swallowing all errors (non-critical)."""
+#     try:
+#         custom_evaluator(query, response, context)
+#     except Exception as e:
+#         print(f"[custom_evaluator] skipped (non-critical): {e}")
 
 
 def _build_response(result: dict, thread_id: str, session_id: str = "") -> dict:
@@ -92,12 +92,12 @@ async def ask(request: AskRequest):
     payload = _build_response(result, thread_id, session_id)
 
     # Background eval — only when a final response exists
-    response = payload["response"]
-    context  = payload["historical_evidence"]
-    if response and context and not payload["human_required"]:
-        asyncio.create_task(
-            asyncio.to_thread(_safe_eval, request.query, response, context)
-        )
+    response = payload.get("response")
+    context  = payload.get("historical_evidence")
+    # if response and context and not payload.get("human_required"):
+    #     asyncio.create_task(
+    #         asyncio.to_thread(_safe_eval, request.query, response, context)
+    #     )
 
     return payload
 
@@ -118,14 +118,14 @@ async def review(request: ReviewRequest):
 
     payload = _build_response(result, request.thread_id)
 
-    response = payload["response"]
-    context  = payload["historical_evidence"]
-    if response and context:
-        asyncio.create_task(
-            asyncio.to_thread(
-                _safe_eval, result.get("query", ""), response, context
-            )
-        )
+    response = payload.get("response")
+    context  = payload.get("historical_evidence")
+    # if response and context:
+    #     asyncio.create_task(
+    #         asyncio.to_thread(
+    #             _safe_eval, result.get("query", ""), response, context
+    #         )
+    #     )
 
     return payload
 

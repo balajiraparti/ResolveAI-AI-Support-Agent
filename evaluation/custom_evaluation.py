@@ -22,7 +22,7 @@ class CustomRAGEvaluator:
         self.embeddings = embedding_model
         # Uses the same OpenAI key already configured for the rest of the app.
         # Swap model name here if you want a cheaper/faster judge.
-        self.llm = ChatNVIDIA(model="openai/gpt-oss-20b", temperature=0.2)
+        self.llm = ChatNVIDIA(api_key=st.secrets["NVIDIA_API_KEY"],model="openai/gpt-oss-20b", temperature=0.2)
 
     def context_precision(self, query: str, retrieved_chunks: List[str]) -> float:
         """
