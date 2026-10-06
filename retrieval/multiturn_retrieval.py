@@ -18,7 +18,8 @@ from qdrant_client import QdrantClient
 
 load_dotenv()
 base_path=Path().resolve().parent
-parent_store_path=base_path/"ingestion"/"parent_store_turns"
+parent_store_path=base_path/"app"/"ingestion"/"parent_store_turns"
+# parent_store_path=base_path/"ResolveAI"/"ingestion"/"parent_store_turns"
 
 class TurnChainRetriever:
     def __init__(

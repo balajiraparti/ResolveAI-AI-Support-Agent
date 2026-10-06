@@ -167,7 +167,7 @@ def _call_ask(query: str, session_id: str | None = None) -> dict | None:
         r = requests.post(
             API_URL,
             json={"query": query, "session_id": session_id},
-            timeout=(20, 600),
+            timeout=(10, 300),
         )
         if not r.ok:
             st.error(f"API status: {r.status_code}")
@@ -181,7 +181,7 @@ def _call_ask(query: str, session_id: str | None = None) -> dict | None:
 
 def _call_review(thread_id: str, decision: str) -> dict | None:
     try:
-        r = requests.post(REVIEW_URL, json={"thread_id": thread_id, "decision": decision}, timeout=(20, 600))
+        r = requests.post(REVIEW_URL, json={"thread_id": thread_id, "decision": decision}, timeout=(10, 300))
         r.raise_for_status()
         return r.json()
     except requests.exceptions.RequestException as e:
