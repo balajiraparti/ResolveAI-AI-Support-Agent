@@ -19,12 +19,12 @@ except Exception as e:
 
 
 # ── Constants ─────────────────────────────────────────────────────────────────
-API_URL    = "https://resolveai-ai-support-agent-production.up.railway.app/ask"
-REVIEW_URL = "https://resolveai-ai-support-agent-production.up.railway.app/review"
-AUDIT_URL  = "https://resolveai-ai-support-agent-production.up.railway.app/audit"
-# API_URL    = "http://localhost:8000/ask"
-# REVIEW_URL = "http://localhost:8000/review"
-# AUDIT_URL  = "http://localhost:8000/audit"
+# API_URL    = "https://resolveai-ai-support-agent-production.up.railway.app/ask"
+# REVIEW_URL = "https://resolveai-ai-support-agent-production.up.railway.app/review"
+# AUDIT_URL  = "https://resolveai-ai-support-agent-production.up.railway.app/audit"
+API_URL    = "http://localhost:8000/ask"
+REVIEW_URL = "http://localhost:8000/review"
+AUDIT_URL  = "http://localhost:8000/audit"
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(page_title="ResolveAI", page_icon="🎧", layout="wide")
@@ -169,6 +169,9 @@ def _call_ask(query: str, session_id: str | None = None) -> dict | None:
             json={"query": query, "session_id": session_id},
             timeout=(20, 600),
         )
+        if not r.ok:
+            st.error(f"API status: {r.status_code}")
+            st.error(f"API response: {r.text}")
         r.raise_for_status()
         return r.json()
     except requests.exceptions.RequestException as e:
