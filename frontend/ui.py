@@ -1,3 +1,4 @@
+from uuid import uuid4
 import requests
 import streamlit as st
 from pathlib import Path
@@ -316,7 +317,8 @@ with tab_chat:
     ]:
         if _k not in st.session_state:
             st.session_state[_k] = _v
-
+    if st.session_state["chat_session_id"] == None:
+        st.session_state["chat_session_id"] = str(uuid4())
     chat_query = st.text_input(
         "Customer message", key="chat_query",
         placeholder="Describe your Spotify issue…",
