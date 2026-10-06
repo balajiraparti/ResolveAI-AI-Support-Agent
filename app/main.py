@@ -83,23 +83,26 @@ async def ask(request: AskRequest):
     ``human_required=True`` means the caller should display the draft and
     POST to ``/review`` with the human's decision.
     """
-    # Run the blocking LangGraph workflow in a thread so the event loop
-    # stays free (prevents uvicorn worker exhaustion on long LLM calls).
-    result, thread_id, session_id = await asyncio.to_thread(
-        call_workflow_start, request.query, request.session_id
-    )
+    try:
+            # Run the blocking LangGraph workflow in a thread so the event loop
+            # stays free (prevents uvicorn worker exhaustion on long LLM calls).
+            result, thread_id, session_id = await asyncio.to_thread(
+                call_workflow_start, request.query, request.session_id
+            )
 
-    payload = _build_response(result, thread_id, session_id)
+            payload = _build_response(result, thread_id, session_id)
 
-    # Background eval — only when a final response exists
-    response = payload.get("response")
-    context  = payload.get("historical_evidence")
-    # if response and context and not payload.get("human_required"):
-    #     asyncio.create_task(
-    #         asyncio.to_thread(_safe_eval, request.query, response, context)
-    #     )
+            # Background eval — only when a final response exists
+            response = payload.get("response")
+            context  = payload.get("historical_evidence")
+            # if response and context and not payload.get("human_required"):
+            #     asyncio.create_task(
+            #         asyncio.to_thread(_safe_eval, request.query, response, context)
+            #     )
 
-    return payload
+            return payload
+    except Exception as e:
+        print(f"[ask] exception: {e}")
 
 
 @app.post("/review")
@@ -112,22 +115,25 @@ async def review(request: ReviewRequest):
       - ``"takeover"``  — human handles the customer directly
       - <any other text> — treat as feedback and regenerate
     """
-    result = await asyncio.to_thread(
-        call_workflow_resume, request.thread_id, request.decision
-    )
+    try:
+            result = await asyncio.to_thread(
+                call_workflow_resume, request.thread_id, request.decision
+            )
 
-    payload = _build_response(result, request.thread_id)
+            payload = _build_response(result, request.thread_id)
 
-    response = payload.get("response")
-    context  = payload.get("historical_evidence")
-    # if response and context:
-    #     asyncio.create_task(
-    #         asyncio.to_thread(
-    #             _safe_eval, result.get("query", ""), response, context
-    #         )
-    #     )
+            response = payload.get("response")
+            context  = payload.get("historical_evidence")
+            # if response and context:
+            #     asyncio.create_task(
+            #         asyncio.to_thread(
+            #             _safe_eval, result.get("query", ""), response, context
+            #         )
+            #     )
 
-    return payload
+            return payload
+    except Exception as e:
+        print(f"[review] exception: {e}")
 
 
 # ── Audit Trail ───────────────────────────────────────────────────────────────
