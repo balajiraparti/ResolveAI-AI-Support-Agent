@@ -18,9 +18,9 @@ except Exception as e:
 
 
 # ── Constants ─────────────────────────────────────────────────────────────────
-API_URL    = "http://127.0.0.1:8000/ask"
-REVIEW_URL = "http://127.0.0.1:8000/review"
-AUDIT_URL  = "http://127.0.0.1:8000/audit"
+API_URL    = "https://resolveai-ai-support-agent-production.up.railway.app/ask"
+REVIEW_URL = "https://resolveai-ai-support-agent-production.up.railway.app/review"
+AUDIT_URL  = "https://resolveai-ai-support-agent-production.up.railway.app/audit"
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(page_title="ResolveAI", page_icon="🎧", layout="wide")
