@@ -162,7 +162,7 @@ tab_chat, tab_eval, tab_audit = st.tabs(["💬 Chat", "🔬 Evaluate", "🔍 Aud
 # HELPERS
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def _call_ask(query: str, session_id: str | None = None) -> dict | None:
+def _call_ask(query: str, session_id: str) -> dict | None:
     try:
         r = requests.post(
             API_URL,
