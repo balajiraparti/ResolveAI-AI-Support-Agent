@@ -80,6 +80,18 @@ ResolveAI/
 └── golden_dataset_ragas_results.csv      # RAGAS evaluation results
 ```
 
+## 🌐 Live Deployments
+
+- **Frontend (Streamlit)**: [https://resolveai-ai-support-agent-frontend.streamlit.app/](https://resolveai-ai-support-agent-frontend.streamlit.app/)
+- **Backend API (FastAPI / Docs)**: [https://resolveai-ai-support-agent-production.up.railway.app/docs](https://resolveai-ai-support-agent-production.up.railway.app/docs)
+
+**Backend Endpoints (Railway)**:
+```python
+API_URL    = "https://resolveai-ai-support-agent-production.up.railway.app/ask"
+REVIEW_URL = "https://resolveai-ai-support-agent-production.up.railway.app/review"
+AUDIT_URL  = "https://resolveai-ai-support-agent-production.up.railway.app/audit"
+```
+
 ## 🚀 Quick Start
 
 ### Prerequisites
